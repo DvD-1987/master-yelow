@@ -169,9 +169,9 @@ const game = {
             availableQuestions = allQuestions.map((q, idx) => ({...q, originalIndex: idx}));
         }
         
-        // 随机选择5题（或剩余的全部）
+        // 随机选择50题（或剩余的全部，每关至少50道题）
         const shuffled = [...availableQuestions].sort(() => Math.random() - 0.5);
-        const selected = shuffled.slice(0, Math.min(5, shuffled.length));
+        const selected = shuffled.slice(0, Math.min(50, shuffled.length));
         
         // 记录已使用的题目
         const newUsed = [...usedQuestions, ...selected.map(q => q.originalIndex)];
