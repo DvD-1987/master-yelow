@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>黄老师的印尼煤炭贸易之旅</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: 'Microsoft YaHei', sans-serif;
+            background: #0f0f1a;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            color: #fff;
+        }
+        .game-container {
+            width: 100%;
+            max-width: 900px;
+            background: #1a1a2e;
+            border: 3px solid #8B4513;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(180deg, #8B4513 0%, #A0522D 100%);
+            padding: 20px;
+            text-align: center;
+            border-bottom: 3px solid #D4AF37;
+        }
+        .header h1 {
+            font-size: 1.8rem;
+            color: #00FFFF;
+            text-shadow: 0 0 10px #00FFFF;
+        }
+        .nav-bar {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 20px;
+            background: #0f0f1a;
+            border-bottom: 2px solid #8B4513;
+        }
+        .nav-btn {
+            padding: 8px 16px;
+            background: #8B4513;
+            color: #00FFFF;
+            border: 2px solid #B87333;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .stats-bar {
+            display: flex;
+            justify-content: space-around;
+            padding: 15px;
+            background: #1a1a2e;
+            border-bottom: 2px solid #8B4513;
+        }
+        .stat-item {
+            text-align: center;
+            padding: 10px 20px;
+            background: #2a2a4a;
+            border: 2px solid #8B4513;
+            border-radius: 8px;
+            min-width: 120px;
+        }
+        .stat-label { font-size: 0.8rem; color: #D4AF37; display: block; margin-bottom: 5px; }
+        .stat-value { font-size: 1.5rem; font-weight: bold; }
+        .game-content { padding: 30px; min-height: 400px; }
+        .btn {
+            padding: 12px 30px;
+            margin: 10px;
+            border: 2px solid;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+        .btn-primary { background: #8B4513; color: #00FFFF; border-color: #B87333; }
+        .btn-primary:hover { background: #B87333; }
+        .story-display, .question-area {
+            background: #1a1a2e;
+            border: 2px solid #8B4513;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .story-display h3 { color: #FF6600; font-size: 1.3rem; margin-bottom: 15px; }
+        .story-display p { color: #e0e0e0; line-height: 1.8; margin-bottom: 10px; }
+        .level-badge {
+            display: inline-block;
+            background: #8B4513;
+            color: #00FFFF;
+            padding: 8px 16px;
+            border: 2px solid #D4AF37;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+        .question-counter { color: #D4AF37; font-size: 0.9rem; margin-bottom: 10px; }
+        .question-text { font-size: 1.1rem; color: #fff; margin-bottom: 20px; line-height: 1.6; }
+        .options-container { display: flex; flex-direction: column; gap: 10px; }
+        .option-btn {
+            padding: 15px;
+            background: #2a2a4a;
+            border: 2px solid #8B4513;
+            border-radius: 5px;
+            color: #e0e0e0;
+            text-align: left;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+        .option-btn:hover:not(:disabled) { border-color: #00FFFF; color: #00FFFF; }
+        .option-btn.correct { background: #1a4a1a; border-color: #00FF00; color: #00FF00; }
+        .option-btn.wrong { background: #4a1a1a; border-color: #FF4444; color: #FF8888; }
+        .option-letter {
+            display: inline-block;
+            width: 28px;
+            height: 28px;
+            background: #8B4513;
+            color: #00FFFF;
+            text-align: center;
+            line-height: 28px;
+            margin-right: 10px;
+            border-radius: 50%;
+        }
+        .feedback-box {
+            margin-top: 15px;
+            padding: 15px;
+            border: 2px solid;
+            border-radius: 5px;
+            display: none;
+        }
+        .feedback-box.show { display: block; }
+        .feedback-box.correct { background: #1a4a1a; border-color: #00FF00; }
+        .feedback-box.wrong { background: #4a1a1a; border-color: #FF4444; }
+        .progress-container {
+            padding: 15px;
+            background: #0f0f1a;
+            border-top: 2px solid #8B4513;
+        }
+        .progress-bar {
+            height: 20px;
+            background: #1a1a2e;
+            border: 2px solid #8B4513;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #8B4513, #FF6600);
+            transition: width 0.3s;
+        }
+        .button-group { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px; }
+        .level-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .level-card {
+            background: #2a2a4a;
+            border: 2px solid #8B4513;
+            border-radius: 8px;
+            padding: 15px;
+            text-align: center;
+            cursor: pointer;
+        }
+        .level-card:hover { border-color: #00FFFF; }
+        .level-card.locked { opacity: 0.5; cursor: not-allowed; }
+        .hidden { display: none !important; }
+    </style>
+</head>
+<body>
+    <div class="game-container">
+        <div class="header">
+            <h1>黄老师的印尼煤炭贸易之旅</h1>
+        </div>
+        <div class="nav-bar">
+            <button class="nav-btn" onclick="game.showMenu()">返回主页</button>
+            <button class="nav-btn" onclick="game.restart()">重新开始</button>
+        </div>
+        <div class="stats-bar">
+            <div class="stat-item">
+                <span class="stat-label">专业知识</span>
+                <span class="stat-value" id="knowledgeValue" style="color: #00FF00;">50</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">老板信任度</span>
+                <span class="stat-value" id="trustValue" style="color: #00FF00;">50</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">风险值</span>
+                <span class="stat-value" id="riskValue" style="color: #FF4444;">20</span>
+            </div>
+        </div>
+        <div class="game-content" id="gameContent">
+            <div style="text-align: center; padding: 30px;">
+                <h2 style="color: #00FFFF; margin-bottom: 20px;">欢迎来到煤炭贸易世界</h2>
+                <p style="color: #e0e0e0; margin-bottom: 20px;">你将扮演黄老师，从菜鸟成长为煤炭贸易专家</p>
+                <button class="btn btn-primary" onclick="game.showIntro()">开始游戏</button>
+            </div>
+        </div>
+        <div class="progress-container" id="progressContainer" style="display: none;">
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+            </div>
+            <div style="text-align: center; margin-top: 10px; color: #00FFFF;" id="progressText">第 1 关 / 共 10 关</div>
+        </div>
+    </div>
+    <script src="questions.js"></script>
+    <script src="questions_level1_extra.js"></script>
+    <script src="questions_level1_more.js"></script>
+    <script src="questions_level2_full.js"></script>
+    <script src="questions_level2_extra.js"></script>
+    <script src="questions_batch2.js"></script>
+    <script src="questions_level3_full.js"></script>
+    <script src="questions_level4_full.js"></script>
+    <script src="questions_level4_batch.js"></script>
+    <script src="questions_level5_full.js"></script>
+    <script src="questions_level5_batch.js"></script>
+    <script src="questions_level6_full.js"></script>
+    <script src="questions_level6_batch.js"></script>
+    <script src="questions_level7_full.js"></script>
+    <script src="questions_level7_batch.js"></script>
+    <script src="questions_level8_full.js"></script>
+    <script src="questions_level8_batch.js"></script>
+    <script src="questions_level9_full.js"></script>
+    <script src="questions_level9_batch.js"></script>
+    <script src="questions_level10_full.js"></script>
+    <script src="questions_level1_supplement.js"></script>
+    <script src="questions_level3_supplement.js"></script>
+    <script src="questions_level4_supplement.js"></script>
+    <script src="questions_level5_supplement.js"></script>
+    <script src="questions_level6_supplement.js"></script>
+    <script src="questions_level7_supplement.js"></script>
+    <script src="questions_level8_supplement.js"></script>
+    <script src="questions_level9_supplement.js"></script>
+    <script src="questions_level10_supplement.js"></script>
+    <script src="game.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            if (typeof game !== 'undefined' && game.init) {
+                game.init();
+            } else {
+                document.getElementById('gameContent').innerHTML = '<p style="text-align:center;color:#ff6666;">游戏加载失败</p>';
+            }
+        });
+    </script>
+</body>
+</html>
