@@ -1,5 +1,5 @@
 // 游戏主逻辑 - 修复版
-const game = {
+var game = {
     state: {
         currentLevel: 1,
         currentQuestionIndex: 0,
@@ -169,9 +169,9 @@ const game = {
             availableQuestions = allQuestions.map((q, idx) => ({...q, originalIndex: idx}));
         }
         
-        // 随机选择50题（或剩余的全部，每关至少50道题）
+        // 随机选择5道题进行回答（题库容量至少50题）
         const shuffled = [...availableQuestions].sort(() => Math.random() - 0.5);
-        const selected = shuffled.slice(0, Math.min(50, shuffled.length));
+        const selected = shuffled.slice(0, Math.min(5, shuffled.length));
         
         // 记录已使用的题目
         const newUsed = [...usedQuestions, ...selected.map(q => q.originalIndex)];
