@@ -1,5 +1,5 @@
 // 煤炭贸易题库 - 所有关卡题目
-// 总计: 595 题
+// 总计: 590 题
 
 const questionBankData = {
 1: [
@@ -656,36 +656,6 @@ const questionBankData = {
         explanation: "答案正确。收到基低位发热量（Qnet,ar）是包含全水分的实际收到煤样的发热量，是贸易结算常用基准。 收到基（ar）包含全水分，空气干燥基（ad）仅包含内在水分。"
     },
     {
-        question: "发热量相差多少大卡属于正常波动范围？",
-        options: [
-            { text: "10-50大卡", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "100-200大卡", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
-            { text: "500大卡以上", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "不允许有任何差异", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
-        ],
-        explanation: "答案正确。发热量化验允许误差通常为±120大卡/公斤（双方化验室）。 发热量相差100-200大卡属于正常波动范围。"
-    },
-    {
-        question: "灰分相差多少属于正常波动范围？",
-        options: [
-            { text: "0.1%-0.2%", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "0.5%-1%", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
-            { text: "2%-3%", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "5%以上", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-        ],
-        explanation: "答案正确。灰分化验允许误差通常为±1.5%（双方化验室）。 灰分相差0.5%-1%属于正常波动范围。"
-    },
-    {
-        question: "全水相差多少属于正常波动范围？",
-        options: [
-            { text: "0.1%-0.3%", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "1%-2%", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
-            { text: "3%-5%", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "不允许有差异", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
-        ],
-        explanation: "答案正确。全水分化验允许误差通常为±1.0%（双方化验室）。 全水相差1%-2%非常普遍，属于正常波动范围。"
-    },
-    {
         question: "外水是指什么？",
         options: [
             { text: "煤颗粒内部毛细管中的水分", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
@@ -874,16 +844,6 @@ const questionBankData = {
             { text: "国标没有规定", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
         ],
         explanation: "答案正确。国标GB/T 19494规定了煤炭检验的精密度要求。 国标本身就允许发热量、灰分、硫分有合理的波动范围。"
-    },
-    {
-        question: "不同化验室、不同设备、不同人操作，结果会有差异吗？",
-        options: [
-            { text: "不会有任何差异", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
-            { text: "正常允许有小误差", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
-            { text: "差异会非常大", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "无法确定", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-        ],
-        explanation: "答案正确。不同化验室的结果会有差异，但应在国标允许误差范围内。 不同化验室、不同设备、不同人操作，正常允许有小误差。"
     },
     {
         question: "动力煤和炼焦煤的主要区别是什么？",
@@ -1868,16 +1828,6 @@ const questionBankData = {
             { text: "卖方风险最大", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
         ],
         explanation: "信用证是单证交易，单证不符可能导致银行拒付。"
-    },
-    {
-        question: "煤炭贸易合同中，质量条款通常如何约定？",
-        options: [
-            { text: "不约定质量标准", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
-            { text: "约定热值、灰分、硫分、水分等指标及允许误差范围", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
-            { text: "仅约定价格", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "口头约定即可", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
-        ],
-        explanation: "答案正确。质量条款必须明确约定热值、灰分、硫分、水分等指标及允许误差范围，避免纠纷。参考：煤炭贸易合同范本。"
     },
     {
         question: "在国际煤炭贸易合同中，",

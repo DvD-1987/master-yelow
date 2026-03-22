@@ -307,9 +307,16 @@ var game = {
             }
         });
         
-        // 应用效果（无尽模式下：答错惩罚×2，答对奖励×0.5）
+        // 应用效果
+        // 普通关卡：答对奖励×0.2（减少80%），答错惩罚×2（增加100%）
+        // 无尽模式：答错惩罚×2，答对奖励×0.5
         const isEndlessMode = this.state.isHiddenLevel;
-        const multiplier = isEndlessMode ? (selected.correct ? 0.5 : 2) : 1;
+        let multiplier;
+        if (isEndlessMode) {
+            multiplier = selected.correct ? 0.5 : 2;
+        } else {
+            multiplier = selected.correct ? 0.2 : 2;
+        }
         this.state.stats.knowledge = Math.max(0, Math.min(100, this.state.stats.knowledge + (selected.effect?.knowledge || 0) * multiplier));
         this.state.stats.trust = Math.max(0, Math.min(100, this.state.stats.trust + (selected.effect?.trust || 0) * multiplier));
         this.state.stats.risk = Math.max(0, Math.min(100, this.state.stats.risk + (selected.effect?.risk || 0) * multiplier));
@@ -376,11 +383,11 @@ var game = {
                 ${allLevelsCompleted && this.state.currentLevel === 10 ? '<p style="color: #ff00ff; margin-bottom: 20px;">无尽模式已解锁！</p>' : ''}
                 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
                     <div style="padding: 15px 25px; background: #2a2a4a; border: 2px solid #8B4513; border-radius: 8px;">
-                        <div style="color: #D4AF37;">专业知识</div>
+                        <div style="color: #D4AF37;">专业度</div>
                         <div style="font-size: 1.5rem; color: #00FF00;">${Math.round(this.state.stats.knowledge)}</div>
                     </div>
                     <div style="padding: 15px 25px; background: #2a2a4a; border: 2px solid #8B4513; border-radius: 8px;">
-                        <div style="color: #D4AF37;">老板信任度</div>
+                        <div style="color: #D4AF37;">信任度</div>
                         <div style="font-size: 1.5rem; color: #00FF00;">${Math.round(this.state.stats.trust)}</div>
                     </div>
                     <div style="padding: 15px 25px; background: #2a2a4a; border: 2px solid #8B4513; border-radius: 8px;">
@@ -424,11 +431,11 @@ var game = {
                 
                 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
                     <div style="padding: 15px 25px; background: #2a2a4a; border: 2px solid #ff00ff; border-radius: 8px;">
-                        <div style="color: #D4AF37;">专业知识</div>
+                        <div style="color: #D4AF37;">专业度</div>
                         <div style="font-size: 1.5rem; color: #00FF00;">${Math.round(this.state.stats.knowledge)}</div>
                     </div>
                     <div style="padding: 15px 25px; background: #2a2a4a; border: 2px solid #ff00ff; border-radius: 8px;">
-                        <div style="color: #D4AF37;">老板信任度</div>
+                        <div style="color: #D4AF37;">信任度</div>
                         <div style="font-size: 1.5rem; color: #00FF00;">${Math.round(this.state.stats.trust)}</div>
                     </div>
                     <div style="padding: 15px 25px; background: #2a2a4a; border: 2px solid #ff00ff; border-radius: 8px;">
