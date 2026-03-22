@@ -48,7 +48,7 @@ const level1MoreQuestions = [
             { text: "马来语", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "英语", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "印尼的官方语言是印尼语（Bahasa Indonesia），是马来语的一种变体。"
+        explanation: "印尼语（Bahasa Indonesia）是印尼的官方语言，也是东盟的工作语言之一。"
     },
     {
         question: "在印尼商务谈判中，以下哪种做法是正确的？",

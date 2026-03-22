@@ -8,7 +8,7 @@ const level4SupplementQuestions = [
             { text: "只包括买方认为的情形", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "市场价格波动也属于不可抗力", correct: false, effect: {knowledge: -10, trust: -8, risk: 10} }
         ],
-        explanation: "不可抗力通常包括自然灾害、战争、政府禁令、罢工等当事人无法预见和控制的客观事件，价格波动不在其列。"
+        explanation: "答案正确。谈判破裂后仍应保持专业态度，保持沟通渠道畅通，为未来合作留有余地。"
     },
     {
         question: "煤炭长期供货合同中，'照付不议'（Take or Pay）条款意味着什么？",
@@ -18,7 +18,7 @@ const level4SupplementQuestions = [
             { text: "双方可以随时修改数量", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "价格随市场波动调整", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "Take or Pay（照付不议）是指买方无论是否实际提取货物，都必须按约定数量支付款项，保障卖方的基本利益。"
+        explanation: "答案正确。首次报价应给自己留出谈判空间，同时要价不能太离谱，否则可能被对方认为没有诚意。"
     },
     {
         question: "在煤炭采购谈判中，以下哪种策略有助于获得更有利的价格？",
@@ -28,7 +28,7 @@ const level4SupplementQuestions = [
             { text: "提前告知预算上限", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "直接接受第一次报价", correct: false, effect: {knowledge: -10, trust: -8, risk: 10} }
         ],
-        explanation: "同时与多家供应商谈判，利用竞争关系是获取有利价格的有效策略。"
+        explanation: "答案正确。接受对方报价前应确认所有条款都已达成一致，避免遗漏重要细节导致后续纠纷。"
     },
     {
         question: "国际贸易合同中，争议解决条款通常选择哪种方式最为常见？",
@@ -38,7 +38,7 @@ const level4SupplementQuestions = [
             { text: "只能通过印尼法院解决", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "口头协商解决，无需法律程序", correct: false, effect: {knowledge: -10, trust: -8, risk: 10} }
         ],
-        explanation: "国际煤炭贸易争议通常选择中立第三国的国际仲裁机构解决，如ICC仲裁、新加坡SIAC等。"
+        explanation: "答案正确。好的谈判结果是双方都感觉得到了合理利益，而不是一方完全让步。"
     },
     {
         question: "煤炭贸易中，'溢短装条款'（More or Less Clause）通常允许的偏差范围是多少？",
@@ -48,7 +48,7 @@ const level4SupplementQuestions = [
             { text: "±20%以上", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "不允许偏差", correct: false, effect: {knowledge: -10, trust: -8, risk: 10} }
         ],
-        explanation: "散装货物受装载条件限制，通常允许±5%至±10%的数量偏差，在此范围内均按实际量计价。"
+        explanation: "答案正确。谈判目标应设定为可实现的范围，而不是单一不可变的数字，灵活应对才能达成协议。"
     },
     {
         question: "在印中煤炭贸易谈判中，以下哪种合同条款能有效保护买方利益？",
@@ -58,7 +58,7 @@ const level4SupplementQuestions = [
             { text: "完全信任卖方自检结果", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} },
             { text: "只约定交货期", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "保护买方的关键在于：明确质量指标、约定偏差扣罚机制、保留委托第三方检验的权利。"
+        explanation: "答案正确。谈判准备应了解市场走势、对方背景、替代方案等，信息充分才能做出正确判断。"
     }
 ];
 

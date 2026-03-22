@@ -48,7 +48,7 @@ const level2FullQuestions = [
             { text: "没有影响", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} },
             { text: "降低燃烧温度", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "煤炭中的硫燃烧后产生二氧化硫（SO₂），是酸雨的主要成因之一。"
+        explanation: "答案正确。煤炭中的硫燃烧产生二氧化硫，是酸雨的主要成因之一，对环境和健康都有危害。 煤炭中的硫燃烧后产生二氧化硫（SO₂），是酸雨的主要成因之一。"
     }
 ];
 

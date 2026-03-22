@@ -234,7 +234,7 @@ const questionBankData = {
                 { text: "空气干燥基包含全水分，收到基仅含内在水分", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
                 { text: "两者都是干燥状态", correct: false, effect: {knowledge: -10, trust: -8, risk: 10} }
             ],
-            explanation: "收到基（ar）包含煤炭的全水分，空气干燥基（ad）仅包含内在水分（风干后的水分）。"
+            explanation: "答案正确。收到基是以实际收到的煤为基准，包含全水分和灰分。 收到基（ar）包含煤炭的全水分，空气干燥基（ad）仅包含内在水分（风干后的水分）。"
         },
         {
             question: "印尼动力煤的典型热值范围是多少大卡？",
@@ -362,7 +362,7 @@ const questionBankData = {
                 { text: "仅以买方检验为准", correct: false, effect: {knowledge: -5, trust: -5, risk: 8} },
                 { text: "不需要检验", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
             ],
-            explanation: "通常约定以双方认可的第三方检验机构（如CCIC、SGS）的检验结果为准。"
+            explanation: "通常约定以双方认可的第三方检验机构（如CCIC）的检验结果为准。"
         }
     ],
 
@@ -470,7 +470,7 @@ const questionBankData = {
                 { text: "按标准粒度要求逐级破碎", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
                 { text: "使用二分器缩分煤样", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
             ],
-            explanation: "家用搅拌机可能引入污染，且无法保证粒度均匀，必须使用专用设备。"
+            explanation: "答案正确。制样过程中的破碎、筛分、干燥等操作不当会导致结果偏差。 家用搅拌机可能引入污染，且无法保证粒度均匀，必须使用专用设备。"
         }
     ],
 

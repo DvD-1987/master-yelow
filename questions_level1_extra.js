@@ -68,7 +68,7 @@ const level1ExtraQuestions = [
             { text: "牛肉", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "鱼肉", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "由于大多数印尼人信仰伊斯兰教，商务宴请中应避免提供猪肉。"
+        explanation: "印尼人口大多数是穆斯林，商务宴请应避免猪肉，除非确认对方非穆斯林。"
     },
     {
         question: "印尼的时区是什么？",
@@ -78,7 +78,7 @@ const level1ExtraQuestions = [
             { text: "UTC+9", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "UTC+6", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "印尼横跨三个时区，但主要使用UTC+7（西部时间）。"
+        explanation: "印尼跨越3个时区：西部UTC+7（如雅加达）、中部UTC+8、东部UTC+9。"
     },
     {
         question: "在印尼，斋月期间商务活动会有什么变化？",
@@ -88,7 +88,7 @@ const level1ExtraQuestions = [
             { text: "工作时间延长", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "所有商业活动停止", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "斋月期间，穆斯林白天禁食，工作时间通常缩短，应避免白天宴请。"
+        explanation: "斋月期间，穆斯林白天禁食，工作时间通常缩短，商务活动效率可能降低。"
     },
     {
         question: "印尼最大的煤炭出口港是哪个？",
@@ -98,7 +98,7 @@ const level1ExtraQuestions = [
             { text: "泗水港", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "万隆港", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "巴厘巴板港是印尼最大的煤炭出口港，位于东加里曼丹省。"
+        explanation: "巴厘巴板港（Balikpapan）是印尼最大的煤炭出口港之一，位于东加里曼丹。"
     },
     {
         question: "在印尼，以下哪种称呼方式最为恰当？",
@@ -108,7 +108,7 @@ const level1ExtraQuestions = [
             { text: "使用昵称", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} },
             { text: "不需要称呼", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "在印尼，使用'Bapak'（先生）或'Ibu'（女士）加姓氏是恰当的称呼方式。"
+        explanation: "在印尼，使用尊称如'Bapak'（先生）或'Ibu'（女士）表示尊重，是恰当的称呼方式。"
     },
     {
         question: "印尼的主要气候类型是什么？",
@@ -128,7 +128,7 @@ const level1ExtraQuestions = [
             { text: "左手和右手同时", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "不需要递名片", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "在印尼，左手被认为是不洁的，递接名片应使用右手或双手。"
+        explanation: "在印尼，应该用右手或双手递接名片，左手被认为是不洁的。"
     },
     {
         question: "印尼的煤炭主要是什么类型？",
@@ -148,7 +148,7 @@ const level1ExtraQuestions = [
             { text: "戴帽子", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "不需要特别注意", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "在印尼，进入清真寺或他人住宅时必须脱鞋，这是基本礼仪。"
+        explanation: "在印尼，进入清真寺或他人住宅时必须脱鞋，这是基本的礼仪。"
     }
 ];
 

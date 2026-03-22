@@ -18,7 +18,7 @@ const level6FullQuestions = [
             { text: "只在舱口表面取样，不深入煤堆内部", correct: true, effect: {knowledge: 15, trust: 15, risk: -15} },
             { text: "记录取样深度和位置", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "只在表面取样是严重错误！舱内煤堆存在粒度偏析，表面多为细粉，必须深入煤堆内部取样。"
+        explanation: "只在表面取样是严重错误！舱内煤堆存在粒度偏析，必须深入煤堆内部取样。"
     },
     {
         question: "使用取样铲取样时，铲内应如何装满？",
@@ -28,7 +28,7 @@ const level6FullQuestions = [
             { text: "用力压实以多取一些", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} },
             { text: "只取铲底一层", correct: false, effect: {knowledge: -12, trust: -12, risk: 18} }
         ],
-        explanation: "压实会改变煤样密度和粒度分布，留空隙则样品不足。正确做法是自然堆积。"
+        explanation: "压实会改变煤样密度和粒度分布，留空隙则样品不足。应自然堆积。"
     },
     {
         question: "煤堆取样时，以下哪种天气条件最不宜取样？",
@@ -38,7 +38,7 @@ const level6FullQuestions = [
             { text: "阴天", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "轻微雾霾", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "大雨会改变煤的水分含量，影响检验结果准确性，是最不宜取样的天气。"
+        explanation: "大雨会改变煤的水分，影响检验结果，不宜在大雨天气取样。"
     },
     {
         question: "制备煤样时，以下哪种操作是正确的？",
@@ -48,7 +48,7 @@ const level6FullQuestions = [
             { text: "只取大颗粒煤样", correct: false, effect: {knowledge: -12, trust: -12, risk: 18} },
             { text: "随意丢弃部分煤样", correct: false, effect: {knowledge: -15, trust: -15, risk: 20} }
         ],
-        explanation: "煤样制备必须经过破碎、混合、缩分等步骤，确保样品具有代表性。"
+        explanation: "答案正确。煤样制备必须经过破碎、混合、缩分等步骤，确保样品具有代表性。参考：GB/T 19494.2。"
     }
 ];
 

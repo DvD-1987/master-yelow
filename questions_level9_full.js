@@ -8,7 +8,7 @@ const level9FullQuestions = [
             { text: "确定合同条款", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "选择付款方式", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "资格预审是筛选符合条件的投标人，审查其资质、业绩、财务状况等，确保具备履约能力。"
+        explanation: "资格预审是筛选符合条件的投标人，审查其资质、业绩、财务状况等。"
     },
     {
         question: "电厂煤炭招标文件中，以下哪项不是必须包含的内容？",
@@ -18,7 +18,7 @@ const level9FullQuestions = [
             { text: "交货时间和地点", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "评标方法和标准", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "招标文件应包含质量标准、交货要求、评标方法等，但不需要投标人的家庭住址等无关信息。"
+        explanation: "招标文件应包含质量标准、交货要求、评标方法等，不需要家庭住址。"
     },
     {
         question: "电厂煤炭招标中，综合评标法通常考虑哪些因素？",
@@ -28,7 +28,7 @@ const level9FullQuestions = [
             { text: "仅考虑质量", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "仅考虑交货期", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "综合评标法综合考虑价格、质量、交货期、信誉、服务等多方面因素，而非仅看价格。"
+        explanation: "综合评标法综合考虑价格、质量、交货期、信誉、服务等多方面因素。"
     },
     {
         question: "投标保证金的作用是什么？",
@@ -38,7 +38,7 @@ const level9FullQuestions = [
             { text: "支付中标费用", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "作为合同定金", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "投标保证金是保证投标人认真参与投标，防止恶意投标或中标后弃标。"
+        explanation: "投标保证金是为了保证投标人认真参与投标，防止恶意投标或中标后弃标。"
     },
     {
         question: "电厂煤炭投标中，以下哪种行为属于串通投标？",
@@ -48,7 +48,7 @@ const level9FullQuestions = [
             { text: "按要求提供资质证明", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "如实填写投标报价", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "投标人之间协商报价属于串通投标，是违法行为，会导致投标无效和法律责任。"
+        explanation: "答案正确。投标人之间协商报价属于串通投标，是违法行为，会导致投标无效和法律责任。参考：《招标投标法》。"
     }
 ];
 

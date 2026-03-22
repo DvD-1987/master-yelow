@@ -8,7 +8,7 @@ const level2ExtraQuestions = [
             { text: "化工原料", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "炼焦", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "动力煤主要用于发电、供热、产生动力，不是用于炼焦或炼钢。"
+        explanation: "答案正确。动力煤狭义上指用于火力发电的煤，广义上包括发电、机车推进、锅炉燃烧等产生动力的煤炭。 动力煤主要用于发电、供热、产生动力，不是用于炼焦或炼钢。"
     },
     {
         question: "同一种煤两次化验结果不一样，最主要的原因是什么？",
@@ -28,7 +28,7 @@ const level2ExtraQuestions = [
             { text: "100-120大卡", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "不产生影响", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "外水每增加1%，收到基低位发热量约下降60-80大卡/公斤。"
+        explanation: "答案正确。外水（收到基水分）每增加1%，收到基低位发热量约下降60-70大卡/公斤。 外水每增加1%，收到基低位发热量约下降60-80大卡/公斤。"
     },
     {
         question: "内水每增加1个百分点，空气干燥基低位发热量约下降多少大卡/公斤？",
@@ -38,7 +38,7 @@ const level2ExtraQuestions = [
             { text: "20-30大卡", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "100大卡以上", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "内水每增加1%，空气干燥基低位发热量约下降40-60大卡/公斤。"
+        explanation: "答案正确。内水（空气干燥基水分）每增加1%，空气干燥基低位发热量约下降一定比例。 内水每增加1%，空气干燥基低位发热量约下降40-60大卡/公斤。"
     },
     {
         question: "煤炭贸易商的主要职能是什么？",
@@ -48,7 +48,7 @@ const level2ExtraQuestions = [
             { text: "只负责运输", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "只负责化验", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "煤炭贸易商主要职能是链接上游煤矿和下游用户，提供贸易、物流、金融等服务。"
+        explanation: "答案正确。煤炭贸易商的主要职能包括资源配置、信息服务、风险管理、供应链协调等。 煤炭贸易商主要职能是链接上游煤矿和下游用户，提供贸易、物流、金融等服务。"
     },
     {
         question: "收到基低位发热量（Qnet,ar）与空气干燥基低位发热量（Qnet,ad）的主要区别是什么？",
@@ -58,7 +58,7 @@ const level2ExtraQuestions = [
             { text: "空气干燥基包含全水分，收到基仅含内在水分", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "两者都是干燥状态", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "收到基（ar）包含全水分，空气干燥基（ad）仅包含内在水分。"
+        explanation: "答案正确。收到基低位发热量（Qnet,ar）是包含全水分的实际收到煤样的发热量，是贸易结算常用基准。 收到基（ar）包含全水分，空气干燥基（ad）仅包含内在水分。"
     },
     {
         question: "发热量相差多少大卡属于正常波动范围？",
@@ -68,7 +68,7 @@ const level2ExtraQuestions = [
             { text: "500大卡以上", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "不允许有任何差异", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "发热量相差100-200大卡属于正常波动范围。"
+        explanation: "答案正确。发热量化验允许误差通常为±120大卡/公斤（双方化验室）。 发热量相差100-200大卡属于正常波动范围。"
     },
     {
         question: "灰分相差多少属于正常波动范围？",
@@ -78,7 +78,7 @@ const level2ExtraQuestions = [
             { text: "2%-3%", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "5%以上", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "灰分相差0.5%-1%属于正常波动范围。"
+        explanation: "答案正确。灰分化验允许误差通常为±1.5%（双方化验室）。 灰分相差0.5%-1%属于正常波动范围。"
     },
     {
         question: "全水相差多少属于正常波动范围？",
@@ -88,7 +88,7 @@ const level2ExtraQuestions = [
             { text: "3%-5%", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "不允许有差异", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "全水相差1%-2%非常普遍，属于正常波动范围。"
+        explanation: "答案正确。全水分化验允许误差通常为±1.0%（双方化验室）。 全水相差1%-2%非常普遍，属于正常波动范围。"
     },
     {
         question: "外水是指什么？",
@@ -98,7 +98,7 @@ const level2ExtraQuestions = [
             { text: "煤中的结晶水", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "煤燃烧后产生的水", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "外水是煤炭表面和大毛细管中的水分，烘干即可失去。"
+        explanation: "答案正确。外水（外在水分）是指煤在开采、运输、储存过程中附着在煤表面的水分。 外水是煤炭表面和大毛细管中的水分，烘干即可失去。"
     },
     {
         question: "内水是指什么？",
@@ -108,7 +108,7 @@ const level2ExtraQuestions = [
             { text: "煤中的自由水", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "煤燃烧后产生的水蒸气", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "内水是吸附在煤颗粒内部毛细管中的水分，只有达到一定温度才能析出。"
+        explanation: "答案正确。内水（内在水分）是指煤在毛细管中吸附的水分，需要在较高温度下才能除去。 内水是吸附在煤颗粒内部毛细管中的水分，只有达到一定温度才能析出。"
     },
     {
         question: "煤的变质程度越低，内水含量会怎样？",
@@ -118,7 +118,7 @@ const level2ExtraQuestions = [
             { text: "不变", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "与变质程度无关", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "变质程度越低的煤（如褐煤），内水越高，结构越疏松。"
+        explanation: "答案正确。煤的变质程度越低（如褐煤），内水含量越高。 变质程度越低的煤（如褐煤），内水越高，结构越疏松。"
     },
     {
         question: "在锅炉实际燃烧中，外水和内水哪个对热值的打击更明显？",
@@ -128,7 +128,7 @@ const level2ExtraQuestions = [
             { text: "两者相同", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "都不影响", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "外水进入炉膛后会在低温区大量吸热，延缓着火，对热值的打击更明显。"
+        explanation: "答案正确。外水对收到基低位发热量影响更直接明显。 外水进入炉膛后会在低温区大量吸热，延缓着火，对热值的打击更明显。"
     },
     {
         question: "煤炭贸易中，为什么同一堆煤不同位置取样结果会不同？",
@@ -138,7 +138,7 @@ const level2ExtraQuestions = [
             { text: "取样工具不同", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "天气影响", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "煤堆存在粒度偏析，表层多为细粉，底部可能有大块和矸石，造成成分不均匀。"
+        explanation: "答案正确。由于煤堆颗粒分布不均匀，不同位置取样结果会有差异。 煤堆存在粒度偏析，表层多为细粉，底部可能有大块和矸石，造成成分不均匀。"
     },
     {
         question: "制样过程中哪些操作会导致结果偏差？",
@@ -148,7 +148,7 @@ const level2ExtraQuestions = [
             { text: "使用标准筛子", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "充分混匀煤样", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "制样时破碎、缩分、烘干操作不规范会导致水分、灰分波动，产生偏差。"
+        explanation: "答案正确。制样过程中的破碎、筛分、干燥等操作不当会导致结果偏差。 制样时破碎、缩分、烘干操作不规范会导致水分、灰分波动，产生偏差。"
     },
     {
         question: "运输过程中淋雨或风干会对煤样产生什么影响？",
@@ -158,7 +158,7 @@ const level2ExtraQuestions = [
             { text: "只影响灰分", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "只影响硫分", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "运输过程中淋雨或风干会改变煤的水分，从而直接影响发热量。"
+        explanation: "答案正确。运输过程中淋雨会增加煤的水分，风干会减少水分，都会影响化验结果。 运输过程中淋雨或风干会改变煤的水分，从而直接影响发热量。"
     },
     {
         question: "煤炭贸易商在产业链中处于什么位置？",
@@ -168,7 +168,7 @@ const level2ExtraQuestions = [
             { text: "最下游，直接使用煤炭", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "只负责化验检测", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "煤炭贸易商处于产业链中间环节，链接上游煤矿和下游用户。"
+        explanation: "答案正确。煤炭贸易商在产业链中处于连接矿山和终端用户的中间环节。 煤炭贸易商处于产业链中间环节，链接上游煤矿和下游用户。"
     },
     {
         question: "煤炭贸易商提供的增值服务可能包括哪些？",
@@ -178,7 +178,7 @@ const level2ExtraQuestions = [
             { text: "只提供运输", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "只提供仓储", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "现代煤炭贸易商提供物流、金融、质检、市场信息等多种增值服务。"
+        explanation: "答案正确。煤炭贸易商的增值服务包括配煤、物流、仓储、金融、风险管理等。 现代煤炭贸易商提供物流、金融、质检、市场信息等多种增值服务。"
     },
     {
         question: "收到基（ar）的全水分包括哪些？",
@@ -208,7 +208,7 @@ const level2ExtraQuestions = [
             { text: "内水", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "结晶水", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "在煤炭贸易结算中，通常更关注收到基全水，因为它直接影响结算热值。"
+        explanation: "答案正确。在煤炭贸易结算中，通常更关注收到基全水分。 在煤炭贸易结算中，通常更关注收到基全水，因为它直接影响结算热值。"
     },
     {
         question: "简单的记忆法：全水每增减1%，收到基低位发热量如何变化？",
@@ -218,7 +218,7 @@ const level2ExtraQuestions = [
             { text: "不变", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} },
             { text: "增加约100大卡/公斤", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "全水每增减1%，收到基低位发热量反方向增减约60-70大卡/公斤。"
+        explanation: "答案正确。收到基低位发热量（Qnet,ar）是包含全水分的实际收到煤样的发热量，是贸易结算常用基准。 全水每增减1%，收到基低位发热量反方向增减约60-70大卡/公斤。"
     },
     {
         question: "化验室测出的基础数据通常是哪种发热量？",
@@ -228,7 +228,7 @@ const level2ExtraQuestions = [
             { text: "高位发热量", correct: false, effect: {knowledge: -3, trust: -2, risk: 3} },
             { text: "弹筒发热量", correct: false, effect: {knowledge: -3, trust: -2, risk: 3} }
         ],
-        explanation: "化验室测出的基础数据通常是空气干燥基低位发热量（Qnet,ad）。"
+        explanation: "答案正确。化验室测出的基础数据通常是空气干燥基低位发热量。 化验室测出的基础数据通常是空气干燥基低位发热量（Qnet,ad）。"
     },
     {
         question: "电厂结算和设计锅炉通常使用哪种发热量？",
@@ -238,7 +238,7 @@ const level2ExtraQuestions = [
             { text: "高位发热量", correct: false, effect: {knowledge: -3, trust: -2, risk: 3} },
             { text: "弹筒发热量", correct: false, effect: {knowledge: -3, trust: -2, risk: 3} }
         ],
-        explanation: "电厂结算和设计锅炉通常使用收到基低位发热量（Qnet,ar）。"
+        explanation: "答案正确。电厂结算和设计锅炉通常使用收到基低位发热量。 电厂结算和设计锅炉通常使用收到基低位发热量（Qnet,ar）。"
     },
     {
         question: "外水增加为什么会延缓锅炉着火？",
@@ -248,7 +248,7 @@ const level2ExtraQuestions = [
             { text: "外水会助燃", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} },
             { text: "外水没有影响", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "外水进入炉膛后在低温区大量吸热，延缓着火，导致机械不完全燃烧损失增加。"
+        explanation: "答案正确。外水增加会吸收更多热量用于水分蒸发，延缓锅炉着火。 外水进入炉膛后在低温区大量吸热，延缓着火，导致机械不完全燃烧损失增加。"
     },
     {
         question: "煤炭56提到的'无烟煤'有什么特点？",
@@ -258,7 +258,7 @@ const level2ExtraQuestions = [
             { text: "水分高", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "灰分高", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "无烟煤挥发分低，难燃，但发热量高，燃烧时烟少。"
+        explanation: "答案正确。无烟煤是变质程度最高的煤，特点是不易点燃、火焰短、无烟。 无烟煤挥发分低，难燃，但发热量高，燃烧时烟少。"
     },
     {
         question: "煤炭贸易中，为什么需要专业的取样和制样？",
@@ -268,7 +268,7 @@ const level2ExtraQuestions = [
             { text: "为了延长交易时间", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "没有实际意义", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "专业的取样和制样可以确保样品具有代表性，减少因煤不均匀造成的偏差。"
+        explanation: "答案正确。专业取样和制样是确保化验结果准确、减少争议的关键。 专业的取样和制样可以确保样品具有代表性，减少因煤不均匀造成的偏差。"
     },
     {
         question: "国标允许发热量、灰分、硫分有多大的合理波动范围？",
@@ -278,7 +278,7 @@ const level2ExtraQuestions = [
             { text: "波动范围越大越好", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "国标没有规定", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "国标本身就允许发热量、灰分、硫分有合理的波动范围。"
+        explanation: "答案正确。国标GB/T 19494规定了煤炭检验的精密度要求。 国标本身就允许发热量、灰分、硫分有合理的波动范围。"
     },
     {
         question: "不同化验室、不同设备、不同人操作，结果会有差异吗？",
@@ -288,7 +288,7 @@ const level2ExtraQuestions = [
             { text: "差异会非常大", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "无法确定", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "不同化验室、不同设备、不同人操作，正常允许有小误差。"
+        explanation: "答案正确。不同化验室的结果会有差异，但应在国标允许误差范围内。 不同化验室、不同设备、不同人操作，正常允许有小误差。"
     },
     {
         question: "动力煤和炼焦煤的主要区别是什么？",
@@ -298,7 +298,7 @@ const level2ExtraQuestions = [
             { text: "动力煤价格更高", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "炼焦煤热值更高", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "动力煤用于燃烧发电、供热，炼焦煤用于炼焦后炼钢，用途完全不同。"
+        explanation: "答案正确。动力煤主要用于燃烧发热，炼焦煤主要用于焦化。 动力煤用于燃烧发电、供热，炼焦煤用于炼焦后炼钢，用途完全不同。"
     },
     {
         question: "做司机、物流、煤场相关，最常接触的是什么煤？",
@@ -308,7 +308,7 @@ const level2ExtraQuestions = [
             { text: "无烟煤", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "褐煤", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "做司机、物流、煤场相关，最常接触、最常拉的就是动力煤。"
+        explanation: "答案正确。物流和煤场相关工作最常接触的是动力煤。 做司机、物流、煤场相关，最常接触、最常拉的就是动力煤。"
     },
     {
         question: "判断动力煤的简单标准是什么？",
@@ -318,7 +318,7 @@ const level2ExtraQuestions = [
             { text: "看产地", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "看价格", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "简单判断标准：看用途，发电/烧锅炉 = 动力煤。"
+        explanation: "答案正确。简单判断：发热量在4500大卡以上、挥发分适中的煤可用作动力煤。 简单判断标准：看用途，发电/烧锅炉 = 动力煤。"
     },
     {
         question: "动力煤常看的指标有哪些？",
@@ -328,7 +328,7 @@ const level2ExtraQuestions = [
             { text: "只看重量", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "只看产地", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "动力煤常看发热量（大卡）、硫分、灰分、水分等指标。"
+        explanation: "答案正确。动力煤常看的指标包括发热量、水分、灰分、硫分、挥发分等。 动力煤常看发热量（大卡）、硫分、灰分、水分等指标。"
     },
     {
         question: "煤炭贸易商未来会消失吗？",
@@ -338,7 +338,7 @@ const level2ExtraQuestions = [
             { text: "已经消失了", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} },
             { text: "与数字化无关", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "煤炭贸易商不会完全消失，但职能会从传统贸易向供应链服务、金融服务等转变。"
+        explanation: "答案正确。贸易商不会消失，但需向服务型转型，提供增值服务。 煤炭贸易商不会完全消失，但职能会从传统贸易向供应链服务、金融服务等转变。"
     },
     {
         question: "数字化对煤炭贸易商的影响是什么？",
@@ -348,7 +348,7 @@ const level2ExtraQuestions = [
             { text: "让贸易商更容易作弊", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "降低了贸易门槛", correct: false, effect: {knowledge: -3, trust: -2, risk: 3} }
         ],
-        explanation: "数字化促使煤炭贸易商提升效率、透明化，并向供应链服务转型。"
+        explanation: "答案正确。数字化提高了信息透明度，但专业贸易商仍有价值。 数字化促使煤炭贸易商提升效率、透明化，并向供应链服务转型。"
     },
     {
         question: "煤炭贸易商的核心竞争力是什么？",
@@ -358,7 +358,7 @@ const level2ExtraQuestions = [
             { text: "只依靠资金", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "只依靠信息差", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "煤炭贸易商的核心竞争力是供应链整合能力、风控能力和服务能力。"
+        explanation: "答案正确。核心竞争力包括资源整合能力、风险管理、专业服务等。 煤炭贸易商的核心竞争力是供应链整合能力、风控能力和服务能力。"
     },
     {
         question: "为什么煤炭需要混配？",
@@ -368,7 +368,7 @@ const level2ExtraQuestions = [
             { text: "为了降低价格", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "没有实际意义", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "煤炭混配是为了满足不同用户对煤质（热值、硫分、灰分等）的特定要求。"
+        explanation: "答案正确。混配可调整煤炭指标，满足不同用户需求，优化成本。 煤炭混配是为了满足不同用户对煤质（热值、硫分、灰分等）的特定要求。"
     },
     {
         question: "煤炭的'收到基'是什么意思？",
@@ -398,7 +398,7 @@ const level2ExtraQuestions = [
             { text: "只有人为误差", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "无法解释", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "煤炭化验误差来自三方面：煤本身不均匀、取样制样不规范、仪器与操作误差。"
+        explanation: "答案正确。化验结果误差来源于取样、制样、化验多个环节。 煤炭化验误差来自三方面：煤本身不均匀、取样制样不规范、仪器与操作误差。"
     },
     {
         question: "煤炭贸易中，如何减少化验结果的争议？",
@@ -408,7 +408,7 @@ const level2ExtraQuestions = [
             { text: "只取一次样", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "只相信卖方数据", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "减少争议的方法包括：规范取样、双方共同见证取样过程、委托第三方检测机构。"
+        explanation: "答案正确。可通过共同取样、双方化验、选择认可实验室减少争议。 减少争议的方法包括：规范取样、双方共同见证取样过程、委托第三方检测机构。"
     }
 ];
 

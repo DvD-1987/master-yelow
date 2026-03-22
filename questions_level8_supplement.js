@@ -8,7 +8,7 @@ const level8SupplementQuestions = [
             { text: "7201（生铁）", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "4401（木材）", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "煤炭的HS编码在第27章：2701.11（无烟煤）、2701.12（烟煤/动力煤）、2701.19（其他煤）。正确归类对报关和关税计算至关重要。"
+        explanation: "答案正确。煤炭的HS编码在第27章：2701.11(无烟煤)、2701.12(烟煤/动力煤)、2701.19(其他煤)。正确归类对报关和关税计算至关重要。"
     },
     {
         question: "中国进口煤炭实行的'准入名单'制度要求什么？",
@@ -18,7 +18,7 @@ const level8SupplementQuestions = [
             { text: "只有国有企业可以进口煤炭", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "不需要任何资质", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} }
         ],
-        explanation: "中国对煤炭进口实行一定的管理制度，进口口岸、进口企业资质以及煤炭质量标准均有规定，进口商需了解最新政策要求。"
+        explanation: "答案正确。中国对煤炭进口实行一定的管理制度，进口口岸、进口企业资质以及煤炭质量标准均有规定。"
     },
     {
         question: "在中国港口卸煤时，船方通常要求签署的'货损保函'（LOI，Letter of Indemnity）用于什么情况？",
@@ -28,7 +28,7 @@ const level8SupplementQuestions = [
             { text: "延迟卸货的赔偿说明", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "海关的进口许可证", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "LOI（以保函换提单）是指在正本提单未到达时，收货人向船东出具保函，承诺日后提交提单并赔偿船东由此产生的损失，换取船东放货。"
+        explanation: "答案正确。LOI(以保函换提单)是指在正本提单未到达时，收货人向船东出具保函，承诺日后提交提单并赔偿船东由此产生的损失，换取船东放货。"
     },
     {
         question: "中国海关进口煤炭时，检验检疫项目中'放射性检测'的标准是什么？",
@@ -38,7 +38,7 @@ const level8SupplementQuestions = [
             { text: "只对特定国家进行检测", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "仅抽查部分批次", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "中国海关对所有进口煤炭强制实施放射性检测，依据《进出口固体废物放射性污染防治规定》，超标批次将被退运或就地处置。"
+        explanation: "答案正确。中国海关对所有进口煤炭强制实施放射性检测，依据《进出口固体废物放射性污染防治规定》，超标批次将被退运。"
     },
     {
         question: "进口煤炭到港后，如果发现数量短少，买方应如何处理？",
@@ -48,7 +48,7 @@ const level8SupplementQuestions = [
             { text: "向媒体曝光", correct: false, effect: {knowledge: -8, trust: -8, risk: 10} },
             { text: "等下次购货时扣款", correct: false, effect: {knowledge: -5, trust: -5, risk: 8} }
         ],
-        explanation: "发现数量短少必须及时取证（委托公证行出具重量证明），并在合同约定的索赔期限内（通常30-60天）向责任方提出书面索赔，否则视为放弃索赔权利。"
+        explanation: "答案正确。发现数量短少必须及时取证（委托公证行出具重量证明），并在合同约定的索赔期限内（通常30-60天）向责任方索赔。"
     },
     {
         question: "中国对进口煤炭的灰分、硫分的环保限值要求中，以下哪项描述准确？",
@@ -58,7 +58,7 @@ const level8SupplementQuestions = [
             { text: "只限制硫分，不限制灰分", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "仅限制印尼来源的煤炭", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "中国国家标准对进口煤炭有明确的质量限值（灰分≤40%、硫分≤3%等），部分发达省市地方标准更严。超标煤炭将被退运或禁止销售。"
+        explanation: "答案正确。中国国家标准对进口煤炭有明确的质量限值（灰分≤40%、硫分≤3%等），部分发达省市地方标准更严。超标煤炭需处理或退运。"
     },
     {
         question: "卸煤港口的'胶带输送机计量'和'吃水计重'两种方式，哪种更适合作为贸易结算依据？",
@@ -68,7 +68,7 @@ const level8SupplementQuestions = [
             { text: "两者完全相同，随意选择", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "不需要精确计量", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} }
         ],
-        explanation: "贸易结算应以合同约定的计量方式为准。实践中常用第三方出具的吃水计重报告，或在固定地磅上过磅计量，双方书面确认后作为结算依据。"
+        explanation: "答案正确。贸易结算应以合同约定的计量方式为准。实践中常用第三方出具的吃水计重报告，或在固定地磅上过磅计量。"
     },
     {
         question: "进口煤炭的'关税完税价格'是如何确定的？",
@@ -78,7 +78,7 @@ const level8SupplementQuestions = [
             { text: "由进口商自行申报任何价格", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} },
             { text: "按国际期货价格", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "海关对进口货物的关税完税价格以成交价为基础（通常为CIF价，即货物到港价），若申报价格明显低于正常市场价格，海关有权按评估价征税。"
+        explanation: "答案正确。海关对进口货物的关税完税价格以成交价为基础（通常为CIF价），若申报价格明显低于正常市场水平，海关可进行价格质疑和调整。"
     },
     {
         question: "以下哪种情况，进口商可以申请海关'特殊监管区域'（如保税区）的优惠政策？",
@@ -88,7 +88,7 @@ const level8SupplementQuestions = [
             { text: "只有出口商品享受此待遇", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "保税区内完全免税", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "保税仓库、综合保税区等特殊监管区允许货物'保税入区'，在区内暂不缴纳进口税，增值税，转内销时才按规定缴税，有利于贸易商管理资金流。"
+        explanation: "答案正确。保税仓库、综合保税区等特殊监管区允许货物'保税入区'，在区内暂不缴纳进口税和增值税，转内销时才按规定完税。"
     },
     {
         question: "在进口煤炭卸船作业中，'舱底清扫'（Sweeping）是指什么？",
@@ -98,7 +98,7 @@ const level8SupplementQuestions = [
             { text: "清扫港口道路", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "清洗舱壁", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "卸煤时抓斗作业完成后，舱底仍有残余煤炭，需要工人进舱清扫并吊出，这部分'扫舱煤'也计入卸货总量，与最终地磅计量共同作为数量依据。"
+        explanation: "答案正确。卸煤时抓斗作业完成后，舱底仍有残余煤炭，需要工人进舱清扫并吊出，这部分'扫舱煤'也计入卸货总量。"
     },
     {
         question: "进口煤炭卸货港对'压载水'（Ballast Water）的管理要求是什么？",
@@ -108,7 +108,7 @@ const level8SupplementQuestions = [
             { text: "与货物无关，不需要管理", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "只需申报不需处理", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "《压载水管理国际公约》（BWM Convention）要求船舶在排放压载水前必须进行处理，防止将外来生物带入目的地港口水域，中国港口对此有严格执法。"
+        explanation: "答案正确。《压载水管理国际公约》(BWM Convention)要求船舶在排放压载水前必须进行处理，防止将外来水生生物带入。"
     },
     {
         question: "电厂煤炭卸货后，做'来煤检验'（Incoming Coal Analysis）的主要目的是什么？",
@@ -118,7 +118,7 @@ const level8SupplementQuestions = [
             { text: "用于销售宣传", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "满足政府要求，无实际意义", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "到港检验是买方维权的关键环节，结果直接影响结算金额（按合同热值扣罚/溢价条款），也是向卖方提出质量索赔的证据基础。"
+        explanation: "答案正确。到港检验是买方维权的关键环节，结果直接影响结算金额（按合同热值扣罚/溢价条款），也是向卖方提出质量索赔的依据。"
     },
     {
         question: "进口煤炭的'转口贸易'（Entrepot Trade）中，以下哪种做法必须符合规定？",
@@ -128,7 +128,7 @@ const level8SupplementQuestions = [
             { text: "转口过程中可以随意改变货物质量", correct: false, effect: {knowledge: -10, trust: -10, risk: 20} },
             { text: "可以通过第三国规避进口国的贸易限制", correct: false, effect: {knowledge: -10, trust: -10, risk: 20} }
         ],
-        explanation: "转口贸易必须如实申报货物原产地，伪造原产地证书属于欺诈行为，违反WTO规则，可能面临严重的法律处罚。"
+        explanation: "答案正确。转口贸易必须如实申报货物原产地，伪造原产地证书属于欺诈行为，违反WTO规则，可能面临严重的法律处罚。"
     },
     {
         question: "中国海关进口煤炭时，进口增值税的税率通常是多少？",
@@ -138,7 +138,7 @@ const level8SupplementQuestions = [
             { text: "25%", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "6%", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "中国对进口煤炭征收13%的增值税（部分情况有阶段性调整），煤炭进口关税税率视来源国和具体品类而定（部分为0%）。"
+        explanation: "答案正确。中国对进口煤炭征收13%的增值税（部分情况有阶段性调整），煤炭进口关税税率视来源国和具体品类而定。"
     },
     {
         question: "进口商收到货物后，发现质量严重不符，以下哪种情况会导致索赔失败？",
@@ -148,7 +148,7 @@ const level8SupplementQuestions = [
             { text: "在合同约定期限内书面提出索赔", correct: false, effect: {knowledge: -3, trust: -2, risk: 3} },
             { text: "提供第三方检验机构报告", correct: false, effect: {knowledge: -3, trust: -2, risk: 3} }
         ],
-        explanation: "索赔的关键是时效和证据：必须在合同约定期限内（通常30-90天）提出，并保留完整的检验报告、照片、样品等证据，超时或证据不足将导致索赔失败。"
+        explanation: "答案正确。索赔的关键是时效和证据：必须在合同约定期限内（通常30-90天）提出，并保留完整的检验报告、照片、样品等证据。"
     },
     {
         question: "进口煤炭中，'燃料油等能量当量换算'在电厂采购中有何应用？",
@@ -158,7 +158,7 @@ const level8SupplementQuestions = [
             { text: "仅用于海关申报", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "没有实际意义", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "能量当量换算（如：1吨5500大卡煤的能量≈0.786吨标准煤）是电厂和贸易商评估不同燃料竞争力的重要工具，帮助决策者比较不同来源煤炭及替代燃料的经济性。"
+        explanation: "答案正确。能量当量换算（如：1吨5500大卡煤的能量≈0.786吨标准煤）是电厂和贸易商评估不同燃料竞争力的重要工具。"
     },
     {
         question: "在卸货港，'港口拥堵'（Port Congestion）对贸易各方有什么影响？",
@@ -168,7 +168,7 @@ const level8SupplementQuestions = [
             { text: "只影响港口收入", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "仅影响船期", correct: false, effect: {knowledge: -3, trust: -2, risk: 3} }
         ],
-        explanation: "港口拥堵会延长船舶停泊时间，产生滞期费（租船人承担），还导致货物晚到影响电厂用煤，增加供应链的各项成本。"
+        explanation: "答案正确。港口拥堵会延长船舶停泊时间，产生滞期费（租船人承担），还导致货物晚到影响电厂用煤，增加供应链的各项成本。"
     },
     {
         question: "中国进口煤炭时，'市场准入'政策在哪种情况下会暂停某国的进口？",
@@ -178,7 +178,7 @@ const level8SupplementQuestions = [
             { text: "价格太低时", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "永远不会暂停", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} }
         ],
-        explanation: "中国政府会根据国内煤炭供需形势、外交关系、检疫安全等因素动态调整进口政策，贸易商须密切关注政策动态，这是影响煤炭贸易的重大政策风险。"
+        explanation: "答案正确。中国政府会根据国内煤炭供需形势、外交关系、检疫安全等因素动态调整进口政策，贸易商须密切关注政策动态。"
     },
     {
         question: "进口商收到的提单（B/L）上显示货物在途中曾转船（Transhipment），对买方有什么影响？",
@@ -188,7 +188,7 @@ const level8SupplementQuestions = [
             { text: "转船会让货物更安全", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "转船是煤炭运输的惯例", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "散装煤炭通常要求直运，转船会增加货物损失风险、延误风险，且大多数信用证明确禁止转船（Transhipment Prohibited），若必须转船须在L/C开证时注明允许。"
+        explanation: "答案正确。散装煤炭通常要求直运，转船会增加货物损失风险、延误风险，且大多数信用证明确禁止转船(Transhipment not allowed)。"
     },
     {
         question: "中国进口商在海外购买煤炭时，通常需要为货物投保哪种保险？",
@@ -198,7 +198,7 @@ const level8SupplementQuestions = [
             { text: "责任险", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "不需要保险", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} }
         ],
-        explanation: "国际货物运输保险是进口贸易的必要保障。CIF条件下卖方负责投保，FOB条件下买方须自行投保，建议投保一切险（All Risks）以获得最全面保障。"
+        explanation: "答案正确。国际货物运输保险是进口贸易的必要保障。CIF条件下卖方负责投保，FOB条件下买方须自行投保，建议投保一切险或水渍险。"
     },
     {
         question: "以下哪种是进口煤炭进港卸货时，港口会向货主收取的标准费用？",
@@ -208,7 +208,7 @@ const level8SupplementQuestions = [
             { text: "仅收取海关关税", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "不收任何费用", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} }
         ],
-        explanation: "进口煤炭在港口产生多项费用：港口规费、卸货费、堆场使用费（超期则收高额堆存费）、取样化验费、装车/装轨费等，是进口成本的重要组成部分。"
+        explanation: "答案正确。进口煤炭在港口产生多项费用：港口规费、卸货费、堆场使用费（超期则收高额堆存费）、取样化验费、装车/装船费等。"
     }
 ];
 

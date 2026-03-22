@@ -8,7 +8,7 @@ const level8FullQuestions = [
             { text: "仅需合同", correct: false, effect: {knowledge: -8, trust: -8, risk: 12} },
             { text: "仅需提单", correct: false, effect: {knowledge: -8, trust: -8, risk: 12} }
         ],
-        explanation: "煤炭进口需要进口许可证、原产地证、质量检验报告、报关单、合同、发票、提单等多种证件。"
+        explanation: "煤炭进口需要进口许可证、原产地证、质量检验报告、报关单等多种证件。"
     },
     {
         question: "中国海关对进口煤炭的放射性检验要求是什么？",
@@ -38,7 +38,7 @@ const level8FullQuestions = [
             { text: "仅检验水分", correct: false, effect: {knowledge: -8, trust: -8, risk: 12} },
             { text: "不需要环保检验", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "中国海关对进口煤炭检验灰分、硫分、汞、砷、磷、氟、氯等环保指标，确保符合环保要求。"
+        explanation: "中国海关对进口煤炭实施环保项目检验，包括灰分、硫分、汞、砷等有害元素。"
     },
     {
         question: "进口煤炭卸货时，以下哪种做法是正确的？",
@@ -48,7 +48,7 @@ const level8FullQuestions = [
             { text: "等卸完货后再检查", correct: false, effect: {knowledge: -8, trust: -8, risk: 12} },
             { text: "不需要任何记录", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "进口煤炭卸货时应派人现场监督，记录卸货数量和质量，发现问题及时取证。"
+        explanation: "答案正确。进口煤炭卸货时应派人现场监督，记录卸货数量和质量，发现问题及时取证。"
     }
 ];
 

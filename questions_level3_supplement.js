@@ -8,7 +8,7 @@ const level3SupplementQuestions = [
             { text: "只需要矿山的营业执照", correct: false, effect: {knowledge: -8, trust: -5, risk: 10} },
             { text: "当地村长的推荐信", correct: false, effect: {knowledge: -10, trust: -8, risk: 15} }
         ],
-        explanation: "合规煤矿需具备：IUP矿业经营许可证、环保影响评估报告（AMDAL）和专业地质储量报告，三项缺一不可。"
+        explanation: "答案正确。合规煤矿需具备：IUP矿业经营许可证、环保影响评估报告(AMDAL)和专业地质储量报告，三项缺一不可。参考：印尼2009年矿业法。"
     }
 ];
 

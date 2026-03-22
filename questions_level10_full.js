@@ -18,7 +18,7 @@ const level10FullQuestions = [
             { text: "单船延误", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "单一客户违约", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "系统性风险是影响整个市场的风险，如政策变化、市场价格大幅波动、汇率剧烈变动等。"
+        explanation: "系统性风险是影响整个市场的风险，如政策变化、市场价格大幅波动等。"
     },
     {
         question: "煤炭贸易中，以下哪种风险可以通过保险转移？",
@@ -48,7 +48,7 @@ const level10FullQuestions = [
             { text: "压低供应商价格", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} },
             { text: "频繁更换供应商", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "诚信履约、质量稳定、服务到位是建立长期合作关系的关键。"
+        explanation: "答案正确。印尼煤炭出口的装运通知应在装运后及时发送给买方。"
     }
 ];
 

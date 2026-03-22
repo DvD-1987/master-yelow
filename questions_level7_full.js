@@ -8,7 +8,7 @@ const level7FullQuestions = [
             { text: "仅需合同", correct: false, effect: {knowledge: -8, trust: -8, risk: 12} },
             { text: "仅需装箱单", correct: false, effect: {knowledge: -8, trust: -8, risk: 12} }
         ],
-        explanation: "印尼煤炭出口需要出口许可证（ET）、原产地证、质量检验报告、报关单等多种证件。"
+        explanation: "印尼煤炭出口需要出口许可证、原产地证、质量检验报告、报关单等多种证件。"
     },
     {
         question: "印尼海关对煤炭出口征收的出口关税是如何计算的？",
@@ -18,7 +18,7 @@ const level7FullQuestions = [
             { text: "按重量征收固定费用", correct: false, effect: {knowledge: -8, trust: -8, risk: 12} },
             { text: "不征收出口关税", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "印尼煤炭出口关税采用累进税率，根据煤炭基准价格（HBA）和实际出口价格计算。"
+        explanation: "印尼煤炭出口关税采用累进税率，根据煤炭基准价格和实际出口价格计算。"
     },
     {
         question: "煤炭出口报关时，以下哪种申报方式是错误的？",
@@ -38,7 +38,7 @@ const level7FullQuestions = [
             { text: "进口商指定的机构", correct: false, effect: {knowledge: -5, trust: -5, risk: 8} },
             { text: "不需要检验", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "印尼海关要求出口煤炭由政府指定的检验机构或认可的第三方检验机构进行检验。"
+        explanation: "印尼海关要求出口煤炭由政府指定的检验机构或认可的第三方检验机构检验。"
     },
     {
         question: "出口煤炭的提单（B/L）有什么重要作用？",
@@ -48,7 +48,7 @@ const level7FullQuestions = [
             { text: "仅用于报关", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "没有实际作用", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "提单是货物所有权凭证、运输合同证明和提货凭证，是重要的贸易单据。"
+        explanation: "答案正确。BDI指数(波罗的海干散货指数)是反映干散货运输市场运费水平的权威指数。"
     }
 ];
 

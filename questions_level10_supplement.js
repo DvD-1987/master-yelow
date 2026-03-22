@@ -9,7 +9,7 @@ const level10SupplementQuestions = [
             { text: "付款阶段", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "谈判阶段", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "装船港检验（Origin Inspection）和卸货港检验（Destination Inspection）的数据差异是质量纠纷最常见的来源，主要原因包括取样代表性差异、水分变化、运输损耗等。"
+        explanation: "答案正确。印尼煤炭出口的单证包括提单、商业发票、装箱单、检验证书、原产地证书等。"
     },
     {
         question: "印尼煤炭贸易中，汇率风险（Currency Risk）主要体现在哪里？",
@@ -19,7 +19,7 @@ const level10SupplementQuestions = [
             { text: "只影响运输成本", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "汇率对煤炭价格无影响", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "国际煤炭以美元计价，中国进口商的成本以人民币计算。人民币升值时，同样美元的采购成本增加；汇率套期保值（外汇远期/期权）是管理汇率风险的有效工具。"
+        explanation: "答案正确。印尼煤炭出口的保险条款通常约定保险金额、保险范围等。"
     },
     {
         question: "以下哪种做法是煤炭贸易公司'合规经营'的核心体现？",
@@ -29,7 +29,7 @@ const level10SupplementQuestions = [
             { text: "只要有利润就可以不管合规", correct: false, effect: {knowledge: -10, trust: -10, risk: 20} },
             { text: "合规只是形式，不影响经营", correct: false, effect: {knowledge: -10, trust: -10, risk: 20} }
         ],
-        explanation: "合规经营是可持续发展的基础：完善KYC/AML流程、严格执行贸易制裁筛查、诚信申报税务、建立内控审计体系，这是企业在国际市场长期立足的根本。"
+        explanation: "答案正确。印尼煤炭出口的违约金条款应明确约定违约责任和赔偿方式。"
     },
     {
         question: "贸易信用风险（Counterparty Credit Risk）在煤炭贸易中如何有效管理？",
@@ -39,7 +39,7 @@ const level10SupplementQuestions = [
             { text: "只与熟人交易", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "所有交易先付款", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "管理交易对手信用风险的有效工具：事前做好背调和信用评级、要求信用证或保证金、向专业机构购买信贷保险（如中国信保SINOSURE）、控制单一客户风险敞口。"
+        explanation: "答案正确。印尼煤炭出口的履约保函是保障合同履行的重要工具。"
     },
     {
         question: "煤炭贸易中，'套期保值'（Hedging）在实际中如何操作？",
@@ -49,7 +49,7 @@ const level10SupplementQuestions = [
             { text: "只做期货投机", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "通过大量储存煤炭对冲风险", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "套期保值：进口商在完成采购（买入现货）的同时，在期货市场卖出相同数量和船期的动力煤期货（如郑商所动力煤期货），锁定价差，当现货价格下跌时期货端盈利对冲损失。"
+        explanation: "答案正确。印尼煤炭出口的质量争议应以装港检验结果为准或双方协商解决。"
     },
     // 整体流程综合（10道）
     {
@@ -60,7 +60,7 @@ const level10SupplementQuestions = [
             { text: "装船→签合同→找客户", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} },
             { text: "结算→装船→签合同", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} }
         ],
-        explanation: "规范的贸易流程：市场调研+开发客户→询价报价谈判→签订买卖合同→落实煤源（签购煤合同）→租船→装船+检验→出口通关→航行→到港卸货+目的港检验→进口通关→对账结算。"
+        explanation: "答案正确。印尼煤炭出口的数量争议应以提单数量或卸港数量为准。"
     },
     {
         question: "印尼煤炭贸易中，'贸易商利润'主要来源于哪里？",
@@ -70,7 +70,7 @@ const level10SupplementQuestions = [
             { text: "完全依靠补贴", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "靠拖延付款赚取利差", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} }
         ],
-        explanation: "专业贸易商的利润来源是多维度的：买卖差价（主要）+运费谈判优化+远期锁汇收益+精准质量匹配获得溢价+资金杠杆运用，这是贸易创造价值的商业本质。"
+        explanation: "答案正确。印尼煤炭出口的延期交货应按合同约定承担违约责任。"
     },
     {
         question: "一个完整的煤炭进口业务，从签合同到全部回款，通常需要多长时间？",
@@ -80,7 +80,7 @@ const level10SupplementQuestions = [
             { text: "超过1年", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "仅需1周", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "一票煤炭贸易的时间轴：装船前准备1-2周+航行时间7-14天+卸货通关1-2周+检验出报告1-2周+对账开票+买方付款（通常见提单后30天）=总计45-75天资金占用。"
+        explanation: "答案正确。印尼煤炭出口的终止条款应明确约定终止条件和后果。"
     },
     {
         question: "在煤炭贸易中，什么是'背靠背合同'（Back-to-Back Contract）模式？",
@@ -90,7 +90,7 @@ const level10SupplementQuestions = [
             { text: "只签购煤合同，不签销售合同", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "两个买方共同购买一批煤", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "背靠背合同是贸易商风险管理的基本策略：采购合同（向矿山/出口商）和销售合同（向电厂/用户）在数量、质量、价格、交货期等核心条款上保持一致，让上下游风险对冲。"
+        explanation: "答案正确。印尼煤炭出口合同应适用国际商法(ICC)或双方约定的法律。"
     },
     {
         question: "煤炭贸易中，货物在港口滞留过久（超过免费堆存期），会产生什么费用？",
@@ -100,7 +100,7 @@ const level10SupplementQuestions = [
             { text: "只需缴纳少量管理费", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "货物会被自动清关", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "港口免费堆存期通常为7-14天，超期后按日收取堆存费，且费率可能逐段递增。长期滞港不仅增加成本，还可能影响煤炭质量（自燃、受潮），甚至被港口强制处置。"
+        explanation: "答案正确。印尼煤炭出口的管辖权应明确约定仲裁机构或法院。"
     },
     // 行业知识综合（10道）
     {
@@ -111,7 +111,7 @@ const level10SupplementQuestions = [
             { text: "仅用纽约商品交易所价格", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "由卖方自行决定", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "亚太动力煤贸易主要参考指数：澳煤参考纽卡斯尔价（API4/gCNewc）、印尼煤参考HBA、中国国内煤参考BSPI/中电联综合价，这些指数是长协价格联动的基准。"
+        explanation: "答案正确。印尼煤炭出口的保密条款应约定双方对商业信息的保密义务。"
     },
     {
         question: "煤炭贸易中，'市场流动性风险'是指什么？",
@@ -121,7 +121,7 @@ const level10SupplementQuestions = [
             { text: "港口储存空间不足", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "银行贷款审批风险", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "市场流动性风险在煤炭市场中表现为：旺季资源紧张时买不到货，淡季销售困难时卖不出去，或只能以大幅偏离公允价值的价格成交，这是大宗商品交易的固有风险。"
+        explanation: "答案正确。印尼煤炭出口的转让条款应约定合同权利义务的转让条件。"
     },
     {
         question: "国际煤炭运输中，散货船的主要类型有哪些？",
@@ -131,7 +131,7 @@ const level10SupplementQuestions = [
             { text: "仅有油轮", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "所有船型都一样", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "印尼到中国的煤炭运输常用巴拿马型（75,000-82,000 DWT）或超灵便型（50,000-58,000 DWT），印尼部分浅水港限制船型。海岬型船通常用于澳洲、南非等深水港的长途运输。"
+        explanation: "答案正确。印尼煤炭出口的通知条款应约定通知方式和送达地址。"
     },
     {
         question: "波罗的海干散货指数（BDI，Baltic Dry Index）与煤炭贸易有什么关系？",
@@ -141,7 +141,7 @@ const level10SupplementQuestions = [
             { text: "只影响石油价格", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "仅是历史数据，没有预测价值", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "BDI是全球干散货航运市场的晴雨表，BDI上涨意味着运费上升，进口煤CIF成本增加，影响进口煤与国内煤的价格竞争力，是煤炭贸易从业者必须关注的指标之一。"
+        explanation: "答案正确。印尼煤炭出口的修改条款应约定合同修改的形式要求。"
     },
     {
         question: "煤炭贸易中，'FOB与CIF选择'对买卖双方的风险分配有何不同？",
@@ -151,7 +151,7 @@ const level10SupplementQuestions = [
             { text: "CIF对卖方更有利，因为卖方全部负责", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "FOB对卖方更有利", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "贸易条款的选择需根据各方的运力资源和风险偏好：FOB让买方自主控制船舶和运费，适合有自有船队或固定租船渠道的大型买方；CIF让卖方一站式服务，适合采购能力较弱的买方。"
+        explanation: "答案正确。印尼煤炭出口的完整合同条款应包括质量、数量、价格、付款、交货、检验、争议解决等所有重要事项。"
     },
     // 法规政策综合（8道）
     {
@@ -162,7 +162,7 @@ const level10SupplementQuestions = [
             { text: "只适用于欧洲国家", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "CISG与煤炭贸易无关", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "CISG适用条件：①交易双方营业地在不同成员国（中国和印尼都是成员国）；②合同未明确约定适用其他法律。实践中建议合同明确约定适用法律，避免CISG的不确定性。"
+        explanation: "答案正确。中国进口印尼煤炭享受最惠国税率和协定税率，需提供FORM E原产地证书。"
     },
     {
         question: "在中国，进口煤炭需要遵守哪部法律关于环保指标的要求？",
@@ -172,7 +172,7 @@ const level10SupplementQuestions = [
             { text: "不需要遵守任何法律", correct: false, effect: {knowledge: -10, trust: -8, risk: 15} },
             { text: "只需遵守国际标准", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "中国发改委、商务部、海关总署等部门联合颁布《商品煤质量管理暂行办法》，对进口煤炭的灰分、硫分、汞、砷、磷、氟、氯、放射性核素等设有强制限值。"
+        explanation: "答案正确。中国对进口煤炭实施自动进口许可管理，企业需提前办理许可证。"
     },
     {
         question: "国际制裁（Economic Sanctions）对煤炭贸易有什么影响？",
@@ -182,7 +182,7 @@ const level10SupplementQuestions = [
             { text: "制裁不影响已签合同", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "通过第三国可以规避所有制裁", correct: false, effect: {knowledge: -10, trust: -10, risk: 20} }
         ],
-        explanation: "经济制裁是贸易合规的重要风险点。美国OFAC、欧盟、联合国等的制裁名单须定期筛查，违反制裁不仅面临巨额罚款，还可能导致银行账户被冻结、企业被列黑名单。"
+        explanation: "答案正确。中国海关对进口煤炭实施法定检验，包括品质、重量、放射性等。"
     },
     {
         question: "在双边自贸协定（FTA）框架下，印尼煤炭出口到中国可以享受什么优惠？",
@@ -192,7 +192,7 @@ const level10SupplementQuestions = [
             { text: "优惠只适用于其他商品", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "中印尼之间没有自贸协定", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "中国与东盟国家（印尼是成员国）签有自贸协定（CAFTA），在协定框架下印尼煤炭出口中国可享受关税优惠，需持有原产地证（Form E）享受优惠税率。"
+        explanation: "答案正确。中国-东盟自贸区(FTA)框架下印尼煤炭出口中国可享受关税优惠，税率为0。"
     },
     {
         question: "中国《进出口商品检验法》对进口煤炭的检验要求是什么？",
@@ -202,7 +202,7 @@ const level10SupplementQuestions = [
             { text: "只检验重量", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "仅由买方自行检验", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "煤炭是列入中国《法定检验进出口商品目录》的商品，进口时必须经海关商品检验，包括品质、重量、放射性、有害物质含量等多项法定检验项目。"
+        explanation: "答案正确。煤炭是列入中国《法定检验进出口商品目录》的商品，进口时必须经海关商品检验。"
     },
     {
         question: "煤炭贸易中，'知识产权保护'主要体现在哪些方面？",
@@ -212,7 +212,7 @@ const level10SupplementQuestions = [
             { text: "知识产权与大宗商品贸易完全无关", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "只需保护采购价格信息", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "煤炭贸易中的知识产权涵盖：企业的客户资源和采购渠道（商业秘密）、IT系统和贸易平台、品牌信誉，需要通过保密协议（NDA）、IT安全和商标注册等手段保护。"
+        explanation: "答案正确。煤炭贸易中的知识产权涵盖：企业的客户资源和采购渠道（商业秘密）、IT系统和贸易平台、品牌信誉等。"
     },
     // 全流程综合分析（7道）
     {
@@ -223,7 +223,7 @@ const level10SupplementQuestions = [
             { text: "会主动增加供货量", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "价格上涨不影响长协执行", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "历史上多次出现印尼矿山在行情上涨时以各种理由减少供货甚至违约，这是长协买方的重要风险。防范措施：在合同中明确规定违约赔偿条款、要求履约保函、建立备选供货来源。"
+        explanation: "答案正确。历史上多次出现印尼矿山在行情上涨时以各种理由减少供货甚至违约，这是长协买方的重要风险。防范措施：在合同中明确违约责任和赔偿条款。"
     },
     {
         question: "以下哪种情形最能说明贸易商具备优秀的'风险管理能力'？",
@@ -233,7 +233,7 @@ const level10SupplementQuestions = [
             { text: "每次都预测价格涨跌", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "只做现货，回避所有期货工具", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "优秀的风险管理不是消除风险，而是系统识别→量化评估→制定预案→全流程监控→快速响应的完整体系，让企业在风险可控的前提下合理获取收益。"
+        explanation: "答案正确。优秀的风险管理不是消除风险，而是系统识别→量化评估→制定预案→全流程监控→快速响应的完整体系。"
     },
     {
         question: "以下哪些是影响印尼对华煤炭出口量的主要宏观因素？",
@@ -243,7 +243,7 @@ const level10SupplementQuestions = [
             { text: "只受天气影响", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "没有宏观因素的影响", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "印尼对华煤炭出口受多重因素影响：中国能源转型（减煤政策vs供应短缺）、两国政治关系、印尼国内DMO政策约束、全球煤价与运费、两国GDP增长带动能源需求变化。"
+        explanation: "答案正确。印尼对华煤炭出口受多重因素影响：中国能源转型（减煤政策vs供应短缺）、两国政治关系、印尼国内DMO政策、汇率波动等。"
     },
     {
         question: "在ESG（环境、社会、治理）理念盛行的背景下，煤炭贸易面临哪些新挑战？",
@@ -253,7 +253,7 @@ const level10SupplementQuestions = [
             { text: "ESG只影响科技公司", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "ESG要求反而有利于煤炭贸易", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "全球ESG浪潮对煤炭贸易形成系统性压力：国际银行缩减煤炭融资、欧洲碳边境调节机制对高碳进口产品征税、客户要求提供碳足迹报告，这迫使煤炭贸易商积极应对低碳转型。"
+        explanation: "答案正确。全球ESG浪潮对煤炭贸易形成系统性压力：国际银行缩减煤炭融资、欧洲碳边境调节机制对高碳进口产品征税、投资者撤离等。"
     },
     {
         question: "以下哪项最能描述'黄老师贸易之旅'游戏所模拟的核心商业逻辑？",
@@ -263,7 +263,7 @@ const level10SupplementQuestions = [
             { text: "只要量大就能成功", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "走捷径、拒绝合规是成功之道", correct: false, effect: {knowledge: -15, trust: -15, risk: 20} }
         ],
-        explanation: "印尼煤炭贸易的成功之道：扎实的专业知识（知识值）+赢得合作伙伴信任（信任度）+有效管控风险（风险值）=可持续发展。这也是黄老师教导的贸易精髓。"
+        explanation: "答案正确。印尼煤炭贸易的成功之道：扎实的专业知识（知识值）+赢得合作伙伴信任（信任度）+有效管控风险（风险值）。"
     },
     // 综合实战题（10道）
     {
@@ -274,7 +274,7 @@ const level10SupplementQuestions = [
             { text: "直接退货", correct: false, effect: {knowledge: -5, trust: -5, risk: 8} },
             { text: "按60美元但扣除2%费用", correct: false, effect: {knowledge: -5, trust: -5, risk: 8} }
         ],
-        explanation: "按热值比例折算是煤炭贸易的标准结算方式：实际价格 = 合同价 × 实际热值 ÷ 合同热值 = 60 × 4800/5000 = 57.6美元/吨。当然也要对照合同中约定的具体扣罚条款执行。"
+        explanation: "答案正确。按热值比例折算是煤炭贸易的标准结算方式：实际价格 = 合同价 × 实际热值 ÷ 合同热值 = 60 × 4800 ÷ 5000 = 57.6美元/吨。"
     },
     {
         question: "某贸易商买入5万吨印尼煤（FOB价50美元/吨），租船费5美元/吨，卸货及港杂费3美元/吨，国内铁路运费2美元/吨，汇率7.2，到厂完全成本（人民币）是多少？",
@@ -284,7 +284,7 @@ const level10SupplementQuestions = [
             { text: "500元/吨以上", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "只需计算煤炭本身价格", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} }
         ],
-        explanation: "到厂成本 = (FOB价+运费+港杂+国内运费+检验费+保险费等) × 汇率 + 关税 + 进项税（可抵扣）。本例简化计算：(50+5+3+2)×7.2 = 432元/吨，实际还需加检验费、保险费等。"
+        explanation: "答案正确。到厂成本 = (FOB价+运费+港杂+国内运费+检验费+保险费等) × 汇率 + 关税 + 进项税。"
     },
     {
         question: "如果一批进口煤在印尼装船时检验热值为5000大卡，到中国港口后检验热值为4700大卡，差异原因最可能是什么？",
@@ -294,7 +294,7 @@ const level10SupplementQuestions = [
             { text: "两个检验机构设备误差", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "中间停靠某港口偷换了煤", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "印尼煤到港热值普遍低于装港检验值，主要原因：①航行中水分增加（收到基热值对水分敏感）；②取样代表性差异；③少量的煤炭自氧化消耗。这是需要用仲裁样和双边检验结果协商确认的典型情况。"
+        explanation: "答案正确。印尼煤到港热值普遍低于装港检验值，主要原因：①航行中水分增加（收到基热值对水分敏感）；②取样代表性差异；③化验误差。"
     },
     {
         question: "某电厂年用煤量100万吨，当地港口卸煤设施能力为每天1万吨，安全库存要求15天，最低库存是多少万吨？",
@@ -304,7 +304,7 @@ const level10SupplementQuestions = [
             { text: "约4.1万吨（日耗约2740吨×15天）", correct: true, effect: {knowledge: 12, trust: 10, risk: -10} },
             { text: "50万吨", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "最低库存 = 日耗量 × 安全天数：100万吨/365天 ≈ 2740吨/日，2740×15天 ≈ 41,100吨 ≈ 4.1万吨。港口卸煤能力是补充速度，与最低库存计算无关。"
+        explanation: "答案正确。最低库存 = 日耗量 × 安全天数：100万吨/365天 ≈ 2740吨/日，2740×15天 ≈ 4.1万吨。"
     },
     {
         question: "以下哪项描述了'印尼煤炭贸易全流程'中最重要的成功要素？",
@@ -314,7 +314,7 @@ const level10SupplementQuestions = [
             { text: "只要价格低就能中标", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "依靠运气", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} }
         ],
-        explanation: "成功的印尼煤炭贸易需要：①专业知识（懂煤炭品质、懂合同、懂物流）②合规意识（遵守法规，不走捷径）③风险管理（系统管控价格/质量/信用风险）④信任关系（与矿山、船公司、买方建立长期信任）⑤资金管理（充足流动性和融资能力）。"
+        explanation: "答案正确。成功的印尼煤炭贸易需要：①专业知识（懂煤炭品质、懂合同、懂物流）②合规意识（遵守法规，不走捷径）③风险管理能力。"
     },
     {
         question: "贸易商在处理一批因质量争议被买方拒绝的印尼煤时，以下哪种处理方式最为专业？",
@@ -324,7 +324,7 @@ const level10SupplementQuestions = [
             { text: "悄悄混入其他批次", correct: false, effect: {knowledge: -15, trust: -15, risk: 20} },
             { text: "立即向媒体曝光买方", correct: false, effect: {knowledge: -8, trust: -8, risk: 12} }
         ],
-        explanation: "专业处理：①保留证据（取样化验）②依法维权（按合同仲裁程序）③降低损失（寻找其他可接受该质量的买方，如配煤用途的工业客户）④总结教训（改进质量控制流程）。"
+        explanation: "答案正确。专业处理：①保留证据（取样化验）②依法维权（按合同仲裁程序）③降低损失（寻找其他可接受该质量的买方）。"
     },
     {
         question: "在中印尼煤炭贸易的背景下，以下哪项宏观趋势对贸易商最具战略意义？",
@@ -334,7 +334,7 @@ const level10SupplementQuestions = [
             { text: "印尼将停止所有煤炭出口", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "煤炭价格将永久保持高位", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "中国能源转型是渐进式的，预计2030年前仍是煤炭消费大国，但对进口煤的要求趋严：更低的硫分、灰分，更高的热值，更强的合规要求（碳足迹追溯）。这是贸易商需要把握的战略趋势。"
+        explanation: "答案正确。中国能源转型是渐进式的，预计2030年前仍是煤炭消费大国，但对进口煤的要求趋严：更低的硫分、灰分，更高热值。"
     },
     {
         question: "以下哪个情景描述了理想的'印尼煤炭贸易之旅'结局？",
@@ -344,7 +344,7 @@ const level10SupplementQuestions = [
             { text: "只要赚了钱其他都不重要", correct: false, effect: {knowledge: -5, trust: -5, risk: 8} },
             { text: "做成一票后立即退出市场", correct: false, effect: {knowledge: -5, trust: -5, risk: 8} }
         ],
-        explanation: "贸易的最高境界不是一次性获利，而是建立可持续的商业生态：矿山信任你（稳定货源）、船公司愿意给优先舱位（运力保障）、买方长期采购（稳定销售），这才是黄老师贸易之旅的终极目标。"
+        explanation: "答案正确。贸易的最高境界不是一次性获利，而是建立可持续的商业生态：矿山信任你、船公司愿意给优先舱位、银行愿意给融资。"
     },
     // 补充综合题（11道）
     {
@@ -355,7 +355,7 @@ const level10SupplementQuestions = [
             { text: "只能向私人借贷", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} },
             { text: "不需要融资工具", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "大宗商品贸易的资金需求量大，专业贸易融资工具不可缺少：信用证降低信用风险、保理将应收账款变现、银行承兑汇票增强信用背书、供应链融资优化资金链。"
+        explanation: "答案正确。大宗商品贸易的资金需求量大，专业贸易融资工具不可缺少：信用证降低信用风险、保理将应收账款变现、银行承兑汇票延期付款等。"
     },
     {
         question: "在煤炭供应链中，'物流追踪系统'对贸易管理有何价值？",
@@ -365,7 +365,7 @@ const level10SupplementQuestions = [
             { text: "只对船公司有用", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "增加运营成本，没有实际价值", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "现代贸易管理中，船舶AIS追踪、在途货物状态监控让贸易商随时了解供应链状态，预判风险（如船舶延误、天气影响），提前通知买方，展现专业服务能力。"
+        explanation: "答案正确。现代贸易管理中，船舶AIS追踪、在途货物状态监控让贸易商随时了解供应链状态，预判风险（如船舶延误、天气影响）。"
     },
     {
         question: "煤炭贸易中，'数字化单证'（e-B/L，电子提单）的趋势对行业有什么影响？",
@@ -375,7 +375,7 @@ const level10SupplementQuestions = [
             { text: "电子提单没有法律效力", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "大宗商品不能使用电子提单", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "电子提单（e-B/L）正在逐步推广，主要平台有波罗的海电子提单平台（BOLERO）、essDOCS等。电子提单可即时传输，减少文件快递成本和时间，降低提单欺诈风险，但需要买卖双方及银行共同采用支持同一平台。"
+        explanation: "答案正确。电子提单(e-B/L)正在逐步推广，主要平台有波罗的海电子提单平台(BOLERO)、essDOCS等，提高效率和安全性。"
     },
     {
         question: "在印尼煤炭贸易中，以下哪种情形属于'转移定价'（Transfer Pricing）风险？",
@@ -385,7 +385,7 @@ const level10SupplementQuestions = [
             { text: "不同港口的价格差异", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "汇率变动带来的价格变化", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "转移定价是跨国企业间的税务合规重点：若母子公司或关联方之间的煤炭交易价格偏离独立第三方市场价格，可能被税务机关认定为通过关联交易人为转移利润，面临税务调整和处罚。"
+        explanation: "答案正确。转移定价是跨国企业间的税务合规重点：若母子公司或关联方之间的煤炭交易价格偏离独立第三方市场价格，可能引发税务风险。"
     },
     {
         question: "煤炭贸易中，商业谈判的'BATNA'（最佳替代方案）是什么概念？",
@@ -395,7 +395,7 @@ const level10SupplementQuestions = [
             { text: "贸易合同的附件模板", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "一种价格计算方法", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "BATNA（Best Alternative To a Negotiated Agreement）是谈判理论的核心概念：清楚了解自己的BATNA（如果谈不成可以找哪家供应商？能接受什么条件？），才能在谈判中判断是否值得继续谈，以及可以让步的底线。"
+        explanation: "答案正确。BATNA(Best Alternative To a Negotiated Agreement)是谈判中最重要的概念，指如果当前谈判不成，你的最佳替代方案是什么。"
     },
     {
         question: "中国电厂对进口印尼煤炭的'掺烧'（Blending）策略有什么商业逻辑？",
@@ -405,7 +405,7 @@ const level10SupplementQuestions = [
             { text: "掺烧没有任何意义", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "只是为了消耗库存", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "掺烧是电厂燃料管理的重要手段：进口低热值煤（如印尼3800大卡）价格便宜，与高热值国内煤（5500大卡）按比例混合，可在满足锅炉运行要求的同时降低综合燃料成本。"
+        explanation: "答案正确。掺烧是电厂燃料管理的重要手段：进口低热值煤（如印尼3800大卡）价格便宜，与高热值国内煤（5500大卡）掺配使用可降低成本。"
     },
     {
         question: "贸易商在与印尼供应商签订长期供货协议前，应进行哪些尽职调查（Due Diligence）？",
@@ -415,7 +415,7 @@ const level10SupplementQuestions = [
             { text: "只需看官网介绍", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "询问同行意见即可", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "供应商尽职调查是防范资源风险、合规风险的必要环节：①核查IUP矿业证有效期和覆盖范围②实地参观矿山设施③验证过往供货业绩④了解财务健康状况⑤检查是否有违规处罚记录。"
+        explanation: "答案正确。供应商尽职调查是防范资源风险、合规风险的必要环节：①核查IUP矿业证有效期和覆盖范围②实地参观矿山设施③核实产能和物流能力。"
     },
     {
         question: "以下哪种商业模式在印尼煤炭贸易中最具可持续性？",
@@ -425,7 +425,7 @@ const level10SupplementQuestions = [
             { text: "靠信息不对称赚差价，不透明经营", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} },
             { text: "只靠低价竞争", correct: false, effect: {knowledge: -5, trust: -5, risk: 8} }
         ],
-        explanation: "可持续的贸易商业模式：以专业服务和稳定供应赢得长期合约，而非靠信息不对称的一次性套利。随着市场透明度提升，只有真正创造价值的贸易商才能长期立足。"
+        explanation: "答案正确。可持续的贸易商业模式：以专业服务和稳定供应赢得长期合约，而非靠信息不对称的一次性套利。随着市场透明度提高，套利空间越来越小。"
     },
     {
         question: "黄老师在印尼煤炭贸易中建立'老板信任度'的核心方法是什么？",
@@ -435,7 +435,7 @@ const level10SupplementQuestions = [
             { text: "隐瞒不好的消息", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} },
             { text: "只报喜不报忧", correct: false, effect: {knowledge: -8, trust: -8, risk: 12} }
         ],
-        explanation: "信任是商业关系的基石：按约履行承诺、遇到困难及时透明沟通、凭专业能力帮助解决问题，这些行为积累起来才是真正的信任。信任一旦建立，合作关系会越来越紧密，商业机会也越来越多。"
+        explanation: "答案正确。信任是商业关系的基石：按约履行承诺、遇到困难及时透明沟通、凭专业能力帮助解决问题，这些行为积累起来才能建立长期信任。"
     },
     {
         question: "煤炭贸易中，'风险值'居高不下的根本原因通常是什么？",
@@ -445,7 +445,7 @@ const level10SupplementQuestions = [
             { text: "运气不好", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "市场价格太低", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "风险积累的根源：①专业知识缺乏→做出错误判断②走捷径不合规→埋下定时炸弹③缺乏预案→遇到问题手忙脚乱。系统学习、合规经营、提前预案是控制风险的三大支柱。"
+        explanation: "答案正确。风险积累的根源：①专业知识缺乏→做出错误判断②走捷径不合规→埋下定时炸弹③缺乏预案→遇到问题手忙脚乱。"
     },
     {
         question: "完成印尼煤炭贸易全流程后，最重要的'复盘'内容是什么？",
@@ -455,7 +455,7 @@ const level10SupplementQuestions = [
             { text: "复盘没有任何意义", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "只总结失败原因", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "专业复盘应涵盖：①利润拆解（每个环节的成本和收益）②风险点分析（哪些地方险些出问题）③流程优化（下次可以做得更好的地方）④关系评估（哪些合作伙伴值得长期维护）。持续复盘是贸易能力进步的核心路径。"
+        explanation: "答案正确。专业复盘应涵盖：①利润拆解（每个环节的成本和收益）②风险点分析（哪些地方险些出问题）③流程优化（下次如何做得更好）。"
     }
 ];
 

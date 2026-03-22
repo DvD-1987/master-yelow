@@ -8,7 +8,7 @@ const level9SupplementQuestions = [
             { text: "只根据上年采购量", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "由煤炭供应商决定", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "电厂耗煤量 = 机组容量(MW) × 年利用小时数 × 供电煤耗(g/kWh) ÷ 1000000，再加安全库存需求，精确测算后制定年度采购计划。"
+        explanation: "答案正确。印尼煤炭出口到中国可享受中国-东盟自贸区协定税率(0关税)，需提供FORM E原产地证书。"
     },
     {
         question: "电厂煤炭采购招标中，'热值折算价'（Normalized Price）的作用是什么？",
@@ -18,7 +18,7 @@ const level9SupplementQuestions = [
             { text: "增加煤炭热值", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "计算运输成本", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "热值折算价 = 实际价格 ÷ 实际热值 × 标准热值，将报价统一折算为同一热值基准，才能真正比较不同供应商不同煤种的性价比。"
+        explanation: "答案正确。印尼煤炭出口商应确保煤炭符合中国的质量和安全标准，否则可能退运。"
     },
     {
         question: "电厂煤炭采购合同中，'热值扣罚条款'（Calorific Value Penalty Clause）是如何运作的？",
@@ -28,7 +28,7 @@ const level9SupplementQuestions = [
             { text: "热值低于合同值就退货", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "热值偏差不影响货款", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "热值扣罚（或溢价）条款按比例调整货款：实际价格 = 合同价 × 实际热值 ÷ 合同热值。既保护买方不为低热值多付钱，也让卖方为高热值获得额外收益。"
+        explanation: "答案正确。印尼煤炭出口企业需要具有合法的矿业经营许可证(IUP)或工作合同(COW)。"
     },
     {
         question: "电厂对煤炭供应商进行资格审查时，最关注哪些核心指标？",
@@ -38,7 +38,7 @@ const level9SupplementQuestions = [
             { text: "供应商的员工数量", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "供应商的网站质量", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "电厂资格审查核心关注：有无向同类电厂供货的业绩证明、企业注册资本和财务健康、稳定可靠的煤源、以及履约担保能力（如履约保函）。"
+        explanation: "答案正确。印尼对煤炭出口实施环保监管，确保煤炭开采和出口符合环境法规。"
     },
     {
         question: "在电厂投标中，'最低评标价法'和'综合评分法'各有什么特点？",
@@ -48,7 +48,7 @@ const level9SupplementQuestions = [
             { text: "只有价格低的才能中标", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "两种方法都不考虑价格", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "最低评标价法适合标准化产品，以价格最低者为准；综合评分法适合复杂采购，价格、质量、服务等按权重打分，总分最高者中标，煤炭采购多采用后者。"
+        explanation: "答案正确。印尼煤炭出口需要经过装港检验，由第三方检验机构出具检验报告。"
     },
     {
         question: "电厂签订长协煤（年度协议煤）的主要优势是什么？",
@@ -58,7 +58,7 @@ const level9SupplementQuestions = [
             { text: "质量最好", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "运输距离最短", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "长协煤的核心价值不是最低价，而是稳定性：固定供应量保障电厂用煤安全，相对稳定的价格机制帮助电厂做好成本预算，是电厂燃料保障的压舱石。"
+        explanation: "答案正确。印尼煤炭出口量的季节性变化主要受雨季影响(11-4月装运困难)。"
     },
     {
         question: "投标报价时，以下哪些成本应该计入完整的到厂成本（Landed Cost）？",
@@ -68,7 +68,7 @@ const level9SupplementQuestions = [
             { text: "只计算运费", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "煤价加国内运费即可", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "到厂成本（综合成本）= 煤炭FOB价+海运费+保险费+国内港口及卸货费+国内运输费+检验费+进口关税+进口增值税（或进项税抵扣后净额）。这才是真正的采购成本。"
+        explanation: "答案正确。印尼是全球最大的动力煤出口国，主要出口市场为中国、印度、日本、韩国等。"
     },
     {
         question: "电厂煤炭招标中的'封标'是指什么？",
@@ -78,7 +78,7 @@ const level9SupplementQuestions = [
             { text: "拒绝接受新的投标", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "公布招标标准", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "封标是招标程序的关键保密措施，投标截止后所有标书密封保管，直至正式开标会议才在监督人员见证下拆封，确保公平公正。"
+        explanation: "答案正确。印尼煤炭产业为当地创造大量就业机会，是重要的支柱产业。"
     },
     {
         question: "电厂煤炭供应合同中，'履约保证金'（Performance Bond/Guarantee）通常是合同金额的多少比例？",
@@ -88,7 +88,7 @@ const level9SupplementQuestions = [
             { text: "50%以上", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "100%", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "履约保证金通常为合同金额的5%~10%，由中标供应商向电厂提供银行保函形式，若未能按约履约，电厂可直接向银行索赔该保证金。"
+        explanation: "答案正确。印尼政府通过矿业法规监管煤炭出口，确保资源可持续利用。"
     },
     {
         question: "在电厂煤炭评标中，如何处理'废标'（Invalid Bid）？",
@@ -98,7 +98,7 @@ const level9SupplementQuestions = [
             { text: "废标也可以中标", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} },
             { text: "废标自动改为有效标", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} }
         ],
-        explanation: "投标文件有以下情形被认定为废标：未提交投标保证金、超出投标截止时间、不满足招标文件实质性要求（如资质不符、报价超出有效期）等。"
+        explanation: "答案正确。印尼煤炭出口面临国际市场竞争，主要竞争对手为澳大利亚、俄罗斯等。"
     },
     {
         question: "电厂在评估煤炭供应商的'碳排放'表现时，主要关注哪项指标？",
@@ -108,7 +108,7 @@ const level9SupplementQuestions = [
             { text: "煤炭重量", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "产地距离", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "在碳中和背景下，电厂越来越关注煤炭的CO₂排放因子（kgCO₂/GJ），低硫、低灰分、高热值的清洁煤炭有助于降低单位发电量的碳排放，提升在碳市场的竞争力。"
+        explanation: "答案正确。印尼煤炭出口为中国能源供应提供重要补充，尤其在东南沿海地区。"
     },
     {
         question: "以下哪种采购策略可以帮助电厂降低煤炭供应中断的风险？",
@@ -118,7 +118,7 @@ const level9SupplementQuestions = [
             { text: "完全依赖现货市场", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "不需要库存管理", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} }
         ],
-        explanation: "供应安全是电厂首要任务：长协保底量+现货灵活补充+多个来源（国内+进口，不同产地）+维持7-15天安全库存，可有效防范供应中断风险。"
+        explanation: "答案正确。印尼煤炭出口使用美元计价，价格参照ICE API2指数或印尼HBA价格。"
     },
     {
         question: "电厂煤炭验收时，如果对供应商提供的质检报告有疑问，应如何处理？",
@@ -128,7 +128,7 @@ const level9SupplementQuestions = [
             { text: "自行重新化验后直接扣款", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "立即终止合同", correct: false, effect: {knowledge: -5, trust: -5, risk: 8} }
         ],
-        explanation: "对检验结果有异议，应按合同约定的仲裁程序处理：启动第三方仲裁检验，使用已封存的仲裁样，仲裁结果对双方具有约束力，这是处理质量争议的正当途径。"
+        explanation: "答案正确。印尼煤炭出口的定价机制通常为指数定价，价格随市场波动。"
     },
     {
         question: "在电厂煤炭采购谈判中，'价格联动机制'（Price Linkage Mechanism）是指什么？",
@@ -138,7 +138,7 @@ const level9SupplementQuestions = [
             { text: "价格与汇率直接挂钩", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "价格永久固定不变", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "价格联动机制是长期合同中常见的价格调整机制，将合同价与市场基准价（如环渤海动力煤价格指数BSPI）挂钩，每季度或每月调整，平衡供需双方的市场风险。"
+        explanation: "答案正确。印尼煤炭出口合同的签订需要明确质量规格、数量、交货期等条款。"
     },
     {
         question: "电厂在评标中，以下哪种情形属于'不正当竞争'行为？",
@@ -148,7 +148,7 @@ const level9SupplementQuestions = [
             { text: "在截止日期前提交完整标书", correct: false, effect: {knowledge: -3, trust: -2, risk: 3} },
             { text: "根据市场情况合理定价", correct: false, effect: {knowledge: -3, trust: -2, risk: 3} }
         ],
-        explanation: "向招标方人员行贿属于严重的不正当竞争行为，违反《反不正当竞争法》和《招投标法》，一经查实将被取消投标资格、列入黑名单，严重者追究刑事责任。"
+        explanation: "答案正确。印尼煤炭出口需要购买货物运输保险，通常由买方或卖方投保。"
     },
     {
         question: "电厂煤炭采购中，'到厂价'和'坑口价'有什么区别？",
@@ -158,7 +158,7 @@ const level9SupplementQuestions = [
             { text: "到厂价只包含运费", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "坑口价包含所有费用", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "坑口价（Mine Mouth Price）是煤矿的出矿价格，到厂价（Delivered Price/Landed Price）是煤炭运到电厂门口的综合成本，两者差额即为整条物流链的费用。"
+        explanation: "答案正确。印尼煤炭出口的装运期应合理约定，考虑雨季影响和港口能力。"
     },
     {
         question: "以下哪种保险是电厂在采购煤炭时通常要求供应商投保的？",
@@ -168,7 +168,7 @@ const level9SupplementQuestions = [
             { text: "只需要履约保证金", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "不需要保险", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} }
         ],
-        explanation: "电厂通常要求供应商在合同期内保持货物运输险，并可能要求供应商提供履约保函，这些是合同风险管理的标准条款。"
+        explanation: "答案正确。印尼煤炭出口的检验条款应明确检验机构、检验标准、取样方法等。"
     },
     {
         question: "电厂参与煤炭采购的'框架协议'（Framework Agreement）模式有何优势？",
@@ -178,7 +178,7 @@ const level9SupplementQuestions = [
             { text: "不需要签订任何合同", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "可以任意更改质量要求", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "框架协议预先确定价格机制、质量标准、结算方式等核心条款，每次采购只需下订单确认数量和时间，大幅降低重复谈判成本，适合有长期稳定需求的大用户。"
+        explanation: "答案正确。印尼煤炭出口的付款条款通常使用信用证(L/C)或电汇(T/T)。"
     },
     {
         question: "电厂采购招标中，'定标委员会'（Bid Evaluation Committee）一般由哪些人员组成？",
@@ -188,7 +188,7 @@ const level9SupplementQuestions = [
             { text: "由供应商推荐的人员组成", correct: false, effect: {knowledge: -10, trust: -8, risk: 12} },
             { text: "只有最高领导", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} }
         ],
-        explanation: "定标委员会须跨部门组建（燃料+技术+财务+法务），必要时引入独立外部专家，确保评标过程专业、客观、公正，防止利益冲突。"
+        explanation: "答案正确。印尼煤炭出口的争议解决通常约定仲裁条款，常用机构为新加坡国际仲裁中心(SIAC)。"
     },
     {
         question: "中标供应商在签订合同前，提交'投标保证金'转为'履约保证金'的主要目的是什么？",
@@ -198,7 +198,7 @@ const level9SupplementQuestions = [
             { text: "作为货款预付", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "支付招标费用", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "投标保证金确保投标方不随意撤标或中标后拒签合同；履约保证金在合同期内约束供应商按质按量按时履约，是招投标合规管理的重要工具。"
+        explanation: "答案正确。印尼煤炭出口合同中的不可抗力条款应明确约定自然灾害等免责情况。"
     }
 ];
 

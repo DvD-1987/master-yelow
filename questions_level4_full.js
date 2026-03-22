@@ -28,7 +28,7 @@ const level4FullQuestions = [
             { text: "随意定价", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "仅按重量计价", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "煤炭价格波动大，通常采用基准价格+浮动机制，或与指数（如API、纽卡斯尔指数）挂钩。"
+        explanation: "煤炭价格波动大，通常采用基准价格+浮动机制，或与指数挂钩。"
     },
     {
         question: "煤炭贸易中，信用证（L/C）付款方式的主要风险是什么？",
@@ -38,7 +38,7 @@ const level4FullQuestions = [
             { text: "没有风险", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} },
             { text: "卖方风险最大", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "信用证是银行信用，但单证必须严格符合信用证条款，否则可能被拒付。"
+        explanation: "信用证是单证交易，单证不符可能导致银行拒付。"
     },
     {
         question: "煤炭贸易合同中，质量条款通常如何约定？",
@@ -48,7 +48,7 @@ const level4FullQuestions = [
             { text: "仅约定价格", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "口头约定即可", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} }
         ],
-        explanation: "质量条款必须明确约定热值、灰分、硫分、水分等指标及允许误差范围，避免纠纷。"
+        explanation: "答案正确。质量条款必须明确约定热值、灰分、硫分、水分等指标及允许误差范围，避免纠纷。参考：煤炭贸易合同范本。"
     }
 ];
 

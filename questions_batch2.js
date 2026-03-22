@@ -8,7 +8,7 @@ const level2ExtraQuestions = [
             { text: "立方米（m³）", correct: false, effect: {knowledge: -8, trust: -5, risk: 8} },
             { text: "吨（t）", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "煤炭的发热量单位通常用千卡/千克（kcal/kg）或大卡表示，也有用兆焦/千克（MJ/kg）。"
+        explanation: "煤炭的发热量单位通常用千卡/千克（kcal/kg）或大卡表示。"
     },
     {
         question: "煤炭的挥发分是指什么？",
@@ -18,7 +18,7 @@ const level2ExtraQuestions = [
             { text: "煤炭燃烧后剩余的灰分", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} },
             { text: "煤炭中的硫含量", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "挥发分是煤炭在高温下分解产生的气体和液体产物，是判断煤炭燃烧特性的重要指标。"
+        explanation: "挥发分是煤炭在高温下分解产生的气体和液体产物。"
     },
     {
         question: "煤炭的灰熔点高低对锅炉运行有什么影响？",
@@ -48,7 +48,7 @@ const level2ExtraQuestions = [
             { text: "没有影响", correct: false, effect: {knowledge: -10, trust: -10, risk: 15} },
             { text: "降低燃烧温度", correct: false, effect: {knowledge: -5, trust: -3, risk: 5} }
         ],
-        explanation: "煤炭中的硫燃烧后产生二氧化硫（SO₂），是酸雨的主要成因之一，也是大气污染物。"
+        explanation: "答案正确。煤炭中的硫燃烧产生二氧化硫，是酸雨的主要成因之一，对环境和健康都有危害。 煤炭中的硫燃烧后产生二氧化硫（SO₂），是酸雨的主要成因之一。"
     },
     {
         question: "煤炭的哈氏可磨性指数（HGI）表示什么？",
