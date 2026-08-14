@@ -1,5 +1,5 @@
 // 煤炭贸易题库 - 所有关卡题目
-// 总计: 590 题
+// 总计: 579 题
 
 const questionBankData = {
 1: [
@@ -294,7 +294,7 @@ const questionBankData = {
         explanation: "在印尼商务场合，应穿着正装或商务休闲装，保持得体。"
     },
     {
-        question: "印尼的",
+        question: "印尼的'潘查希拉'是什么？",
         options: [
             { text: "一种传统舞蹈", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "印尼的建国五项原则", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
@@ -334,7 +334,7 @@ const questionBankData = {
         explanation: "印尼人做决定节奏较慢，注重共识，催促对方会被视为不尊重，破坏合作关系。"
     },
     {
-        question: "印尼印尼语中，表示",
+        question: "印尼印尼语中，表示'您好'或'请问'的词是什么？",
         options: [
             { text: "Selamat", correct: true, effect: {"knowledge": 8, "trust": 8, "risk": -8} },
             { text: "Terima kasih", correct: false, effect: {"knowledge": -3, "trust": -2, "risk": 3} },
@@ -756,7 +756,7 @@ const questionBankData = {
         explanation: "收到基的全水分等于外水加内水，是煤炭的总水分含量。"
     },
     {
-        question: "为什么内水反映了煤的",
+        question: "为什么内水反映了煤的'变质程度'？",
         options: [
             { text: "与变质程度无关", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
             { text: "变质程度越低，煤结构越疏松，内水越高", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
@@ -816,7 +816,7 @@ const questionBankData = {
         explanation: "答案正确。外水增加会吸收更多热量用于水分蒸发，延缓锅炉着火。 外水进入炉膛后在低温区大量吸热，延缓着火，导致机械不完全燃烧损失增加。"
     },
     {
-        question: "煤炭56提到的",
+        question: "煤炭56提到的'无烟煤'有什么特点？",
         options: [
             { text: "挥发分高，易燃", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "挥发分低，难燃，但发热量高", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -926,7 +926,7 @@ const questionBankData = {
         explanation: "答案正确。混配可调整煤炭指标，满足不同用户需求，优化成本。 煤炭混配是为了满足不同用户对煤质（热值、硫分、灰分等）的特定要求。"
     },
     {
-        question: "煤炭的",
+        question: "煤炭的'收到基'是什么意思？",
         options: [
             { text: "收到煤炭时的状态，包含全水分", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
             { text: "干燥状态", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
@@ -1075,6 +1075,97 @@ const questionBankData = {
         ],
         explanation: "'橡皮时间'是印尼文化中对时间弹性态度的描述，外国商务人员应做好等待准备，但自己应尽量守时。"
     },
+    {
+        question: "煤炭的哈氏可磨性指数（HGI）表示什么？",
+        options: [
+            { text: "煤炭的硬度", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+            { text: "煤炭被研磨的难易程度", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
+            { text: "煤炭的燃烧速度", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+            { text: "煤炭的含水量", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+        ],
+        explanation: "哈氏可磨性指数（HGI）表示煤炭被研磨成粉的难易程度，指数越高越容易磨碎。"
+    },
+    {
+        question: "印尼煤炭的典型灰分范围是多少？",
+        options: [
+            { text: "5%-10%", correct: true, effect: {"knowledge": 8, "trust": 5, "risk": -5} },
+            { text: "20%-30%", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+            { text: "40%-50%", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
+            { text: "1%-3%", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+        ],
+        explanation: "印尼煤炭的典型灰分范围是5%-10%，属于低灰分煤。"
+    },
+    {
+        question: "煤炭的固定碳是指什么？",
+        options: [
+            { text: "煤炭中碳元素的总含量", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+            { text: "除去水分、灰分和挥发分后的固体可燃物", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
+            { text: "煤炭中的杂质", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
+            { text: "煤炭中的水分", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+        ],
+        explanation: "固定碳是除去水分、灰分和挥发分后的固体可燃物，是煤炭的主要发热成分。"
+    },
+    {
+        question: "煤炭的收到基低位发热量（Qnet,ar）与高位发热量（Qgr,ar）的主要区别是什么？",
+        options: [
+            { text: "低位发热量包含水的汽化潜热，高位发热量不包含", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
+            { text: "高位发热量包含水的汽化潜热，低位发热量不包含", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
+            { text: "两者没有区别", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
+            { text: "低位发热量用于动力煤，高位发热量用于炼焦煤", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+        ],
+        explanation: "高位发热量包含燃烧产物中水蒸气的汽化潜热，低位发热量扣除了这部分热量，更接近实际可用热量。"
+    },
+    {
+        question: "煤炭的粒度对燃烧有什么影响？",
+        options: [
+            { text: "粒度越大，燃烧越充分", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
+            { text: "粒度越小，比表面积越大，燃烧越充分", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
+            { text: "粒度对燃烧没有影响", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
+            { text: "粒度只影响运输成本", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+        ],
+        explanation: "煤炭粒度越小，比表面积越大，与空气接触越充分，燃烧越完全。"
+    },
+    {
+        question: "发热量相差多少大卡属于正常波动范围？",
+        options: [
+            { text: "10-50大卡", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+            { text: "100-200大卡", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
+            { text: "500大卡以上", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
+            { text: "不允许有任何差异", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
+        ],
+        explanation: "答案正确。发热量化验允许误差通常为±120大卡/公斤（双方化验室）。 发热量相差100-200大卡属于正常波动范围。"
+    },
+    {
+        question: "灰分相差多少属于正常波动范围？",
+        options: [
+            { text: "0.1%-0.2%", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+            { text: "0.5%-1%", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
+            { text: "2%-3%", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+            { text: "5%以上", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
+        ],
+        explanation: "答案正确。灰分化验允许误差通常为±1.5%（双方化验室）。 灰分相差0.5%-1%属于正常波动范围。"
+    },
+    {
+        question: "全水相差多少属于正常波动范围？",
+        options: [
+            { text: "0.1%-0.3%", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+            { text: "1%-2%", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
+            { text: "3%-5%", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+            { text: "不允许有差异", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
+        ],
+        explanation: "答案正确。全水分化验允许误差通常为±1.0%（双方化验室）。 全水相差1%-2%非常普遍，属于正常波动范围。"
+    },
+    {
+        question: "不同化验室、不同设备、不同人操作，结果会有差异吗？",
+        options: [
+            { text: "不会有任何差异", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
+            { text: "正常允许有小误差", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
+            { text: "差异会非常大", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+            { text: "无法确定", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
+        ],
+        explanation: "答案正确。不同化验室的结果会有差异，但应在国标允许误差范围内。 不同化验室、不同设备、不同人操作，正常允许有小误差。"
+    },
+
 ],
 3: [
     {
@@ -1136,16 +1227,6 @@ const questionBankData = {
             { text: "3个月", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
         ],
         explanation: "答案正确。印尼IUP（矿业经营许可证）有效期通常为10-20年，可续期。 印尼IUP证照有效期通常为5-20年不等，根据矿种和规模而定。"
-    },
-    {
-        question: "煤矿的",
-        options: [
-            { text: "煤矿总面积", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "在现有技术经济条件下可以开采的煤炭储量", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
-            { text: "已经开采完的煤炭量", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
-            { text: "煤矿的探明储量", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-        ],
-        explanation: "答案正确。可采储量是指技术上可开采且经济上可行的煤炭储量。 可采储量是指在现有技术经济条件下可以开采的煤炭储量。"
     },
     {
         question: "以下哪种方式不是印尼煤炭的主要运输方式？",
@@ -1238,7 +1319,7 @@ const questionBankData = {
         explanation: "答案正确。核实煤矿真实性需要实地考察、政府网站查询证照、第三方验证等多种方式综合判断。"
     },
     {
-        question: "印尼煤炭的",
+        question: "印尼动力煤的典型热值范围是多少大卡？",
         options: [
             { text: "3000-3500大卡", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "3800-5500大卡", correct: true, effect: {"knowledge": 8, "trust": 5, "risk": -5} },
@@ -1278,7 +1359,7 @@ const questionBankData = {
         explanation: "答案正确。具体客户名单和合同价格属于商业机密，IUP证照、矿区位置、煤炭质量指标等相对公开。"
     },
     {
-        question: "考察煤矿时，为什么要了解",
+        question: "考察煤矿时，为什么要了解'周边竞争情况'？",
         options: [
             { text: "与业务无关", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
             { text: "了解市场供应情况和价格竞争", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
@@ -1298,7 +1379,7 @@ const questionBankData = {
         explanation: "答案正确。实地考察、多方验证、小批量试单可以有效降低煤矿考察的风险。"
     },
     {
-        question: "以下哪种情况表明煤矿可能",
+        question: "以下哪种情况表明煤矿可能'虚报产能'？",
         options: [
             { text: "有正规生产记录", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "宣称产能很大，但实际设备很少", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
@@ -1308,7 +1389,7 @@ const questionBankData = {
         explanation: "答案正确。宣称产能很大但实际设备很少，可能是虚报产能的信号，需提高警惕。"
     },
     {
-        question: "以下哪种情况可能导致煤矿",
+        question: "以下哪种情况可能导致煤矿'突然断供'？",
         options: [
             { text: "证照齐全，生产正常", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "政府政策变化、证照被吊销、自然灾害", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
@@ -1318,7 +1399,7 @@ const questionBankData = {
         explanation: "答案正确。政府政策变化、证照被吊销、自然灾害等可能导致煤矿突然断供，需建立应急预案。"
     },
     {
-        question: "以下哪种情况表明煤矿可能存在",
+        question: "以下哪种情况表明煤矿可能存在'债务纠纷'？",
         options: [
             { text: "正常经营，按时付款", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "频繁更换合作伙伴，有法律诉讼记录", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
@@ -1690,7 +1771,7 @@ const questionBankData = {
         explanation: "答案正确。D/A(承兑交单)是指买方承兑汇票后即可从银行拿到单据，到期后再付款，对卖方风险较大。"
     },
     {
-        question: "信用证中的",
+        question: "信用证中的'软条款'是指什么？",
         options: [
             { text: "对卖方有利的条款", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "使信用证实际无法生效或使卖方无法履约的条款", correct: true, effect: {"knowledge": 15, "trust": 15, "risk": -15} },
@@ -1830,7 +1911,7 @@ const questionBankData = {
         explanation: "信用证是单证交易，单证不符可能导致银行拒付。"
     },
     {
-        question: "在国际煤炭贸易合同中，",
+        question: "在国际煤炭贸易合同中，'不可抗力'（Force Majeure）条款通常包括哪些情形？",
         options: [
             { text: "仅包括战争", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "自然灾害、战争、政府禁令、罢工等无法预见和控制的事件", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -1840,7 +1921,7 @@ const questionBankData = {
         explanation: "答案正确。谈判破裂后仍应保持专业态度，保持沟通渠道畅通，为未来合作留有余地。"
     },
     {
-        question: "煤炭长期供货合同中，",
+        question: "煤炭长期供货合同中，'照付不议'（Take or Pay）条款意味着什么？",
         options: [
             { text: "买方无论是否提货都必须支付约定数量的货款", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
             { text: "卖方必须按约定价格供货，不得涨价", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
@@ -1870,7 +1951,7 @@ const questionBankData = {
         explanation: "答案正确。好的谈判结果是双方都感觉得到了合理利益，而不是一方完全让步。"
     },
     {
-        question: "煤炭贸易中，",
+        question: "煤炭贸易中，'溢短装条款'（More or Less Clause）通常允许的偏差范围是多少？",
         options: [
             { text: "±1%", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "±5%至±10%", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -2159,6 +2240,17 @@ const questionBankData = {
         ],
         explanation: "答案正确。空气干燥基低位发热量(Qnet,ad)是去除外在水分后的发热量，印尼煤典型范围4500-6500大卡/公斤。"
     },
+    {
+        question: "煤炭贸易合同中，质量条款通常如何约定？",
+        options: [
+            { text: "不约定质量标准", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
+            { text: "约定热值、灰分、硫分、水分等指标及允许误差范围", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
+            { text: "仅约定价格", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
+            { text: "口头约定即可", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
+        ],
+        explanation: "答案正确。质量条款必须明确约定热值、灰分、硫分、水分等指标及允许误差范围，避免纠纷。参考：煤炭贸易合同范本。"
+    },
+
 ],
 5: [
     {
@@ -2432,7 +2524,7 @@ const questionBankData = {
         explanation: "答案正确。装货港的锚地驳运(Ship-to-Ship Transfer)增加作业风险和成本，需在合同中明确责任划分。"
     },
     {
-        question: "装船中，什么是",
+        question: "装船中，什么是'拉稳（Trimming）'操作？",
         options: [
             { text: "调整船舶航向", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "对货舱内的煤炭进行平整，使其均匀分布，避免局部过高", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -2452,7 +2544,7 @@ const questionBankData = {
         explanation: "答案正确。装船过程中船长需监督装货情况，确保装货安全，记录装货细节和异常情况。"
     },
     {
-        question: "装船结束时，船方签发的",
+        question: "装船结束时，船方签发的'大副收据'（Mate's Receipt）的作用是什么？",
         options: [
             { text: "是货物的最终权属证明", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "是货物实际装船的初步凭证，是签发提单的依据", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
@@ -2462,7 +2554,7 @@ const questionBankData = {
         explanation: "答案正确。装船完毕后需核对提单数量与实际装载量，确保单货一致。"
     },
     {
-        question: "以下哪种情况会导致",
+        question: "以下哪种情况会导致'不清洁提单'（Claused B/L）？",
         options: [
             { text: "货物按时装船", correct: false, effect: {"knowledge": -3, "trust": -2, "risk": 3} },
             { text: "大副收据上注明货物有破损或数量短少等批注", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -2482,7 +2574,7 @@ const questionBankData = {
         explanation: "答案正确。印尼煤炭主要出口到中国、印度、日本、韩国等亚洲国家，中国是最大进口国。"
     },
     {
-        question: "装船时，如何通过",
+        question: "装船时，如何通过'吃水计重法'（Draft Survey）确定装船量？",
         options: [
             { text: "直接用皮带秤计量", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "测量装货前后船舶六点吃水，根据吃水差计算排水量变化，再扣除压载水变化等", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -2492,7 +2584,7 @@ const questionBankData = {
         explanation: "答案正确。印尼煤炭出口到中国通常走南海航线，距离较近，航程约5-7天。"
     },
     {
-        question: "煤炭装船时，港口的",
+        question: "煤炭装船时，港口的'层流水（Laydays）'是指什么？",
         options: [
             { text: "港口的水流速度", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "合同约定的船舶在港装卸货物的允许时间", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -2502,7 +2594,7 @@ const questionBankData = {
         explanation: "答案正确。卸货港通常在买方国家的主要煤炭进口港，如中国的黄岛港、鲅鱼圈港等。"
     },
     {
-        question: "以下哪种情况，船方可以向货主索取",
+        question: "以下哪种情况，船方可以向货主索取'滞期费'（Demurrage）？",
         options: [
             { text: "装货提前完成", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "实际装货时间超过合同约定的允许装卸时间", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -2532,7 +2624,7 @@ const questionBankData = {
         explanation: "答案正确。卸货后需平整货堆(平仓)，减少自燃风险，便于后续取样和搬运。"
     },
     {
-        question: "以下哪种情况需要在提单上注明",
+        question: "以下哪种情况需要在提单上注明'货物在甲板上'（On Deck）？",
         options: [
             { text: "货物装入货舱", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "货物确实被放置在甲板上运输，而非舱内", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -2572,7 +2664,7 @@ const questionBankData = {
         explanation: "答案正确。煤炭货损的赔偿通常依据保险条款和合同约定，需及时取证和报案。"
     },
     {
-        question: "船舶靠泊装煤时，",
+        question: "船舶靠泊装煤时，'NOR'（Notice of Readiness）是什么？",
         options: [
             { text: "船舶维修通知", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "船舶到达并准备就绪、可以开始装货的正式通知", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -2612,7 +2704,7 @@ const questionBankData = {
         explanation: "答案正确。印尼雨季(11月至次年4月)降雨频繁，煤炭水分升高、装船作业经常中断，需提前做好计划应对。"
     },
     {
-        question: "在散装煤炭的船务实践中，",
+        question: "在散装煤炭的船务实践中，'舱位指定函'（Stowage Plan）的作用是什么？",
         options: [
             { text: "记录船员分工", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "规划各货舱的装载量分配，确保船舶纵向和横向稳性", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -2632,7 +2724,7 @@ const questionBankData = {
         explanation: "答案正确。独立第三方验货师(如SGS、Intertek、BV等)按国际标准出具的吃水计重报告具有最高公信力。"
     },
     {
-        question: "煤炭装船中，",
+        question: "煤炭装船中，'洗舱费'（Cleaning Fee）通常由谁承担？",
         options: [
             { text: "港口当局", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "视合同约定而定，一般由租船人（货主）承担", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -2964,7 +3056,7 @@ const questionBankData = {
         explanation: "答案正确。煤样制备必须经过破碎、混合、缩分等步骤，确保样品具有代表性。参考：GB/T 19494.2。"
     },
     {
-        question: "煤炭水分检验中，",
+        question: "煤炭水分检验中，'全水分'（Mt）测定时，煤样应在多少度烘干？",
         options: [
             { text: "50°C", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "105°C至110°C", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -3004,7 +3096,7 @@ const questionBankData = {
         explanation: "答案正确。氧弹量热计是测定煤炭发热量的标准仪器，煤样在充满纯氧的密封钢弹中完全燃烧，通过测量水温升计算发热量。参考：GB/T 213。"
     },
     {
-        question: "煤炭的",
+        question: "煤炭的'挥发分'（Volatile Matter）测定条件是什么？",
         options: [
             { text: "在空气中加热至300°C", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "在隔绝空气的条件下，900°C±10°C加热7分钟", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -3014,7 +3106,7 @@ const questionBankData = {
         explanation: "答案正确。挥发分测定按GB/T 212，在隔绝空气的坩埚中900°C±10°C加热7分钟，损失的质量减去水分即为挥发分。"
     },
     {
-        question: "在煤炭检验中，",
+        question: "在煤炭检验中，'仲裁样品'的保存目的是什么？",
         options: [
             { text: "仅供参观展示", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "在双方对检验结果有争议时，委托第三方用仲裁样重新检验", correct: true, effect: {"knowledge": 12, "trust": 12, "risk": -12} },
@@ -3034,7 +3126,7 @@ const questionBankData = {
         explanation: "答案正确。ISO 18283是国际标准化组织发布的散装煤炭取样标准，规定了取样方案、取样设备和操作程序，是国际贸易中的主要参照标准。"
     },
     {
-        question: "什么是煤炭检验中的",
+        question: "什么是煤炭检验中的'系统取样'（Systematic Sampling）？",
         options: [
             { text: "随机抽取几铲样品", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "按固定时间或固定质量间隔，从整批煤流中有规律地取样", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -3074,7 +3166,7 @@ const questionBankData = {
         explanation: "答案正确。SGS、Intertek、BV等是国际知名的独立检验机构，其检验证书在全球范围内获得银行、保险和贸易方的广泛认可。"
     },
     {
-        question: "煤炭化验报告中，",
+        question: "煤炭化验报告中，'Ad'基代表什么分析基准？",
         options: [
             { text: "收到基（含全水分）", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "空气干燥基（在实验室空气条件下平衡后的水分状态）", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -3134,7 +3226,7 @@ const questionBankData = {
         explanation: "答案正确。能力验证(PT)是化验室质量管理体系(如ISO/IEC 17025)的核心要求，通过使用标准参考煤样与其他实验室比对结果，验证检测能力。"
     },
     {
-        question: "煤样",
+        question: "煤样'缩分'操作中，常用的'二分器'（Riffle Divider）如何使用？",
         options: [
             { text: "将煤样从高处倒下，随机分成两份", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "将煤样均匀倒入有交替方向槽口的二分器中，自动分成等量两份", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -3174,7 +3266,7 @@ const questionBankData = {
         explanation: "答案正确。印尼-中国南海航线是东南亚至中国的主要煤炭运输航线，航程约5-7天。"
     },
     {
-        question: "煤炭检验报告上的",
+        question: "煤炭检验报告上的'CV (NAR)'是什么意思？",
         options: [
             { text: "煤炭重量", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "净收到基低位发热量（Net As Received Calorific Value）", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -3184,7 +3276,7 @@ const questionBankData = {
         explanation: "答案正确。好望角型船舶(Cape Size)载重吨通常在15万吨以上，但吃水较深，印尼很多港口无法靠泊。"
     },
     {
-        question: "检验机构对煤样进行化验时，为何要保留",
+        question: "检验机构对煤样进行化验时，为何要保留'副样'（Reserve Sample）？",
         options: [
             { text: "作为纪念品", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "以备复检或仲裁检验时使用，确保检验结果可追溯和可复核", correct: true, effect: {"knowledge": 12, "trust": 12, "risk": -12} },
@@ -3194,7 +3286,7 @@ const questionBankData = {
         explanation: "答案正确。港口吃水限制是影响船舶选择的重要因素，印尼很多煤炭港口水深有限，无法靠泊大型船舶。"
     },
     {
-        question: "煤炭检验中，",
+        question: "煤炭检验中，'全水分'样品采集后，从取样到开始测定的最长允许时间是多少？",
         options: [
             { text: "24小时以内，且全程密封保存", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
             { text: "可以放置一周后再测定", correct: false, effect: {"knowledge": -10, "trust": -8, "risk": 12} },
@@ -3546,7 +3638,7 @@ const questionBankData = {
         explanation: "答案正确。船舶互撞责任条款(Hague Visby Rule)规定承运人最低责任和免责事项。"
     },
     {
-        question: "出口文件中的",
+        question: "出口文件中的'清洁提单'是指什么？",
         options: [
             { text: "提单表面清洁", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "承运人未对货物表面状况作不良批注的提单", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
@@ -3606,7 +3698,7 @@ const questionBankData = {
         explanation: "答案正确。BDI指数(波罗的海干散货指数)是反映干散货运输市场运费水平的权威指数。"
     },
     {
-        question: "印尼煤炭出口需要提交的",
+        question: "印尼煤炭出口需要提交的'ETPIK'证书是什么？",
         options: [
             { text: "印尼环保许可证", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "印尼出口商注册证书（Eksportir Terdaftar Produk Industri Kehutanan的缩写变体，煤炭出口商注册证）", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -3636,7 +3728,7 @@ const questionBankData = {
         explanation: "答案正确。一切险(All Risks)是最高险别，除承保水渍险责任外，还承保一般外来原因造成的损失。"
     },
     {
-        question: "在印尼港口，",
+        question: "在印尼港口，'引水员'（Pilot）的职责是什么？",
         options: [
             { text: "检查货物质量", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "熟悉当地水道，引领船舶安全进出港口", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -3646,7 +3738,7 @@ const questionBankData = {
         explanation: "答案正确。保险金额通常为CIF价的110%，以便覆盖预期利润。"
     },
     {
-        question: "印尼海关的",
+        question: "印尼海关的'绿色通道'（Green Lane）和'红色通道'（Red Lane）有什么区别？",
         options: [
             { text: "颜色不同，没有实际区别", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "绿色通道免于查验直接放行，红色通道需要逐票查验货物", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -3656,7 +3748,7 @@ const questionBankData = {
         explanation: "答案正确。保险费率受航线、货物类型、船龄等因素影响。"
     },
     {
-        question: "煤炭出口合规中，",
+        question: "煤炭出口合规中，'DMO'（国内市场义务）政策要求什么？",
         options: [
             { text: "所有煤炭必须全部出口", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "煤矿企业必须将部分产量（通常25%）以优惠价格供应国内市场后，才能申请出口配额", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -3686,7 +3778,7 @@ const questionBankData = {
         explanation: "答案正确。保险代位求偿权是指保险公司赔付后取代被保险人向第三方追偿的权利。"
     },
     {
-        question: "出口信用证（L/C）业务中，",
+        question: "出口信用证（L/C）业务中，'议付行'（Negotiating Bank）的作用是什么？",
         options: [
             { text: "签发信用证", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "审核出口商提交的单据，符合信用证条款后买入单据并付款", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -3706,7 +3798,7 @@ const questionBankData = {
         explanation: "答案正确。检验鉴定类保单由第三方检验机构出具，比如CCIC。"
     },
     {
-        question: "在印尼出口通关中，",
+        question: "在印尼出口通关中，'ATA单证册'（ATA Carnet）通常用于哪种情况？",
         options: [
             { text: "大批量煤炭出口", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "展品、商业样品、专业设备等临时出境物品的通关", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -3716,7 +3808,7 @@ const questionBankData = {
         explanation: "答案正确。保险单是向银行结汇的重要单据之一。"
     },
     {
-        question: "在处理印尼煤炭出口中的",
+        question: "在处理印尼煤炭出口中的'洗钱'风险时，以下哪种做法是合规的？",
         options: [
             { text: "接受来历不明的资金", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 20} },
             { text: "对客户进行KYC（了解你的客户）审查，通过正规银行渠道收付款", correct: true, effect: {"knowledge": 12, "trust": 12, "risk": -12} },
@@ -3736,7 +3828,7 @@ const questionBankData = {
         explanation: "答案正确。印尼是东盟成员国，中国从印尼进口煤炭享受中国-东盟自由贸易区协定税率。"
     },
     {
-        question: "离港时，船长需要向港口当局提交",
+        question: "离港时，船长需要向港口当局提交'危险货物申报'（DG Declaration）吗？煤炭需要申报吗？",
         options: [
             { text: "不需要，煤炭不是危险货物", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "需要。散装煤炭在IMSBC Code中被列为B类货物（可能产生可燃气体），须按规定申报和采取安全措施", correct: true, effect: {"knowledge": 12, "trust": 12, "risk": -12} },
@@ -3746,7 +3838,7 @@ const questionBankData = {
         explanation: "答案正确。原产地证书是享受协定税率的必要凭证，需在进口时向海关提交。"
     },
     {
-        question: "出口单证中，",
+        question: "出口单证中，'装箱单'（Packing List）在散装煤炭贸易中有何作用？",
         options: [
             { text: "散装煤炭不需要装箱单", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "散装煤炭通常以重量清单（Weight List）代替，记录各舱的装载量", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -3786,7 +3878,7 @@ const questionBankData = {
         explanation: "答案正确。进口煤炭放射性超标将被退运或销毁，不能在中国市场销售。"
     },
     {
-        question: "以下哪种情况，出口商可以要求将",
+        question: "以下哪种情况，出口商可以要求将'不清洁提单'更改为'清洁提单'？",
         options: [
             { text: "向船方缴纳额外费用后直接更改", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
             { text: "不能随意更改；但若批注是因误解造成且实际货物无问题，可出具保函申请更改，风险由出口商承担", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -3796,7 +3888,7 @@ const questionBankData = {
         explanation: "答案正确。无单放货可能导致贸易欺诈，银行可能不接受此做法，且属于欺诈风险领域。"
     },
     {
-        question: "在印尼煤炭出口实务中，",
+        question: "在印尼煤炭出口实务中，'免租期'（Free Time）是指什么？",
         options: [
             { text: "船舶无偿使用港口的时间", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "租船合同中，货主可以免费使用船舶进行装卸的允许时间（Laytime内的免费时间）", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -4208,36 +4300,6 @@ const questionBankData = {
         explanation: "答案正确。煤炭的HS编码在第27章：2701.11(无烟煤)、2701.12(烟煤/动力煤)、2701.19(其他煤)。正确归类对报关和关税计算至关重要。"
     },
     {
-        question: "中国进口煤炭实行的",
-        options: [
-            { text: "任何来源的煤炭均可进口", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "进口商和进口口岸需在政府核定的名单内，部分口岸有进口煤炭资质要求", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
-            { text: "只有国有企业可以进口煤炭", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "不需要任何资质", correct: false, effect: {"knowledge": -10, "trust": -8, "risk": 12} },
-        ],
-        explanation: "答案正确。中国对煤炭进口实行一定的管理制度，进口口岸、进口企业资质以及煤炭质量标准均有规定。"
-    },
-    {
-        question: "在中国港口卸煤时，船方通常要求签署的",
-        options: [
-            { text: "货方要求船方提前放货，未提交正本提单时，向船方出具的保函", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
-            { text: "货物损坏时的理赔申请", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "延迟卸货的赔偿说明", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "海关的进口许可证", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-        ],
-        explanation: "答案正确。LOI(以保函换提单)是指在正本提单未到达时，收货人向船东出具保函，承诺日后提交提单并赔偿船东由此产生的损失，换取船东放货。"
-    },
-    {
-        question: "中国海关进口煤炭时，检验检疫项目中",
-        options: [
-            { text: "无任何标准限制", correct: false, effect: {"knowledge": -10, "trust": -8, "risk": 12} },
-            { text: "煤炭的天然放射性核素含量不得超过规定限值，超标将被退运或销毁", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
-            { text: "只对特定国家进行检测", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "仅抽查部分批次", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-        ],
-        explanation: "答案正确。中国海关对所有进口煤炭强制实施放射性检测，依据《进出口固体废物放射性污染防治规定》，超标批次将被退运。"
-    },
-    {
         question: "进口煤炭到港后，如果发现数量短少，买方应如何处理？",
         options: [
             { text: "直接接受，不追究", correct: false, effect: {"knowledge": -10, "trust": -8, "risk": 12} },
@@ -4258,7 +4320,7 @@ const questionBankData = {
         explanation: "答案正确。中国国家标准对进口煤炭有明确的质量限值（灰分≤40%、硫分≤3%等），部分发达省市地方标准更严。超标煤炭需处理或退运。"
     },
     {
-        question: "卸煤港口的",
+        question: "卸煤港口的'胶带输送机计量'和'吃水计重'两种方式，哪种更适合作为贸易结算依据？",
         options: [
             { text: "胶带输送机计量更准确", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "合同约定的计量方式更重要；通常采用经双方认可的第三方吃水计重或岸上地磅", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -4268,7 +4330,7 @@ const questionBankData = {
         explanation: "答案正确。贸易结算应以合同约定的计量方式为准。实践中常用第三方出具的吃水计重报告，或在固定地磅上过磅计量。"
     },
     {
-        question: "进口煤炭的",
+        question: "进口煤炭的'关税完税价格'是如何确定的？",
         options: [
             { text: "按矿山成本价计算", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "以成交价格为基础，通常为CIF价格（含运费、保险）", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -4278,7 +4340,7 @@ const questionBankData = {
         explanation: "答案正确。海关对进口货物的关税完税价格以成交价为基础（通常为CIF价），若申报价格明显低于正常市场水平，海关可进行价格质疑和调整。"
     },
     {
-        question: "以下哪种情况，进口商可以申请海关",
+        question: "以下哪种情况，进口商可以申请海关'特殊监管区域'（如保税区）的优惠政策？",
         options: [
             { text: "任何进口货物都可以", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "货物进入特殊监管区后，可暂缓缴纳进口税，待实际销售或转移到境内时再缴税", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -4288,7 +4350,7 @@ const questionBankData = {
         explanation: "答案正确。保税仓库、综合保税区等特殊监管区允许货物"
     },
     {
-        question: "在进口煤炭卸船作业中，",
+        question: "在进口煤炭卸船作业中，'舱底清扫'（Sweeping）是指什么？",
         options: [
             { text: "清洁甲板", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "在抓斗无法取尽后，由工人进入舱内将残余煤炭清扫干净，计入总卸货量", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -4298,7 +4360,7 @@ const questionBankData = {
         explanation: "答案正确。卸煤时抓斗作业完成后，舱底仍有残余煤炭，需要工人进舱清扫并吊出，这部分"
     },
     {
-        question: "进口煤炭卸货港对",
+        question: "进口煤炭卸货港对'压载水'（Ballast Water）的管理要求是什么？",
         options: [
             { text: "压载水可以随意排放", correct: false, effect: {"knowledge": -10, "trust": -8, "risk": 12} },
             { text: "压载水须经过处理符合标准才能排放，防止外来物种入侵", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -4308,7 +4370,7 @@ const questionBankData = {
         explanation: "答案正确。《压载水管理国际公约》(BWM Convention)要求船舶在排放压载水前必须进行处理，防止将外来水生生物带入。"
     },
     {
-        question: "电厂煤炭卸货后，做",
+        question: "电厂煤炭卸货后，做'来煤检验'（Incoming Coal Analysis）的主要目的是什么？",
         options: [
             { text: "仅为了记录存档", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "验证实际到货质量是否符合合同，作为结算（热值扣罚）和向卖方索赔的依据", correct: true, effect: {"knowledge": 12, "trust": 12, "risk": -12} },
@@ -4338,7 +4400,7 @@ const questionBankData = {
         explanation: "答案正确。索赔的关键是时效和证据：必须在合同约定期限内（通常30-90天）提出，并保留完整的检验报告、照片、样品等证据。"
     },
     {
-        question: "进口煤炭中，",
+        question: "进口煤炭中，'燃料油等能量当量换算'在电厂采购中有何应用？",
         options: [
             { text: "用于将煤炭的热值折算成等效燃料油价格，便于不同燃料的成本比较", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
             { text: "煤炭不能与燃料油比较", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
@@ -4348,7 +4410,7 @@ const questionBankData = {
         explanation: "答案正确。能量当量换算（如：1吨5500大卡煤的能量≈0.786吨标准煤）是电厂和贸易商评估不同燃料竞争力的重要工具。"
     },
     {
-        question: "在卸货港，",
+        question: "在卸货港，港口拥堵会导致什么？",
         options: [
             { text: "对各方没有影响", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "船舶等待时间延长，会产生额外的", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -4358,7 +4420,7 @@ const questionBankData = {
         explanation: "答案正确。港口拥堵会延长船舶停泊时间，产生滞期费（租船人承担），还导致货物晚到影响电厂用煤，增加供应链的各项成本。"
     },
     {
-        question: "中国进口煤炭时，",
+        question: "中国进口煤炭时，'市场准入'政策在哪种情况下会暂停某国的进口？",
         options: [
             { text: "进口量增加时", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "依据国内供需、贸易政策调整、检疫风险或外交因素，主管部门可暂停特定来源国的进口", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -4860,26 +4922,6 @@ const questionBankData = {
         explanation: "答案正确。印尼煤炭出口到中国可享受中国-东盟自贸区协定税率(0关税)，需提供FORM E原产地证书。"
     },
     {
-        question: "电厂煤炭采购招标中，",
-        options: [
-            { text: "仅用于报表填写", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "将不同热值的煤炭换算为同一热值基准进行价格比较，确保评标公平", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
-            { text: "增加煤炭热值", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "计算运输成本", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-        ],
-        explanation: "答案正确。印尼煤炭出口商应确保煤炭符合中国的质量和安全标准，否则可能退运。"
-    },
-    {
-        question: "电厂煤炭采购合同中，",
-        options: [
-            { text: "到货热值低于合同值时无需处理", correct: false, effect: {"knowledge": -10, "trust": -8, "risk": 12} },
-            { text: "到货热值低于合同保证值时，按比例扣减货款；高于合同值时，买方按比例溢价付款", correct: true, effect: {"knowledge": 12, "trust": 12, "risk": -12} },
-            { text: "热值低于合同值就退货", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "热值偏差不影响货款", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-        ],
-        explanation: "答案正确。印尼煤炭出口企业需要具有合法的矿业经营许可证(IUP)或工作合同(COW)。"
-    },
-    {
         question: "电厂对煤炭供应商进行资格审查时，最关注哪些核心指标？",
         options: [
             { text: "供应商的办公室位置", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
@@ -4888,16 +4930,6 @@ const questionBankData = {
             { text: "供应商的网站质量", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
         ],
         explanation: "答案正确。印尼对煤炭出口实施环保监管，确保煤炭开采和出口符合环境法规。"
-    },
-    {
-        question: "在电厂投标中，",
-        options: [
-            { text: "两种方法完全相同", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "最低评标价法只看价格；综合评分法同时考虑价格、质量、交货、信誉等多项因素打分", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
-            { text: "只有价格低的才能中标", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "两种方法都不考虑价格", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-        ],
-        explanation: "答案正确。印尼煤炭出口需要经过装港检验，由第三方检验机构出具检验报告。"
     },
     {
         question: "电厂签订长协煤（年度协议煤）的主要优势是什么？",
@@ -4920,7 +4952,7 @@ const questionBankData = {
         explanation: "答案正确。印尼是全球最大的动力煤出口国，主要出口市场为中国、印度、日本、韩国等。"
     },
     {
-        question: "电厂煤炭招标中的",
+        question: "电厂煤炭招标中的'封标'是指什么？",
         options: [
             { text: "提前宣布中标结果", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "投标截止后，所有投标文件被密封保存，在开标前任何人不得拆封查阅", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
@@ -4930,7 +4962,7 @@ const questionBankData = {
         explanation: "答案正确。印尼煤炭产业为当地创造大量就业机会，是重要的支柱产业。"
     },
     {
-        question: "电厂煤炭供应合同中，",
+        question: "电厂煤炭供应合同中，'履约保证金'（Performance Bond/Guarantee）通常是合同金额的多少比例？",
         options: [
             { text: "1%以内", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "5%~10%", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -4940,7 +4972,7 @@ const questionBankData = {
         explanation: "答案正确。印尼政府通过矿业法规监管煤炭出口，确保资源可持续利用。"
     },
     {
-        question: "在电厂煤炭评标中，如何处理",
+        question: "在电厂煤炭评标中，如何处理'废标'（Invalid Bid）？",
         options: [
             { text: "给予废标方补偿", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "不符合招标文件实质性要求的投标被认定为废标，不参与评比", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -4950,7 +4982,7 @@ const questionBankData = {
         explanation: "答案正确。印尼煤炭出口面临国际市场竞争，主要竞争对手为澳大利亚、俄罗斯等。"
     },
     {
-        question: "电厂在评估煤炭供应商的",
+        question: "电厂在评估煤炭供应商的'碳排放'表现时，主要关注哪项指标？",
         options: [
             { text: "煤炭颜色", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "煤炭含碳量和单位热值碳排放因子（CO₂排放系数）", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -4980,7 +5012,7 @@ const questionBankData = {
         explanation: "答案正确。印尼煤炭出口的定价机制通常为指数定价，价格随市场波动。"
     },
     {
-        question: "在电厂煤炭采购谈判中，",
+        question: "在电厂煤炭采购谈判中，'价格联动机制'（Price Linkage Mechanism）是指什么？",
         options: [
             { text: "所有煤炭必须同一价格", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "合同价格与某指数（如秦皇岛港价或热值折算价）挂钩，定期调整", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -4990,7 +5022,7 @@ const questionBankData = {
         explanation: "答案正确。印尼煤炭出口合同的签订需要明确质量规格、数量、交货期等条款。"
     },
     {
-        question: "电厂在评标中，以下哪种情形属于",
+        question: "电厂在评标中，以下哪种情形属于'不正当竞争'行为？",
         options: [
             { text: "按照招标文件要求认真准备标书", correct: false, effect: {"knowledge": -3, "trust": -2, "risk": 3} },
             { text: "向招标方工作人员提供礼品或好处，试图影响评标结果", correct: true, effect: {"knowledge": 12, "trust": 12, "risk": -12} },
@@ -5000,7 +5032,7 @@ const questionBankData = {
         explanation: "答案正确。印尼煤炭出口需要购买货物运输保险，通常由买方或卖方投保。"
     },
     {
-        question: "电厂煤炭采购中，",
+        question: "电厂煤炭采购中，'到厂价'和'坑口价'有什么区别？",
         options: [
             { text: "两者完全相同", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
             { text: "坑口价是矿山出矿价；到厂价=坑口价+运费+港口费+中间环节费用，反映电厂的真实成本", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -5020,7 +5052,7 @@ const questionBankData = {
         explanation: "答案正确。印尼煤炭出口的检验条款应明确检验机构、检验标准、取样方法等。"
     },
     {
-        question: "电厂参与煤炭采购的",
+        question: "电厂参与煤炭采购的'框架协议'（Framework Agreement）模式有何优势？",
         options: [
             { text: "价格最低", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "一次谈判确定基本条款，简化后续每批次采购流程，降低交易成本", correct: true, effect: {"knowledge": 10, "trust": 8, "risk": -8} },
@@ -5030,7 +5062,7 @@ const questionBankData = {
         explanation: "答案正确。印尼煤炭出口的付款条款通常使用信用证(L/C)或电汇(T/T)。"
     },
     {
-        question: "电厂采购招标中，",
+        question: "电厂采购招标中，'定标委员会'（Bid Evaluation Committee）一般由哪些人员组成？",
         options: [
             { text: "只有采购部门人员", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "由燃料管理、技术、财务、法务等多部门人员及外部专家共同组成，确保评标公正性", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
@@ -5040,7 +5072,7 @@ const questionBankData = {
         explanation: "答案正确。印尼煤炭出口的争议解决通常约定仲裁条款，常用机构为新加坡国际仲裁中心(SIAC)。"
     },
     {
-        question: "中标供应商在签订合同前，提交",
+        question: "中标供应商在签订合同前，提交'投标保证金'转为'履约保证金'的主要目的是什么？",
         options: [
             { text: "仅为形式需要", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
             { text: "确保中标方按合同条款认真履约，若违约则电厂可没收保证金作为赔偿", correct: true, effect: {"knowledge": 10, "trust": 10, "risk": -10} },
@@ -5252,16 +5284,6 @@ const questionBankData = {
         explanation: "答案正确。印尼煤炭出口的保险条款通常约定保险金额、保险范围等。"
     },
     {
-        question: "以下哪种做法是煤炭贸易公司",
-        options: [
-            { text: "以利润最大化为唯一目标", correct: false, effect: {"knowledge": -10, "trust": -8, "risk": 12} },
-            { text: "建立完善的内控制度，遵守贸易法规，进行反洗钱（AML）和了解你的客户（KYC）审查", correct: true, effect: {"knowledge": 12, "trust": 12, "risk": -12} },
-            { text: "只要有利润就可以不管合规", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 20} },
-            { text: "合规只是形式，不影响经营", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 20} },
-        ],
-        explanation: "答案正确。印尼煤炭出口的违约金条款应明确约定违约责任和赔偿方式。"
-    },
-    {
         question: "贸易信用风险（Counterparty Credit Risk）在煤炭贸易中如何有效管理？",
         options: [
             { text: "完全信任对方，不需要管理", correct: false, effect: {"knowledge": -10, "trust": -8, "risk": 12} },
@@ -5270,16 +5292,6 @@ const questionBankData = {
             { text: "所有交易先付款", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
         ],
         explanation: "答案正确。印尼煤炭出口的履约保函是保障合同履行的重要工具。"
-    },
-    {
-        question: "煤炭贸易中，",
-        options: [
-            { text: "完全不使用金融工具", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "买入现货同时卖出相应数量的煤炭期货，锁定价格波动风险", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
-            { text: "只做期货投机", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "通过大量储存煤炭对冲风险", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-        ],
-        explanation: "答案正确。印尼煤炭出口的质量争议应以装港检验结果为准或双方协商解决。"
     },
     {
         question: "完整的煤炭贸易操作流程，从市场开发到回款，正确顺序是哪个？",
@@ -5292,16 +5304,6 @@ const questionBankData = {
         explanation: "答案正确。印尼煤炭出口的数量争议应以提单数量或卸港数量为准。"
     },
     {
-        question: "印尼煤炭贸易中，",
-        options: [
-            { text: "只来自价格差（买卖差价）", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "买卖差价+运费优化+汇率收益+质量溢价+资金运营效率", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
-            { text: "完全依靠补贴", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "靠拖延付款赚取利差", correct: false, effect: {"knowledge": -10, "trust": -8, "risk": 12} },
-        ],
-        explanation: "答案正确。印尼煤炭出口的延期交货应按合同约定承担违约责任。"
-    },
-    {
         question: "一个完整的煤炭进口业务，从签合同到全部回款，通常需要多长时间？",
         options: [
             { text: "1-3天", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
@@ -5310,16 +5312,6 @@ const questionBankData = {
             { text: "仅需1周", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
         ],
         explanation: "答案正确。印尼煤炭出口的终止条款应明确约定终止条件和后果。"
-    },
-    {
-        question: "在煤炭贸易中，什么是",
-        options: [
-            { text: "两个合同内容完全相同，签给两个不同客户", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "贸易商的购煤合同条款与销售合同条款基本对应，将上下游风险对齐", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
-            { text: "只签购煤合同，不签销售合同", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "两个买方共同购买一批煤", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-        ],
-        explanation: "答案正确。印尼煤炭出口合同应适用国际商法(ICC)或双方约定的法律。"
     },
     {
         question: "煤炭贸易中，货物在港口滞留过久（超过免费堆存期），会产生什么费用？",
@@ -5422,16 +5414,6 @@ const questionBankData = {
         explanation: "答案正确。历史上多次出现印尼矿山在行情上涨时以各种理由减少供货甚至违约，这是长协买方的重要风险。防范措施：在合同中明确违约责任和赔偿条款。"
     },
     {
-        question: "以下哪种情形最能说明贸易商具备优秀的",
-        options: [
-            { text: "从不参与任何煤炭贸易", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "能够在采购、运输、检验、通关各环节系统性地识别风险、制定预案，并在风险发生时快速有效应对", correct: true, effect: {"knowledge": 12, "trust": 12, "risk": -12} },
-            { text: "每次都预测价格涨跌", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "只做现货，回避所有期货工具", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-        ],
-        explanation: "答案正确。优秀的风险管理不是消除风险，而是系统识别→量化评估→制定预案→全流程监控→快速响应的完整体系。"
-    },
-    {
         question: "以下哪些是影响印尼对华煤炭出口量的主要宏观因素？",
         options: [
             { text: "只有煤炭价格一个因素", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
@@ -5450,16 +5432,6 @@ const questionBankData = {
             { text: "ESG要求反而有利于煤炭贸易", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
         ],
         explanation: "答案正确。全球ESG浪潮对煤炭贸易形成系统性压力：国际银行缩减煤炭融资、欧洲碳边境调节机制对高碳进口产品征税、投资者撤离等。"
-    },
-    {
-        question: "以下哪项最能描述",
-        options: [
-            { text: "价格最低的煤炭一定最好卖", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "在合规经营的前提下，通过专业知识积累、关系建设、风险管理，实现可持续的商业成功", correct: true, effect: {"knowledge": 15, "trust": 15, "risk": -15} },
-            { text: "只要量大就能成功", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "走捷径、拒绝合规是成功之道", correct: false, effect: {"knowledge": -15, "trust": -15, "risk": 20} },
-        ],
-        explanation: "答案正确。印尼煤炭贸易的成功之道：扎实的专业知识（知识值）+赢得合作伙伴信任（信任度）+有效管控风险（风险值）。"
     },
     {
         question: "某批印尼煤合同热值5000大卡，合同价格60美元/吨，到货实测热值4800大卡，应如何计算实际结算价？",
@@ -5502,16 +5474,6 @@ const questionBankData = {
         explanation: "答案正确。最低库存 = 日耗量 × 安全天数：100万吨/365天 ≈ 2740吨/日，2740×15天 ≈ 4.1万吨。"
     },
     {
-        question: "以下哪项描述了",
-        options: [
-            { text: "只要关系好就能成功", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "专业知识+合规意识+风险管理+信任关系+资金管理，五位一体缺一不可", correct: true, effect: {"knowledge": 15, "trust": 15, "risk": -15} },
-            { text: "只要价格低就能中标", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "依靠运气", correct: false, effect: {"knowledge": -10, "trust": -8, "risk": 12} },
-        ],
-        explanation: "答案正确。成功的印尼煤炭贸易需要：①专业知识（懂煤炭品质、懂合同、懂物流）②合规意识（遵守法规，不走捷径）③风险管理能力。"
-    },
-    {
         question: "贸易商在处理一批因质量争议被买方拒绝的印尼煤时，以下哪种处理方式最为专业？",
         options: [
             { text: "丢弃煤炭", correct: false, effect: {"knowledge": -10, "trust": -8, "risk": 12} },
@@ -5532,56 +5494,6 @@ const questionBankData = {
         explanation: "答案正确。中国能源转型是渐进式的，预计2030年前仍是煤炭消费大国，但对进口煤的要求趋严：更低的硫分、灰分，更高热值。"
     },
     {
-        question: "以下哪个情景描述了理想的",
-        options: [
-            { text: "以最低合规代价完成一票交易", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "通过合规经营、专业操作完成全流程，建立了与矿山、船公司、买方的长期信任关系，为下一批业务奠定基础", correct: true, effect: {"knowledge": 15, "trust": 15, "risk": -15} },
-            { text: "只要赚了钱其他都不重要", correct: false, effect: {"knowledge": -5, "trust": -5, "risk": 8} },
-            { text: "做成一票后立即退出市场", correct: false, effect: {"knowledge": -5, "trust": -5, "risk": 8} },
-        ],
-        explanation: "答案正确。贸易的最高境界不是一次性获利，而是建立可持续的商业生态：矿山信任你、船公司愿意给优先舱位、银行愿意给融资。"
-    },
-    {
-        question: "在煤炭供应链中，",
-        options: [
-            { text: "仅用于娱乐目的", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "实时掌握船舶位置、在途货量、预计到港时间，优化库存管理和风险应对", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
-            { text: "只对船公司有用", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "增加运营成本，没有实际价值", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-        ],
-        explanation: "答案正确。现代贸易管理中，船舶AIS追踪、在途货物状态监控让贸易商随时了解供应链状态，预判风险（如船舶延误、天气影响）。"
-    },
-    {
-        question: "在印尼煤炭贸易中，以下哪种情形属于",
-        options: [
-            { text: "关联企业间交易价格明显偏离市场公允价格，用于转移利润避税", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
-            { text: "正常的货物价格波动", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "不同港口的价格差异", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "汇率变动带来的价格变化", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-        ],
-        explanation: "答案正确。转移定价是跨国企业间的税务合规重点：若母子公司或关联方之间的煤炭交易价格偏离独立第三方市场价格，可能引发税务风险。"
-    },
-    {
-        question: "煤炭贸易中，商业谈判的",
-        options: [
-            { text: "一种煤炭品种的名称", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "谈判破裂时己方能接受的最好替代方案，决定了谈判的最低底线", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
-            { text: "贸易合同的附件模板", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "一种价格计算方法", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-        ],
-        explanation: "答案正确。BATNA(Best Alternative To a Negotiated Agreement)是谈判中最重要的概念，指如果当前谈判不成，你的最佳替代方案是什么。"
-    },
-    {
-        question: "中国电厂对进口印尼煤炭的",
-        options: [
-            { text: "降低煤炭质量", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "将低热值进口煤与高热值国内煤混合，在满足锅炉设计参数的前提下，实现成本最优化", correct: true, effect: {"knowledge": 12, "trust": 10, "risk": -10} },
-            { text: "掺烧没有任何意义", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "只是为了消耗库存", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-        ],
-        explanation: "答案正确。掺烧是电厂燃料管理的重要手段：进口低热值煤（如印尼3800大卡）价格便宜，与高热值国内煤（5500大卡）掺配使用可降低成本。"
-    },
-    {
         question: "贸易商在与印尼供应商签订长期供货协议前，应进行哪些尽职调查（Due Diligence）？",
         options: [
             { text: "不需要做任何调查", correct: false, effect: {"knowledge": -10, "trust": -8, "risk": 12} },
@@ -5600,26 +5512,6 @@ const questionBankData = {
             { text: "只靠低价竞争", correct: false, effect: {"knowledge": -5, "trust": -5, "risk": 8} },
         ],
         explanation: "答案正确。可持续的贸易商业模式：以专业服务和稳定供应赢得长期合约，而非靠信息不对称的一次性套利。随着市场透明度提高，套利空间越来越小。"
-    },
-    {
-        question: "黄老师在印尼煤炭贸易中建立",
-        options: [
-            { text: "给更多好处，用金钱买信任", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
-            { text: "诚实守信，按时履约，专业能力出众，出现问题主动沟通解决", correct: true, effect: {"knowledge": 12, "trust": 15, "risk": -15} },
-            { text: "隐瞒不好的消息", correct: false, effect: {"knowledge": -10, "trust": -10, "risk": 15} },
-            { text: "只报喜不报忧", correct: false, effect: {"knowledge": -8, "trust": -8, "risk": 12} },
-        ],
-        explanation: "答案正确。信任是商业关系的基石：按约履行承诺、遇到困难及时透明沟通、凭专业能力帮助解决问题，这些行为积累起来才能建立长期信任。"
-    },
-    {
-        question: "完成印尼煤炭贸易全流程后，最重要的",
-        options: [
-            { text: "只关注利润数字", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-            { text: "分析每个环节的执行质量、风险点、成本结构，总结经验教训，优化下次操作流程", correct: true, effect: {"knowledge": 15, "trust": 12, "risk": -12} },
-            { text: "复盘没有任何意义", correct: false, effect: {"knowledge": -8, "trust": -5, "risk": 8} },
-            { text: "只总结失败原因", correct: false, effect: {"knowledge": -5, "trust": -3, "risk": 5} },
-        ],
-        explanation: "答案正确。专业复盘应涵盖：①利润拆解（每个环节的成本和收益）②风险点分析（哪些地方险些出问题）③流程优化（下次如何做得更好）。"
     },
     {
         question: "电厂煤炭招标中的'封标'是指什么？",
@@ -5923,12 +5815,3 @@ const questionBankData = {
     },
 ],
 };
-
-// 随机打乱选项函数
-function shuffleOptions(options) {
-    for (let i = options.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [options[i], options[j]] = [options[j], options[i]];
-    }
-    return options;
-}

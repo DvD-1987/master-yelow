@@ -248,7 +248,7 @@ var game = {
             : `<div class="level-badge">第${this.state.currentLevel}关</div>`;
         
         const progressText = this.state.isHiddenLevel
-            ? `无尽模式 - 题目 ${this.state.currentQuestionIndex + 1} / 500（共${this.state.levelQuestions.length}题可用）`
+            ? `无尽模式 - 题目 ${this.state.currentQuestionIndex + 1} / ${this.state.levelQuestions.length}`
             : `第 ${this.state.currentLevel} 关 - 题目 ${this.state.currentQuestionIndex + 1} / ${this.state.levelQuestions.length}`;
         
         content.innerHTML = `
@@ -505,7 +505,7 @@ var game = {
         }
         
         const shuffled = [...allAvailableQuestions].sort(() => Math.random() - 0.5);
-        const questionCount = Math.min(500, shuffled.length);  // 无尽模式改为500题
+        const questionCount = shuffled.length;  // 无尽模式使用全部可用题目
         const selected = shuffled.slice(0, questionCount);
         
         this.state.levelQuestions = selected.map(q => this.shuffleOptions(q));
@@ -521,7 +521,7 @@ var game = {
                 <p>恭喜你完成了所有10关的挑战！</p>
                 <p>黄老师的故事还在继续，而你已经成为煤炭贸易的行家。</p>
                 <p>但是，真正的考验还没有结束...</p>
-                <p>在无尽模式中，你将面对题库中<span style="color: #ff00ff; font-weight: bold;">全部500道题目</span>的挑战！</p>
+                <p>在无尽模式中，你将面对题库中<span style="color: #ff00ff; font-weight: bold;">全部题目</span>的挑战！</p>
                 <p style="color: #ff6666; font-weight: bold;">⚠️ 特别注意：无尽模式下答错将受到<span style="color: #ff0000;">2倍惩罚</span>，答对仅获得<span style="color: #00ff00;">50%奖励</span>！</p>
                 <p>只有完美通过，才能获得<span style="color: #ff00ff; font-weight: bold;">"煤炭仙人"</span>的终极称号。</p>
                 <p style="color: #ff00ff;">准备好了吗？无尽挑战现在开始！</p>
