@@ -1,0 +1,9826 @@
+[
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 0,
+  "category": "concept",
+  "question": "CFR条款与CIF条款的主要区别是什么？",
+  "options": [
+   {
+    "text": "CIF包含保险，CFR不包含",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "两者完全相同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CFR包含保险，CIF不包含",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CFR仅用于海运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CIF（成本加保险费加运费）比CFR（成本加运费）多了卖方投保义务，风险转移点相同。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项微调"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 48,
+  "category": "concept",
+  "question": "谈判中的'开价策略'（opening offer）指？",
+  "options": [
+   {
+    "text": "锚定谈判区间",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "随便开价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "信息试探摸底",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "落实口头承诺",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "开价策略通过合理锚定影响后续谈判区间，是开局关键。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 54,
+  "category": "concept",
+  "question": "谈判沟通中的'倾听技巧'（listening）指？",
+  "options": [
+   {
+    "text": "专注获取对方信息",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "精准提问方式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "重复确认理解",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "沟通存档",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "倾听技巧帮助获取对方真实需求与意图，是有效谈判的基础。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 68,
+  "category": "concept",
+  "question": "谈判策略中的'BATNA'指？",
+  "options": [
+   {
+    "text": "谈判破裂时的最优替代方案",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "固定方案",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "策略灵活调整",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让步节奏安排",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "BATNA（最佳替代方案）增强谈判底气，避免被迫接受不利条款。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 72,
+  "category": "concept",
+  "question": "谈判策略中的'锚定策略'（anchoring）指？",
+  "options": [
+   {
+    "text": "先报价锚定谈判区间",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "策略效果评估",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "后报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让步节奏安排",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "锚定策略通过先报价为谈判设定区间基准，影响后续走向。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 75,
+  "category": "concept",
+  "question": "国际贸易术语解释通则最新一版是？",
+  "options": [
+   {
+    "text": "INCOTERMS 2020",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "INCOTERMS 2015",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "INCOTERMS 1990",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "INCOTERMS 2000",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "国际贸易术语解释通则最新版本为INCOTERMS 2020，于2020年1月1日生效。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项微调"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 97,
+  "category": "scenario",
+  "question": "谈判中对方开价明显偏高并催促你立即表态，而你掌握其急于月底装船的底牌。此时你更适合怎么做？",
+  "options": [
+   {
+    "text": "立即还价表达合作诚意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "离席宣布暂停谈判",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接接受报价以示友好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "暂不表态，等对方先调整报价",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "沉默策略以静制动：你有时间优势，不急于表态可给对方施压促其先调整；立即还价等于接受对方的节奏，接受报价则放弃议价空间。",
+  "rework_verdict": "REWORK_DUP_SCENARIO",
+  "rework_note": "同题干双题处理：本质同题，按QA Standard v2留一重写一，场景化重写"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 98,
+  "category": "concept",
+  "question": "谈判技巧中的'沉默技巧'（silence）指？",
+  "options": [
+   {
+    "text": "适时沉默的策略",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "不停说话",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不沉默",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "有效提问引导",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "适时沉默给对方表达与思考空间，掌控谈判节奏。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 102,
+  "category": "concept",
+  "question": "谈判技巧中的'情绪管理'（emotion control）指？",
+  "options": [
+   {
+    "text": "控制情绪保持理性",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "有效提问引导",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意表达",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "情绪化应对",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "情绪管理保持理性状态，避免情绪影响谈判判断。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 121,
+  "category": "concept",
+  "question": "谈判中的'承诺一致性'（commitment）指？",
+  "options": [
+   {
+    "text": "先承诺后坚持",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "可接受最低限度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一方所得一方所失",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "跨语言准确传达",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "承诺一致性心理让人倾向兑现已承诺立场，谈判中应善用。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 123,
+  "category": "concept",
+  "question": "谈判风险中的'风险识别'（risk identification）指？",
+  "options": [
+   {
+    "text": "判断谈判风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "利益损失防范",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "过度承诺防范",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "质量风险发现",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "风险识别提前发现潜在风险，为防范措施争取时间。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 145,
+  "category": "scenario",
+  "question": "你准备与矿方谈 FOB 价，市场参考区间为 58-62 美元/吨。为给后续让步留出空间，你更适合的开盘报价是？",
+  "options": [
+   {
+    "text": "报 58 贴近低端尽快成交",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "报 62 市场高端区间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "报 55 低于市场区间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "报 67 美元/吨，明显高于市场区间形成锚点",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "开价策略的核心是锚定：报出明显高于预期成交区间的高价，为让步留空间并影响对方心理预期；贴低开价暴露急于成交，无让步余地。",
+  "rework_verdict": "REWORK_DUP_SCENARIO",
+  "rework_note": "同题干双题处理：本质同题，按QA Standard v2留一重写一，场景化重写"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 153,
+  "category": "concept",
+  "question": "INCOTERMS 2020 包含多少个贸易术语？",
+  "options": [
+   {
+    "text": "11个",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "13个",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "10个",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "15个",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "INCOTERMS 2020 共 11 个贸易术语，分 E/F/C/D 四组。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项微调"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 174,
+  "category": "concept",
+  "question": "谈判后续的'复盘总结'（review）指？",
+  "options": [
+   {
+    "text": "总结经验教训",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "结束即止",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合作关系维护",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "对方信用评估",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "复盘总结沉淀谈判经验教训，持续提升谈判水平。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 176,
+  "category": "concept",
+  "question": "谈判沟通中的'复述确认'（paraphrasing）指？",
+  "options": [
+   {
+    "text": "重复确认理解一致",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "凭理解",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "精准提问方式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不确认",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "复述确认避免理解偏差，确保双方对关键条款一致。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 179,
+  "category": "concept",
+  "question": "谈判中的'让步艺术'（concession art）指？",
+  "options": [
+   {
+    "text": "以让步换取对等回报",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "展示强硬底线",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "书面沟通记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "长期合作维护",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "让步艺术讲究以小让步换取对方对等回报，避免单方吃亏。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 197,
+  "category": "concept",
+  "question": "谈判中的'BATNA'（最佳替代方案）指？",
+  "options": [
+   {
+    "text": "无协议时的备选方案",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "事项落实检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "换位思考能力",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一般不涉及",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "BATNA 是谈判破裂时的最优替代选择，增强谈判底气。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "国际贸易与结算",
+  "index_in_level": 203,
+  "category": "谈判策略",
+  "question": "你准备与印尼矿方就年度采购量谈判，谈判前设定目标时最应包含？",
+  "options": [
+   {
+    "text": "底线、期望目标与替代方案（BATNA）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "只设定一个最高的期望报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅分析对方翻译人员的背景",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不设目标、临场随机应变",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "谈判准备的核心是明确底线、期望目标和BATNA（最佳替代方案），三者共同构成谈判空间。单一最高价、分析翻译、临场发挥均无法形成有效谈判策略。",
+  "r1_note": "R1 补齐 effect（正项+8/+5/-5，干扰项-5/-3/+5）",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate0",
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 218,
+  "category": "concept",
+  "question": "谈判文书'会议纪要'（meeting minutes）指？",
+  "options": [
+   {
+    "text": "记录会议决议的文件",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "合同初稿文件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "谈判记录文件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合作意向文件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "会议纪要记录会议讨论与决议，作为后续行动依据。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 219,
+  "category": "concept",
+  "question": "Incoterms 2020 中 EXW（工厂交货）卖方的义务是？",
+  "options": [
+   {
+    "text": "在卖方场所备货交货",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "租家安排",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "支付运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口当局事项",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "EXW 卖方在工厂交货即完成义务，风险与费用承担最小。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 230,
+  "category": "concept",
+  "question": "谈判心理中的'承诺一致'（commitment consistency）指？",
+  "options": [
+   {
+    "text": "承诺影响后续行为",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "随意改变",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "压力管理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "理解对方立场",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "承诺一致性指人会倾向于兑现公开承诺，增强信任。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 233,
+  "category": "concept",
+  "question": "谈判中的'让步节奏'（concession pace）指？",
+  "options": [
+   {
+    "text": "逐步小幅让步",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "可接受最低限度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双向确认理解",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一步到位",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "让步节奏控制谈判进程，逐步小幅让步避免过快失守。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 234,
+  "category": "concept",
+  "question": "谈判心理中的'损失厌恶'（loss aversion）指？",
+  "options": [
+   {
+    "text": "对损失更敏感的心理",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "耐心保持",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "跨文化理解",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "稀缺影响判断",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "损失厌恶使人对损失比对收益更敏感，影响谈判决策。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 236,
+  "category": "concept",
+  "question": "谈判心理中的'框架效应'（framing effect）指？",
+  "options": [
+   {
+    "text": "表述方式影响判断",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "信心表现",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "心理建设",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "第一印象影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "框架效应指同一事实因表述方式不同而影响对方判断。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 239,
+  "category": "concept",
+  "question": "EXW 条款中，卖方的责任是什么？",
+  "options": [
+   {
+    "text": "在工厂或仓库将货物交给买方",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "负责报关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "将货物运到目的港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "负责装船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "EXW（工厂交货）是卖方责任最小的术语，卖方只需在工厂或仓库交货。参考：INCOTERMS 2020。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 251,
+  "category": "concept",
+  "question": "EXW 术语下，卖方最小的责任是？",
+  "options": [
+   {
+    "text": "在卖方场所交货",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "购买保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "支付海运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "办理出口报关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "EXW（工厂交货）下卖方只需在工厂/仓库交货，出口报关、运输均由买方负责。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 261,
+  "category": "concept",
+  "question": "INCOTERMS 2020 中 DAT 被改名为？",
+  "options": [
+   {
+    "text": "DPU",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "DAP",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "DDP",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CIF",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "INCOTERMS 2020 将 DAT 更名为 DPU（卸货地交货），适用于任何运输方式。",
+  "rework_verdict": "D",
+  "rework_note": "事实题保留"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 262,
+  "category": "concept",
+  "question": "谈判中的'锚定效应'（anchoring effect）指？",
+  "options": [
+   {
+    "text": "首价影响判断",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "确保理解一致",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "可能谈崩",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "找到双方利益共同点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "锚定效应指先提出的价格影响后续谈判判断与结果。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 265,
+  "category": "scenario",
+  "question": "谈判开始对方先报 70 美元/吨，而市场参考区间为 58-62。你判断对方在用锚定策略，更适合的应对是？",
+  "options": [
+   {
+    "text": "直接按 70 美元/吨还价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "接受报价并附加其他条件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "当场终止谈判",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "指出市场成交区间并重新锚定你的还价",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "锚定效应下先价会影响后续区间：应对方式是否认对方锚点、给出有依据的市场区间并重新锚定，而不是在对方锚定的高价区间内讨价还价。",
+  "rework_verdict": "REWORK_DUP_SCENARIO",
+  "rework_note": "同题干双题处理：本质同题，按QA Standard v2留一重写一，场景化重写"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 272,
+  "category": "concept",
+  "question": "BATNA（最佳替代方案）在谈判中的作用是？",
+  "options": [
+   {
+    "text": "增强谈判地位和信心",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "明确底线增强筹码",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "最优替代方案",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "替代合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "BATNA 越强，谈判地位越高，可接受的最差结果越清楚。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项微调"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 283,
+  "category": "concept",
+  "question": "Incoterms 2020 中 FOB（船上交货）风险转移点是？",
+  "options": [
+   {
+    "text": "装运港船上",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "卸货港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CPT 运费付至",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "FCA 货交承运人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOB 货物在装运港装上船后，风险即转移给买方。",
+  "rework_verdict": "D",
+  "rework_note": "事实题保留"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 293,
+  "category": "concept",
+  "question": "谈判中的'僵局处理'（impasse）指？",
+  "options": [
+   {
+    "text": "打破僵局策略",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "避免被迫接受不利条件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "放弃谈判",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "有效听取信息",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "僵局处理通过换议题、休会、调解等方式打破僵持。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 294,
+  "category": "concept",
+  "question": "谈判中'让步'（concession）的技巧是？",
+  "options": [
+   {
+    "text": "逐步小幅让步",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "一次让到底",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不让步",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同风险分配",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "逐步小幅让步并换取对等回报，避免单方吃亏。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 315,
+  "category": "concept",
+  "question": "FOB 术语下，风险从何时转移给买方？",
+  "options": [
+   {
+    "text": "货物装上船时",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "到达目的港时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "签订合同时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物出厂时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOB（船上交货）下，货物在装运港装上船后风险转移给买方。参考：INCOTERMS 2020。",
+  "rework_verdict": "D",
+  "rework_note": "事实题保留"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 320,
+  "category": "concept",
+  "question": "谈判中的'付款方式'（payment terms）指？",
+  "options": [
+   {
+    "text": "结算方式约定",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "权利义务约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "交货方式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "质量标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "付款方式（信用证、预付、赊销）影响资金风险。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 324,
+  "category": "concept",
+  "question": "煤炭'付款条款谈判'（payment terms）指？",
+  "options": [
+   {
+    "text": "结算方式约定",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "钻孔岩心记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "代表委托人交易",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "割煤装运连续",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "付款条款约定结算方式与节点，影响资金风险。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 326,
+  "category": "concept",
+  "question": "EXW（工厂交货）下，卖方的责任是？",
+  "options": [
+   {
+    "text": "在卖方场所备货交买方处置",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "运到港口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "负责出口报关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "支付运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "EXW 卖方责任最小，买方需自行安排运输和出口手续。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 344,
+  "category": "scenario",
+  "question": "两小时谈判后双方口头同意 100 万吨年度量、分批交货，但首批船期未定。散会前你最适合做什么？",
+  "options": [
+   {
+    "text": "直接离席次日邮件确认",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让对方先出书面稿",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头道谢不再追问",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "当场复述共识要点并要求确认首批船期待办",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "总结确认应即时固化成果：当场复述共识可发现理解偏差，明确未决的船期待办避免'以为谈完了'的误解，事后书面化只是辅助而非替代。",
+  "rework_verdict": "REWORK_DUP_SCENARIO",
+  "rework_note": "同题干双题处理：本质同题，按QA Standard v2留一重写一，场景化重写"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 349,
+  "category": "concept",
+  "question": "Incoterms 2020 中 CIF（成本保险费运费）的 I 指？",
+  "options": [
+   {
+    "text": "卖方购买保险",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "买方保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口当局",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CIF 下卖方负责购买保险，且须投保最低险别。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 367,
+  "category": "scenario",
+  "question": "对方口头答应降价，但双臂交叉、语速加快、避免与你对视。结合这些信号，你更适合怎么做？",
+  "options": [
+   {
+    "text": "认定已达成一致立即签约",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "趁机追加更多要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "当场终止谈判",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "视为犹豫信号，放缓节奏并要求书面确认",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "肢体语言是真实态度的非语言信号：口头答应与肢体紧张矛盾时，说明对方并未完全接受，宜放缓节奏、核实顾虑并用书面确认固化真实共识。",
+  "rework_verdict": "REWORK_DUP_SCENARIO",
+  "rework_note": "同题干双题处理：本质同题，按QA Standard v2留一重写一，场景化重写"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 370,
+  "category": "concept",
+  "question": "DDP 条款中，谁负责进口报关和缴纳进口税费？",
+  "options": [
+   {
+    "text": "卖方",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "船公司",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "收货人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货运代理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DDP（完税后交货）是卖方责任最大的术语，卖方负责进口报关和缴税。参考：INCOTERMS 2020。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 381,
+  "category": "concept",
+  "question": "CIF 术语中，卖方必须承担的义务包括？",
+  "options": [
+   {
+    "text": "运费和保险费",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "目的港关税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方国内运输",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卸货费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CIF（成本、保险费加运费）卖方负责海运费和海运保险，但不负责目的港关税。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 404,
+  "category": "concept",
+  "question": "CIF 与 CIP 在保险上的区别（Incoterms 2020）是？",
+  "options": [
+   {
+    "text": "CIP要求更高险别ICC(A)",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "DDP要求更高",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "FCA要求更高",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CIF要求更高",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Incoterms 2020 中 CIP 默认投保 ICC(A)，CIF 为 ICC(C)。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 416,
+  "category": "scenario",
+  "question": "你与矿方就年度长协谈判陷入僵局，另一家矿商可提供相同品质煤但价格高 3 美元/吨。你决定继续与当前矿方谈判时，你的 BATNA 是？",
+  "options": [
+   {
+    "text": "立即终止谈判转向备选矿商",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "放弃本次采购计划",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "要求当前矿方压到市场最低价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "以另一家矿商的报价作为你可接受的谈判底线",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "BATNA 是谈判破裂时你拥有的最佳替代方案，它决定你的底线：当前矿方报价若高于'备选价+切换成本'你就有底气离席，因此备选报价即谈判底线参照。",
+  "rework_verdict": "REWORK_DUP_SCENARIO",
+  "rework_note": "同题干双题处理：本质同题，按QA Standard v2留一重写一，场景化重写"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 428,
+  "category": "concept",
+  "question": "FAS 条款中，卖方的责任截止到什么位置？",
+  "options": [
+   {
+    "text": "货物交到船边",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "货物装上船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物到达目的港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物通过海关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FAS（船边交货）中卖方将货物交到船边即完成交货义务。参考：INCOTERMS 2020。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 440,
+  "category": "concept",
+  "question": "CFR 与 CIF 的共同点是？",
+  "options": [
+   {
+    "text": "卖方都承担运费",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "卖方都买保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "都只用于陆运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "风险在目的港转移",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CFR 和 CIF 卖方均承担运费，区别在于 CIF 卖方另需购买保险。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 451,
+  "category": "concept",
+  "question": "CIF 与 CIP 在保险上的区别是？",
+  "options": [
+   {
+    "text": "CIF最低险C类CIP更高险别",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "都不保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CPT更高",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CIF更高",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "INCOTERMS 2020 中 CIF 要求 C 类最低险，CIP 要求更高险别（如 ICC(A)）。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 465,
+  "category": "concept",
+  "question": "Incoterms 2020 中'DAT'更名为什么？",
+  "options": [
+   {
+    "text": "DPU卸货地交货",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "DEQ",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "DAP",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CPT",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Incoterms 2020 将 DAT 更名为 DPU（卸货地交货）。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 469,
+  "category": "concept",
+  "question": "CPT 条款与 CFR 条款的主要区别是？",
+  "options": [
+   {
+    "text": "CPT可用于各种运输CFR仅海运",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "CPT仅海运CFR各种运输",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "两者完全相同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CPT含保险CFR不含",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CPT（运费付至）可用于各种运输方式，CFR 仅适用于海运和内河运输。参考：INCOTERMS 2020。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 471,
+  "category": "concept",
+  "question": "FCA 术语适用于什么运输方式？",
+  "options": [
+   {
+    "text": "任何运输方式",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "仅空运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅铁路",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅海运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FCA（货交承运人）适用于海运、陆运、空运等任何运输方式，尤其适合集装箱运输。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 473,
+  "category": "concept",
+  "question": "DAP（目的地交货）下，卖方负责？",
+  "options": [
+   {
+    "text": "运至目的地但卸货由买方负责",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "进口清关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卸货费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "进口关税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DAP 卖方负责运至目的地，卸货和进口清关由买方负责。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 477,
+  "category": "concept",
+  "question": "Incoterms 2020 中'DPU'（卸货地交货）卖方义务是？",
+  "options": [
+   {
+    "text": "运至目的地并卸货",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "收货人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "开证行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DPU 卖方负责将货物运至目的地并完成卸货。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 479,
+  "category": "concept",
+  "question": "CIP 条款与 CIF 条款的主要区别是？",
+  "options": [
+   {
+    "text": "CIP各种运输CIF仅海运",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "CIP不含保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "两者完全相同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CIP仅海运CIF各种运输",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CIP（运费和保险费付至）可用于各种运输方式，CIF 仅适用于海运。参考：INCOTERMS 2020。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 481,
+  "category": "concept",
+  "question": "国际商会对 DAP 术语（目的地交货）的定义是什么？",
+  "options": [
+   {
+    "text": "目的地交货卸货前",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "工厂交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完税后交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船上交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DAP（目的地交货）指卖方将货物运至目的地交买方处置，但不负责卸货和进口清关。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 483,
+  "category": "concept",
+  "question": "DDP（完税后交货）下，卖方承担？",
+  "options": [
+   {
+    "text": "运费进口清关和关税",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "仅关税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口当局",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DDP 卖方责任最大，承担运输、进口清关和关税。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 484,
+  "category": "concept",
+  "question": "煤炭谈判'付款条件'（payment terms）指？",
+  "options": [
+   {
+    "text": "资金安排条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "在合理区间博弈",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数量条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "付款条件约定付款方式与节点，影响双方现金流。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 487,
+  "category": "concept",
+  "question": "Incoterms 2020 中 DAP 与 DPU 的区别是？",
+  "options": [
+   {
+    "text": "DAP不含卸货",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "CIP",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "DPU不含卸货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "DAP",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DAP 交货不负责卸货，DPU 需负责卸货。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 489,
+  "category": "concept",
+  "question": "DAT 术语（运输终端交货）的含义是什么？",
+  "options": [
+   {
+    "text": "目的地集散站交货含卸货",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "工厂交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装运港船上交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "目的地交货不含卸货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DAT（运输终端交货）在 2020 版 INCOTERMS 中改为 DPU，指在目的地集散站卸货后完成交货。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 491,
+  "category": "concept",
+  "question": "DDP 术语下，卖方承担的责任最大，包括？",
+  "options": [
+   {
+    "text": "运费加保险加进口清关加关税",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "仅出口清关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DDP（完税后交货）卖方承担至目的地的全部费用与风险，包括进口清关和关税。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 493,
+  "category": "concept",
+  "question": "印尼煤贸易中，买方最常用的进口术语是？",
+  "options": [
+   {
+    "text": "FOB或CFR/CIF",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "EXW",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "DDP",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "FAS",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼煤进口常以 FOB（自租船）或 CFR/CIF（卖方租船）成交。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 497,
+  "category": "concept",
+  "question": "Incoterms 2020 中'DDP'（完税后交货）卖方的义务是？",
+  "options": [
+   {
+    "text": "承担税费和进口手续",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "买方办税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "开证行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DDP 卖方承担进口清关和税费，责任最大。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 501,
+  "category": "concept",
+  "question": "在 FOB 条款下，谁负责租船订舱？",
+  "options": [
+   {
+    "text": "买方",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "承运人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船公司",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口当局",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOB 条款下买方负责租船订舱，卖方负责将货物装上买方指定的船舶。参考：INCOTERMS 2020。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 503,
+  "category": "concept",
+  "question": "DPU 术语（INCOTERMS 2020 更新）指的是？",
+  "options": [
+   {
+    "text": "目的地卸货交货",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "船上交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "工厂交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "边境交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DPU（目的地卸货交货）由原 DAT 更名，卖方负责运至目的地并卸货，但不负责进口清关。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 505,
+  "category": "concept",
+  "question": "CFR 与 CIF 的唯一区别是？",
+  "options": [
+   {
+    "text": "CIF含保险CFR不含",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "CFR成本加运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运输方式不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CFR含保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CFR（成本加运费）与 CIF 的唯一区别是 CIF 含保险费。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 508,
+  "category": "concept",
+  "question": "谈判中的'违约金'（penalty）指？",
+  "options": [
+   {
+    "text": "违约赔偿约定",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "争取时间优势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "奖励条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验标准和索赔机制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "违约金条款约定违约方需支付的赔偿金额，保障合同履约。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 509,
+  "category": "concept",
+  "question": "进口煤贸易常用'FOB'（离岸价）时，租船责任在？",
+  "options": [
+   {
+    "text": "买方",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货运代理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOB（离岸价）条款下由买方负责租船订舱，卖方仅需装船。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 510,
+  "category": "concept",
+  "question": "谈判中的'不可抗力'（force majeure）指？",
+  "options": [
+   {
+    "text": "免责事由约定",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "强制履约",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "首轮报价策略",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方盖章生效",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "不可抗力条款约定意外事件的免责事由，分担风险。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 513,
+  "category": "concept",
+  "question": "在 CIF 条款下，谁负责租船订舱和购买保险？",
+  "options": [
+   {
+    "text": "卖方",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "保险人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船公司",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保险公司",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CIF 条款下卖方负责租船订舱和购买保险，但风险在装运港货物装上船时转移给买方。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 514,
+  "category": "concept",
+  "question": "FAS 术语下，卖方的交货地点是？",
+  "options": [
+   {
+    "text": "船边",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "目的港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口当局",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "开证行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FAS（船边交货）指卖方将货物交到装运港船边，装船义务由买方承担。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 515,
+  "category": "concept",
+  "question": "FOB 术语下，装船费用的承担方通常是？",
+  "options": [
+   {
+    "text": "按FOB术语变形约定",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "买方全部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "DAT",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方全部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOB 装货费常通过术语变形（如 FOB Stowed/Trimmed）明确，避免争议。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 517,
+  "category": "concept",
+  "question": "进口煤贸易常用'CIF/CFR'（到岸价）时，租船责任在？",
+  "options": [
+   {
+    "text": "卖方",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货运代理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CIF/CFR（到岸价）条款下由卖方负责租船订舱。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 519,
+  "category": "concept",
+  "question": "煤炭贸易合同中，数量条款通常如何约定？",
+  "options": [
+   {
+    "text": "约定基准数量允许溢短装",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "仅按实际装载量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "固定数量不允许浮动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "数量条款通常约定基准数量，并允许一定比例的溢短装（如±10%），应对实际装船差异。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 520,
+  "category": "concept",
+  "question": "CPT 与 CIP 的适用运输方式是？",
+  "options": [
+   {
+    "text": "任何运输方式",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "仅公路",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅海运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内河",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CPT/CIP 适用于任何运输方式，与 CFR/CIF 对应但不受海运限制。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 523,
+  "category": "concept",
+  "question": "'CFR'（成本加运费）与 CIF 的区别是？",
+  "options": [
+   {
+    "text": "CFR不含保险",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "CFR含保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "FOB",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CPT",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CFR 卖方只支付运费、不投保，CIF 需另购保险。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 525,
+  "category": "concept",
+  "question": "煤炭贸易中，检验条款通常如何约定？",
+  "options": [
+   {
+    "text": "约定检验机构标准取样和争议处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "不需要约定检验条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅由买方指定检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅由卖方自行检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "检验条款须明确约定检验机构（如CCIC）、检验标准、取样方法和争议处理机制。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 526,
+  "category": "concept",
+  "question": "CIP 术语下卖方需要购买的最低保险级别是？",
+  "options": [
+   {
+    "text": "ICC(A)或同等",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "不要求保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "ICC(C)",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅货物险免赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "INCOTERMS 2020 中 CIP 卖方需购买最高级别保险（如 ICC(A)），CIF 则只需最低级别。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 527,
+  "category": "concept",
+  "question": "FOB 术语下风险转移的时点是？",
+  "options": [
+   {
+    "text": "货物装上船时",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "签合同时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "付款时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "到港时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOB 下货物装上装运港船舶后，风险即转移给买方。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 529,
+  "category": "concept",
+  "question": "FOB 装港的'装船费'（loading charges）在 Incoterms 下由？",
+  "options": [
+   {
+    "text": "卖方承担",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "租家",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货运代理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保险人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOB 卖方承担装船费（平舱除外按约定处理）。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 531,
+  "category": "concept",
+  "question": "煤炭贸易合同中，价格调整条款通常针对哪些指标？",
+  "options": [
+   {
+    "text": "热值灰分硫分水分等质量指标",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "不需要设置价格调整",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅针对运输费用调整",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅针对热值一个指标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "价格调整条款针对热值(Qnet)、灰分(Ash)、硫分(S)、水分(Mt)等质量指标，按约定公式调整价格。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 532,
+  "category": "concept",
+  "question": "CIF 术语下卖方购买保险的最低要求是？",
+  "options": [
+   {
+    "text": "ICC(C)或同等",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "卖方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全损险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "ICC(A)",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "INCOTERMS 2020 要求 CIF 卖方投保最低级别保险（ICC(C)），除非双方另有约定。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 533,
+  "category": "concept",
+  "question": "CFR/CIF 术语下，运输合同（租约）由谁安排？",
+  "options": [
+   {
+    "text": "卖方",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "租家",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货运代理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "开证行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CFR/CIF 卖方负责订立运输合同并支付运费。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 536,
+  "category": "concept",
+  "question": "煤炭贸易中，不可抗力条款通常包括哪些情况？",
+  "options": [
+   {
+    "text": "自然灾害战争政府禁令等不可预见情况",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "仅包括运输延误",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅包括自然灾害",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅包括市场价格波动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "不可抗力包括自然灾害（地震、洪水、台风等）、战争、政府禁令、罢工等不能预见、不能避免、不能克服的客观情况。参考：CISG。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 537,
+  "category": "concept",
+  "question": "FOB 与 FCA 的最大区别是？",
+  "options": [
+   {
+    "text": "FOB限海运FCA适合多式联运",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "FCA价格更贵",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "两者完全相同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格完全相同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOB 仅限海运和内河、风险在装船转移；FCA 适用任何运输、风险在交承运人转移，更适合集装箱。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 538,
+  "category": "concept",
+  "question": "买方选择 FOB 采购的优势是？",
+  "options": [
+   {
+    "text": "掌握船期和运费控制权",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "免检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "省运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "免清关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOB 买方自租船，可控制船期和运费成本，适合有物流能力的买家。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 540,
+  "category": "concept",
+  "question": "FOBST 中的'S'（stowed）和'T'（trimmed）指？",
+  "options": [
+   {
+    "text": "理舱和平舱费用买方承担",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "保险人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "租家",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOBST 将装舱、平舱费用转移给买方承担。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 542,
+  "category": "concept",
+  "question": "煤炭贸易合同中，争议解决条款通常如何约定？",
+  "options": [
+   {
+    "text": "约定仲裁机构或管辖法院及适用法律",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "不需要约定争议条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只能通过私下协商解决",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只能通过法院诉讼解决",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "争议解决条款应约定仲裁机构（如CIETAC、SICC等）或管辖法院，以及适用的法律（如英国法、新加坡法等）。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 543,
+  "category": "concept",
+  "question": "印尼煤炭出口最常用的贸易术语是？",
+  "options": [
+   {
+    "text": "FOB",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "FAS",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "DDP",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "EXW",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼动力煤国际贸易普遍采用 FOB 装港价，买方租船并承担海运风险。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 544,
+  "category": "concept",
+  "question": "卖方偏好 CIF 报价的原因是？",
+  "options": [
+   {
+    "text": "赚运费差价并控制物流",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "卖方责任更小",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方风险更大",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无需安排运输",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CIF 卖方安排运输保险，可整合物流利润。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 548,
+  "category": "concept",
+  "question": "煤炭贸易中，装运期条款通常如何约定？",
+  "options": [
+   {
+    "text": "约定具体装运期及延误处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "仅作口头约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不约定具体装运期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "由船公司自行决定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装运期条款应约定具体装运期或范围，以及延误的处理方式（如违约金、解除合同等）。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 549,
+  "category": "concept",
+  "question": "买方希望卖方承担进口清关与关税，应选择哪个术语？",
+  "options": [
+   {
+    "text": "DDP",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "FOB",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "FAS",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "EXW",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DDP（完税后交货）下卖方承担进口清关和关税，是卖方责任最大的术语。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 550,
+  "category": "concept",
+  "question": "INCOTERMS 2020 中'FAS'（船边交货）适用于？",
+  "options": [
+   {
+    "text": "仅海运和内河",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "仅铁路",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅空运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "任何运输",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FAS（Free Alongside Ship）船边交货，仅适用于海运和内河水运。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 554,
+  "category": "concept",
+  "question": "煤炭贸易合同中，所有权转移条款通常在什么时候生效？",
+  "options": [
+   {
+    "text": "按术语约定如FOB/CIF装船后",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "买方付清货款时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物到达目的港时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同签订时立即",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "所有权转移时间根据贸易术语约定，如 FOB、CIF 在装运港货物装上船时转移。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 555,
+  "category": "concept",
+  "question": "集装箱运输条件下，使用 FOB 术语存在什么问题？",
+  "options": [
+   {
+    "text": "风险转移点与堆场交付不匹配",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "EXW",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "DAT",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格太高",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "集装箱货通常在 CY/堆场交承运人，FOB 的装船风险转移点不适用，宜改用 FCA。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 556,
+  "category": "concept",
+  "question": "印尼煤贸易中'DES/DEQ'等旧术语现在？",
+  "options": [
+   {
+    "text": "已被DAP/DPU取代",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "与DDP相同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仍常用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不存在",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "2010 版后 DES/DEQ 等旧术语被 DAP/DPU 取代。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 558,
+  "category": "concept",
+  "question": "Incoterms'不涉及'（not cover）的包括？",
+  "options": [
+   {
+    "text": "货物所有权转移",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "费用划分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "风险划分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "交货点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Incoterms 不涉及所有权转移和违约责任。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 560,
+  "category": "concept",
+  "question": "煤炭贸易中，违约金条款的作用是什么？",
+  "options": [
+   {
+    "text": "补偿损失并约束履约",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "单纯惩罚违约方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "没有任何实际作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "增加合同总金额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "违约金条款补偿守约方损失，同时对双方形成履约约束，通常约定为合同金额的一定比例。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 561,
+  "category": "concept",
+  "question": "INCOTERMS 2020 中，哪个术语是新增或更名而来的？",
+  "options": [
+   {
+    "text": "DPU",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "DEQ",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "DES",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "DAT",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "INCOTERMS 2020 将 DAT 更名为 DPU（目的地卸货交货），并明确卸货义务。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 566,
+  "category": "concept",
+  "question": "煤炭贸易合同中，保密条款通常包括哪些内容？",
+  "options": [
+   {
+    "text": "价格供应商客户信息等技术资料",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "仅包括合同金额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要保密条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅包括价格信息",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "保密条款通常包括价格条款、供应商信息、客户信息、技术资料等商业秘密，保护双方商业利益。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 567,
+  "category": "concept",
+  "question": "EXW 条件下，出口报关责任由谁承担？",
+  "options": [
+   {
+    "text": "买方",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "船公司",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "海关自己",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "EXW 下卖方不负责出口报关，买方需自行办理出口手续，实务中对买方不便。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 568,
+  "category": "concept",
+  "question": "INCOTERMS 与国内贸易法的关系是？",
+  "options": [
+   {
+    "text": "是惯例须合同明确采用才适用",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "等同法律",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "INCOTERMS 2020",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "强制适用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "INCOTERMS 是国际商会惯例，须在合同中明确援引才适用。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 569,
+  "category": "concept",
+  "question": "跨文化谈判中'直接'（direct）与'间接'（indirect）风格差异体现在？",
+  "options": [
+   {
+    "text": "美式直接印尼日式委婉",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "印尼最直接",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "中国最直接",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "菲律宾",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "理解直接与委婉风格差异，避免误读和冲突。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 571,
+  "category": "concept",
+  "question": "煤炭谈判'价格指数'（index）参考？",
+  "options": [
+   {
+    "text": "API Newcastle等",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "价格参考体系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "进口关税影响成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验机构与方式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "国际煤炭价格指数（如 API、Newcastle）提供定价参考。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 572,
+  "category": "concept",
+  "question": "煤炭贸易中，合同生效条款通常如何约定？",
+  "options": [
+   {
+    "text": "约定生效条件如签字盖章预付款",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "口头约定即可生效",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方签字后立即生效",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要约定生效条件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "合同生效条款应约定生效条件，如双方签字盖章、预付款到账等，明确法律效力起点。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 573,
+  "category": "concept",
+  "question": "FOB 条件下，装船费（装卸作业）一般由谁承担？",
+  "options": [
+   {
+    "text": "卖方承担装船费",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "货运代理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOB 按惯例卖方承担装船费（如 FOB stowed 变体），若采用 FOB liner terms 则由船方负责。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 579,
+  "category": "concept",
+  "question": "CIF 术语中的保险金额惯例是多少？",
+  "options": [
+   {
+    "text": "发票金额的110%",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "发票金额的80%",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "发票金额的50%",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不投保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "按惯例 CIF 保险金额为发票金额的 110%，多出的 10% 用于覆盖预期利润。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 580,
+  "category": "concept",
+  "question": "煤炭买卖合同的核心'数量条款'通常约定？",
+  "options": [
+   {
+    "text": "合同量及允许溢短装如±10%",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "交货数量约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "允许溢短装范围",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数量约定条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "数量条款明确合同量和溢短装比例（MOF），便于装船执行。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 584,
+  "category": "concept",
+  "question": "煤炭贸易中，合同修改条款通常如何约定？",
+  "options": [
+   {
+    "text": "书面修改并经双方签字确认",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "合同一经签订不可修改",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单方可以随意修改",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "口头修改同样有效",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "合同修改条款约定必须以书面形式修改并经双方签字确认，口头约定不产生合同效力。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 585,
+  "category": "concept",
+  "question": "买卖双方约定'FOB 加里曼丹装港'，通常意味着？",
+  "options": [
+   {
+    "text": "卖方负责装港交货与装船费",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "卖方负责进口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方送到中国港口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方负责装船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOB 加里曼丹装港指卖方在印尼装港交货并承担装船费用，买方负责海运。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 586,
+  "category": "concept",
+  "question": "煤炭合同'MOF'（More or Less）条款的作用是？",
+  "options": [
+   {
+    "text": "允许装货量在一定范围浮动",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "违约情形和赔偿解除权",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "固定数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "确定合同解释和争议规则",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "MOF 条款（如 ±10%）允许数量浮动，适应船舶和装港实际。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 587,
+  "category": "concept",
+  "question": "煤炭贸易合同'数量'（quantity）条款的常见约定是？",
+  "options": [
+   {
+    "text": "数量±10%浮动及计价调整",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "固定死",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤种规格和数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "约定吨数及溢短装比例",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "大宗货物常约定数量浮动范围（如 ±10%）和相应计价调整方式。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 589,
+  "category": "concept",
+  "question": "煤炭合同'数量条款'（quantity clause）指？",
+  "options": [
+   {
+    "text": "允许溢短装范围",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "授权代表签署",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装期装港和装卸率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "固定不变",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "数量条款规定溢短装范围，适应实际装船差异。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 590,
+  "category": "concept",
+  "question": "煤炭贸易合同中，转让条款通常如何约定？",
+  "options": [
+   {
+    "text": "未经对方同意不得转让",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "可以随意转让",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只能转让权利",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "转让条款通常约定未经对方书面同意，任何一方不得转让合同权利和义务，保护双方利益。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 591,
+  "category": "concept",
+  "question": "DDP 与 DAP 的关键区别是？",
+  "options": [
+   {
+    "text": "DDP含进口清关和关税",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "DDP不含运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "两者一样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "DAP更贵",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DAP 卖方不负责进口清关和关税，DDP 则全包，DDP 对卖方风险最大。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 596,
+  "category": "concept",
+  "question": "煤炭贸易中，合同终止条款通常包括哪些情况？",
+  "options": [
+   {
+    "text": "履行完毕协商一致违约不可抗力等",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "合同一旦签订不能终止",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "任何一方可随时单方终止",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅包括履行完毕一种",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "合同终止条款通常包括履行完毕、双方协商一致、一方严重违约、不可抗力持续一定时间等情形。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 597,
+  "category": "concept",
+  "question": "采用 FOB 出口印尼煤，装港检验通常由谁安排？",
+  "options": [
+   {
+    "text": "约定第三方费用按合同分担",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "船东决定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不做检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方单独决定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装港检验一般由合同约定的独立第三方执行，费用与结果认定按合同约定。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 598,
+  "category": "concept",
+  "question": "煤质指标超出合同范围时，'扣罚公式'（penalty）的约定是？",
+  "options": [
+   {
+    "text": "按热值硫分每单位扣减金额",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "挥发物含量指标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "固定碳含量指标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "口头承诺",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "扣罚公式（如每低 100 大卡扣 X 美元）明确质量偏差的价格调整。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 602,
+  "category": "concept",
+  "question": "信用证（L/C）付款方式中，开证行承担什么责任？",
+  "options": [
+   {
+    "text": "单证相符时承担第一性付款责任",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "不承担任何付款责任",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅负责传递单据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅负责通知买方付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "信用证是银行信用，开证行在单证相符条件下承担第一性付款责任，与买方是否付款无关。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 603,
+  "category": "concept",
+  "question": "国际贸易中'INCOTERMS'主要解决什么问题？",
+  "options": [
+   {
+    "text": "划分买卖双方费用与风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "规定税率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "管理船员",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "规定煤价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "INCOTERMS 规定交货、风险转移、费用划分及单证义务，是贸易合同的基础。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 604,
+  "category": "concept",
+  "question": "煤炭合同'付款条款'中'装船后XX天'指？",
+  "options": [
+   {
+    "text": "从提单日期起算的付款期限",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "从检验起算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "从到港起算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "从签约起算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船后付款期限通常从提单日（B/L date）起算。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 605,
+  "category": "concept",
+  "question": "煤炭合同'装运条款'（shipment clause）应明确？",
+  "options": [
+   {
+    "text": "装期装港和装卸率",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "合同约定的检验标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "计价基准热值调整和折扣",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "与主合同同等效力",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装运条款明确受载期、装港和装卸率，保障船货衔接。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 608,
+  "category": "concept",
+  "question": "T/T（电汇）付款方式的主要风险是什么？",
+  "options": [
+   {
+    "text": "商业信用风险买方可能不付款",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "汇率波动风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行信用风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "T/T完全没有风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "T/T 是商业信用，主要风险是买方可能不付款或延迟付款，对卖方风险较大，通常结合预付款使用。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 609,
+  "category": "concept",
+  "question": "煤炭购销合同中'质量条款'应明确哪些内容？",
+  "options": [
+   {
+    "text": "热值灰分硫分水分等指标及检验标准",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "煤的颜色",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿工数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "食堂标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "质量条款需约定各指标基准、检验方法（GB/ISO/ASTM）、结果认定与扣罚规则。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项重建",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 612,
+  "category": "concept",
+  "question": "谈判'报价'（offer）的合理区间应如何确定？",
+  "options": [
+   {
+    "text": "基于市场和成本测算",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "越低越好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "稀缺提升价值感",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "越高越好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "报价应基于行情和成本测算，兼顾竞争力和利润。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 613,
+  "category": "concept",
+  "question": "煤炭合同'索赔条款'（claim clause）指？",
+  "options": [
+   {
+    "text": "违约和品质索赔",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "卖方负责取得并承担风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仲裁或诉讼约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "签约前充分审阅",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "索赔条款规范违约和品质索赔的处理流程与时限。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 614,
+  "category": "concept",
+  "question": "D/P（付款交单）方式中，买方什么时候可以拿到单据？",
+  "options": [
+   {
+    "text": "付款后",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "单据到达即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "承兑汇票后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "D/P（付款交单）指买方付款后才能从银行拿到单据，对卖方有一定保障，但仍依赖买方信用。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 615,
+  "category": "concept",
+  "question": "煤炭贸易合同中'数量条款'常见约定方式是？",
+  "options": [
+   {
+    "text": "约定吨数及允许溢短装比例",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "随便多少",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只写吨位不写比例",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按月随机",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "合同一般约定数量并附溢短装条款（如 ±10%），由船方或卖方选择，便于船舶配载。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 616,
+  "category": "concept",
+  "question": "煤炭合同的'不可抗力'条款通常包括？",
+  "options": [
+   {
+    "text": "自然灾害战争政府行为等",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "汇率变化",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船期延误",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤价波动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "不可抗力列举自然灾害、战争、政策等外部不可控事件。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 619,
+  "category": "concept",
+  "question": "煤炭合同'争议解决'（dispute resolution）条款指？",
+  "options": [
+   {
+    "text": "仲裁或诉讼约定",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "货款付清前保留货物所有权",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自然灾害战争政策等",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "从提单日期起算的付款期限",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "争议解决条款约定仲裁或诉讼方式，预防纠纷升级。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 620,
+  "category": "concept",
+  "question": "D/A（承兑交单）方式中，买方什么时候可以拿到单据？",
+  "options": [
+   {
+    "text": "承兑汇票后",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "不需要任何条件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单据到达即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "付款后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "D/A（承兑交单）指买方承兑汇票后即可从银行拿到单据，到期后再付款，对卖方风险较大。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 621,
+  "category": "concept",
+  "question": "煤炭贸易中'溢短装条款'（more or less）的作用是？",
+  "options": [
+   {
+    "text": "允许装运数量在约定范围内浮动",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "取消数量约束",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "禁止少装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "强制多装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "溢短装条款允许交货数量在一定百分比内浮动，结算按实际装运量。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 623,
+  "category": "concept",
+  "question": "煤炭合同'不可抗力'（force majeure）条款覆盖？",
+  "options": [
+   {
+    "text": "自然灾害战争政策等",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "所有事",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不可控事件条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "违约情形和赔偿解除权",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "不可抗力条款列举免责情形并约定通知义务和证明要求。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 625,
+  "category": "concept",
+  "question": "信用证中的'软条款'（soft clause）是指？",
+  "options": [
+   {
+    "text": "使信用证无法生效或卖方无法履约的条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 15,
+     "trust": 15,
+     "risk": -15
+    }
+   },
+   {
+    "text": "银行出具的通用条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "对卖方有利的条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "信用证标准格式条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "软条款是使信用证实际无法生效或使卖方无法履约的条款，如要求买方签字的检验证书、限制船公司等，是常见陷阱条款。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 626,
+  "category": "concept",
+  "question": "信用证（LC）结算方式下，银行承担什么角色？",
+  "options": [
+   {
+    "text": "凭单付款的信用中介",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "货款清算形式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤炭买家",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "开证行凭相符单据向卖方付款，将商业信用转为银行信用，降低卖方收款风险。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 627,
+  "category": "concept",
+  "question": "煤炭合同'法律适用与仲裁'条款应约定？",
+  "options": [
+   {
+    "text": "适用法律和仲裁机构地点",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "检验机构和标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方负责投保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "热值硫分灰分等",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "法律适用和仲裁条款是争议解决的关键，应明确机构（如 SIAC）。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 630,
+  "category": "concept",
+  "question": "煤炭贸易中，预付款（T/T in advance）方式对哪方风险最大？",
+  "options": [
+   {
+    "text": "买方",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "租家",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "开证行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "预付款方式对买方风险最大，买方先付款，可能面临卖方不发货或货物质量不符的风险。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 631,
+  "category": "concept",
+  "question": "即期信用证与远期信用证的区别在于？",
+  "options": [
+   {
+    "text": "付款时间不同",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "币种不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "金额不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "远期LC占用卖方资金更久",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "即期 LC 见单即付，远期 LC 在提单日后约定天数付款（如 90 天），影响资金占用。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 633,
+  "category": "concept",
+  "question": "煤炭合同'争议解决'（dispute）条款推荐？",
+  "options": [
+   {
+    "text": "仲裁如SIAC/HKIAC",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "仲裁或诉讼约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单方选法院",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验机构标准和复检权",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "国际煤炭合同常用国际仲裁（SIAC、HKIAC 等）。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 635,
+  "category": "concept",
+  "question": "煤炭贸易中，分期付款方式通常如何约定？",
+  "options": [
+   {
+    "text": "签约付一部分装船付一部分到港付清",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "仅到货验收后付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方随意支付没有约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "签订时一次性付清全款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "分期付款通常约定合同签订付一部分（如 30%）、装船后付一部分（如 70%），或到港后付清，平衡双方风险。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 636,
+  "category": "concept",
+  "question": "前T/T（预付电汇）对哪方最有利？",
+  "options": [
+   {
+    "text": "卖方",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "收货人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "前 T/T 卖方先收款后发货，资金安全最高；买方承担较大预付款风险。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 637,
+  "category": "concept",
+  "question": "煤炭合同'检验标准'（如ISO/ASTM/GB）的约定原则是？",
+  "options": [
+   {
+    "text": "明确具体标准避免歧义",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "不约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "现场决定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "口头约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "明确检验标准（ISO/ASTM/GB）可避免结果差异争议。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 642,
+  "category": "concept",
+  "question": "后T/T（货到付款）对哪方更有利？",
+  "options": [
+   {
+    "text": "买方",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "保险公司",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船公司",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "后 T/T 买方收货或到港后付款，占用卖方资金，买方风险低。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 647,
+  "category": "concept",
+  "question": "煤炭贸易中，保证金（Deposit）的作用是什么？",
+  "options": [
+   {
+    "text": "保证合同履行违约时可没收或抵扣",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "用于支付海运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "没有任何实际作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用于支付部分货款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "保证金为保证合同履行，一方违约时另一方可以没收或用于抵扣损失，通常为合同金额的 5-10%。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 648,
+  "category": "concept",
+  "question": "煤炭贸易中'凭装港检验报告结算'意味着？",
+  "options": [
+   {
+    "text": "以装港第三方检验结果结算",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "凭买方感觉结算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "凭卖方自测结算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不做检验结算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装港检验报告（质量+数量）是信用证议付和最终结算的核心单证。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 649,
+  "category": "concept",
+  "question": "煤炭合同'装期'（laycan）指？",
+  "options": [
+   {
+    "text": "船舶受载期最早最晚装船日",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "付款日期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验日期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "到港日期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Laycan（Laydays/Cancelling）是约定装船窗口期，船货需在此内备妥。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 653,
+  "category": "concept",
+  "question": "煤炭贸易谈判中，以下哪种做法是正确的？",
+  "options": [
+   {
+    "text": "了解对方需求寻找双赢方案",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "隐瞒关键信息",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一开始就提出最低价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "强硬施压逼迫对方接受",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "成功的谈判应了解对方需求，寻找双赢方案，建立长期合作关系，而不是单方面施压或欺骗。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 655,
+  "category": "concept",
+  "question": "煤炭合同'滞期费'（demurrage）适用于？",
+  "options": [
+   {
+    "text": "装卸超时由责任方支付",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "计价基准热值调整和折扣",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "规格和检验标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提前完成奖励",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装卸时间超期产生滞期费，提前完成可得速遣费（despatch）。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 659,
+  "category": "concept",
+  "question": "在价格谈判中，以下哪种策略最有效？",
+  "options": [
+   {
+    "text": "了解行情提出合理价并准备让步空间",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "坚持自己的价格不做任何让步",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只关注价格不考虑其他条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "有效的价格谈判应了解市场行情，提出合理价格，准备让步空间，同时关注质量、付款方式、交货期等其他条款。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 661,
+  "category": "concept",
+  "question": "煤炭合同'速遣费'（despatch）是？",
+  "options": [
+   {
+    "text": "提前完成装卸的奖励",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "明确具体标准避免歧义",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "滞期费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提前完成装卸给予的奖励",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "速遣费是对提前完成装卸的奖励，通常为滞期费一半。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 665,
+  "category": "concept",
+  "question": "煤炭贸易谈判中，以下哪种信息不应该透露给对方？",
+  "options": [
+   {
+    "text": "自己的底价和迫切程度",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "产品的质量标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "交货时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "公司的基本资质",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "自己的底价和迫切程度是谈判的核心机密，不应轻易透露，以免失去谈判主动权。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 666,
+  "category": "concept",
+  "question": "煤炭贸易中'滞期费'产生的原因是？",
+  "options": [
+   {
+    "text": "装卸时间超过约定导致船期延误",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "港口装卸免费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶航速太快",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤炭质量太好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装卸作业超时（超 laytime）租方需向船东支付滞期费，是煤炭运输常见成本项。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 671,
+  "category": "concept",
+  "question": "在合同条款谈判中，以下哪种做法是正确的？",
+  "options": [
+   {
+    "text": "综合考虑价格质量付款交货违约责任等所有条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "仅作口头约定即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完全接受对方全部条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只关注价格高低",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "合同条款谈判应综合考虑价格、质量、付款方式、交货期、违约责任等所有条款，追求整体最优。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 677,
+  "category": "concept",
+  "question": "煤炭贸易谈判中，遇到僵局时应该怎么做？",
+  "options": [
+   {
+    "text": "暂时休会寻找替代方案或引入第三方协调",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "立即终止整个谈判",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完全放弃自己的所有要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "强行要求对方接受己方条件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "遇到僵局应坦诚沟通，理解对方关切，暂时休会、寻找替代方案或引入第三方协调，找到双方都能接受的方案。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 678,
+  "category": "concept",
+  "question": "煤炭贸易合同中'检验争议'的常见解决方式是？",
+  "options": [
+   {
+    "text": "装港卸港结果对比及第三方复检",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "抛硬币决定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不做任何处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "凭嗓门大小解决",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装港卸港结果差异超允许范围时，可委托第三方仲裁复检或按合同约定折算。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 679,
+  "category": "concept",
+  "question": "煤炭合同'所有权保留'（retention of title）条款的作用是？",
+  "options": [
+   {
+    "text": "货款付清前保留货物所有权",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "违约情形和赔偿解除权",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结算方式和时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "转移所有权",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "所有权保留保障卖方收款安全，付清前货权不转移。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 683,
+  "category": "concept",
+  "question": "国际贸易合同中，FOB条款的含义是什么？",
+  "options": [
+   {
+    "text": "卖方在装运港将货物装上船后风险和费用转移给买方",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "卖方负责所有运输费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方在卖方工厂提货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方负责将货物运到买方港口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOB（Free On Board）装运港船上交货，卖方负责将货物装上船，之后风险和费用转移给买方。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 686,
+  "category": "concept",
+  "question": "煤炭贸易'背靠背'（back-to-back）合同的特点是？",
+  "options": [
+   {
+    "text": "买卖条款对应风险传递",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "独立第三方检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提单仓单管理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方独立定价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "背靠背合同将采购条款传递给下游，控制敞口。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 689,
+  "category": "concept",
+  "question": "国际贸易合同中，CIF条款的含义是什么？",
+  "options": [
+   {
+    "text": "卖方负责成本保险费和运费至目的港",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "卖方仅负责装船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方不负责保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方负责所有费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CIF（Cost Insurance and Freight）成本加保险费加运费，卖方负责运费和保险至目的港。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 690,
+  "category": "concept",
+  "question": "印尼煤合同的适用法律常见选择是？",
+  "options": [
+   {
+    "text": "印尼法新加坡法或英国法",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "月球法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "中国国家",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "口头约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "跨国煤炭合同常约定适用印尼法、新加坡法或英国法，便于争议解决。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 692,
+  "category": "concept",
+  "question": "煤炭合同'审阅'（review）的最佳时点是？",
+  "options": [
+   {
+    "text": "签约前充分审阅",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "签约后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "出问题后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确具体标准避免歧义",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "签约前充分审阅合同条款，可有效规避风险与歧义，保障己方权益。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 695,
+  "category": "concept",
+  "question": "煤炭贸易合同中，价格条款通常采用什么方式？",
+  "options": [
+   {
+    "text": "基准价格加浮动机制或指数挂钩",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "固定价格不做任何调整",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "由卖方随意定价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅按重量简单计价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤炭价格波动大，通常采用基准价格+浮动机制，或与指数挂钩。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 696,
+  "category": "concept",
+  "question": "煤炭贸易中的'价格调整条款'（price adjustment）针对什么？",
+  "options": [
+   {
+    "text": "实际质量与合同基准的偏差",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "船员工资",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "汇率波动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "油价上涨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "实际热值、硫分等与合同基准不符时，按约定单价调整结算，即扣价机制。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 697,
+  "category": "concept",
+  "question": "煤炭贸易谈判中'BATNA'（最佳替代方案）的作用是？",
+  "options": [
+   {
+    "text": "明确底线增强谈判筹码",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "无协议时的选择",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "减少谈判",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提高价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "BATNA（Best Alternative to Negotiated Agreement）是谈判底线和替代方案。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 701,
+  "category": "concept",
+  "question": "煤炭贸易中，信用证（L/C）付款方式的主要风险是什么？",
+  "options": [
+   {
+    "text": "单证不符可能导致拒付",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "买方风险最大",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方风险最大",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方合同贸易方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "信用证是单证交易，单证不符可能导致银行拒付。",
+  "rework_verdict": "D",
+  "rework_note": "干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 702,
+  "category": "concept",
+  "question": "印尼煤合同以'美元计价'时，汇率风险通常由谁承担？",
+  "options": [
+   {
+    "text": "按合同约定分摊或由一方承担",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "政治风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "质量风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "汇率风险分配需在合同中明确，常见按计价币种结算或约定汇率锁定机制。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 707,
+  "category": "concept",
+  "question": "在国际煤炭贸易合同中，不可抗力（force majeure）通常指？",
+  "options": [
+   {
+    "text": "自然灾害战争政府禁令罢工等无法预见和控制的事件",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "市场价格波动也属于不可抗力",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅包括战争情形",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅包括买方认定的情形",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "不可抗力指自然灾害、战争、政府禁令、罢工等无法预见和控制的事件，市场价格波动一般不构成不可抗力。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 708,
+  "category": "concept",
+  "question": "煤炭贸易中'担保函'（LOI）的作用是？",
+  "options": [
+   {
+    "text": "无正本提单时凭保函提货或放货",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "取消检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提高煤价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "代替合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "货物先到、正本提单未到时，收货人可出具 LOI 申请无单放货，但存在法律风险。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 713,
+  "category": "concept",
+  "question": "煤炭长期供货合同中的'照付不议'（take-or-pay）条款是指？",
+  "options": [
+   {
+    "text": "买方无论是否提货都必须支付约定数量的货款",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "价格随市场波动调整",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方可以随时修改数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方必须按约定价格供货不得涨价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "照付不议条款下，买方无论是否提货都必须按约定数量付款，保障卖方长期收益。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 719,
+  "category": "concept",
+  "question": "在煤炭采购谈判中，以下哪种策略有助于获得更有利的价格？",
+  "options": [
+   {
+    "text": "同时与多家供应商谈判利用竞争压低价格",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "只找一家供应商谈判",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提前告知预算上限",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接接受第一次报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "同时与多家供应商谈判，利用竞争压低价格，同时确认所有条款一致。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 726,
+  "category": "concept",
+  "question": "煤炭贸易中'swing'条款通常指？",
+  "options": [
+   {
+    "text": "数量在月度间灵活调剂",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "船型变更",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格优惠",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口换港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "长协中的 swing 条款允许买方在约定范围内调整月度提货量，增加履约弹性。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 732,
+  "category": "concept",
+  "question": "印尼煤长协合同常见的期限结构是？",
+  "options": [
+   {
+    "text": "1-3年为主附年度定价机制",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "100年",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一次性10年",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "国际商会ICC仲裁",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤炭长协常见 1-3 年，价格按年度或季度重新谈判（re-opener）机制调整。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 737,
+  "category": "concept",
+  "question": "在印中煤炭贸易谈判中，以下哪种合同条款能有效保护买方利益？",
+  "options": [
+   {
+    "text": "约定严格的质量指标扣罚条款及第三方检验权",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "完全信任卖方自检结果",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只约定交货时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅约定价格条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "严格质量指标、扣罚条款与第三方检验权可有效保护买方利益。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 750,
+  "category": "concept",
+  "question": "煤炭贸易中'履约保证金'（performance bond）的作用是？",
+  "options": [
+   {
+    "text": "约束双方按约履行违约扣罚",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "支付海运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "预支煤款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "缴关税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "履约保证金是合同履行的担保，一方违约时对方可主张扣罚。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 751,
+  "category": "concept",
+  "question": "谈判中'让步'（concession）的合理原则是？",
+  "options": [
+   {
+    "text": "逐步有条件让步换回对等回报",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "不让步",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "尊重文化差异",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一次让到底",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "有条件、有节奏的让步可换取对方对等让步。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 753,
+  "category": "concept",
+  "question": "谈判中'不可抗力'（force majeure）的界定应？",
+  "options": [
+   {
+    "text": "明确列举和通知义务",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "找到双方利益共同点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "重视长期利益",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验安排约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "清晰界定不可抗力的范围和通知程序，减少履约争议。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 764,
+  "category": "concept",
+  "question": "谈判中'付款担保'（payment security）方式有？",
+  "options": [
+   {
+    "text": "信用证保函和预付",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "资源和信息便利",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格浮动范围",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "稀缺提升价值感",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "付款担保（信用证、保函、预付）降低收款风险。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 781,
+  "category": "concept",
+  "question": "印尼煤贸易中，买方做'套期保值'的主要目的是？",
+  "options": [
+   {
+    "text": "对冲煤价或运费波动风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "提高利润",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方合同贸易方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加快船期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "通过期货（如 API4、ICI 相关）或远期运费协议对冲价格风险，锁定成本。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 791,
+  "category": "concept",
+  "question": "印尼煤谈判中，'水分扣减'谈判的关键是？",
+  "options": [
+   {
+    "text": "明确按全水分基准折算干吨",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "多扣水分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按心情扣减",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不扣水分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "明确 WMT 与 DMT 换算、水分超标的扣罚规则，避免结算争议。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 796,
+  "category": "concept",
+  "question": "煤炭贸易谈判中，'FOB vs CIF'选择主要取决于？",
+  "options": [
+   {
+    "text": "双方风险偏好与运力掌控能力",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "煤的颜色",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口大小",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船员多少",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "买方有运力与保险安排能力时选 FOB 自主性强；希望卖方打包服务可选 CIF/CFR。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 806,
+  "category": "concept",
+  "question": "煤炭贸易中'软条款'信用证的风险在于？",
+  "options": [
+   {
+    "text": "单证要求苛刻卖方难以满足导致拒付",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "付款太快",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "金额太小",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "币种错误",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "软条款（如要求买方签收的额外单证）使付款受买方控制，卖方需严格审查。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 812,
+  "category": "concept",
+  "question": "印尼煤'一货多卖'欺诈的特征是？",
+  "options": [
+   {
+    "text": "同一批货重复签约多家买方",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "价格偏低",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船期太紧",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤质超标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "同一货源向多方签约收款属典型欺诈，买方应通过装港实况与单证链条核查。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 816,
+  "category": "concept",
+  "question": "印尼谈判中'书面确认'（written confirmation）的重要性是？",
+  "options": [
+   {
+    "text": "防止口头承诺落空",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "不必要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "印尼时间较宽松",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "较长需多层级确认",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "口头承诺容易产生歧义，需书面确认，减少后续争议。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 821,
+  "category": "concept",
+  "question": "印尼煤炭贸易中'DMO政策收紧'对出口价格的影响通常是？",
+  "options": [
+   {
+    "text": "出口供给减少价格上行",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "高效煤煤化工和清洁技术",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格下跌",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DMO 收紧使可出口量减少，国际市场供给偏紧，出口价格通常上行。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 824,
+  "category": "concept",
+  "question": "煤炭贸易中'离岸质量/到岸质量'条款的区别是？",
+  "options": [
+   {
+    "text": "以装港还是卸港检验为结算依据",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "按规定开票合规纳税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤种不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "离岸质量以装港检验为准，到岸质量以卸港为准，风险归属不同。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 827,
+  "category": "concept",
+  "question": "印尼煤贸易中'复检权'条款的意义是？",
+  "options": [
+   {
+    "text": "买方到港后有权申请复检并据以索赔",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "复检无效",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "复检免费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方无权质疑",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "复检权条款保障买方在卸港检验发现重大差异时启动复检和索赔程序。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 838,
+  "category": "concept",
+  "question": "印尼煤炭的'典型收到基低位发热量'是多少大卡/公斤？",
+  "options": [
+   {
+    "text": "3800-5500",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   },
+   {
+    "text": "6000-7000",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "1000以下",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "2000-2500",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "收到基低位发热量(Qnet,ar)是包含全水分的实际收到煤样的发热量，是贸易结算常用基准，印尼煤典型范围3800-5500大卡/公斤。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 842,
+  "category": "jargon",
+  "question": "贸易术语'CFR'与'CNF'的关系是？",
+  "options": [
+   {
+    "text": "两者含义相同都是成本加运费",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "CNF是船型",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完全不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CFR更贵",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CFR与CNF（C&F）都是成本加运费（Cost and Freight），仅书写习惯不同。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 846,
+  "category": "concept",
+  "question": "与印尼矿企谈判时，'报价有效期'（validity）的作用是？",
+  "options": [
+   {
+    "text": "锁定报价时限防止市场波动",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "真诚沟通尊重文化和耐心",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提高价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "强制成交",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "报价有效期防止价格长期锁定带来的市场风险。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 854,
+  "category": "jargon",
+  "question": "信用证术语'UCP600'指的是？",
+  "options": [
+   {
+    "text": "跟单信用证统一惯例",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "船舶规范",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口规范",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤质标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "UCP600是国际商会《跟单信用证统一惯例》最新版本，规范信用证操作。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 856,
+  "category": "jargon",
+  "question": "贸易术语'SWIFT'在结算中通常指？",
+  "options": [
+   {
+    "text": "银行间电汇报文系统",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "船公司代码",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口代码",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "SWIFT是银行间金融报文系统，T/T汇款即通过SWIFT网络完成。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 858,
+  "category": "jargon",
+  "question": "煤炭贸易中'AA/NA'通常指什么？",
+  "options": [
+   {
+    "text": "买方卖方指定（付款术语）",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "保险人合同贸易方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤的等级",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "开证行合同贸易方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "AA/NA（As Advised/Not Advised）用于约定由哪方指定船或检验等，具体含义视上下文。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 860,
+  "category": "jargon",
+  "question": "煤炭贸易中'NOR'（notice of readiness）指的是？",
+  "options": [
+   {
+    "text": "船舶准备就绪通知书",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "装货单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "风险应对方案",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "报关单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "NOR是船舶抵达装/卸港并准备就绪后向租方递交的通知，是装卸时间起算的依据。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 861,
+  "category": "jargon",
+  "question": "煤炭运输中'laytime'指的是？",
+  "options": [
+   {
+    "text": "允许装卸时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "等待潮汐时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "航行时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卸货时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Laytime是合同约定的装卸作业允许时间，超时产生滞期费。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 862,
+  "category": "jargon",
+  "question": "贸易中'shipped on board'提单表示？",
+  "options": [
+   {
+    "text": "货物已装船",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "货物在仓库",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物已到港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物遗失",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Shipped B/L是已装船提单，证明货物已装上船，信用证一般要求此类提单。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 863,
+  "category": "jargon",
+  "question": "贸易术语'telex release'（电放）指？",
+  "options": [
+   {
+    "text": "凭电子报文放货无需正本提单",
+    "correct": true,
+    "effect": {
+     "knowledge": 12,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "电报发价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "传真合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "电话通知提货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "电放是承运人凭发货人申请电放提单报文放货，加快提货流程，但风险较高。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 864,
+  "category": "jargon",
+  "question": "煤炭贸易中'invoice value'指的是？",
+  "options": [
+   {
+    "text": "发票金额合同货款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "保险费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "客户维护管理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "免除不可预见事件违约责任",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Invoice Value发票金额即合同货物价款，保险金额和清关金额常以此为基准。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 865,
+  "category": "jargon",
+  "question": "贸易中'discount'在煤炭贸易中通常指？",
+  "options": [
+   {
+    "text": "价格折扣或信用证贴现",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "煤的密度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "从矿到终端用户的全链条",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口水深",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Discount可指合同价格折扣，也可指远期信用证贴现（银行买断单据）。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 866,
+  "category": "jargon",
+  "question": "煤炭贸易中'all risks'保险条款指的是？",
+  "options": [
+   {
+    "text": "一切险（ICC(A)范围）",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "不投保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "战争险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "验证供应商履约与煤质",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "All Risks（一切险）是货物运输保险常见险别，范围近ICC(A)，但不含除外责任。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 867,
+  "category": "jargon",
+  "question": "贸易术语'ETD/ETA'分别指？",
+  "options": [
+   {
+    "text": "预计离港预计到港时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "装船卸货时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "出口进口税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船名航次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "ETD（Estimated Time of Departure）预计离港，ETA（Estimated Time of Arrival）预计到港。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 868,
+  "category": "jargon",
+  "question": "煤炭贸易中'laycan'与'NOR'的关系是？",
+  "options": [
+   {
+    "text": "NOR在窗口内递交后起算装卸时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "两者互不相关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "NOR先于laycan",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "laycan是船名",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "船舶在laycan窗口抵达并递交NOR后，装卸时间按合同起算，两者衔接决定滞期计算。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 4,
+  "level_name": "贸易谈判",
+  "index_in_level": 869,
+  "category": "jargon",
+  "question": "贸易术语'proforma invoice'（形式发票）的用途是？",
+  "options": [
+   {
+    "text": "报价与开证参考，非正式结算单据",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "正式收货凭证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "替代提单使用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "作为报关单据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "形式发票用于报价、申请LC和进口许可，不是最终结算发票。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ }
+]

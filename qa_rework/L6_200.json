@@ -1,0 +1,9653 @@
+[
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 0,
+  "category": "scenario",
+  "question": "在煤堆上取样，取样点应如何布置？",
+  "options": [
+   {
+    "text": "按网格法均匀布置，覆盖顶部、中部和底部",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "只在煤堆顶部取样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "在煤堆表面随意取几铲",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只在煤堆边缘取样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤堆取样应按网格法均匀布置取样点，覆盖顶部、中部和底部，确保样品具有代表性。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 9,
+  "category": "concept",
+  "question": "煤炭检验标准制定中“征求意见”环节的目的是什么？",
+  "options": [
+   {
+    "text": "收集各方意见，保障标准可行",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "直接发布实施",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取消标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "替代试验验证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "征求意见广泛收集生产、检验、贸易各方意见，使标准内容更合理、更具可操作性。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 16,
+  "category": "concept",
+  "question": "船舶“载重吨”（DWT）指的是什么？",
+  "options": [
+   {
+    "text": "船舶最大载货重量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船舶总吨位",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶航速指标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物垫舱物料",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "DWT即载重吨，指船舶允许装载的最大货物重量，是衡量运载能力的关键指标。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 18,
+  "category": "concept",
+  "question": "煤炭检验标准为什么要“更新”？",
+  "options": [
+   {
+    "text": "适应技术发展和贸易需求变化",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "保持固定不变",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "方便重新印刷",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提高检验收费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "随着检验技术进步和贸易需求变化，标准需要更新修订，保持科学性和适用性。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 20,
+  "category": "concept",
+  "question": "煤炭质量验收时机应如何选择？",
+  "options": [
+   {
+    "text": "按合同约定在装港或卸港及时验收",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "任意时间验收",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "事后再补验收",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只看验收人员",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "验收时机按合同约定在装港或卸港进行，及时验收可减少货损货差争议。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 46,
+  "category": "concept",
+  "question": "煤炭质量“指标”如何分类？",
+  "options": [
+   {
+    "text": "按工业分析、元素分析等类别划分",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "只有单一指标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只做数据优化",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只讲指标含义",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "质量指标按工业分析、元素分析、发热量等类别划分，便于分类管理和使用。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 48,
+  "category": "concept",
+  "question": "船舶租赁“程租”（voyage charter）的特点是什么？",
+  "options": [
+   {
+    "text": "按航次租赁，运费按航程结算",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "按时间租赁",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按货量结算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按日租金结算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "程租是按航次租赁船舶，运费按航程结算，与期租按时间计租明显不同。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 53,
+  "category": "concept",
+  "question": "煤炭检验标准中的“抽样规则”有什么作用？",
+  "options": [
+   {
+    "text": "规定抽样方法，保障样品代表性",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "只做档案管理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意抽样即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只做合格判定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "抽样规则规定取样点、份数和子样量，保障样品能代表整批煤质。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 58,
+  "category": "concept",
+  "question": "煤炭质量“指标超标”应如何处理？",
+  "options": [
+   {
+    "text": "及时处理，确保质量合规",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "只讲指标类型",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不做处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "忽略超标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "指标超标须查明原因并采取处置措施，避免不合格煤流入交付环节。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 76,
+  "category": "concept",
+  "question": "煤炭质量验收出现“验收异议”应如何处理？",
+  "options": [
+   {
+    "text": "按异议程序处理，保障权益",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "只做独立验收",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只做共同验收",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接接受结果",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "验收异议按约定程序提出并复检，保障双方权益，避免争议扩大。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 80,
+  "category": "concept",
+  "question": "船舶租赁“光租”（bareboat）的特点是什么？",
+  "options": [
+   {
+    "text": "只租船壳，不带船员",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "按运输费率计费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按租赁期限计费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按超时装卸计费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "光租只出租船舶本身不含船员，承租人自行配备船员并负责营运。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 100,
+  "category": "concept",
+  "question": "煤炭质量争议中“复检机构”应如何选择？",
+  "options": [
+   {
+    "text": "选择双方认可的第三方机构",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "任意机构都可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只做协商处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只保存复检样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "复检机构须由双方认可且具备资质，其权威性决定复检结果公信力。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 112,
+  "category": "concept",
+  "question": "船舶租赁“租约”（charter party）指的是什么？",
+  "options": [
+   {
+    "text": "约定租赁条款的合同文件",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "租赁时间期限",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装卸期限约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "租期届满交还",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "租约是船舶租赁的合同文件，约定租期、运费、装卸条款等内容。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 120,
+  "category": "concept",
+  "question": "船舶“吃水”（draft）指的是什么？",
+  "options": [
+   {
+    "text": "船体浸入水中的深度",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "避碰规则执行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "应急能力训练",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船体变形应力过大",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "吃水是船体浸入水中的深度，决定船舶能否安全通过港口水深。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 146,
+  "category": "concept",
+  "question": "煤炭质量控制“控制方法”的作用是什么？",
+  "options": [
+   {
+    "text": "提供手段，提升控制效果",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "只做平行试验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只做仪器校准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "凭经验判断",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "控制方法提供质控样、空白试验、重复试验等手段，提升控制效果。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 150,
+  "category": "concept",
+  "question": "煤炭质量控制“控制效果”如何评估？",
+  "options": [
+   {
+    "text": "对比数据验证控制有效性",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "只做质控图表管理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "凭感觉判断",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不进行评估",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "控制效果通过对比质控数据和目标值评估，验证控制措施是否有效。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 152,
+  "category": "concept",
+  "question": "船舶租赁中“滞期费”（demurrage）是什么？",
+  "options": [
+   {
+    "text": "装卸超时的违约费用",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "租赁合同文件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提前完成奖励",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按日计算租金",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "滞期费是装卸时间超过合同约定后，租方支付给船方的违约补偿。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 153,
+  "category": "concept",
+  "question": "煤炭标准检验“检验争议”应如何处理？",
+  "options": [
+   {
+    "text": "按约定程序处理争议",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "不处理争议",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只列检验依据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自行解决即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "检验争议按合同约定程序协商、复检或仲裁，保障结果公正。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 192,
+  "category": "concept",
+  "question": "船舶租赁中“速遣费”（dispatch money）是什么？",
+  "options": [
+   {
+    "text": "提前完成装卸的奖励",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船舶总吨位",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "超时装卸罚金",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "租赁合同文件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "速遣费是装卸提前完成时船方支付给租方的奖励，鼓励作业效率。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 208,
+  "category": "concept",
+  "question": "船舶租赁中“装卸时间”条款约定什么？",
+  "options": [
+   {
+    "text": "允许的装卸期限",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "运输费用费率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装卸事实记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按时间租赁",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装卸时间条款约定允许的装卸期限，超时计滞期费、提前计速遣费。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 251,
+  "category": "concept",
+  "question": "船舶“航次成本”（voyage cost）包括什么？",
+  "options": [
+   {
+    "text": "燃油、港杂等费用",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "扣除船员舱后的容积",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "设计建造退役成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "航速载量海况",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "航次成本包括燃油费、港口使费、装卸费等，决定运费定价水平。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 260,
+  "category": "取样检验",
+  "question": "按照 GB/T 475-2008，直接从静止煤中采样时，为保证煤样代表性，采样深度应如何安排？",
+  "options": [
+   {
+    "text": "根据条件采取全深度或不同深度（如上、中、下）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "只取煤堆表面",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只取最底层",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只取最大块煤",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "GB/T 475-2008 规定静止煤直接采样可采取全深度试样或不同深度试样（如上、中、下或上、下），按条件布置以保证代表性；只取表面、最底层或最大块煤均会造成样品偏倚。另注意：直接从轮船船舱采样受技术与安全限制，标准不推荐作为常规方式。",
+  "v2_verdict": "DROP_REBUILD",
+  "v2_gates": [
+   "Gate0",
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ],
+  "v21_note": "用户红线：原题“每舱至少3个点”系对 GB/T 475-2008 的错误引用，判不合格重做；改为考标准原则本身",
+  "r1_note": "R1 补齐 effect（正项+8/+5/-5，干扰项-5/-3/+5）"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 269,
+  "category": "concept",
+  "question": "煤堆取样常用的布点方法是什么？",
+  "options": [
+   {
+    "text": "网格法或系统布点",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "隔绝空气高温加热",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按标准制样干燥",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随机取一点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤堆取样按GB 475用网格法在顶部、中部、底部均匀布点，保证代表性。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 306,
+  "category": "concept",
+  "question": "航次租船（voyage charter）的计价方式是什么？",
+  "options": [
+   {
+    "text": "按约定航程计价",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "按约定吨位包运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同期限租赁",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按固定费率年租",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "航次租船按完成一个或几个航次计价，运费与航程和货量挂钩。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 317,
+  "category": "concept",
+  "question": "期租（time charter）的计价方式是什么？",
+  "options": [
+   {
+    "text": "按租用时间支付租金",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "按航次计价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按吨位包运计价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同航程计价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "期租按租期支付租金，承租人负责营运调度。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 323,
+  "category": "concept",
+  "question": "皮带输送机上取样应在什么位置进行？",
+  "options": [
+   {
+    "text": "落料处或横截面中部",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "皮带边缘",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "皮带接头处",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "皮带任意位置",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "皮带取样应在落料处或横截面中部取样，避开边缘和接头，保证代表性。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 335,
+  "category": "concept",
+  "question": "皮带输送机机械取样的优势是什么？",
+  "options": [
+   {
+    "text": "覆盖面广、代表性强、自动化",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "成本最高",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "速度最慢",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取样量最少",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "机械取样按时间或质量间隔自动采样，覆盖整个装船过程，代表性最好。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 341,
+  "category": "concept",
+  "question": "租船“装卸条款”（laytime）约定什么？",
+  "options": [
+   {
+    "text": "装卸时间及滞期速遣",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "航线条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运输服务报酬",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "租金条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "laytime约定允许的装卸时间，超时付滞期、节省得速遣。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 388,
+  "category": "concept",
+  "question": "租船合同“NOR”（notice of readiness）是什么？",
+  "options": [
+   {
+    "text": "船舶备妥通知",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "承运权利义务约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装货单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装卸时间起算地点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "NOR是船方声明船舶备妥可装货的通知，是装卸时间起算依据。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 427,
+  "category": "concept",
+  "question": "海运“装卸时间”（laytime）如何起算？",
+  "options": [
+   {
+    "text": "按合同约定起算",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "大副签发货物收据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "油污和货损",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物状态跟踪",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "laytime自NOR递交并按合同约定起算，影响滞期速遣费用。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 459,
+  "category": "取样检验",
+  "question": "煤炭取样中“人为挑选”（cherry picking）的后果是什么？",
+  "options": [
+   {
+    "text": "样品失真、检验结果丧失公信力",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "提高样品的代表性",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "降低检验总成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "减少取样所需的点数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "人为挑选（cherry picking）使样品不具代表性，检验结果失真无效，买卖双方均不会认可。提高代表性、降成本、减少点数均非其后果。",
+  "r1_note": "R1 补齐 effect（正项+8/+5/-5，干扰项-5/-3/+5）",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate0",
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 473,
+  "category": "concept",
+  "question": "ISO 18283是关于什么的国际标准？",
+  "options": [
+   {
+    "text": "人工采样方法",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "发热量测定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "机械采样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "水分测定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "ISO 18283《硬煤和焦炭—人工采样》规范人工取样操作。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 475,
+  "category": "concept",
+  "question": "煤样采集后“密封”（sealing）的目的是什么？",
+  "options": [
+   {
+    "text": "防止水分变化和污染",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "发热量测定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "固定碳测定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "氯含量测定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "密封保存防止水分蒸发和外部污染，保证结果真实。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 485,
+  "category": "concept",
+  "question": "ISO 13909是关于什么的国际标准？",
+  "options": [
+   {
+    "text": "机械采样",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "水尺计重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤的岩相分析",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰分测定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "ISO 13909《硬煤—机械采样》规范皮带机械采样方法。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 487,
+  "category": "concept",
+  "question": "煤样“缩分”（reduction）的目的是什么？",
+  "options": [
+   {
+    "text": "缩减到化验需要的小样",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "丢弃样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "增加样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "混合样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "缩分按规程将总样缩减至分析试样，保持代表性。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 493,
+  "category": "concept",
+  "question": "制备好的分析煤样应保存在什么容器中？",
+  "options": [
+   {
+    "text": "密封的塑料或玻璃容器",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "敞口的铁皮桶",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "普通纸袋",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "透气的布袋",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "分析煤样保存在密封塑料玻璃容器中，防水分变化和氧化。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 495,
+  "category": "concept",
+  "question": "船舶舱内取样时，采样点应覆盖哪些部位？",
+  "options": [
+   {
+    "text": "各舱的上、中、下部位",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "装船皮带落料口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "总样合并处",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "SO2、NOx和粉尘",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "每个舱按上中下分层布点取样，覆盖整个货堆。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 497,
+  "category": "concept",
+  "question": "煤样“制样”（sample preparation）包括哪些步骤？",
+  "options": [
+   {
+    "text": "破碎、缩分、研磨和装瓶",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "样品防污染措施",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "器具清洁管理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接化验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "制样流程包括破碎、缩分、研磨至分析粒度并装瓶。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 505,
+  "category": "concept",
+  "question": "样品制备过程中，以下哪种做法是错误的？",
+  "options": [
+   {
+    "text": "随意丢弃部分样品",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "使用标准筛子筛分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按标准程序破碎混合缩分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "充分混合",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "随意丢弃部分样品破坏代表性，必须按标准程序缩分。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 507,
+  "category": "concept",
+  "question": "取样时“子样”与“总样”的关系是什么？",
+  "options": [
+   {
+    "text": "总样由所有子样合并而成",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "两者无关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "总样是一个子样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "子样大于总样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "总样（gross sample）由按规定采取的若干子样合并而成。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 509,
+  "category": "concept",
+  "question": "煤样“双份”（duplicate）采制的目的是什么？",
+  "options": [
+   {
+    "text": "复检和争议仲裁备用",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "多收费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "减少取样工作量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "平衡水分便于研磨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "保留双份样品供复检和仲裁使用，保证结果公平。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 513,
+  "category": "concept",
+  "question": "制备好的煤样应在多长时间内进行化验？",
+  "options": [
+   {
+    "text": "一般应在制备后24小时内",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "存放一个月后再化验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "制备后立即化验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "没有时间限制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "制备好的煤样一般应在24小时内化验，防止氧化影响指标。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 514,
+  "category": "concept",
+  "question": "煤炭取样中“缩分”的目的是什么？",
+  "options": [
+   {
+    "text": "保持代表性前提下减少样品量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "让煤更细",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "增加样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "改变煤质",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "缩分通过二分器等按比例减少样品量，同时保持代表性。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 516,
+  "category": "concept",
+  "question": "船舶“富余水深”（UKC）的意义是什么？",
+  "options": [
+   {
+    "text": "防止触底和螺旋桨受损",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "航速越高油耗剧增",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "航道水深和港口条件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "低速航行状态",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "富余水深（UKC）保障船底与海底间距，防止触底。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 521,
+  "category": "concept",
+  "question": "煤炭检验中“仲裁样”（umpire sample）的作用是什么？",
+  "options": [
+   {
+    "text": "争议时交第三方复检",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "专业检验人员培训",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方认可第三方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "与真值的接近程度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "仲裁样在双方检验结果争议时交第三方复检。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 526,
+  "category": "concept",
+  "question": "GB 474标准是关于什么的？",
+  "options": [
+   {
+    "text": "煤样制备方法",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "煤的发热量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤的灰分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤样采取",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "GB 474是《煤样的制备方法》，规定破碎缩分干燥等流程。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 531,
+  "category": "concept",
+  "question": "灰分测定中，煤样应在什么温度下灼烧？",
+  "options": [
+   {
+    "text": "815±10℃",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "500℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "1000℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "常温",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "灰分测定在815±10℃灼烧至恒重，测定残留物质量。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 533,
+  "category": "concept",
+  "question": "煤炭检验的“留样期限”通常为多久？",
+  "options": [
+   {
+    "text": "合同约定（如装后60-90天）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "检验后出具",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "偏离标准的允许度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "精密度重复性",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "留样期限按合同约定（如装后60-90天），保障争议期复检。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 537,
+  "category": "concept",
+  "question": "挥发分测定中，煤样应在什么条件下加热？",
+  "options": [
+   {
+    "text": "隔绝空气，900±10℃加热7分钟",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "开放环境，900℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "隔绝空气，500℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "开放环境，500℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "挥发分测定隔绝空气900±10℃加热7分钟，测定挥发物。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 539,
+  "category": "concept",
+  "question": "煤炭取样的“标准依据”包括什么？",
+  "options": [
+   {
+    "text": "ISO、ASTM或GB标准",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "矿主规定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船员规定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船东规定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "取样方法按ISO、ASTM或GB等标准执行，保证规范。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 543,
+  "category": "concept",
+  "question": "全水分测定中，煤样应在什么温度下干燥？",
+  "options": [
+   {
+    "text": "105-110℃",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "815℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "50℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "200℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "全水分测定在105-110℃干燥至恒重，测定水分损失。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 544,
+  "category": "concept",
+  "question": "煤炭“仲裁样”（保留样）的作用是什么？",
+  "options": [
+   {
+    "text": "争议时由第三方复检",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "喂动物",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "做纪念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖给别人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "仲裁样保留在检验机构，争议时用于第三方复检仲裁。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 545,
+  "category": "concept",
+  "question": "煤样“编号”（labeling）管理的关键是什么？",
+  "options": [
+   {
+    "text": "唯一标识、防混淆",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "用矿名",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "获取代表性样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不用编号",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "样品编号唯一且记录清晰，防止混淆和舞弊。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 549,
+  "category": "concept",
+  "question": "煤炭检验中重复性限和再现性限的区别是什么？",
+  "options": [
+   {
+    "text": "重复性限同实验室多次测定允许差，再现性限不同实验室测定允许差",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "再现性限小于重复性限",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "重复性限大于再现性限",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "两者含义完全相同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "重复性限是同一实验室多次测定的允许差，再现性限是不同实验室测定的允许差。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 550,
+  "category": "concept",
+  "question": "煤样化验前的“空气干燥”是为了什么？",
+  "options": [
+   {
+    "text": "使样品水分与实验室环境平衡",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "提高热值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让煤变干变轻",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "方便称量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "空气干燥使煤样达到与空气湿度平衡状态，保证ADB基准测定一致。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 555,
+  "category": "检验质控",
+  "question": "同一煤样的平行测定结果超过允许误差范围，实验室首先应该怎么处理？",
+  "options": [
+   {
+    "text": "检查仪器、试剂和操作原因，并按相应标准重新测定",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "直接采用两次结果的平均值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意选取其中一次结果",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "隐瞒超差情况，直接出具报告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "平行测定超差时应先排查仪器、试剂、操作等原因，按相应标准重新测定（必要时按标准流程补测并比较极差），不能直接取均值、随意选值或隐瞒出报告。",
+  "v2_verdict": "REWORK",
+  "v2_gates": [
+   "Gate0",
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ],
+  "v21_note": "用户评审 B+→A：从泛化的“超差重做”改为标准化的平行测定超差处理流程",
+  "r1_note": "R1 补齐 effect（正项+8/+5/-5，干扰项-5/-3/+5）"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 556,
+  "category": "concept",
+  "question": "取样时使用“采样铲”（sampling shovel）的规格要求是什么？",
+  "options": [
+   {
+    "text": "按粒度匹配规定尺寸",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "随便用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "越小越好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "越大越好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "采样铲尺寸须与煤的最大粒度匹配，保证子样质量。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 557,
+  "category": "concept",
+  "question": "煤炭化验“灰分”（ash）的测定原理是什么？",
+  "options": [
+   {
+    "text": "规定温度灼烧后残留物称重",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "燃烧失重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "哈氏可磨指数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰熔点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "灰分是煤在815℃左右灼烧后残留物的质量比例。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 561,
+  "category": "concept",
+  "question": "煤炭检验中以下哪种情况会导致系统误差？",
+  "options": [
+   {
+    "text": "天平未校准",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "偶然的温度波动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "读数时的视差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "样品不均匀",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "天平未校准使所有结果系统性偏高或偏低，属系统误差。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 562,
+  "category": "concept",
+  "question": "煤堆取样的“顶部”点位应如何操作？",
+  "options": [
+   {
+    "text": "清除表层氧化层后再取样",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "直接抓表层",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按网格布点均匀取样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取最脏处",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤堆表层受氧化和雨水影响，应剥去表层后取代表性煤样。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 567,
+  "category": "concept",
+  "question": "质量控制中标准煤样的作用是什么？",
+  "options": [
+   {
+    "text": "检验化验方法的准确性和精密度",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "作为商品对外出售",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "没有任何实际作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用于实验室装饰",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "标准煤样用于检验化验方法的准确性和精密度，是质控手段。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 568,
+  "category": "concept",
+  "question": "装船过程中进行皮带取样，取样点应在什么位置？",
+  "options": [
+   {
+    "text": "皮带落料口或皮带面",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "煤堆底部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舱底部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "暴雨雷电大风天气",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "皮带取样在转运点或皮带上按间隔截取全断面煤流。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 569,
+  "category": "concept",
+  "question": "煤炭“发热量”（calorific value）的测定仪器是什么？",
+  "options": [
+   {
+    "text": "量热仪（氧弹量热计）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "磷含量测定仪",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰分测定仪",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "氯含量测定仪",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "发热量用氧弹量热计测定，煤样在氧弹中燃烧放热。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 574,
+  "category": "concept",
+  "question": "船舶取样时“煤堆表面”样品不能代表整舱的原因是什么？",
+  "options": [
+   {
+    "text": "粒度偏析、水分分布不均",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "表面更好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "哈氏可磨指数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "表面更差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船中粗煤粒滚向堆底造成偏析，表面与内部水分粒度差异大。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 579,
+  "category": "concept",
+  "question": "在皮带输送机上取样，取样点应选择什么位置？",
+  "options": [
+   {
+    "text": "落料处或皮带横截面中部",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "皮带接头处",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "皮带任意位置",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "皮带边缘",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "皮带边缘煤流不均、接头有杂质，应在落料处或横截面中部取样。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 580,
+  "category": "concept",
+  "question": "煤炭检验中“代表性”（representative）的含义是什么？",
+  "options": [
+   {
+    "text": "样品特性接近整批煤真实值",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "样品好看",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "样品量最大",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "样品最贵",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "代表性是取样核心要求，决定检验结果能否用于结算。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 585,
+  "category": "concept",
+  "question": "船舶舱内取样，以下哪种操作是错误的？",
+  "options": [
+   {
+    "text": "只在舱口表面取样，不深入煤堆内部",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "按网格法布点，每舱至少3个点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取样深度达到煤堆底部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "记录取样深度和位置",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "只在表面取样是严重错误，舱内煤堆存在粒度偏析须深入内部。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 586,
+  "category": "concept",
+  "question": "取样过程中发现煤中有异物（铁块、木头）应如何处理？",
+  "options": [
+   {
+    "text": "记录并单独处理，不混入样品",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "拍照后混入",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "实验室消防设备",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "混入样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "异物不属于煤样，应记录并排除，防止污染样品。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 587,
+  "category": "concept",
+  "question": "煤炭“收到基高位发热量”（GAR）换算为空干基高位（GAD）需要什么？",
+  "options": [
+   {
+    "text": "按水分差修正",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "减100",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接相等",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加硫分修正",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "基准换算按水分差异修正，GAD通常高于GAR。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 591,
+  "category": "concept",
+  "question": "使用取样铲取样时铲内应如何装满？",
+  "options": [
+   {
+    "text": "自然堆积状态，不压实也不留空隙",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "装满即可，形状无所谓",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用力压实以多取样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只取铲底一薄层",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "压实会改变密度粒度分布，留空隙则样品不足，应自然堆积。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 592,
+  "category": "concept",
+  "question": "煤炭机械化采样系统通常安装在什么位置？",
+  "options": [
+   {
+    "text": "装船皮带转运站",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "河口或近海深水锚地",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤堆顶部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舱内",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "机械采样器安装在装船皮带转运点，自动定时截取煤流样品。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 593,
+  "category": "concept",
+  "question": "煤炭化验“重复性”（repeatability）指的是什么？",
+  "options": [
+   {
+    "text": "同一实验室重复测定的允许差",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "同一煤样测定两次取均值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不同实验室间的允许差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "校验仪器和结果准确性",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "重复性限（r）是同一实验室平行测定的允许误差。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 597,
+  "category": "concept",
+  "question": "煤堆取样时以下哪种天气条件最不宜取样？",
+  "options": [
+   {
+    "text": "大雨天气",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "晴天微风",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "轻微雾霾",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "高温天气",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "大雨会改变煤的水分，影响检验结果，不宜取样。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 598,
+  "category": "concept",
+  "question": "取样方案的“子样数”通常由什么决定？",
+  "options": [
+   {
+    "text": "批量大小和标准规定",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "煤的颜色",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验员人数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "天气好坏",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "子样数按批量大小、煤种均匀性由标准（GB 475/ISO）确定。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 600,
+  "category": "concept",
+  "question": "装卸时间“起算”（commencement）的常见规则是什么？",
+  "options": [
+   {
+    "text": "NOR后按条款起算（如6小时后）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "装货完成后起算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同允许作业时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶抵达港口即起算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "常见规则如NOR后6小时或次日0800起算装卸时间。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 603,
+  "category": "concept",
+  "question": "制备煤样时以下哪种操作是正确的？",
+  "options": [
+   {
+    "text": "破碎、混合、缩分，确保样品代表性",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "直接使用原煤样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只取大颗粒煤样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意丢弃部分煤样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤样制备必须经过破碎、混合、缩分等步骤保证代表性。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 604,
+  "category": "concept",
+  "question": "采样时若煤中含水较高、易堵料，应如何处理？",
+  "options": [
+   {
+    "text": "调整采样间隔并做好防堵处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "取消取样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用嘴吹干",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只取表层干煤",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "高水分煤易堵塞采样器，需调整参数、及时清理，保证代表性。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 605,
+  "category": "concept",
+  "question": "煤炭检验报告的“不确定度”（uncertainty）表示什么？",
+  "options": [
+   {
+    "text": "测量结果的置信范围",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "结果波动范围",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结果误差范围",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验人员数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "测量不确定度反映结果的可信区间，评估时需考虑。",
+  "rework_verdict": "A",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 606,
+  "category": "concept",
+  "question": "“装卸时间”（laytime）的计算单位通常是什么？",
+  "options": [
+   {
+    "text": "工作日或连续小时",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "天/艘",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同允许作业时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装卸时间事实记录（SOF）",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Laytime按工作日、晴天工作日或连续小时计。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 607,
+  "category": "concept",
+  "question": "马六甲海峡（Strait of Malacca）的意义是什么？",
+  "options": [
+   {
+    "text": "连接印度洋和太平洋",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "连接大西洋和印度洋",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "连接太平洋和北冰洋",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "连接地中海和红海",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "马六甲海峡是亚欧海运咽喉，连接印度洋和太平洋。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 609,
+  "category": "concept",
+  "question": "煤炭水分检验中，全水分测定应在什么温度下干燥？",
+  "options": [
+   {
+    "text": "105℃至110℃",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "室温自然风干",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "50℃低温烘干",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "200℃高温烘干",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "全水分测定按国标在105-110℃干燥箱中烘至恒重。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 610,
+  "category": "concept",
+  "question": "煤炭发热量测定最常用的方法是什么？",
+  "options": [
+   {
+    "text": "氧弹量热法",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "目测法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "燃烧法看颜色",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "称重法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "氧弹量热法在氧弹量热计中燃烧煤样，测量释放热量。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 612,
+  "category": "concept",
+  "question": "“晴天工作日”（weather working day）的含义是什么？",
+  "options": [
+   {
+    "text": "扣除天气影响的时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "直接采煤地点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "去除全水分后的基准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "所有天",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "晴天工作日扣除天气阻止作业的时间。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 613,
+  "category": "concept",
+  "question": "南海“季风”（monsoon）对航行有什么影响？",
+  "options": [
+   {
+    "text": "冬季东北季风浪大",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "标准制定调研",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "南海经巴拉巴克海峡",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "夏秋季",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "东北季风期南海风浪较大，影响航行安全。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 615,
+  "category": "concept",
+  "question": "煤炭灰分检验中以下哪种是国际通用标准方法？",
+  "options": [
+   {
+    "text": "缓慢灰化法（815±10℃完全灰化）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "500℃快速燃烧法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "化学试剂溶解法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "目测观察法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "按ISO 1171及GB/T 212，灰分测定采用缓慢灰化法。",
+  "rework_verdict": "A",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 616,
+  "category": "concept",
+  "question": "煤炭灰分测定采用的方法是什么？",
+  "options": [
+   {
+    "text": "在规定温度下灼烧至恒重",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "哈氏可磨指数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "发热量测定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰熔点测定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "灰分测定将煤样在815℃左右灼烧至恒重，残留物即灰分。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 618,
+  "category": "concept",
+  "question": "“滞期费”（demurrage）产生的前提是什么？",
+  "options": [
+   {
+    "text": "装卸时间用完仍未完成",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船舶提前抵达",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装卸提前完成",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物装运过重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装卸超过约定时间即产生滞期费，按日或按小时计。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 620,
+  "category": "concept",
+  "question": "散货船“富余水深”（UKC）指的是什么？",
+  "options": [
+   {
+    "text": "船底至海底的余量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "影响装卸和配载",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "药品和急救培训",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "空船航行需要压载",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "UKC是船底至海底的安全余量，保障航行安全。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 621,
+  "category": "concept",
+  "question": "煤炭硫分检验中库法（Eschka法）的原理是什么？",
+  "options": [
+   {
+    "text": "混合灼烧后滴定硫酸盐含量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "直接观察颜色变化",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用气相色谱分离",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用磁铁吸附含硫颗粒",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Eschka法将煤与埃卡氏混合剂混合灼烧，滴定硫酸盐含量。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 622,
+  "category": "concept",
+  "question": "煤炭全水分的测定方法之一是什么？",
+  "options": [
+   {
+    "text": "干燥法（规定温度烘干）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "浸泡法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接称重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "浮选法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "全水分测定常用通氮干燥或空气干燥法，烘至恒重。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 624,
+  "category": "concept",
+  "question": "“速遣费”（despatch）指的是什么？",
+  "options": [
+   {
+    "text": "提前完成装卸的奖励",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "额外运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "超时作业的赔偿",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口服务费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "速遣费是船方付给租家的提前完成装卸奖励。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 625,
+  "category": "concept",
+  "question": "南海“台风”（typhoon）多发于什么季节？",
+  "options": [
+   {
+    "text": "夏秋季",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "冬季",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "初春",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全年均匀",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "西北太平洋台风多在夏秋季节影响南海。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 627,
+  "category": "concept",
+  "question": "以下哪种仪器用于快速测定煤炭发热量？",
+  "options": [
+   {
+    "text": "氧弹量热计（Bomb Calorimeter）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "原子吸收光谱仪",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "分光光度计",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "气相色谱仪",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "氧弹量热计是测定煤炭发热量的标准仪器。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 628,
+  "category": "concept",
+  "question": "煤炭挥发分测定在什么温度下进行？",
+  "options": [
+   {
+    "text": "900±10℃",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "200℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "500℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "1500℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "挥发分在900±10℃隔绝空气条件下加热7分钟测定。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 630,
+  "category": "concept",
+  "question": "“一旦滞期，永远滞期”（once on demurrage）的含义是什么？",
+  "options": [
+   {
+    "text": "滞期期间不扣节假日",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "超出约定装卸时间的天数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "去除全水分后的基准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装卸超时由责任方支付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "滞期期间即使节假日和坏天气也连续计费。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 633,
+  "category": "concept",
+  "question": "煤炭全硫测定常用的方法不包括什么？",
+  "options": [
+   {
+    "text": "水洗法",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "艾氏卡法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "高温燃烧红外法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "库仑滴定法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "全硫测定常用艾氏卡法、库仑滴定法和红外法，水洗法不能测全硫。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 638,
+  "category": "争议仲裁",
+  "question": "在煤炭检验中“仲裁样”的正确用途是什么？",
+  "options": [
+   {
+    "text": "争议时委托第三方重新检验",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "用于向海关申报货值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保存满6个月后自行丢弃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用于下次装船的质量参考",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "仲裁样密封保存至规定期限，买卖双方有争议时由第三方机构复检仲裁，结果作为最终判定依据。申报货值、到期丢弃、下次装船参考均非其用途。",
+  "r1_note": "R1 补齐 effect（正项+8/+5/-5，干扰项-5/-3/+5）",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate0",
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 639,
+  "category": "concept",
+  "question": "煤的灰熔融性（灰熔点）测定结果是什么？",
+  "options": [
+   {
+    "text": "四个特征温度（DT/ST/HT/FT）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "一个数值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全硫指标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "发热量指标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "灰熔融性测定变形、软化、半球、流动四个特征温度。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 644,
+  "category": "concept",
+  "question": "国际标准中煤炭检验的取样方法主要参照哪个标准？",
+  "options": [
+   {
+    "text": "ISO 18283（散装煤炭取样）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "ISO 1213",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "ASTM D388",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "ISO 9000",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "ISO 18283是国际散装煤炭取样标准，规定取样方法。",
+  "rework_verdict": "A",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 645,
+  "category": "concept",
+  "question": "煤的哈氏可磨性指数（HGI）测定按什么标准？",
+  "options": [
+   {
+    "text": "GB/T 2565或ASTM D409",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "GB 475",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "ISO 13909",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "GB/T 213",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "HGI测定按GB/T 2565（对应ASTM D409）进行，评价磨煤性能。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 646,
+  "category": "concept",
+  "question": "煤炭检验“质量控制”（QC）的手段包括什么？",
+  "options": [
+   {
+    "text": "标样、平行样和空白样",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "粒度分析",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "缩减样品量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "中国国家标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "QC通过标准样、平行样和空白试验保障结果可靠。",
+  "rework_verdict": "A",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 649,
+  "category": "concept",
+  "question": "散货船“STCW公约”指的是什么？",
+  "options": [
+   {
+    "text": "海员培训发证标准",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "港口国安全检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "控制温度和气体",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "热带吃水更大",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "STCW公约规范海员培训、发证和值班标准。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 650,
+  "category": "concept",
+  "question": "什么是煤炭检验中的“系统取样”（systematic sampling）？",
+  "options": [
+   {
+    "text": "按固定时间或质量间隔，从整批煤流中有规律地取样",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "随机抽取几铲样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只取开始和结束时的样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "由矿方自行决定取样时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "系统取样按固定质量或时间间隔（如每500吨取一次）对整批煤流取样。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 651,
+  "category": "concept",
+  "question": "煤炭化验中的“重复性限”（repeatability）表示什么？",
+  "options": [
+   {
+    "text": "同一实验室重复测定的允许误差",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "煤样重量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检测价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "实验室数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "重复性限规定同一实验室同一方法对同一煤样重复测定的最大允许差。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 653,
+  "category": "concept",
+  "question": "程租船“亏舱费”（deadfreight）产生于什么情况？",
+  "options": [
+   {
+    "text": "货物未装满船",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "装太快",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同约定到付预付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "受益各方分摊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "亏舱费是租家未提供约定货量时对船方的补偿。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 656,
+  "category": "concept",
+  "question": "煤炭粒度（Size）检验中以下哪种是标准方法？",
+  "options": [
+   {
+    "text": "用标准筛网（筛分法）筛分，称量各粒级质量计算百分比",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "用尺子量几块煤",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "目测估计粒度分布",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按煤的颜色判断粒度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "粒度检验按标准用规定孔径系列筛网筛分，称量各粒级质量。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 657,
+  "category": "concept",
+  "question": "煤炭化验中的“再现性”（reproducibility）指什么？",
+  "options": [
+   {
+    "text": "不同实验室对同一煤样测定的允许误差",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "同一实验室误差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "人为误差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仪器误差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "再现性限规定不同实验室对同一煤样测定的最大允许差，是仲裁依据。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 659,
+  "category": "concept",
+  "question": "程租船“停租”（off-hire）条款保护谁？",
+  "options": [
+   {
+    "text": "租家在船舶故障期间的损失",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "保险人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "开证行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "停租条款使租家在船舶非可用期间免付租金。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 660,
+  "category": "concept",
+  "question": "航行“计划”（passage plan）包括什么？",
+  "options": [
+   {
+    "text": "航线、转向点和风险标注",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "按规定轮值和瞭望",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "气象安全和油耗",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "风险评估和操作规程",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "航次计划覆盖全航程航线、转向点和风险标注。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 662,
+  "category": "检验质控",
+  "question": "煤炭检验结果出现异常偏高的热值，以下哪种原因最可能导致？",
+  "options": [
+   {
+    "text": "量热计校准不准确或样品受有机物污染",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "检验人员经验丰富",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤炭储存时间长",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "天气寒冷导致",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "热值异常偏高通常是量热计未正确标定或样品受油脂等污染。",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate0",
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 663,
+  "category": "concept",
+  "question": "煤炭发热量结果一般修约到什么精度？",
+  "options": [
+   {
+    "text": "整数kcal/kg或1MJ/kg小数位",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "小数点后10位",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不修约",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保留3位有效数字",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "发热量按标准修约至整数（kcal/kg）或约定小数位（MJ/kg）。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 664,
+  "category": "concept",
+  "question": "煤炭检验报告的“有效期”（validity）通常如何界定？",
+  "options": [
+   {
+    "text": "仅对该批次货物有效",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "测量结果的置信范围",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "最晚交单日期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "样品方法结果和结论",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "检验报告仅代表该批次货物，不跨批适用。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 665,
+  "category": "concept",
+  "question": "程租船“共同海损”（general average）损失由谁分摊？",
+  "options": [
+   {
+    "text": "受益各方按价值分摊",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "开证行独担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货主独担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船东独担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "共同海损由船货等受益方按各自价值比例分摊。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 668,
+  "category": "concept",
+  "question": "煤炭检验中SGS、Intertek、Bureau Veritas等机构的证书有何意义？",
+  "options": [
+   {
+    "text": "国际认可的第三方公正检验，公信力和法律效力高",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "仅是形式文件无实际意义",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅供买方内部参考",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只在欧洲国家有效",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "SGS、Intertek、BV等国际独立检验机构的证书具有较高公信力。",
+  "rework_verdict": "A",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 669,
+  "category": "concept",
+  "question": "化验室测定灰分时“灼烧至恒重”的含义是什么？",
+  "options": [
+   {
+    "text": "连续两次称量差不超过规定值",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "烧到冒烟",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "烧30分钟",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "烧到变白",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "灼烧至恒重指两次称量差在允许范围内，确保残留物恒定。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 670,
+  "category": "concept",
+  "question": "煤炭进口检验中“法定检验”（statutory inspection）由谁实施？",
+  "options": [
+   {
+    "text": "海关实施",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "财政部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿主自检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船东实施",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "进口煤法定检验检疫由海关实施。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 671,
+  "category": "concept",
+  "question": "“金康”（GENCON）租约的特点是什么？",
+  "options": [
+   {
+    "text": "通用程租船合同范本",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "白天禁食工作时间缩短",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "期租合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "GENCON（金康）是最常用的程租船合同范本。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 677,
+  "category": "concept",
+  "question": "程租船与期租（time charter）的主要区别是什么？",
+  "options": [
+   {
+    "text": "程租按航次、期租按时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "货种不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船型不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船员国籍不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "程租租一个航次，期租租一段时间，是根本区别。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 678,
+  "category": "concept",
+  "question": "船舶“VTS”（交管系统）的作用是什么？",
+  "options": [
+   {
+    "text": "港口水域交通管理",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "灭虫处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "燃油港杂等费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶安全证明",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "VTS监控和管理港口水域船舶交通。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 680,
+  "category": "煤质应用",
+  "question": "以下哪种元素是衡量煤炭对锅炉腐蚀风险的关键指标？",
+  "options": [
+   {
+    "text": "氯（Cl）和硫（S）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "碳（C）",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "氮（N）",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "氧（O）",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "氯导致高温腐蚀，硫形成SO2和SO3导致低温露点腐蚀。",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate0",
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 682,
+  "category": "concept",
+  "question": "印尼装港检验常用机构包括哪些？",
+  "options": [
+   {
+    "text": "SGS、Geoservices、CCIC等",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船东自检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿主自检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口工人抽样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼装港检验由SGS、Geoservices、CCIC等国际机构执行。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 683,
+  "category": "concept",
+  "question": "期租合同“租金”（hire）的支付周期通常是？",
+  "options": [
+   {
+    "text": "每半月预付",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "卸完付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "年度结算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按航次支付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "期租租金通常每半月预付一次。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 684,
+  "category": "concept",
+  "question": "航行“值班”（watchkeeping）的要求是什么？",
+  "options": [
+   {
+    "text": "按规定轮值和瞭望",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "气象安全和油耗",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "风险评估和操作规程",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "航线转向点和风险标注",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "值班须按规定轮值和瞭望，保障航行安全。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 686,
+  "category": "concept",
+  "question": "检验煤样时以下哪种操作会影响水分检验结果的准确性？",
+  "options": [
+   {
+    "text": "样品长时间暴露空气或受阳光直射",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "使用密封容器保存样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "使用已校准的天平称量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "在实验室内检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "样品暴露空气会失水，阳光直射蒸发更快，导致结果偏低。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 687,
+  "category": "concept",
+  "question": "化验室测定煤样前应做的最基本操作是什么？",
+  "options": [
+   {
+    "text": "称量并记录样品编号",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "唯一标识防混淆",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检测过程数据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "记录信息完整",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "样品编号、称量与状态记录是化验流程起点，保证结果可追溯。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 692,
+  "category": "concept",
+  "question": "买卖双方对质量结果有异议时正确的处理程序是什么？",
+  "options": [
+   {
+    "text": "启动合同约定的仲裁程序，用封存仲裁样委托指定机构重检",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "由买方自行重新检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "向媒体曝光对方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接停止合作关系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "按合同约定仲裁程序，使用双方共同封存的仲裁样委托指定机构重检。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 693,
+  "category": "结算换算",
+  "question": "煤炭检验中“水分”对热值结算的影响是什么？",
+  "options": [
+   {
+    "text": "水分越高热值折算越低",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "水分越高热值折算越高",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "水分与折算无关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "水分越高越好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "水分占据重量却不发热，水分越高低位发热量折算越低。",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate0",
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 694,
+  "category": "concept",
+  "question": "煤炭“卸港检验”（discharging inspection）的目的包括什么？",
+  "options": [
+   {
+    "text": "验收、索赔依据和合规",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "市场秩序规范",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "焦炭和煤气",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤矿产地位置",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "卸港检验用于到货验收、质量异议和环保合规。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 695,
+  "category": "concept",
+  "question": "租船“经纪人”（broker）的作用是什么？",
+  "options": [
+   {
+    "text": "撮合租约和传递条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "运输服务报酬",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物装运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口装卸",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "经纪人促成租约并协助条款沟通。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 696,
+  "category": "concept",
+  "question": "航行“事故预防”（accident prevention）依靠什么？",
+  "options": [
+   {
+    "text": "风险评估和操作规程",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "VHF卫星和GMDSS",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "气象安全和油耗",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "航线转向点和风险标注",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "系统性的风险评估和操作规程降低海损风险。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 698,
+  "category": "concept",
+  "question": "以下哪种方法可以在现场快速估测煤炭的大致热值？",
+  "options": [
+   {
+    "text": "近红外光谱仪（NIR）或便携式XRF仪快速扫描",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "用手掂量重量估算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "观察煤的颜色深浅",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接品尝判断",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "近红外光谱仪（NIR）可现场快速估测热值。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 700,
+  "category": "concept",
+  "question": "装港与卸港检验结果差异超出允许范围时，应如何处理？",
+  "options": [
+   {
+    "text": "按合同约定仲裁检验",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "以装港为准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取平均",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "以卸港为准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "结果差异超差时按合同约定启动仲裁检验。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 701,
+  "category": "concept",
+  "question": "煤炭船“海上运输时间”（transit time）从印尼到中国典型是多少？",
+  "options": [
+   {
+    "text": "约7-15天",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "1个月",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "2-3天",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "半年",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼到中国航程通常约7-15天，视装港和卸港而定。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 704,
+  "category": "concept",
+  "question": "煤炭检验机构的化验室应定期进行哪项质量控制？",
+  "options": [
+   {
+    "text": "参加能力验证（PT）和使用标准样",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "不需要质量控制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只需不断更换新仪器",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "每年培训一次员工即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "能力验证（PT）和标准样是化验室质控的重要手段。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 707,
+  "category": "concept",
+  "question": "印尼加里曼丹到中国的“典型航线”（route）经过哪里？",
+  "options": [
+   {
+    "text": "南海",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "印度洋",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "大西洋",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "北冰洋",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "加里曼丹到中国经南海北上，是传统航线。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 708,
+  "category": "concept",
+  "question": "Supramax船型的“载重吨”（DWT）范围约为多少？",
+  "options": [
+   {
+    "text": "5-6万吨",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "1万吨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "20万吨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "40万吨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Supramax载重吨约5-6万吨，是印尼煤常用船型。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 710,
+  "category": "concept",
+  "question": "煤样“二分器缩分”（divider）的正确操作是什么？",
+  "options": [
+   {
+    "text": "均匀倒入有交替槽口的二分器自动分成等量两份",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "从高处倒下随机分成两份",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "手工拨成两堆",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "称重后直接取一半",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "二分器利用交替槽口把煤样均匀分成等量两份。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 711,
+  "category": "concept",
+  "question": "煤炭化验中“平行样”（duplicate）的做法是什么？",
+  "options": [
+   {
+    "text": "同一煤样测定两次取均值",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "两个煤样混一起",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "测不同煤",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只测一次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "平行样是同一煤样测两次取均值，用于控制随机误差。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 712,
+  "category": "concept",
+  "question": "煤炭检验“结果差异”（discrepancy）的处理原则是什么？",
+  "options": [
+   {
+    "text": "分析原因、按合同和标准处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "不了了之",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "互相指责",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接仲裁",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "结果差异应分析原因并按合同和标准程序处理。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 713,
+  "category": "concept",
+  "question": "煤炭船“天气航线”（weather routing）的目的是什么？",
+  "options": [
+   {
+    "text": "避开恶劣天气、安全省油",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "按时更新给货方代理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "控温通风和检测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "确认卸货计划和检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "天气航线结合气象预报选择安全经济的航路。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 714,
+  "category": "concept",
+  "question": "Panamax船型的载重吨约为多少？",
+  "options": [
+   {
+    "text": "6-8万吨",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "3万吨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "15万吨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "1万吨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Panamax载重吨约6-8万吨，能通过巴拿马运河。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 716,
+  "category": "煤质应用",
+  "question": "以下哪项煤炭指标对火力发电厂脱硫系统设计影响最大？",
+  "options": [
+   {
+    "text": "全硫（St,d）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "挥发分（Vad）",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "水分（Mt）",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "哈氏可磨指数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "全硫决定烟气SO2浓度，是脱硫系统设计关键参数。",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate0",
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 717,
+  "category": "concept",
+  "question": "发热量单位MJ/kg与kcal/kg的换算关系是什么？",
+  "options": [
+   {
+    "text": "1 MJ/kg≈239 kcal/kg",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "1 MJ/kg=100 kcal/kg",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "1 MJ/kg=1000 kcal/kg",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "两者不换算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "1MJ/kg约等于239kcal/kg（1kcal=4.186kJ）。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 718,
+  "category": "concept",
+  "question": "煤炭进口“检验费用”（inspection cost）通常由谁承担？",
+  "options": [
+   {
+    "text": "按合同约定承担",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船东全付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方全付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方全付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "检验费用按贸易合同约定由买卖双方承担。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 719,
+  "category": "concept",
+  "question": "船运煤的“途中通风”（ventilation at sea）原则是什么？",
+  "options": [
+   {
+    "text": "根据温度和气体检测安排",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "一直关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一直开",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只在到港时开",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "途中通风根据货舱温度和气体检测结果决定。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 720,
+  "category": "concept",
+  "question": "Capesize船型的特点是什么？",
+  "options": [
+   {
+    "text": "大型、适合远洋大宗",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "VLOC",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "Supramax",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "Handysize",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Capesize为大型散货船，多用于远洋大宗运输。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 722,
+  "category": "concept",
+  "question": "煤炭灰熔点测定时正确的判断依据是什么？",
+  "options": [
+   {
+    "text": "锥形灰样加热过程四个特征温度（DT/ST/HT/FT）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "用温度计插入灰中测温",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰样颜色变化程度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰样重量减少多少",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "灰熔点按变形、软化、半球、流动四个特征温度判断。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 723,
+  "category": "concept",
+  "question": "煤炭检验报告中“basis”（基准）字段的作用是什么？",
+  "options": [
+   {
+    "text": "标明结果对应的水分基准",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "说明检验人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "说明煤产地",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "说明检验日期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "基准字段标明结果对应的水分基准（如ADB/ARB）。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 728,
+  "category": "concept",
+  "question": "以下关于煤炭化验报告中各分析基的换算哪条是正确的？",
+  "options": [
+   {
+    "text": "通过水分灰分数据用换算系数公式进行基间换算",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "各分析基之间不可相互换算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "换算结果与实测完全相同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只能从高基换算到低基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "分析基间按水分灰分等换算系数公式互算。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 729,
+  "category": "concept",
+  "question": "印尼煤装港检验常用的第三方机构包括哪些？",
+  "options": [
+   {
+    "text": "SGS、Intertek、CCIC等",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "港口保安",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿主自设机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船员工会",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "SGS、Intertek、CCIC等国际机构执行装港检验。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 730,
+  "category": "concept",
+  "question": "煤炭检验的“取制样偏差”（bias）主要来自什么？",
+  "options": [
+   {
+    "text": "取样不均、缩分不当",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "作为结算和放行依据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数据分析和预测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验数据防篡改",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "取样不均匀和缩分不当是取制样偏差的主要来源。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 734,
+  "category": "concept",
+  "question": "煤炭检验报告上的“NAR”（Net As Received）指什么？",
+  "options": [
+   {
+    "text": "净收到基低位发热量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "煤炭重量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰分含量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤炭体积",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "NAR指净收到基低位发热量，是贸易结算常用指标。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 735,
+  "category": "concept",
+  "question": "装港检验报告通常包含哪些内容？",
+  "options": [
+   {
+    "text": "热值、水分、灰分、硫分及数量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船员工资",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿名八卦",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口天气",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装港检验报告包含热值、水分、灰分、硫分和数量。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 737,
+  "category": "concept",
+  "question": "卸港“水尺计重”（draft survey）的结果用于什么？",
+  "options": [
+   {
+    "text": "交接货量和结算",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "密度计",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "目的港范围",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船上固定物重量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "水尺计重结果用于卸港交接货量和结算。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 738,
+  "category": "concept",
+  "question": "大型船（Capesize）在印尼装港的“限制”（restriction）是什么？",
+  "options": [
+   {
+    "text": "港口吃水不足",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "Handysize",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "Supramax",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "更便宜",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼装港水深不足，Capesize大型船受限。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 740,
+  "category": "concept",
+  "question": "检验机构对煤样进行化验后为何要保留存查样？",
+  "options": [
+   {
+    "text": "以备复检或仲裁检验，确保可追溯可复核",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "作为纪念品保存",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提供给矿方使用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用于下一批次检验参考",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "存查样密封保留规定期限，供复检或仲裁检验。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 741,
+  "category": "concept",
+  "question": "装港与卸港检验结果出现差异时首要处理方式是什么？",
+  "options": [
+   {
+    "text": "对照合同约定与标准允许误差",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "直接索赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "起诉船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "先对照合同约定和标准允许误差判断是否超差。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 746,
+  "category": "concept",
+  "question": "煤炭水分检验用样品应在取样后多长时间内测定？",
+  "options": [
+   {
+    "text": "24小时以内且全程密封保存",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "时间长短不影响水分结果",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "48小时后取样效果更稳定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "可以放置一周后再测定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "水分样须密封保存并尽快（24小时内）测定防失水。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 747,
+  "category": "concept",
+  "question": "煤炭贸易中“复检”（re-inspection）的启动条件是什么？",
+  "options": [
+   {
+    "text": "一方对检验结果有异议且合同允许",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "心情不好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "任何时候",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验免费时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "复检由对结果有异议的一方在合同允许时限内启动。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 748,
+  "category": "concept",
+  "question": "煤炭检验中“快速检测”（如在线灰分仪）的局限是什么？",
+  "options": [
+   {
+    "text": "精度低于标准化验",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "精度更高",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完全不可用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结果无需验证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "在线快速检测精度低于标准化验，需定期校准。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 752,
+  "category": "concept",
+  "question": "装船中什么是“拉稳”（Trimming）操作？",
+  "options": [
+   {
+    "text": "平整货舱煤炭使其均匀分布避免局部过高",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "减少本次装载量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "清洁船舶甲板",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "调整船舶航行方向",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "拉稳是对货舱煤炭平整均匀，保证稳性和满载。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 754,
+  "category": "concept",
+  "question": "煤炭检验“标准选择”（ISO vs ASTM vs GB）的影响是什么？",
+  "options": [
+   {
+    "text": "结果可能不同，需合同明确",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "结果一样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "标准不影响检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只能使用GB标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "不同标准取样和试验细节不同，结果可能不同，须合同约定。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 758,
+  "category": "concept",
+  "question": "装船结束时船方签发的“大副收据”（Mate's Receipt）的作用是什么？",
+  "options": [
+   {
+    "text": "货物实际装船的初步凭证，是签发提单的依据",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "质量检验报告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "等同于提单可流通转让",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物最终权属证明",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "大副收据证明货物已装船，是换取清洁提单的依据。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 759,
+  "category": "concept",
+  "question": "目的港检验发现热值比装港低很多，可能的原因是什么？",
+  "options": [
+   {
+    "text": "运输中水分增加、氧化或取样差异",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "化验仪器坏了",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤被掉包",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船速太慢",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "运输中吸湿水分增加、氧化损失和取样差异都会使热值偏低。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 761,
+  "category": "concept",
+  "question": "煤炭船“货物温度”（cargo temperature）超过警戒值时应怎么做？",
+  "options": [
+   {
+    "text": "加强检测和通风",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "立即卸货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "封舱不管",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "抛货入海",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "温度超警戒须加强气体检测和通风，防止自燃。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 763,
+  "category": "concept",
+  "question": "以下哪种情况会导致“不清洁提单”（Claused B/L）？",
+  "options": [
+   {
+    "text": "大副收据注明货物破损或数量短少等批注",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "装船期间天气晴好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物按时完成装船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物使用标准包装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "大副收据有不良批注时，提单会被注明不清洁。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 764,
+  "category": "concept",
+  "question": "煤炭检验中“仲裁检验”（arbitration analysis）的特点是什么？",
+  "options": [
+   {
+    "text": "双方认可的独立实验室进行，结果有约束力",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "卖方说了算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方说了算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随便测测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "仲裁检验由双方认可的独立实验室进行，结果具有约束力。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 765,
+  "category": "concept",
+  "question": "煤炭检验“设备校准”（calibration）的周期要求是什么？",
+  "options": [
+   {
+    "text": "按规定定期校准",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "坏了才校",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一年校一次即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要校准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "检测设备须按规定周期校准，保证结果准确。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 773,
+  "category": "concept",
+  "question": "煤炭装船时港口的“层流水”（Laydays）指什么？",
+  "options": [
+   {
+    "text": "合同约定的船舶在港装卸货物的允许时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "装货期间的潮汐时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口的水流速度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶停靠港口的费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Laydays是合同约定的装卸允许时间，超时产生滞期费。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 776,
+  "category": "concept",
+  "question": "煤炭船“压载水公约”（BWM）要求什么？",
+  "options": [
+   {
+    "text": "压载水处理和管理计划",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "确认卸货计划和检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意排放",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "避开恶劣天气安全省油",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "压载水公约要求处理压载水并执行管理计划防外来生物。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 779,
+  "category": "concept",
+  "question": "装港检验“取样代表性不足”的主要后果是什么？",
+  "options": [
+   {
+    "text": "检验结果失真、结算争议",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船期延长",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验费增加",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "通关受阻",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "取样不具代表性会使检验结果失真，引发结算争议。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 783,
+  "category": "concept",
+  "question": "以下哪种情况需要在提单上注明“货物在甲板上”（On Deck）？",
+  "options": [
+   {
+    "text": "货物确实被放置在甲板上运输",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "散装货物一律注明",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物装入货舱运输",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物超重时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "货物实际放甲板运输时须在提单注明On Deck。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 784,
+  "category": "concept",
+  "question": "煤炭检验中“质量证书”（certificate of quality）由谁出具？",
+  "options": [
+   {
+    "text": "第三方检验机构",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "保险人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "租家",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货运代理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "质量证书由独立第三方检验机构按取样化验出具。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 785,
+  "category": "concept",
+  "question": "装港检验5000大卡、卸港检验只有4700大卡，买方应怎么做？",
+  "options": [
+   {
+    "text": "先核实取样和基准，再按合同复检条款处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "直接索赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "拒收货物",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "起诉船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "先核实取样和基准差异，再按合同复检条款处理。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 788,
+  "category": "concept",
+  "question": "船舶靠泊装煤时“NOR”（Notice of Readiness）是什么？",
+  "options": [
+   {
+    "text": "船舶到达并准备就绪、可以开始装货的正式通知",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船舶维修完成通知",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物收讫确认通知",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运费费率变更通知",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "NOR是船舶到港准备就绪可开始装卸的正式通知，计时起点。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 790,
+  "category": "concept",
+  "question": "卖方提供装港检验报告为“电子扫描件”且无签章，买方应怎么做？",
+  "options": [
+   {
+    "text": "要求原件或向机构核验",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "直接接受",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "拒绝付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自行修改报告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "无签章扫描件可信度低，应要求原件或向机构核验。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 793,
+  "category": "concept",
+  "question": "散装煤炭船务实践中“舱位指定函”（Stowage Plan）的作用是什么？",
+  "options": [
+   {
+    "text": "规划各货舱装载量分配，确保船舶稳性",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "记录船员分工",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "标注货物集装箱编号",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只是格式文件无实际用途",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "配载图规划各舱装载量分配，保证稳性和安全。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 794,
+  "category": "concept",
+  "question": "煤炭到港后买方应在多长时间内完成检验？",
+  "options": [
+   {
+    "text": "按合同约定（通常到港后数日内）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "一年内",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随时都可以",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "到港检验时限按合同约定，通常到港后数日内完成。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 799,
+  "category": "concept",
+  "question": "煤炭检验中“wet basis”（湿基）与“dry basis”（干基）的区别是什么？",
+  "options": [
+   {
+    "text": "是否扣除水分计算",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "挥发分（煤质指标）",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "温度不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "湿基含水分计算，干基扣除水分，数值有差异。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 800,
+  "category": "scenario",
+  "question": "卸港检验灰分略超合同、装港检验合格，买方索赔时应怎么做？",
+  "options": [
+   {
+    "text": "按合同仲裁条款复检，依据结果索赔",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "起诉船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "立即拒付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不了了之",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "先按合同仲裁条款复检，再依据复检结果决定索赔。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 804,
+  "category": "scenario",
+  "question": "检验报告水分按收到基、合同要求干燥基，应怎么处理？",
+  "options": [
+   {
+    "text": "按标准换算后比较",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "直接比较",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取最高值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取最低值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "基准不同不能直接比较，须按标准换算后再对照合同。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 805,
+  "category": "concept",
+  "question": "煤炭运输“货量争议”（quantity dispute）如何处理？",
+  "options": [
+   {
+    "text": "依据合同计量和检验条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "自燃、受潮和损耗",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "ICC(A)/(B)/(C)",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "靠协商无据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "货量争议按合同计量和检验条款处理，如水尺计重复核。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 809,
+  "category": "concept",
+  "question": "印尼煤装港检验中“SGS”的全称是什么？",
+  "options": [
+   {
+    "text": "瑞士通用公证行",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "天祥集团",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "中国检验认证集团",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "必维国际检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "SGS（Societe Generale de Surveillance）即瑞士通用公证行。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 810,
+  "category": "scenario",
+  "question": "合同约定检验标准为GB、卖方坚持用ISO报告，应怎么办？",
+  "options": [
+   {
+    "text": "按合同约定标准执行",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "接受ISO",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "两边都行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "拒绝所有报告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "检验标准以合同约定为准，GB与ISO不可随意替代。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 811,
+  "category": "concept",
+  "question": "检验机构“CCIC”指的是什么？",
+  "options": [
+   {
+    "text": "中国检验认证集团",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "德国莱茵",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "日本海事协会",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "瑞士通用公证行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "CCIC（China Certification & Inspection Group）是中国检验认证集团。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 812,
+  "category": "concept",
+  "question": "煤样在寄送化验室途中受潮，最可能影响哪个指标？",
+  "options": [
+   {
+    "text": "水分和发热量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "磷含量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰熔点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "固定碳",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "途中受潮改变水分，进而影响发热量等与水分相关指标。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 816,
+  "category": "scenario",
+  "question": "检验报告热值单位为“kcal/kg GAR”、合同为“MJ/kg NAR”，应怎么办？",
+  "options": [
+   {
+    "text": "统一单位基准后比较",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "直接比较数字",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取GAR为准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取NAR为准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "单位基准不同不能直接比较，须换算统一后再对照合同。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 818,
+  "category": "concept",
+  "question": "煤炭检验中“ash content”指的是什么？",
+  "options": [
+   {
+    "text": "灰分含量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "固定碳",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "挥发分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "水分含量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "ash content即灰分含量，是煤质重要指标。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 819,
+  "category": "concept",
+  "question": "检验报告中“calorific value”指的是什么？",
+  "options": [
+   {
+    "text": "发热量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "热效率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "热容量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全硫",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "calorific value即发热量，反映煤炭能量价值。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 820,
+  "category": "concept",
+  "question": "检验报告中“NCV”与“GCV”分别指什么？",
+  "options": [
+   {
+    "text": "低位与高位发热量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "硫分与挥发分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "水分与灰分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "粒度与密度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "NCV为低位发热量，GCV为高位发热量，差在冷凝潜热。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 821,
+  "category": "concept",
+  "question": "检验术语“as received basis”指的是什么？",
+  "options": [
+   {
+    "text": "收到基",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "干燥无灰基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "空气干燥基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "干燥基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "as received basis即收到基，按到货状态水分计算。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 822,
+  "category": "concept",
+  "question": "检验术语“air dried basis”指的是什么？",
+  "options": [
+   {
+    "text": "空气干燥基",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "收到基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "干燥基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "干燥无灰基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "air dried basis即空气干燥基，是化验室常用基准。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 823,
+  "category": "concept",
+  "question": "检验报告中的“VM”代表什么？",
+  "options": [
+   {
+    "text": "挥发分",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "灰熔点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "固定碳",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "VM（Volatile Matter）指挥发分。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 824,
+  "category": "concept",
+  "question": "检验术语“sulphur”在煤炭中通常指什么？",
+  "options": [
+   {
+    "text": "硫分",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "检验费用控制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "堆场库存品质",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单次采样量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "sulphur指硫分，影响环保和脱硫成本。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 825,
+  "category": "concept",
+  "question": "检验术语“analysis sample”指的是什么？",
+  "options": [
+   {
+    "text": "分析煤样（制样后的化验样品）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "煤矸石",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验资料存档",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "独立机构检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "analysis sample是制样后用于化验的分析煤样。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 826,
+  "category": "concept",
+  "question": "检验术语“gross sample”指的是什么？",
+  "options": [
+   {
+    "text": "总样（所有子样的集合）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "单个子样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仲裁样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "分析样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "gross sample总样由全部子样集合而成，代表整批煤。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 827,
+  "category": "concept",
+  "question": "检验术语“increment”（子样）指的是什么？",
+  "options": [
+   {
+    "text": "一次取样动作取得的样品",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "保留样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "温湿度影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "分析样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "increment是按规定间隔一次取样动作取得的子样。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 828,
+  "category": "concept",
+  "question": "检验术语“representative sample”指的是什么？",
+  "options": [
+   {
+    "text": "代表性样品",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "最小样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "最大样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "任意样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "representative sample是能代表整批煤质的代表性样品。",
+  "rework_verdict": "A"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 829,
+  "category": "concept",
+  "question": "检验术语“sealed sample”（封样）的作用是什么？",
+  "options": [
+   {
+    "text": "防止样品被调换或污染",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "标识产地",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加速化验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让样品更重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "封样用于防止样品被调换或污染，保证结果可信。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 6,
+  "level_name": "煤炭检验",
+  "index_in_level": 830,
+  "category": "concept",
+  "question": "检验术语“deviation”在检验结果中指什么？",
+  "options": [
+   {
+    "text": "偏差（实测与约定值的差）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "检验费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "样品编号",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "代表性样品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "deviation指实测值与合同约定值的偏差。",
+  "rework_verdict": "D"
+ }
+]

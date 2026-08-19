@@ -1,0 +1,9777 @@
+[
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 0,
+  "category": "concept",
+  "question": "装船前，船舶货舱的舱底污水井应该是什么状态？",
+  "options": [
+   {
+    "text": "清洁干燥，无积水",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "有积水可以吸收水分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "有少量积水没关系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "货舱污水井必须清洁干燥，积水会污染煤炭并影响货舱适装性。",
+  "rework_verdict": "D",
+  "rework_note": "修复解释错配"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 76,
+  "category": "scenario",
+  "question": "装船机正在装 2 号舱口，船长要求改装同侧相邻的 3 号舱口。你最适合的操作指令是？",
+  "options": [
+   {
+    "text": "使用行走机构沿码头移动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "重新启动输送带",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "停止装船等待调度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "使用回转机构旋转对准 3 号舱口",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "相邻舱口距离近，回转机构通过水平旋转即可覆盖；行走机构用于跨较大距离的舱位调整，相邻舱口使用行走反而低效。",
+  "rework_verdict": "REWORK_DUP_SCENARIO",
+  "rework_note": "同题干双题处理：本质同题，按QA Standard v2留一重写一，场景化重写"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 84,
+  "category": "concept",
+  "question": "装煤前检查货舱，最主要目的是？",
+  "options": [
+   {
+    "text": "确保货舱清洁干燥、适货",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "清点船员",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检查船体颜色",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检查食物",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "货舱清洁干燥是防止煤炭污染、水分增加和货损的基础，是适货检查核心。",
+  "rework_verdict": "D",
+  "rework_note": "修复解释错配与污染"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 172,
+  "category": "concept",
+  "question": "装船作业前'船货匹配'（cargo-ship matching）的核心是？",
+  "options": [
+   {
+    "text": "货量、吃水、舱容与船型匹配",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "船员人数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船名好听",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船东国籍",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "船货匹配确保货量在船舶载重和舱容范围内，吃水适合港口。",
+  "rework_verdict": "D",
+  "rework_note": "修复解释错配与污染"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 180,
+  "category": "concept",
+  "question": "装船'载重吨位'（DWT）指？",
+  "options": [
+   {
+    "text": "船舶载货能力",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "总吨位",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "净吨位",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船信息共享",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "载重吨位（DWT）决定船舶最大装载量，是船货匹配关键参数。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 215,
+  "category": "concept",
+  "question": "船舶作业中的'船舶平舱'（trimming）指？",
+  "options": [
+   {
+    "text": "平整舱内货物",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "船舶合规证书",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "压载水调节",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶平衡性能",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "平舱平整货物表面，保障船舶稳性与航行安全。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 220,
+  "category": "scenario",
+  "question": "租家要求在 12 小时内装完 12000 吨，装船机额定能力 1500 t/h。你对该计划的判断是？",
+  "options": [
+   {
+    "text": "必须另租浮吊辅助",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "额定能力只用于设计不能排产",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "12 小时内无法完成",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "额定能力满足需求，可正常排产并预留辅助时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "12000 吨 ÷ 12 小时 = 1000 t/h，低于额定能力 1500 t/h，理论上可行；但实际需考虑移舱、清舱、换舱等辅助时间，应预留缓冲后安排排产。",
+  "rework_verdict": "REWORK_DUP_SCENARIO",
+  "rework_note": "同题干双题处理：本质同题，按QA Standard v2留一重写一，场景化重写"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 224,
+  "category": "concept",
+  "question": "装船机'料斗'（hopper）的作用是？",
+  "options": [
+   {
+    "text": "储料缓冲装置",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "输送带",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "故障应急停机",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "水平旋转覆盖",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "料斗储存并缓冲来料，保证供料连续稳定，减少装船中断。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 230,
+  "category": "concept",
+  "question": "装载机'铲斗磨损'（wear）如何处理？",
+  "options": [
+   {
+    "text": "定期检查和更换",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "不检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灵活装卸",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "驱动举升和转向",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "铲斗磨损定期检查更换，保障作业效率与安全。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 234,
+  "category": "concept",
+  "question": "装船机'额定能力'（rated capacity）的含义是？",
+  "options": [
+   {
+    "text": "设计装船效率",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "操作控制中心",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "实际效率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "大风停机规定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "额定能力是设计装船效率，需与实际船期匹配。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 252,
+  "category": "concept",
+  "question": "装船机'抑尘系统'（dust suppression）的作用是？",
+  "options": [
+   {
+    "text": "粉尘控制装置",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "水平旋转覆盖",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "物料输送通道",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "司机室和远程控制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "抑尘系统通过喷淋和密闭装置控制装船扬尘，符合环保要求。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 256,
+  "category": "concept",
+  "question": "船舶'配载'（stowage）的原则是？",
+  "options": [
+   {
+    "text": "安全和效益兼顾",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "主机指令传递",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "航线气象优化",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶识别和避碰",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "配载兼顾船舶稳性与装船效率，实现安全高效。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 259,
+  "category": "concept",
+  "question": "装船前，货舱舱盖的水密性检查应该怎么做？",
+  "options": [
+   {
+    "text": "进行冲水试验，确保无渗漏",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 10,
+     "risk": -10
+    }
+   },
+   {
+    "text": "仅检查外观",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "目视检查即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "舱盖水密性通过冲水试验验证，确保航行中不进水。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 262,
+  "category": "concept",
+  "question": "煤炭装载'安全装备'（PPE）指？",
+  "options": [
+   {
+    "text": "防护用品",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "危险区域提示",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "进入舱内需审批",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按层装载管理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "安全装备（安全帽、防尘口罩等）保护作业人员。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 267,
+  "category": "concept",
+  "question": "船舶'吃水差'（trim）指？",
+  "options": [
+   {
+    "text": "首尾吃水差值",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "调节吃水和稳性",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "定期年度检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无需补给航程",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "吃水差是首尾吃水之差，影响船舶操纵性与航行安全。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 279,
+  "category": "concept",
+  "question": "船舶'重心'（center of gravity）对船舶的影响？",
+  "options": [
+   {
+    "text": "影响稳性关键",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "船体内部高度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "清理舱内残留物",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船体变形和应力过大",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "重心高度决定船舶稳性，过高会导致倾覆风险。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 282,
+  "category": "concept",
+  "question": "装船机'皮带跑偏'（belt deviation）如何处理？",
+  "options": [
+   {
+    "text": "皮带偏移调整",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "装船计量装置",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "设备启动流程",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "粉尘控制装置",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "皮带跑偏需及时调整托辊与张紧，保障输送效率。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 284,
+  "category": "concept",
+  "question": "船舶'自由液面'（free surface）效应的影响？",
+  "options": [
+   {
+    "text": "液体晃动影响稳性",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "数字导航海图",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船岸通信设备",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "吃水小于水深",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "自由液面效应使液体晃动降低船舶稳性，需控制液舱。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 285,
+  "category": "concept",
+  "question": "煤炭装载'安全隐患'（hazards）排查的要求？",
+  "options": [
+   {
+    "text": "定期检查消除",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "批次质量档案",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "过程质量控制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "减少破碎",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "安全隐患定期排查并及时消除，预防事故发生。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 290,
+  "category": "concept",
+  "question": "船舶'压载'（ballast）的作用是？",
+  "options": [
+   {
+    "text": "调节吃水和稳性",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "航行路径规划",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "事故信息上报",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "配员和培训",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "压载通过注排水调节吃水与稳性，保障航行安全。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 291,
+  "category": "concept",
+  "question": "煤炭装载'受限空间'（confined space）作业要求？",
+  "options": [
+   {
+    "text": "进入舱内需审批",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "随意进入",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "官方检验证明",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "争议处理流程",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "受限空间（货舱）作业需审批、通风和监护。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 293,
+  "category": "concept",
+  "question": "'装船机'（ship loader）的类型不包括？",
+  "options": [
+   {
+    "text": "掘进机",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "移动式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "弧线式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "固定式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船机常见移动式、固定式、弧线式，掘进机用于隧道工程。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 297,
+  "category": "concept",
+  "question": "煤炭装载'高处作业'（work at height）要求？",
+  "options": [
+   {
+    "text": "防坠落措施",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "批次质量档案",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全员安全意识",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "危险区域提示",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "高处作业必须采取防坠落措施，风险高需防护。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 300,
+  "category": "concept",
+  "question": "装船机'风速限制'（wind limit）指？",
+  "options": [
+   {
+    "text": "大风停机规定",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "设计装船效率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "司机室和远程控制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "照常作业",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "大风达到限值时停机避风，防止设备受损和事故。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 302,
+  "category": "concept",
+  "question": "煤炭装载'动火作业'（hot work）要求？",
+  "options": [
+   {
+    "text": "明火作业审批",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "随意动火",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "过程质量控制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全员安全意识",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "动火作业需审批并采取防火措施，防范燃爆风险。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 310,
+  "category": "concept",
+  "question": "装船'水尺计量'（draft survey）指？",
+  "options": [
+   {
+    "text": "吃水测算货量",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "煤尘燃爆风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "控制粉尘浓度和火源",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "接收和缓冲煤流",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "水尺计量通过吃水变化测算货量，是散货常用计量方式。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 314,
+  "category": "concept",
+  "question": "装船'防坠落'（fall protection）措施指？",
+  "options": [
+   {
+    "text": "高处作业防护",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "船到港准备装货的通知",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "禁烟和动火管理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "信息无缝传递",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "防坠落通过护栏、安全带等措施保障高处作业安全。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 315,
+  "category": "concept",
+  "question": "装船'配载图'（stowage plan）指？",
+  "options": [
+   {
+    "text": "舱位和货物分配图",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "接收和缓冲煤流",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "防坠防护设施",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "设备运行检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "配载图标注各舱货物分配，指导装舱顺序与数量。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 322,
+  "category": "concept",
+  "question": "装船'防尘口罩'（dust mask）的作用？",
+  "options": [
+   {
+    "text": "呼吸防护装备",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "报警灭火疏散",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "首尾吃水差值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "定期模拟训练",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "防尘口罩防止粉尘吸入，保护呼吸系统健康。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 355,
+  "category": "concept",
+  "question": "装船'压载水'（ballast water）的作用？",
+  "options": [
+   {
+    "text": "调节船舶浮态",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "按舱合理配货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船体受力和稳性受损",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船流程安排",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "压载水调节船舶吃水和浮态，保障靠泊与装船安全。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 357,
+  "category": "concept",
+  "question": "装载作业'危险区域'（danger zone）管理要求？",
+  "options": [
+   {
+    "text": "标识和隔离",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "高处作业防护",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "防砸防滑",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "避开设备盲区",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "危险区域标识并隔离，防止人员误入引发事故。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 361,
+  "category": "concept",
+  "question": "印尼装港常用'浮动装船机'（floating loader）的原因是？",
+  "options": [
+   {
+    "text": "适应浅水和潮汐变化",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "大船无法靠泊需驳船过驳",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "更便宜",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "kcal/kg或MJ/kg",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "浮动装船机随潮汐浮动，适合浅水锚地作业。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 363,
+  "category": "concept",
+  "question": "装载作业'人员站位'（positioning）要求？",
+  "options": [
+   {
+    "text": "避开设备盲区",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "现场沟通协调",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "防砸防滑",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "高处作业防护",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "人员站位避开设备盲区和回转半径，防止碾压。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 423,
+  "category": "scenario",
+  "question": "装船作业中皮带突然冒烟并伴有焦糊味。按应急预案，你最先应该做什么？",
+  "options": [
+   {
+    "text": "继续装完当前舱再检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "先拍照记录现场",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "通知船长自行处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "立即停机并启动应急处置流程",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "应急预案要求突发情况先控制风险：皮带冒烟可能发展成火灾，必须立即停机、切断风险源并按预案处置；继续作业会扩大事故，记录与通报应在处置同时进行。",
+  "rework_verdict": "REWORK_DUP_SCENARIO",
+  "rework_note": "同题干双题处理：本质同题，按QA Standard v2留一重写一，场景化重写"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 440,
+  "category": "concept",
+  "question": "装船'平舱'（trimming）的目的是？",
+  "options": [
+   {
+    "text": "均匀分布货物、稳定船舶",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "转运皮带或装船机",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "防范燃爆风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "计入事实记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "平舱使货物均匀分布，保持船舶稳性和吃水。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项去模板污染"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 445,
+  "category": "concept",
+  "question": "装船'水尺检量'（draft survey）指？",
+  "options": [
+   {
+    "text": "吃水计算货量",
+    "correct": true,
+    "effect": {
+     "knowledge": 10,
+     "trust": 8,
+     "risk": -8
+    }
+   },
+   {
+    "text": "称重计量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "增加煤水分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "先期少量装载",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "水尺检量通过吃水变化计算货量，辅助计量。",
+  "rework_verdict": "E",
+  "rework_note": "题干补全，干扰项重建"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 475,
+  "category": "concept",
+  "question": "装船作业中，需要实时上传至港口和货方信息系统的数据是？",
+  "options": [
+   {
+    "text": "装船进度与计量数据",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船员排班与轮休计划",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶保险续保文件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港区食堂采购清单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船进度、皮带秤计量和水尺数据需实时上传，供货方与港方核对进度和货量，是装船过程管理的基础；船员排班等与装船数据无关。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 476,
+  "category": "concept",
+  "question": "煤炭装船前确认“备货就绪”（cargo readiness）时，以下哪项属于必须落实的内容？",
+  "options": [
+   {
+    "text": "货量、煤质、堆场与驳船安排全部就绪",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "堆场有煤即可开始装船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "先装船后补办出口许可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "由收货人负责安排港内驳船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "备货就绪指货量、煤质、堆场和驳船等环节全部到位，保证装船连续不断档；任一环节缺失都可能导致装船中断和滞期损失。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 477,
+  "category": "concept",
+  "question": "装船作业现场强调“作业纪律”，其主要含义是？",
+  "options": [
+   {
+    "text": "全体人员严格执行操作规程与安全要求",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "允许老员工按个人习惯操作",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅在安全检查时保持规范",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "为赶进度可适当简化流程",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "作业纪律要求统一执行操作规程和安全要求，避免随意行为引发事故；它是现场安全管理的底线，与进度优先和简化流程无关。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 478,
+  "category": "concept",
+  "question": "装船调度中的“目标管理”（targets）主要指对什么进行设定与跟踪？",
+  "options": [
+   {
+    "text": "装船效率与货量目标",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船员个人绩效考核",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口周边商户收益",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶保险费率水平",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "目标管理通过设定装船速率、班次货量等量化目标并跟踪完成情况，驱动作业效率提升，属于生产调度范畴，与个人考核或费率无关。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 479,
+  "category": "concept",
+  "question": "装船完成后进行的“最终检验”（final inspection）主要目的是？",
+  "options": [
+   {
+    "text": "核对货量、平舱与单证后放行离港",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "为下一航次预订船位",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "核算船员伙食费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "确定港区广告位租金",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "最终检验在装船完毕时核对货量、平舱状态与单证齐全性，确认船舶适航适货后放行离港，是装船收尾的质量关口。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 480,
+  "category": "concept",
+  "question": "印尼装港推进“绿色港口”（green port）建设，核心要求是？",
+  "options": [
+   {
+    "text": "装船作业采用低碳、抑尘与节能措施",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "提高港口门票收入",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "优先扩建港区商业区",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "减少船舶靠泊数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "绿色港口要求装船设备抑尘、使用岸电和节能调度，降低作业碳排放与污染，是港口环保升级方向，与商业扩建无关。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 481,
+  "category": "concept",
+  "question": "装船完毕后进行的“完工结算”主要是处理什么？",
+  "options": [
+   {
+    "text": "核算装船费用与滞期速遣",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "清点船员个人行李",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结算港区餐饮消费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "安排船舶涂装工程",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "完工结算依据装船记录核算装卸费、驳船费及滞期速遣等，结清后船舶方可离港，涉及合同与商务条款的落实。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 482,
+  "category": "concept",
+  "question": "装船机“溜筒伸缩”（telescopic）机构的主要作用是？",
+  "options": [
+   {
+    "text": "降低落料落差、减少扬尘与破碎",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "提高皮带运行速度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "改变整机行走方向",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "增大抓斗容量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "溜筒伸缩使落料口贴近舱底，降低落差，从而减少煤尘飞扬和煤粒破碎，是抑尘与保护货质的关键装置。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 483,
+  "category": "concept",
+  "question": "印尼装港采用装船机直接装大船时，典型装船速率大致为？",
+  "options": [
+   {
+    "text": "数千吨/小时，驳船中转时明显较低",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "上百万吨/小时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "约100吨/小时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "与设备无关，由船员决定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "大型装船机可达数千吨/小时；采用驳船过驳中转的港区受转运环节限制速率明显下降，这是评估装期与滞期风险的关键参数。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 484,
+  "category": "concept",
+  "question": "装船机“司机室”（cabin）在作业中的功能是？",
+  "options": [
+   {
+    "text": "操作员集中控制装卸作业",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "供船员休息住宿",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "存放备品备件的仓库",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "安装压载水系统",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "司机室是装船机操作员的操作控制中心，通过操控台监视和调整装船动作，保证对准舱口与均匀装载，不是休息或储物场所。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 485,
+  "category": "concept",
+  "question": "散货船装煤后控制“吃水”（draft）的直接依据是？",
+  "options": [
+   {
+    "text": "港口航道与泊位水深限制",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船长个人偏好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "上一航次载货记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货主书面要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装后吃水必须满足航道和泊位水深要求，避免搁浅；水尺计重也以吃水变化计算货量，是安全与计重的共同依据。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 486,
+  "category": "concept",
+  "question": "装船机“检修平台”（platform）主要用于？",
+  "options": [
+   {
+    "text": "提供维护作业的安全通道",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "增加整机配重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "堆放临时货物",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "供参观人员使用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "检修平台为皮带、溜筒等部件提供检修作业通道，保障维护人员安全，是设备日常保养的基础设施，与配重或堆放货物无关。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 487,
+  "category": "concept",
+  "question": "装船遇雨停工后，作业记录的正确处理方式是？",
+  "options": [
+   {
+    "text": "将停工时段记入事实记录（SOF）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "无需记录，直接顺延装期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只记录装船量不记录时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "由船员单方口头说明即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "雨停工时段须如实记入事实记录（SOF），作为计算装卸时间与滞期速遣的依据，避免后续商务争议。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 488,
+  "category": "concept",
+  "question": "装船机“自动化”（automation）升级后，最典型的变化是？",
+  "options": [
+   {
+    "text": "操作员可远程监控与无人化作业",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "完全取消皮带输送系统",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不再需要任何电力支持",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船无需计划配载",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "自动化通过远程控制和程序化作业减少人员在现场操作，提高效率与安全；但核心设备仍需监控维护，并非取消皮带或计划。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 489,
+  "category": "concept",
+  "question": "装船时为保证船体平衡，正确的装载做法是？",
+  "options": [
+   {
+    "text": "按计划轮流在各舱均匀装载",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "先集中装满一个舱再装其他舱",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "优先装满船头舱位",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按现场方便随意装载",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "轮流均匀装载可避免船体局部受力过大，控制弯矩与剪力；集中或随意装载会造成船体应力集中，威胁结构安全。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 490,
+  "category": "concept",
+  "question": "散货装船后的“平舱”（trimming）操作主要目的是？",
+  "options": [
+   {
+    "text": "平整舱内煤面，保证稳性与满舱",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "提高皮带机转速",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "降低煤的含水量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "增加船员工作量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "平舱将煤面摊平，使货重均匀分布、减少货物移动风险，保证船舶稳性并装足货量，是散货装船的必要环节。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 491,
+  "category": "concept",
+  "question": "装船前确认船舶“适货性”（cargo worthiness）的责任主体是？",
+  "options": [
+   {
+    "text": "船长代表船东并与租方/货方确认",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "仅由货运代理单方确认",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅由保险人确认",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅由检验机构决定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "适货性由船长代表船东负责确认，并经租方或货方监督，涉及货舱清洁、设备与稳性，是装船前的法定义务。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 493,
+  "category": "concept",
+  "question": "装船计划中的“装货速率”（loading rate）主要由什么决定？",
+  "options": [
+   {
+    "text": "港口设备能力与货量规模",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船员的个人偏好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿主临时心情",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶保险条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装货速率由装船机能力、驳船供给和货量共同决定，通常以吨/天表示，直接关系装卸时间与滞期风险。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 494,
+  "category": "concept",
+  "question": "装船作业的“装船顺序”（sequence）应如何安排？",
+  "options": [
+   {
+    "text": "按配载计划分舱分步进行",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "装完一舱再装下一舱",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完全随意安排",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一次同时装满所有舱",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船顺序按配载计划与船体应力要求分舱分步执行，配合平舱与吃水控制，避免局部超载影响稳性。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 495,
+  "category": "concept",
+  "question": "装船作业前的“舱内检查”（hold inspection）主要检查什么？",
+  "options": [
+   {
+    "text": "货舱清洁、干燥、无残留",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船员证书是否齐全",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶保险是否有效",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港区泊位长度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "舱内检查确认货舱清洁干燥、无前票货残留和异物，防止煤被污染或腐蚀，是保障货质和适货性的第一道关口。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 497,
+  "category": "concept",
+  "question": "印尼装港的“潮汐”（tide）对装船作业的主要影响是？",
+  "options": [
+   {
+    "text": "影响泊位水深与靠离泊窗口",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "决定煤的热值高低",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "影响皮带机功率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "改变货舱容积",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "潮汐决定泊位和航道水深，影响大船靠离泊与满载吃水窗口；低潮水深不足时需控制装货量或等待高潮。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 498,
+  "category": "concept",
+  "question": "装船过程中需控制的“船体应力”（stress）是指？",
+  "options": [
+   {
+    "text": "船体结构因载货分布产生的受力状态",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船员心理压力",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "皮带机张紧力",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港区电力负荷",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "船体应力指货重分布对船体结构产生的弯矩与剪力，装船顺序与舱位分配不当会使其超限，导致结构损伤。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 499,
+  "category": "concept",
+  "question": "装船作业中“船岸通信”（ship-shore communication）通常采用什么方式？",
+  "options": [
+   {
+    "text": "甚高频（VHF）与书面文件确认",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "仅靠手势指挥",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "通过社交媒体留言",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不通信靠现场默契",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "船岸之间通过甚高频（VHF）实时联络并以单证书面确认，保证装船指令、停工与数据记录一致，是安全作业的基础。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 500,
+  "category": "concept",
+  "question": "装船过程中必须控制的船舶“稳性”（stability）是指？",
+  "options": [
+   {
+    "text": "船舶抵抗外力倾覆的能力",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船舶额定航速等级",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船体表面油漆涂层",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货舱通风量大小",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "稳性是船舶抵抗外力倾覆的能力，装煤时重心过高或偏载都会降低稳性，威胁航行安全，须按配载控制。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 501,
+  "category": "scenario",
+  "question": "装船时发现煤流中出现大量石块，正确的处理是？",
+  "options": [
+   {
+    "text": "立即停止装船，拍照取证并通知矿方处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "自己动手挑出石块后继续装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "继续装船，不影响使用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "视而不见继续作业",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "石块混入会污染煤质并引发品质争议，应停机取证并通知矿方处理，避免货损与索赔范围扩大。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 503,
+  "category": "scenario",
+  "question": "装煤前需确认船舶的什么证书有效？",
+  "options": [
+   {
+    "text": "船级证书、适航证书等法定证书",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船旗国国旗登记证明",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "餐厅卫生合格证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船员个人驾驶证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "船级与法定证书有效是船舶适航适货的前提，租船和装货前应核查，证书失效可能导致拒载或港口滞留。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 504,
+  "category": "concept",
+  "question": "装船作业中的“完工吃水”（final draft）是指？",
+  "options": [
+   {
+    "text": "装船完毕后船舶的实际吃水",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船舶设计最大吃水",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "空载状态下的吃水",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同约定的结算吃水",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "完工吃水在装毕后读取，配合水尺计重计算装货量，并与港口水深限制核对，是计重与安全的双重依据。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 506,
+  "category": "concept",
+  "question": "装船中判定“超载”（overload）的直接依据是？",
+  "options": [
+   {
+    "text": "船舶吃水超过载重线",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "装船时间超过计划",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货舱装填高度不足",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "皮带秤读数异常",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "超载指装货后吃水超过载重线标志，违反国际载重线公约，威胁航行安全并可能面临港口处罚。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 513,
+  "category": "scenario",
+  "question": "装船作业时，以下哪种天气条件可以继续作业？",
+  "options": [
+   {
+    "text": "晴天微风",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "大风超过7级",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "浓雾能见度极低",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "暴雨伴随雷电",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "晴天微风适合装船作业；大风、浓雾、暴雨会威胁作业安全，应暂停并将停工时间记入事实记录。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 515,
+  "category": "scenario",
+  "question": "装载煤炭前，船方应重点检查的装卸相关设备包括？",
+  "options": [
+   {
+    "text": "舱盖、通风设备和压载系统",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船上健身房器材",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "厨房烤箱设备",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "客房电视设备",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "舱盖启闭、通风与压载系统直接关系装货操作和航行安全，须提前检查确认可用后方可装货。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 517,
+  "category": "concept",
+  "question": "煤炭装船中“平舱”（trimming）的主要作用是？",
+  "options": [
+   {
+    "text": "摊平货堆使受力均匀",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "提高装船机功率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "降低煤的含水量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加快皮带输送速度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "平舱摊平煤面，使货重均匀分布，降低货移风险并保证稳性，是散货装船的必要环节。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 519,
+  "category": "concept",
+  "question": "装船作业中“防尘”（dust suppression）的常用措施包括？",
+  "options": [
+   {
+    "text": "喷水、防尘网与抑尘剂",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "增大落料落差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加大现场风速",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "减少喷淋次数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "喷水、防尘网和抑尘剂可降低煤尘飞扬，减少环境污染与健康危害，是港口环保作业的基本要求。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 521,
+  "category": "scenario",
+  "question": "装港出现“大雾”（fog）时，对装船作业的主要影响是？",
+  "options": [
+   {
+    "text": "能见度低，引航靠泊受阻",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "影响煤的热值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "改变货舱容积",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提高皮带机转速",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "大雾降低能见度，影响引航与靠离泊安全，通常暂停作业等待雾散，停工时间记入SOF。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 525,
+  "category": "scenario",
+  "question": "装船时出现以下哪种情况应立即停止作业？",
+  "options": [
+   {
+    "text": "输送带故障或发现明火",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船舶轻微晃动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "正常装船进度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤流正常稳定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "输送带故障和明火直接威胁作业安全，必须立即停机处置；轻微晃动等正常现象无需停机。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 527,
+  "category": "scenario",
+  "question": "上一航次装载谷物的货舱在装煤前需要？",
+  "options": [
+   {
+    "text": "彻底清扫并检查是否有异味残留",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "封舱即可直接装煤",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接装煤不做处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "冲洗后未干即装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "谷物残留和异味可能污染煤炭，须彻底清扫、必要时冲洗并干燥，确认无残留异味后才能装煤。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 529,
+  "category": "scenario",
+  "question": "装船前需确认的“泊位”（berth）条件包括？",
+  "options": [
+   {
+    "text": "水深、长度和装卸设备可用",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "泊位的颜色标识",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "泊位的名称叫法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "泊位租金高低",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "泊位水深、长度和设备决定可停靠船型与作业效率，是船舶靠泊和装船作业的前提条件。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 532,
+  "category": "concept",
+  "question": "装船“事实记录”（SOF）的主要作用是？",
+  "options": [
+   {
+    "text": "记录作业时间与事件",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "替代货物质量证书",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "作为装货合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "记录船员私事",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "SOF如实记录装船时间、停工与事件，是计算装卸时间和滞期速遣费的依据，也是争议的证据。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 533,
+  "category": "scenario",
+  "question": "装船等待期间煤堆持续堆存，为降低煤炭自燃风险，作业上应怎么做？",
+  "options": [
+   {
+    "text": "控制堆存时间，持续监测煤温并控制堆存条件，发现异常升温及时处置",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "用塑料布严密覆盖堆面",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "堆存期间不监测煤温，装船时再处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "定期大量洒水，水量越多越好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤自燃源于氧化放热积聚，关键是控制堆存时间与堆体条件、持续监测温度并及时处置异常热点；塑料覆盖阻碍散热反而加剧积聚，不监测煤温会错过预防窗口，过量洒水不能抑制氧化且影响煤质。",
+  "rework_verdict": "D",
+  "v2_verdict": "REWORK",
+  "v2_gates": [
+   "Gate0",
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ],
+  "v21_note": "用户评审 B+→A：去掉无条件的“及时通风”，避免把复杂工程问题简化；浇水项改为绝对化表述（水量越多越好）作为干扰项",
+  "r1_note": "R1 补齐 effect（正项+8/+5/-5，干扰项-5/-3/+5）"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 534,
+  "category": "scenario",
+  "question": "船舶在装货港排放压载水时，需要注意什么？",
+  "options": [
+   {
+    "text": "遵守压载水管理公约（BWM）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "可随意排放",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "排放前加盐处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "排放后无需记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "按《压载水管理公约》要求处理压载水，防止外来生物入侵，违规排放将面临处罚。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 536,
+  "category": "scenario",
+  "question": "装船作业遇“雨天”（rain）时的通常做法是？",
+  "options": [
+   {
+    "text": "视合同和煤质要求决定是否停装",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "一律不停继续装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一律停装不商量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "由船员单方决定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "雨天是否停装取决于合同条款、煤种和防雨要求，须按约定执行并做好SOF记录。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 538,
+  "category": "concept",
+  "question": "装船中的“NOR”（准备就绪通知）是指？",
+  "options": [
+   {
+    "text": "船舶抵港并准备就绪装货的通知",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "货物重量验证单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船单据流转单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "水上防护装备",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "NOR由船长递交，声明船舶已备妥可装货，是装卸时间起算的前提，直接关系滞期费计算。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 539,
+  "category": "scenario",
+  "question": "装船完成后，以下哪项工作不是必须的？",
+  "options": [
+   {
+    "text": "立即离港且不做任何记录",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "核对装船数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "拍摄舱内照片",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "测量船舶吃水",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装毕须核对数量、拍照留证并测吃水计重；不做任何记录直接离港是错误的做法，故它是非必需项。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 540,
+  "category": "concept",
+  "question": "装煤船舶货舱通风设备的主要作用是？",
+  "options": [
+   {
+    "text": "排放煤尘和可燃气体并控制温度",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "给船员吹风降温",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提高装船速度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "增加船舶载货量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "通风排出煤尘、甲烷等气体并散热，降低自燃和爆炸风险，是装运煤炭的关键安全设备。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 545,
+  "category": "scenario",
+  "question": "装船完成后，舱盖应该如何处理？",
+  "options": [
+   {
+    "text": "立即关闭并密封，防止雨水进入",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "半开保持通风",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要关闭",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "敞开透气数日",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装毕关严舱盖并密封，防止雨水海水进入造成货损，是离港前的必要操作。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 546,
+  "category": "concept",
+  "question": "按IMDG规则，煤炭属于什么危险性货物类别？",
+  "options": [
+   {
+    "text": "第4类易燃固体",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "第9类杂类危险品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "第7类放射性物质",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "第1类爆炸品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "高挥发分煤按IMDG归类为第4类易燃固体（UN 1361/1362等），装运须满足隔离与通风要求。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 548,
+  "category": "concept",
+  "question": "装船作业中“平舱”（trimming）的作用是？",
+  "options": [
+   {
+    "text": "均匀分布货物、保证稳性",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "加速装船进度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提升煤的发热量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "简化单证流程",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "平舱使煤面平整、货重均匀，防止货移和重心偏移，保证船舶稳性，是装煤的必要环节。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 551,
+  "category": "scenario",
+  "question": "装船数量的计算通常采用什么方法？",
+  "options": [
+   {
+    "text": "水尺计量（按装船前后吃水差计算）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "仅按皮带秤读数结算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "凭经验目测估算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按船舶额定载重吨计算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "散货装船量通常以水尺计量为准，即通过装船前后吃水差计算货重，是国际公认的计重方法。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 552,
+  "category": "scenario",
+  "question": "装煤前，船方应检查船舶消防设备是否？",
+  "options": [
+   {
+    "text": "齐全、有效、随时可用",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "可以允许部分过期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只需有灭火器即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤炭火灾风险高，消防设备须齐全有效并随时可用，是装货安全和应急响应的前提。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 557,
+  "category": "scenario",
+  "question": "装船完成后，以下哪种文件必须签署？",
+  "options": [
+   {
+    "text": "装船备忘录（SOF）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船舶维修记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船员名单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船长个人日记",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船完毕须签署SOF，记录装卸时间与事件，是滞期速遣计算和争议处理的依据。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 563,
+  "category": "scenario",
+  "question": "装船完成后，质量样品应该如何处理？",
+  "options": [
+   {
+    "text": "封存备查，保存至贸易结算完成",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "直接丢弃处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全部交给船方带走",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意处置即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "质量样品须封存备查并保存至结算完成，作为品质争议时的仲裁依据。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 564,
+  "category": "scenario",
+  "question": "煤炭装船前，港口通常要求提供什么申报？",
+  "options": [
+   {
+    "text": "货物申报单和MSDS等",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "餐厅菜单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船旗说明",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船员名单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "货物申报单和MSDS（物质安全数据表）是港口受理装货的必备文件，用于风险评估与监管。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 569,
+  "category": "scenario",
+  "question": "装船作业中，以下哪种行为是禁止的？",
+  "options": [
+   {
+    "text": "在作业区吸烟或使用明火",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "佩戴安全帽",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "穿反光工作服",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "服从现场指挥",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤尘环境遇明火易爆燃，作业区严禁吸烟和明火；安全帽、反光服等防护则必须执行。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 575,
+  "category": "scenario",
+  "question": "装船作业中，粉尘控制应该怎么做？",
+  "options": [
+   {
+    "text": "使用洒水、吸尘等措施控制粉尘",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "加快装船速度减少暴露",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要控制粉尘",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让工人自行忍受",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "洒水、吸尘与密闭输送从源头抑制煤尘，既保护作业人员健康，也满足港口环保要求。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 579,
+  "category": "concept",
+  "question": "装船“水尺检验”（draft survey）的意义是？",
+  "options": [
+   {
+    "text": "验证装载重量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "作业人员管理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "调节船舶浮态",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "平整舱内货物",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "水尺检验通过吃水变化计算货重，是散货重量确认的常用方法，也是结算与单证的基础。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 581,
+  "category": "scenario",
+  "question": "装船作业中，以下哪种个人防护装备是必须的？",
+  "options": [
+   {
+    "text": "安全帽、防尘口罩、安全鞋",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "拖鞋即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "普通日常衣物",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要任何防护",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船现场存在坠落、粉尘和挤压风险，安全帽、防尘口罩、安全鞋是基本防护标配。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 587,
+  "category": "scenario",
+  "question": "装船作业中，发现有人落水应该怎么办？",
+  "options": [
+   {
+    "text": "立即停止作业，启动应急预案，组织救援",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "继续正常作业",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "在旁观望等待",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自己下水救人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "落水须立即停机并启动应急预案，抛救生圈并组织救援；自行下水可能造成二次伤亡。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 588,
+  "category": "scenario",
+  "question": "巴厘巴板等印尼煤港常见的水深限制导致？",
+  "options": [
+   {
+    "text": "只能靠泊较小船型或减载",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "水深无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "任何船都能靠泊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "禁止装煤",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "港口水深限制船舶吃水，大船需减载或改用较小船型，直接影响运费和船期安排。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 593,
+  "category": "scenario",
+  "question": "装船作业中，以下哪种情况应该立即撤离人员？",
+  "options": [
+   {
+    "text": "发现明火或煤堆温度异常升高",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "煤流输送一切正常",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶轻微晃动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "正常进行装船作业",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "明火或煤温异常升高预示火灾风险，应立即撤离人员并启动应急响应，防止伤亡扩大。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 600,
+  "category": "scenario",
+  "question": "煤炭装船时，为防止扬尘污染，常用措施是？",
+  "options": [
+   {
+    "text": "喷水降尘、控制落料高度",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "不用管",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加速装货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加大风力",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "喷水降尘和控制落料高度可减少煤尘，保护环境和作业安全。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 601,
+  "category": "concept",
+  "question": "印尼装港常见作业方式“STS”（船对船过驳）是？",
+  "options": [
+   {
+    "text": "驳船向海船过驳货物",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "铁路装船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "岸吊装船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "管道输送",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "STS在锚地由驳船向海船过驳煤炭，适用于水深不足无法靠泊的浅水装港。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 604,
+  "category": "scenario",
+  "question": "装煤过程中遇到降雨，正确的做法是？",
+  "options": [
+   {
+    "text": "停止装货并盖舱",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "边装边排水",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "继续装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加快速度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "下雨时继续装煤会大幅增加水分，应停止作业、关闭舱盖，防止货损。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 605,
+  "category": "concept",
+  "question": "印尼浅水装港采用“过驳”（lightering）的原因是？",
+  "options": [
+   {
+    "text": "港口水深不足、大船无法靠泊",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "速度更快",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "驳船顺流运至河口锚地",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "更省钱",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "浅水锚地水深不足，大船无法靠泊，须由驳船过驳至深吃水海船完成装货。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 606,
+  "category": "concept",
+  "question": "水尺计重的“密度”（density）测量使用什么工具？",
+  "options": [
+   {
+    "text": "密度计（hydrometer）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "气压计",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "温度计",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "湿度计",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "水密度用密度计测量，密度值直接影响排水量和货重计算精度。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 609,
+  "category": "scenario",
+  "question": "装船过程中，发现煤中有大量杂物（如木头、石头），应该怎么做？",
+  "options": [
+   {
+    "text": "停止装船，要求清理杂物，记录并拍照取证",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "仅口头提醒矿方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "继续装船不管杂物",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自己动手清理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "大量杂物影响煤质和计量，应停机要求清理并拍照留证，为后续责任认定和索赔提供依据。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 610,
+  "category": "scenario",
+  "question": "装煤作业时，船上明火作业（电焊等）应该？",
+  "options": [
+   {
+    "text": "禁止或严格审批",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "夜间进行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意进行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "边装边焊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤尘易爆、煤炭易燃，装货期间明火作业须禁止或严格审批并全程监护。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 615,
+  "category": "scenario",
+  "question": "装船过程中，以下哪种天气条件应该停止作业？",
+  "options": [
+   {
+    "text": "暴雨、雷电、大风",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "轻微雾霾",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "晴天微风",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "阴天无雨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "暴雨、雷电、大风等恶劣天气威胁作业安全和货物品质，应停止装船作业。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 618,
+  "category": "concept",
+  "question": "水尺计重的“误差”（error）来源包括？",
+  "options": [
+   {
+    "text": "波浪、吃水读数和水密度",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "采样、制样和分析",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "交接货量和结算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船上固定物重量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "波浪起伏、吃水读数精度和水密度测量是水尺计重的主要误差来源。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 621,
+  "category": "scenario",
+  "question": "装船前，煤矿向港口驳运煤炭的驳船，其舱底应该是什么状态？",
+  "options": [
+   {
+    "text": "清洁干燥，无油污、无杂物、无残余货物",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "有少量残油不影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只要不漏水即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "残留上批煤炭无所谓",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "驳船舱底须清洁干燥，油污杂物会污染煤炭并影响品质，是装运前的适货前提。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 624,
+  "category": "concept",
+  "question": "水尺计重“六面吃水”（six-sided draft）读取的意义是？",
+  "options": [
+   {
+    "text": "更准确计算排水量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "只需读船首",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无需记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "替代岸磅称重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "读取船首中尾左右六面吃水，取均值减少船体变形影响，提高计重精度。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 627,
+  "category": "concept",
+  "question": "装船作业委托书（SOF，Statement of Facts）的作用是什么？",
+  "options": [
+   {
+    "text": "记录装船全过程时间、数量、天气等关键事实，是争议处理的重要依据",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "仅供内部存档使用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅记录煤炭价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "是货款的支付凭证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "SOF记录装船全过程的时间、数量、天气等关键事实，是滞期速遣计算和争议处理的重要依据。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 630,
+  "category": "concept",
+  "question": "水尺计重“船体变形”（hull deflection）的修正是？",
+  "options": [
+   {
+    "text": "拱垂修正（hogging/sagging）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "加船员",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "据吃水计算货重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "密度计测量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "船体中拱或中垂会使六面吃水读数偏离平均值，需按拱垂修正提高计重精度。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 633,
+  "category": "concept",
+  "question": "在装船港，船代（Shipping Agent）的主要职责是什么？",
+  "options": [
+   {
+    "text": "代表船东处理港口手续、联系引水、安排靠泊等",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "负责检验煤炭质量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "监督矿山生产",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "负责煤炭定价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "船代代表船东办理港口手续、联系引水、安排靠泊和物料补给等，保障船舶在港顺利。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 636,
+  "category": "concept",
+  "question": "水尺计重中“压载水”（ballast）测量对货量的影响是？",
+  "options": [
+   {
+    "text": "影响排水量计算，需准确扣除",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "据吃水计算货重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "交接货量和结算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接加总即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装货前后压载水变化需准确计量，才能由排水量差正确推出货量。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 639,
+  "category": "concept",
+  "question": "装船中“平舱”（trimming）是指什么？",
+  "options": [
+   {
+    "text": "对货舱内煤炭进行平整，使其均匀分布，避免局部过高",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "调整船舶航行方向",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "减少本次装载量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "清洁船舶甲板",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "平舱是对货舱内煤炭进行平整，使其均匀分布、避免局部过高，保证船舶稳性。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 640,
+  "category": "scenario",
+  "question": "煤炭装船速度过快可能带来什么问题？",
+  "options": [
+   {
+    "text": "平舱不及时、稳性受损、设备故障",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "运费降低",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤质变好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货量自动准确",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装率过快导致货堆不均、船体受力异常，须按配载计划控制装率并同步平舱。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 642,
+  "category": "concept",
+  "question": "水尺计重“常数”（constant）指？",
+  "options": [
+   {
+    "text": "船上固定物重量（备品等）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "煤密度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "海水密度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "吃水读数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "常数包括船上的油、水以外的固定重量，是水尺计重必须扣除的项目之一。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 645,
+  "category": "concept",
+  "question": "煤炭的自燃倾向（Spontaneous Combustion Tendency）对装船有什么影响？",
+  "options": [
+   {
+    "text": "高挥发分低变质程度的煤易自燃，长途运输需特别监测舱温",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "只有无烟煤才会自燃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自燃只发生在储存环节",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "对装船没有任何影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "高挥发分、低变质程度的煤易自燃，装运期间需监测舱温并控制通风，防止舱内升温。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 648,
+  "category": "concept",
+  "question": "水尺计重与“岸磅”（shore scale）的差异通常？",
+  "options": [
+   {
+    "text": "存在一定合理差异",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "必须完全一致",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "岸磅不准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "岸边地磅称重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "水尺计重与岸磅因测量方法不同存在合理误差，合同通常约定可接受差异范围。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 651,
+  "category": "concept",
+  "question": "装船结束时，船方签发的装货单（shipping order）的作用是？",
+  "options": [
+   {
+    "text": "是货物实际装船的初步凭证，是签发提单的依据",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "是货物的最终权属证明",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "等同于提单，可以流通转让",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "是质量检验报告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装货单确认货物已装船，是船方签发提单的依据；提单才是权属凭证，装货单不可转让。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 652,
+  "category": "concept",
+  "question": "煤炭装船时，船舱内的“甲烷气体”检测意义是？",
+  "options": [
+   {
+    "text": "防止可燃气体聚集爆炸",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "检测煤质",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "判断煤龄",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "计算运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "高挥发分煤会释放甲烷，舱内浓度超标遇明火可爆炸，须检测并保持通风。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 653,
+  "category": "scenario",
+  "question": "装船完成后“离港”（sailing）前，船长需确认什么？",
+  "options": [
+   {
+    "text": "货物装载证书、稳性和燃油",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "货主电话",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿主签字",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "水尺计重单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "离港前确认装载证书、稳性计算和燃油储备等航行准备，确保船舶适航。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 657,
+  "category": "concept",
+  "question": "以下哪种情况会导致不清洁提单？",
+  "options": [
+   {
+    "text": "大副收据上注明货物有破损或数量短少等批注",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "装船期间天气晴好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物使用标准包装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物按时完成装船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "大副收据加注货物破损、短少等不良批注时，换发的提单为不清洁提单，银行通常不接受。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 658,
+  "category": "concept",
+  "question": "散装煤炭装船时，“自动平舱”通常依靠什么实现？",
+  "options": [
+   {
+    "text": "装船机伸缩溜筒和人工辅助",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船员跑步",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合理利用舱容",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直升机",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船机溜筒伸缩控制落料点，配合推土机或人工平舱完成配载，实现货面平整。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 662,
+  "category": "scenario",
+  "question": "装船机“故障”（breakdown）时应怎么处理？",
+  "options": [
+   {
+    "text": "停机检修并启动备用方案",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "操作控制中心处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "防碰撞超限",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "继续作业",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "设备故障须停机检修并启用备用方案，减少停装延误，严禁带病作业。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 663,
+  "category": "concept",
+  "question": "散装煤炭装船时，现场监装人员（Cargo Surveyor）的职责是什么？",
+  "options": [
+   {
+    "text": "监督装载数量、质量、舱况，确认装船数据，出具装船报告",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "负责安排船舶靠泊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "负责煤炭销售",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅监督装船速度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "监装员监督装载数量、质量和舱况，确认装船数据并出具报告，是货量品质的独立见证。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 664,
+  "category": "concept",
+  "question": "装煤作业记录（cargo log）应记录哪些内容？",
+  "options": [
+   {
+    "text": "装货时间、数量、天气、异常情况",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "饭菜菜单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船员心情",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船票价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装货记录是装卸时间、货量和争议处理的重要凭证，须完整记录时间、数量、天气和异常。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 669,
+  "category": "concept",
+  "question": "装船时，如何通过水尺计重确定装船货量？",
+  "options": [
+   {
+    "text": "测量装货前后六面吃水，计算排水量变化并扣除压载水变化等",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "只看船方提供的数据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数驳船数量估算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接用皮带秤计量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "水尺计重通过装货前后六面吃水计算排水量差，再扣除压载水、常数等变化得出货量。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 672,
+  "category": "scenario",
+  "question": "煤炭装船中“短装”（short shipment）的处理是？",
+  "options": [
+   {
+    "text": "按合同约定补装或索赔",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "互为验证手段",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装前装中装后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "强行开船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "短装按合同约定处理，如补装、扣款或索赔，不能强行开船逃避责任。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 675,
+  "category": "concept",
+  "question": "煤炭装船时，港口的“装卸时间”（laytime）指什么？",
+  "options": [
+   {
+    "text": "合同约定的船舶在港装卸货物的允许时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "装货期间的潮汐时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶停靠港口的费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口的水流速度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装卸时间（laytime）是合同约定的允许装卸时间，超时需付滞期费，提前则有速遣费。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 681,
+  "category": "concept",
+  "question": "以下哪种情况，船方可以向货主索取滞期费？",
+  "options": [
+   {
+    "text": "实际装货时间超过合同约定的允许装卸时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "装货提前完成",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶提前抵达港口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "恶劣天气导致停工",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "实际装货时间超过约定装卸时间（laytime）时，货主须支付滞期费；恶劣天气停工通常可计除外。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 683,
+  "category": "concept",
+  "question": "装船中的“防碰撞”（collision avoidance）措施是？",
+  "options": [
+   {
+    "text": "驳船靠泊和移位时加强瞭望",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "稳性强度货种相容",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "目测估算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤粒破碎粉尘飞扬",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "过驳和靠泊作业须严格瞭望和协调，防止驳船与船体碰撞。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 684,
+  "category": "concept",
+  "question": "装船单证“装货清单”（cargo manifest）由谁编制？",
+  "options": [
+   {
+    "text": "船方编制",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船方确认收到货物",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "交易核心物品",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物清单汇总",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装货清单（舱单）由船方编制并报港，汇总各票货物信息供海关和卸港参考。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 687,
+  "category": "concept",
+  "question": "散装煤炭的堆场存放通常需要注意什么？",
+  "options": [
+   {
+    "text": "控制堆高、定期翻堆降温、监控内部温度，防止自燃",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "淋水降温即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "堆放越高越节省空间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要任何特殊处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "堆场需控制堆高、定期翻堆降温并监控内部温度，防止煤堆自燃。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 688,
+  "category": "scenario",
+  "question": "煤炭装船时，发现煤堆温度异常升高（>60℃），应？",
+  "options": [
+   {
+    "text": "停止装货、隔离并报告",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船级社检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "继续装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加水降温继续装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "高温煤有自燃风险，须停止装运、隔离处理，必要时拒收，严禁继续装。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 690,
+  "category": "concept",
+  "question": "装船单证“收货单”（mate's receipt）的作用是？",
+  "options": [
+   {
+    "text": "船方确认收到货物",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船上交接收据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船方编制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装货单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "收货单（大副收据）是船方确认收到货物的收据，用于换取正本提单。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 693,
+  "category": "scenario",
+  "question": "装船时，发现货舱内存在有害气体（如甲烷），应该怎么办？",
+  "options": [
+   {
+    "text": "立即停止作业，强制通风，检测气体浓度合格后再作业",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "用风扇直接吹散",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "继续作业尽快装完",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "打开所有舱盖继续作业",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "舱内有害气体超标须立即停止作业、强制通风，检测合格后方可恢复作业。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 695,
+  "category": "concept",
+  "question": "装船中的“称重”（weighing）方法不包括？",
+  "options": [
+   {
+    "text": "目测估算",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "水尺计重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "驳船靠泊瞭望",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "皮带秤",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "正规计重使用水尺、岸磅和皮带秤，目测估算不具法律效力，不能作为交接依据。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 698,
+  "category": "scenario",
+  "question": "装船遇“恶劣天气”（bad weather）时应怎么处理？",
+  "options": [
+   {
+    "text": "暂停作业并做好防风",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船体受力和稳性受损",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船流程安排",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "定期模拟训练",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "恶劣天气须暂停装船作业并做好防风固定，保障人员和设备安全。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 699,
+  "category": "concept",
+  "question": "以下哪种情况需要在提单上注明“甲板货”？",
+  "options": [
+   {
+    "text": "货物确实被放置在甲板上运输，而非舱内",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "散装货物一律注明",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物超重时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物装入货舱运输",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "货物实际装载在甲板上运输时，提单须加注甲板货批注，提示承运风险。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 700,
+  "category": "scenario",
+  "question": "装船过程中船舶横倾超过允许值时，应当怎么办？",
+  "options": [
+   {
+    "text": "暂停装货，调整压载与装货顺序",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "加速装完",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "继续装货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "跳海检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "横倾过大危及船舶稳性，须暂停装货并调整左右舱装货平衡与压载。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 704,
+  "category": "scenario",
+  "question": "装船“货物质量问题”（quality issue）时应怎么处理？",
+  "options": [
+   {
+    "text": "停装检验和处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "继续装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船过程取样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船与机对准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "发现质量异常须暂停装船并取样检验，查明原因后再决定是否继续。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 705,
+  "category": "concept",
+  "question": "在印尼港口装船时，以下哪项安全规定必须严格遵守？",
+  "options": [
+   {
+    "text": "穿戴安全帽、安全鞋、反光背心，进入密闭空间须携带气体检测仪",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "安全装备可选可不选",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅管理人员需要装备",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只需佩戴安全帽",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "港口作业须穿戴完整个人防护装备，进入密闭空间必须检测气体，防止中毒窒息。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 711,
+  "category": "concept",
+  "question": "煤炭船舶在离港前，必须向港口当局提交的文件包括哪些？",
+  "options": [
+   {
+    "text": "装货完毕证明、大副收据、海关放行单、港口规费收据等",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "仅提交提单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只需邮件通知",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只需船长口头确认",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "离港前须提交装货完毕证明、大副收据、海关放行单和规费收据等，完成结关。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 717,
+  "category": "concept",
+  "question": "以下哪种设备用于检测货舱内的甲烷浓度？",
+  "options": [
+   {
+    "text": "可燃气体检测仪（LEL检测仪）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "压力表",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "温度计",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "湿度计",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "可燃气体检测仪（LEL检测仪）测量甲烷等气体浓度，低于爆炸下限方可作业。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 718,
+  "category": "concept",
+  "question": "装船完成后，船长签发的“大副收据”（mate's receipt）作用是？",
+  "options": [
+   {
+    "text": "证明货物已装船的数量与表面状况",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "报关单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验报告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "代替提单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "大副收据是装货后的初步收据，提单以其为基础签发，注明货损货差情况。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 719,
+  "category": "concept",
+  "question": "印尼主要装煤港口“Muara Jawa”（麻拉爪哇）位于哪里？",
+  "options": [
+   {
+    "text": "东加里曼丹巴厘巴板湾附近",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "苏门答腊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "丹戎不碌港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "南加里曼丹",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Muara Jawa是东加里曼丹重要煤炭装港，以锚地过驳装船为主。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 722,
+  "category": "concept",
+  "question": "船舶靠泊装煤时，船长递交的“NOR”（准备就绪通知书）是什么？",
+  "options": [
+   {
+    "text": "船舶到达并准备就绪、可以开始装货的正式通知",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "运费费率变更通知",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物收讫确认通知",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶维修完成通知",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "NOR是船舶到达装港并准备就绪、可开始装货的正式通知，用于起算装卸时间。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 723,
+  "category": "concept",
+  "question": "煤炭装船后的“提单”由谁签发？",
+  "options": [
+   {
+    "text": "船长或承运人代理",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保险人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口工人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "提单由船长或承运人授权代理签发，是物权凭证和运输合同证明。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 724,
+  "category": "concept",
+  "question": "印尼装港“Taboneo”（塔博内奥）位于哪里？",
+  "options": [
+   {
+    "text": "南加里曼丹",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "东加里曼丹",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "巴布亚",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "苏门答腊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Taboneo位于南加里曼丹巴里托河河口，主要进行煤炭过驳装船。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 728,
+  "category": "scenario",
+  "question": "煤炭驳船（Barge）在运输途中发生沉没，责任如何划定？",
+  "options": [
+   {
+    "text": "依据货权转移节点和运输合同条款，结合保险理赔来处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "由买方承担全部责任",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "由煤矿承担全部责任",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "驳运事故责任取决于合同约定的货权转移时间（如FOB为装上船后）及运输合同条款。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 734,
+  "category": "concept",
+  "question": "以下哪项是衡量港口装船效率的重要指标？",
+  "options": [
+   {
+    "text": "装船速率（Loading Rate），通常以吨/小时或吨/天表示",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "港口水深条件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口总面积大小",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口工人数量多少",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船速率（Loading Rate）是装船效率的关键指标，合同中通常约定最低速率。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 735,
+  "category": "concept",
+  "question": "煤炭装港的“滞期费”由谁承担？",
+  "options": [
+   {
+    "text": "按合同约定（通常装率延误方）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "永远卖方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "永远买方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装货延误产生的滞期费按合同装卸率条款由责任方承担，非固定由卖方或买方承担。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 737,
+  "category": "scenario",
+  "question": "印尼“潮差”（tidal range）大的港口装船需注意什么？",
+  "options": [
+   {
+    "text": "按潮汐安排作业时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "废水排放限值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "勘查和生产运营",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "驳船过驳到海轮",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "潮差大时须配合高潮作业窗口，保证驳船通行和装船吃水。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 740,
+  "category": "scenario",
+  "question": "印尼雨季对煤炭装船作业有什么主要影响？",
+  "options": [
+   {
+    "text": "频繁降雨导致作业中断，煤炭水分增加，装船效率下降",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "对装船作业没有影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "雨季煤炭质量更好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "雨天装船效率更高",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼雨季（11月至次年4月）降雨频繁，煤炭水分升高、装船作业经常中断。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 746,
+  "category": "concept",
+  "question": "在散装煤炭的船务实践中，“配载图”（stowage plan）的作用是什么？",
+  "options": [
+   {
+    "text": "规划各货舱的装载量分配，确保船舶纵向和横向稳性",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "标注货物集装箱编号",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "记录船员分工",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只是格式文件没有实际用途",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "配载图由船方制定，规划每个货舱的装载量，确保船舶全程保持稳性。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 747,
+  "category": "concept",
+  "question": "煤炭装船作业中，“装率”（loading rate）通常以什么表示？",
+  "options": [
+   {
+    "text": "吨/小时",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "米/秒",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "立方米",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "吨/天",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装率（如20000吨/天）决定装卸时间，是合同和滞期计算的关键参数。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 748,
+  "category": "concept",
+  "question": "印尼装港“潮汐”（tide）对作业的影响是？",
+  "options": [
+   {
+    "text": "低潮限制驳船和吃水",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "雷雨大风频繁中断作业",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶排队和滞期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "泊位设备驳运天气",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "潮汐影响驳船通行和装船吃水，低潮时大船无法满载，需把握潮时。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 752,
+  "category": "scenario",
+  "question": "装船时，最终装船数量产生争议，以下哪种方法具有最高法律效力？",
+  "options": [
+   {
+    "text": "经双方认可的独立验货师出具的吃水计重报告",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "矿方的地磅计量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方的粗略估算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船方单方面确认的数据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "独立第三方验货师（如SGS、Intertek、BV等）按国际标准出具的吃水计重报告最具法律效力。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 754,
+  "category": "scenario",
+  "question": "印尼装港“雨季锚地作业”的常见问题是？",
+  "options": [
+   {
+    "text": "雷雨大风频繁中断作业",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "费用降低",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶排队和滞期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "作业加速",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "雨季雷雨大风频繁，锚地装船作业常被中断，影响装率和货量。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 758,
+  "category": "concept",
+  "question": "煤炭装船中，洗舱费（tank cleaning cost）由谁承担？",
+  "options": [
+   {
+    "text": "视合同约定而定，一般由租船人承担",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "买方无条件承担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口当局承担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船方单独承担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "洗舱费的承担方由租船合同约定，一般情况下由租船人（货主/贸易商）承担。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 761,
+  "category": "concept",
+  "question": "印尼装港“拖轮”（tug）的作用是？",
+  "options": [
+   {
+    "text": "协助船舶靠离泊",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "雷雨大风频繁中断作业",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "协助船舶移动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "协助船舶靠离",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "拖轮协助靠离泊和安全操纵，保证大船在狭窄水域可控。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 764,
+  "category": "scenario",
+  "question": "以下哪种操作可以有效防止煤炭在运输途中的水分损失？",
+  "options": [
+   {
+    "text": "装船后及时关好舱盖，出港前核实舱盖密封性",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "向煤上喷水保持水分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不关闭舱盖保持通风",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无需措施水分自然保持",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "运输中防水分变化的关键是确保货舱密封，防止外部雨水进入，合同通常对水分偏差有严格要求。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 769,
+  "category": "concept",
+  "question": "以下哪项是印尼煤炭港口（如桑巴港、塔纳格罗港等）的典型特点？",
+  "options": [
+   {
+    "text": "多为浅水港，大型船舶需在锚地通过驳船转运",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "全部是深水港可直接靠泊大型船舶",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全天候24小时不间断作业",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "使用集装箱装运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼加里曼丹很多煤炭装运港水深有限，无法直接靠泊大型货船，通常采用锚地驳运模式。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 771,
+  "category": "concept",
+  "question": "装港“拖轮”（tug）的主要作用是？",
+  "options": [
+   {
+    "text": "协助船舶靠离泊和过驳",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "协助船舶靠离泊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "协助船舶移动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "协调船岸和手续",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "拖轮协助船舶操纵，保障靠离泊和过驳作业安全。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 775,
+  "category": "concept",
+  "question": "信用证中的“软条款”是指什么？",
+  "options": [
+   {
+    "text": "使信用证实际无法生效或使卖方无法履约的条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "信用证标准格式条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行出具的通用条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "对卖方有利的条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "软条款是使信用证实际无法生效或使卖方无法履约的条款，如要求买方签字的检验证书、限制性装运条件等。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 776,
+  "category": "concept",
+  "question": "煤炭装港的“出口报关”通常由谁办理？",
+  "options": [
+   {
+    "text": "卖方或其报关代理",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口当局",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼煤炭出口报关由卖方（出口商）负责，买方无需办理。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 778,
+  "category": "concept",
+  "question": "装港“检验”（inspection）由谁执行？",
+  "options": [
+   {
+    "text": "第三方检验机构执行",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿主自检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装港检验由独立第三方机构（SGS/CCIC等）执行，保证公正性。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 780,
+  "category": "concept",
+  "question": "装船“取样时机”（sampling time）应如何把握？",
+  "options": [
+   {
+    "text": "装船过程中连续取样",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "装完后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶稳性检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船前",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船过程中连续取样代表性好，能真实反映整批货物质量。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 781,
+  "category": "concept",
+  "question": "信用证中的“不符点”是指什么？",
+  "options": [
+   {
+    "text": "单据与信用证条款不一致的地方",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "运输时间延误",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格高低差异",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物质量问题",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "不符点是指单据与信用证条款不一致的地方，如发票金额与信用证不符、装运期逾期等。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 782,
+  "category": "scenario",
+  "question": "装港检验发现煤质与合同不符时，卖方的常见应对是？",
+  "options": [
+   {
+    "text": "协商扣价、换货或拒装",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "起诉港口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "强行装船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "按合同约定处理，常见为扣价结算、延迟装运或取消合同。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 783,
+  "category": "concept",
+  "question": "煤炭装港“装船证书”（certificate of loading）由谁出具？",
+  "options": [
+   {
+    "text": "检验机构或港口出具",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "买方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货运代理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "承运人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船证书（重量/质量）由第三方检验机构或港口出具，作为交接依据。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 787,
+  "category": "concept",
+  "question": "在国际煤炭贸易合同中，“不可抗力”（Force Majeure）条款通常包括哪些情形？",
+  "options": [
+   {
+    "text": "自然灾害、战争、政府禁令、罢工等无法预见和控制的事件",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "市场价格波动也属于不可抗力",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅包括买方认定的情形",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅包括战争情形",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "不可抗力指自然灾害、战争、政府禁令、罢工等无法预见、无法避免且无法克服的事件，可据此免责。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 793,
+  "category": "concept",
+  "question": "煤炭长期供货合同中，“照付不议”（Take or Pay）条款意味着什么？",
+  "options": [
+   {
+    "text": "买方无论是否提货都必须支付约定数量的货款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "双方可以随时修改数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方必须按约定价格供货不得涨价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格随市场波动调整",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "照付不议要求买方无论是否提货都必须支付约定数量的货款，保障卖方长期投资回收。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 799,
+  "category": "concept",
+  "question": "煤炭贸易中，“溢短装条款”（More or Less Clause）通常允许的偏差范围是多少？",
+  "options": [
+   {
+    "text": "±5%至±10%",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "±20%以上",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不允许偏差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "±1%",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "溢短装条款通常允许±5%至±10%的数量偏差，由船方或卖方选择，便于装船操作。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 805,
+  "category": "scenario",
+  "question": "装船前验舱时，舱壁有轻微浮锈但无残留物，最稳妥的处理是？",
+  "options": [
+   {
+    "text": "清除浮锈并清扫干净后装货",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "直接装货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "报告船东换船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "拒绝整船货物",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "浮锈虽不构成拒载，但会污染煤质，应清除浮锈保持舱壁干净，实务中多数合同要求清洁适货。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 806,
+  "category": "concept",
+  "question": "印尼装港“星期六/日作业”（weekend working）通常如何安排？",
+  "options": [
+   {
+    "text": "可作业但费率可能不同",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "必须休息",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "泊位设备驳运天气",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "南加里曼丹",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "多数印尼港口周末可作业，但部分费用（加班费）可能上浮。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 807,
+  "category": "concept",
+  "question": "装港检验“证书”（certificate）出具后，买卖双方如何做？",
+  "options": [
+   {
+    "text": "按证书结算或保留复检权",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船方按时检验换证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "确认装货品质和重量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "重新谈判",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "证书用于结算，合同中常保留复检权，双方可据此处理争议。",
+  "rework_verdict": "E",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 810,
+  "category": "scenario",
+  "question": "装煤过程中突然下小雨，正确的做法是？",
+  "options": [
+   {
+    "text": "暂停装货并关闭舱盖",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "配合处理并按合同与卖方协商",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加速装货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "继续装完再说",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "即使小雨也会明显增加煤炭水分，影响水分指标和结算，应停装盖舱。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 815,
+  "category": "scenario",
+  "question": "装港吃水受限，船方建议“减载装货”，此时货量如何确定？",
+  "options": [
+   {
+    "text": "按实际装船水尺计重为准",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "按船方口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按矿方报告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同吨数不管水尺",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "实际装货量以水尺计重或皮带秤结果为准，合同吨数是约定范围而非必然装足。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 816,
+  "category": "concept",
+  "question": "装港“装卸时间起算”（laytime commencement）通常自什么时间开始？",
+  "options": [
+   {
+    "text": "NOR接受后的约定时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "货到日",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船到前",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "签约日",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装卸时间（laytime）自NOR接受并按约定（如6小时后）起算。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 820,
+  "category": "scenario",
+  "question": "装船时发现煤中有明显的煤矸石和杂物，船方应？",
+  "options": [
+   {
+    "text": "记录、拍照并通知货方和检验机构",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "港口当局",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "拒绝整船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自行清理丢弃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "异常应留证并通知相关方，由检验机构评估是否影响质量，不得擅自处理。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 821,
+  "category": "concept",
+  "question": "装港“滞期费”（demurrage）的计算基准是？",
+  "options": [
+   {
+    "text": "超出约定装卸时间的天数",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "超时作业的赔偿",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "申报和放行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同约定装率延误方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "滞期费=超出时间×约定费率，是租约和贸易合同的重要条款。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 825,
+  "category": "scenario",
+  "question": "装船进度慢导致预计超时，租方要求加速装货，船方首先应？",
+  "options": [
+   {
+    "text": "确认加速的安全性与装率上限",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "要求加钱再说",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船况运价和信誉",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "拒绝一切加速",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "加速装货需评估设备能力与安全，超装率作业可能损坏船体和设备，应书面确认。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 826,
+  "category": "concept",
+  "question": "装港“速遣费”（despatch）支付前提是？",
+  "options": [
+   {
+    "text": "提前完成装卸",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "货量多",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "缆绳数量和系缆角度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "等候泊位和引航",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "提前完成装卸按约定获得速遣费（通常为滞期费的一半）。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 830,
+  "category": "scenario",
+  "question": "装煤时舱内甲烷浓度突然升高，正确响应是？",
+  "options": [
+   {
+    "text": "停止装货、加强通风、检测排查",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "继续装并加大落料",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "开灯查看",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用明火测试",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "甲烷超标有爆炸风险，须立即停装通风，禁止明火，确认安全后恢复。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 832,
+  "category": "scenario",
+  "question": "雨季装煤，船方要求“雨天停装”而港方要求继续，正确的依据是？",
+  "options": [
+   {
+    "text": "船方基于货损风险有权暂停并要求书面记录",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "谁声音大听谁",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港方说了算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "看天气预报再说",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "船方对货物安全有监督权，雨天停装属合理要求，应记录时间作为装卸时间争议依据。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 834,
+  "category": "scenario",
+  "question": "装煤中船体出现明显横倾，最可能的原因是？",
+  "options": [
+   {
+    "text": "左右舱装货不均",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "海浪太大",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤太轻",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "压载水自动变化",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "横倾通常因左右舱装货进度失衡或压载调整不当，应暂停平衡作业。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 835,
+  "category": "concept",
+  "question": "煤炭运输中“煤的自燃”（spontaneous combustion）在什么条件下易发？",
+  "options": [
+   {
+    "text": "水分和温度升高、通风不良",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "温度低",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "固定碳指标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完全干燥",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤氧化放热积聚，温度升高引发自燃，通风不良加剧风险。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 836,
+  "category": "scenario",
+  "question": "装货完成后发现实装吨数比合同少8%，合同溢短装为±10%，应？",
+  "options": [
+   {
+    "text": "按实装数量结算",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "按合同数付钱",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取消合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "要求补装到合同数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "溢短装范围内按实际装运量结算是行业惯例，无需补装。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 838,
+  "category": "scenario",
+  "question": "装港水尺计重与皮带秤结果差异较大时，通常以什么为准？",
+  "options": [
+   {
+    "text": "按合同约定（一般以水尺计重为准）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "皮带秤一定对",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船方口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取平均值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "大宗散货合同通常约定以水尺计重为交接数量依据，皮带秤作参考。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 840,
+  "category": "scenario",
+  "question": "装船前验舱发现上航次是“硫磺”，应如何处理？",
+  "options": [
+   {
+    "text": "彻底清洗并检测残留，确认无污染后装煤",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "用煤盖住硫磺",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "清除浮锈并清扫干净后装货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接装煤",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "硫磺残留污染煤炭且可能产生反应，必须彻底清洗并经检验确认适货。",
+  "rework_verdict": "D",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 845,
+  "category": "concept",
+  "question": "装船中“煤尘爆炸”（dust explosion）的预防关键是？",
+  "options": [
+   {
+    "text": "控制粉尘浓度和火源",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船到港准备装货的通知",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加大风",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物数量核对",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "控制煤尘浓度、消除火源（静电、明火）是防爆核心。",
+  "rework_verdict": "E"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 846,
+  "category": "scenario",
+  "question": "装煤期间收到“台风预警”，船方应？",
+  "options": [
+   {
+    "text": "评估风险，必要时停止装货并离泊避台",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "等台风过",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加速装完",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "继续装完",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "台风威胁船舶安全时，应暂停作业、加固或离泊避台，安全优先。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 848,
+  "category": "scenario",
+  "question": "买方要求装港检验按“卸港标准”取样，卖方拒绝，合理理由是？",
+  "options": [
+   {
+    "text": "合同约定装港检验方法，卸港标准适用卸港",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方说了算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方说了算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "检验方法应按合同约定适用，装港和卸港检验采用各自标准，擅自更改需双方同意。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 850,
+  "category": "concept",
+  "question": "散货运输中“draft survey”指的是什么？",
+  "options": [
+   {
+    "text": "水尺计重",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "吃水深度测量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶油漆",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货舱检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Draft Survey即水尺计重，通过装货前后吃水变化计算货量，是散货计重常用方法。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 851,
+  "category": "concept",
+  "question": "装船术语“de-berthing”指的是什么？",
+  "options": [
+   {
+    "text": "离泊",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "设备降噪和防护",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "岸船信息同步",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "及时上报分析",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "De-berthing指船舶完成装卸后离开泊位的操作，通常需要拖轮协助。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 852,
+  "category": "concept",
+  "question": "装船术语“berth”指的是什么？",
+  "options": [
+   {
+    "text": "泊位",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "明火作业许可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "作业警示装置",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Berth即泊位，是船舶靠泊作业的指定位置，装卸作业在此进行。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 853,
+  "category": "concept",
+  "question": "煤炭装船中“trimming”的中文意思是？",
+  "options": [
+   {
+    "text": "平舱",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "排除瓦斯和防止自燃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "吨/小时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同约定补装或索赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Trimming即平舱，使货物在舱内均匀分布，以保持船舶稳性。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 854,
+  "category": "concept",
+  "question": "船舶术语“stability”指的是什么？",
+  "options": [
+   {
+    "text": "稳性",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船方按时检验换证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "低速航行状态",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "后退操作",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Stability即稳性，指船舶抵抗倾斜并恢复的能力，装货计划必须核算。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 855,
+  "category": "concept",
+  "question": "装船单证“S/O”（shipping order）指的是什么？",
+  "options": [
+   {
+    "text": "装货单",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "船方确认收到货物",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "报关单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "S/O即装货单，是港口据以安排装货的指令单证，装货后换取大副收据。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 856,
+  "category": "concept",
+  "question": "装船术语“cargo hold”指的是什么？",
+  "options": [
+   {
+    "text": "货舱",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "驾驶台",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船员舱",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "设备降噪和防护",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Cargo Hold即货舱，是散货船的装载空间，装货前须验舱适货。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 857,
+  "category": "concept",
+  "question": "装港作业术语“shifting”（移泊）通常指什么？",
+  "options": [
+   {
+    "text": "船舶在港内移动泊位",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "原产地证书",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "销售与采购协议",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "换船员",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Shifting移泊，指船舶在港内从装货泊位移至锚地或另一泊位，需引航拖轮配合。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 858,
+  "category": "concept",
+  "question": "散货装卸中“grab”指的是什么？",
+  "options": [
+   {
+    "text": "抓斗",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "装货单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "固定碳",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰分含量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Grab即抓斗，是港口装卸散货的常用工具，有双瓣、多瓣等类型。",
+  "rework_verdict": "D"
+ },
+ {
+  "level": 5,
+  "level_name": "煤炭装载",
+  "index_in_level": 859,
+  "category": "concept",
+  "question": "装船术语“lashing”通常指什么？",
+  "options": [
+   {
+    "text": "绑扎固定",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 6,
+     "risk": -6
+    }
+   },
+   {
+    "text": "作业沟通机制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "防止雨淋进水",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "吃水深度限制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Lashing即绑扎，用于固定舱内货物或甲板货，防止运输途中移位。",
+  "rework_verdict": "D"
+ }
+]

@@ -1,0 +1,9924 @@
+[
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 0,
+  "category": "concept",
+  "question": "黄老师第一次去印尼找煤源，向导建议先到煤炭主产区看看。印尼最大的煤炭产区是？",
+  "options": [
+   {
+    "text": "东加里曼丹省",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "雅加达特区",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "巴厘岛省",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "西爪哇省",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "东加里曼丹是印尼最大的煤炭产区，萨马林达、巴厘巴板周边矿区和装港密集；雅加达是首都、巴厘岛是旅游区、西爪哇以工业和农业为主，均非煤炭主产区。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项同层保留",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 1,
+  "category": "concept",
+  "question": "初到印尼寻找煤源时，以下哪条是获取一手煤源最直接的渠道？",
+  "options": [
+   {
+    "text": "直接对接矿区矿主",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "只在国内等中间商报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "凭印象找景区附近矿",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "绕过矿区直接订船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "直接对接矿主可拿到真实货源、规格和价格，减少层层加价和信息失真；等中间商报价可能价高且货源不稳，凭印象找矿或绕过矿区订船都拿不到可核实的一手资源。",
+  "rework_verdict": "E",
+  "rework_note": "原题为贸易术语残句，整题重建为找煤源场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 2,
+  "category": "concept",
+  "question": "除东加里曼丹外，印尼另一个重要煤炭产区集中在哪座大岛上？",
+  "options": [
+   {
+    "text": "苏门答腊岛",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "爪哇岛",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "苏拉威西岛",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "马鲁古群岛",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "苏门答腊岛（尤其南苏门答腊）是印尼第二大产煤区，主要面向国内市场与部分出口；爪哇是经济中心但产煤少，苏拉威西以镍矿为主，马鲁古群岛基本不产煤。",
+  "rework_verdict": "E",
+  "rework_note": "原题为贸易市场残句，重建为产区分布场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 3,
+  "category": "concept",
+  "question": "矿方给了黄老师一份煤质规格书（specification），为核实其真实性，最稳妥的做法是？",
+  "options": [
+   {
+    "text": "取样送独立实验室检测",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "直接照抄进合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "凭矿主口头承诺",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只看煤的照片",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "规格书只是卖方声明，取样送独立第三方实验室检测才能得到可争议、可索赔的煤质数据；照抄、口头承诺或看照片都无法作为贸易结算依据。",
+  "rework_verdict": "E",
+  "rework_note": "原题为贸易术语残句，重建为煤质核验场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 4,
+  "category": "concept",
+  "question": "黄老师到矿区实地考察，重点应确认以下哪项信息？",
+  "options": [
+   {
+    "text": "矿权资质和实际生产状态",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主办公室装修档次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "当地景区门票价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "首都机场航班密度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "实地考察要核验矿权证照、开采能力、洗选设备和实际产量，确认货源真实可靠；装修、景区或航班等信息与货源能力无关，无法判断矿方能否履约。",
+  "rework_verdict": "E",
+  "rework_note": "原题为贸易定价残句，重建为矿区尽调场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 5,
+  "category": "concept",
+  "question": "东加里曼丹的煤大多通过河运集港装船，黄老师考察货源时应优先关注哪个环节？",
+  "options": [
+   {
+    "text": "驳船转运和装港效率",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "城市出租车数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "机场免税店规模",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "酒店客房价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "东加里曼丹矿区多在内陆，煤靠驳船沿河运至巴厘巴板等装港再转海船，驳船运力、水位和装港效率直接决定货源能否按期交付；其余选项与货源物流无关。",
+  "rework_verdict": "E",
+  "rework_note": "原题为贸易术语残句，重建为物流资源场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 6,
+  "category": "concept",
+  "question": "评估一个煤矿的煤炭资源量时，按地质可信度由高到低分为哪三类？",
+  "options": [
+   {
+    "text": "探明、控制、推断资源量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "可采、不可采、边界资源量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "表内、表外、伴生资源量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "高位、中位、低位资源量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤炭资源量按勘查控制程度和可信度分为探明（measured）、控制（indicated）、推断（inferred）三级，可信度依次降低；可采性、表内外和高低位不是资源量分类维度。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建为同层分类",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 7,
+  "category": "concept",
+  "question": "黄老师要判断一家印尼矿企是否合法开采，应核验哪类证照？",
+  "options": [
+   {
+    "text": "采矿许可证（IUP）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "餐饮卫生许可证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "旅游经营许可证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "建筑资质证书",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼矿企合法开采须持有采矿许可证（IUP/IUPK），核验证照可避免买到盗采或权属纠纷煤源；餐饮、旅游、建筑类证照与矿业开采无关。",
+  "rework_verdict": "E",
+  "rework_note": "原题为贸易术语残句，重建为矿权核验场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 8,
+  "category": "concept",
+  "question": "两家矿都报出相近热值的煤，黄老师比较货源时还应重点看哪项指标？",
+  "options": [
+   {
+    "text": "硫分、水分和灰分",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主国籍",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区名称长度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区海拔高度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "热值相同的情况下，硫分影响环保和脱硫成本，水分影响热值和计价，灰分影响除灰与磨损，必须综合比较；国籍、名称长度、海拔与煤质和交易条件无关。",
+  "rework_verdict": "E",
+  "rework_note": "原题为市场定价残句，重建为煤质比较场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 9,
+  "category": "concept",
+  "question": "印尼多数中小矿旱季与雨季产量差异明显，黄老师评估货源稳定性时应关注？",
+  "options": [
+   {
+    "text": "雨季发运能力和堆场库存",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主是否养宠物",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿场招牌颜色",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "办公室窗帘款式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "雨季矿区道路泥泞、河运受限，产量和发运常大幅下降；评估矿方雨季的驳船运力、堆场备煤和装港能力，才能判断货源是否稳定；其余选项与货源能力无关。",
+  "rework_verdict": "E",
+  "rework_note": "原题为术语定义残句，重建为货源稳定性场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 10,
+  "category": "concept",
+  "question": "收到多家矿企报价后，黄老师做\"货源比价\"（sourcing comparison），核心是比较什么？",
+  "options": [
+   {
+    "text": "到岸综合成本和煤质",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "只比报价单数字大小",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只比名片印刷档次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只比接待车辆品牌",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "货源比价要把矿价、驳船、海运、港杂等折算到岸综合成本，再结合热值、硫分等煤质换算单位热值成本，才能公平比较；只看报价数字或表面排场没有意义。",
+  "rework_verdict": "E",
+  "rework_note": "原题为成本定价残句，重建为比价场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 11,
+  "category": "concept",
+  "question": "为保证连续采购，黄老师与矿方签订\"长期供货协议\"，主要好处是？",
+  "options": [
+   {
+    "text": "锁定货源和价格基准",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "完全不受市场影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无需再关心煤质",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "可以跳过所有检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "长期协议能稳定锁定煤源并约定价格调整机制，减少临时找货的波动和成本；但仍会随市场调价，仍需按批次检验煤质，并非一劳永逸。",
+  "rework_verdict": "E",
+  "rework_note": "原题为贸易术语残句，重建为长期锁源场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 12,
+  "category": "concept",
+  "question": "矿方提供的煤样与实际装船批次品质往往有差异，为规避\"以次充好\"风险，黄老师应？",
+  "options": [
+   {
+    "text": "约定装港第三方检验",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "完全信任口头承诺",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船后不再检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只保留矿方报告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "在装港由独立第三方按合同标准取样检验并出具证书，结果作为结算和索赔依据，才能防止批次品质与样品不符；口头承诺、单方报告或不检验都无法保护买方。",
+  "rework_verdict": "E",
+  "rework_note": "原题为贸易术语残句，重建为装港检验场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 13,
+  "category": "concept",
+  "question": "煤炭地质勘查通常按哪几个阶段逐步推进？",
+  "options": [
+   {
+    "text": "预查、普查、详查、精查",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "招标、投标、开标、评标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "设计、施工、验收、运营",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "报价、谈判、签约、执行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤炭勘查按预查、普查、详查、精查四个阶段递进，勘查程度逐步提高、储量可信度逐步升级；招投标、工程建设或交易流程都不是地质勘查的阶段划分。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建为同层阶段"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 14,
+  "category": "concept",
+  "question": "黄老师想比较同一产区不同矿的煤质，最可靠的数据来源是？",
+  "options": [
+   {
+    "text": "第三方实验室逐批检测报告",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿方宣传海报",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "网上匿名评论",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "司机随口说的信息",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "第三方实验室按标准方法出具检测报告，数据可追溯、可仲裁，是煤质比较的可靠依据；宣传材料、匿名评论或口口相传都不能作为贸易决策依据。",
+  "rework_verdict": "E",
+  "rework_note": "原题为贸易术语残句，重建为煤质数据来源场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 15,
+  "category": "concept",
+  "question": "印尼煤炭现货市场上，除矿方直采外，还有哪类常见货源渠道？",
+  "options": [
+   {
+    "text": "大型贸易商转售",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "景区纪念品商店",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "机场免税店",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "酒店前台代购",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "大型贸易商拥有稳定的矿源和装运资源，可提供灵活数量与组合货源，是重要的中间渠道；景区、免税店、酒店等商业场所不经营煤炭现货。",
+  "rework_verdict": "E",
+  "rework_note": "原题为市场细分残句，重建为货源渠道场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 16,
+  "category": "concept",
+  "question": "SGS、CCIC 等第三方机构在煤炭资源交易中承担什么角色？",
+  "options": [
+   {
+    "text": "独立检验与公证",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "垄断煤炭销售",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "替买方垫付货款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "代理运输船舶",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "第三方检验机构独立对煤炭品质、重量取样检验并出具证书，为买卖双方提供公证依据；它们不销售煤炭、不垫资、不经营船运，角色是独立检验与公证。",
+  "rework_verdict": "E",
+  "rework_note": "原题为竞争定价残句，重建为第三方检验角色场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 17,
+  "category": "concept",
+  "question": "某矿宣称自己\"储量很大\"，黄老师判断其可信度时，下列哪种表述最可信？",
+  "options": [
+   {
+    "text": "有精查报告支撑的探明储量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主口头保证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "朋友圈宣传文案",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只看矿区面积大小",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "经精查阶段编制、有地质报告支撑的探明储量可信度最高，可用于资源评价；口头保证、宣传文案或仅看面积都无法证明资源量的真实规模与可信度。",
+  "rework_verdict": "E",
+  "rework_note": "原题为术语含义残句，重建为储量可信度场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 18,
+  "category": "concept",
+  "question": "矿区坑口交货与港口交货两种方式，对买方的主要区别是？",
+  "options": [
+   {
+    "text": "运输责任和成本的承担不同",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "煤的颜色不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤的热值不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤的硫分不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "坑口交货由买方负责后续驳运和集港，港口交货由卖方负责运至装港，二者在运输责任、费用和风险承担上不同；煤的颜色、热值、硫分是煤质属性，与交货方式无关。",
+  "rework_verdict": "E",
+  "rework_note": "原题为贸易术语残句，重建为交货地点责任场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 19,
+  "category": "concept",
+  "question": "收集煤源信息时，黄老师发现某中间商报价远低于市场行情，最可能的解释是？",
+  "options": [
+   {
+    "text": "货源存疑或含隐形加价",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "对方在无偿做慈善",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤矿全部亏本甩卖",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "报价必然准确无误",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "显著低于行情的报价通常意味着货源不实、以次充好或在运费、检验费等环节隐藏加价，需谨慎核实；商业上不存在普遍亏本或无回报的报价。",
+  "rework_verdict": "E",
+  "rework_note": "原题为风险划分残句，重建为低价货源识别场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 20,
+  "category": "concept",
+  "question": "印尼矿区开发前的地质勘查，按阶段顺序应为？",
+  "options": [
+   {
+    "text": "预查、普查、详查、精查",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "精查、详查、普查、预查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "普查、精查、预查、详查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "详查、预查、精查、普查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "勘查由粗到细依次为预查、普查、详查、精查，每阶段提高控制程度和储量级别；倒序或乱序都不符合地质工作程序。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，补场景，选项为同层阶段顺序",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 21,
+  "category": "concept",
+  "question": "与印尼矿方洽谈前，黄老师应优先核实对方的哪些基础资质？",
+  "options": [
+   {
+    "text": "采矿许可与公司注册信息",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "公司网站配色",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "办公室绿植数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "员工工牌款式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "核实采矿许可、公司注册和股东背景，能确认对方有真实矿权、具备法律主体资格，降低被骗风险；外观性的信息无法证明资质与履约能力。",
+  "rework_verdict": "E",
+  "rework_note": "原题为CIF保险残句，重建为矿方资质核验场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 22,
+  "category": "concept",
+  "question": "到装港堆场实地看煤时，最能反映真实批次品质的做法是？",
+  "options": [
+   {
+    "text": "按规范多点取样送检",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "抓一把用手搓搓",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只看煤堆表面",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "凭矿主口述判断",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "规范取样要按标准在煤堆多个部位分层多点采样、缩分后送检，才能代表整批煤质；手搓、看表面或听口述只能获得主观粗略印象，不能作为品质依据。",
+  "rework_verdict": "E",
+  "rework_note": "原题为费用划分残句，重建为堆场取样场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 23,
+  "category": "concept",
+  "question": "以下哪种做法能帮助黄老师建立可靠的\"煤源信息库\"？",
+  "options": [
+   {
+    "text": "记录矿源、煤质、报价与履约情况",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "把所有报价都删掉",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只记口头印象",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "凭记忆不做台账",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "系统记录各矿源的产地、煤质报告、报价和实际履约表现，才能持续比较、识别优质货源；删除记录、凭印象或不做台账都会丢失决策依据。",
+  "rework_verdict": "E",
+  "rework_note": "原题为浮动价格残句，重建为煤源信息管理场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 24,
+  "category": "concept",
+  "question": "黄老师收到一份印尼煤报价，规格写\"GAR 5500 kcal/kg\"，其中\"GAR\"表示什么基准？",
+  "options": [
+   {
+    "text": "收到基高位发热量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "收到基低位发热量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "干燥基发热量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "空气干燥基发热量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "GAR 即 Gross As Received，收到基高位发热量，是印尼动力煤报价最常用的热值基准；收到基低位是 NAR，干燥基是 DB，空气干燥基是 ADB。",
+  "rework_verdict": "E",
+  "rework_note": "原题为贸易术语残句，重建为煤质规格识读场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 25,
+  "category": "concept",
+  "question": "黄老师对某新矿源做\"尽职调查\"（due diligence）时，下列哪项最应纳入核查范围？",
+  "options": [
+   {
+    "text": "矿权、产量、履约与诉讼记录",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主个人穿搭风格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "办公室装修预算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿场周边景点数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "尽职调查要核实矿权证照是否有效、实际产量能否满足合同、历史履约情况和涉诉记录，评估合作风险；外观或个人偏好类信息不构成尽调内容。",
+  "rework_verdict": "E",
+  "rework_note": "原题为术语选择残句，重建为矿源尽调场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 27,
+  "category": "concept",
+  "question": "印尼部分煤炭通过政府或交易所平台挂牌交易，此类渠道的特点是？",
+  "options": [
+   {
+    "text": "信息公开、规则透明",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "价格完全随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无需核验矿权",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只能现金交易",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "平台挂牌交易提供公开的煤源信息、规范流程和透明价格，降低信息不对称；价格、矿权核验和结算仍须按规则执行，并非随意或只收现金。",
+  "rework_verdict": "E",
+  "rework_note": "原题为术语更新残句，重建为平台渠道场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 28,
+  "category": "concept",
+  "question": "几家中国电厂联合向印尼矿方集中采购同一批次煤，这种\"集采\"（pooled procurement）的主要好处是？",
+  "options": [
+   {
+    "text": "以量换价、降低单家采购成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "让每家煤质更差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让每家检验更麻烦",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让每家责任更混乱",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "集采把多家的采购量合并，可提高对矿方的议价能力、摊薄物流和检验等成本；煤质、检验和责任划分通过合同明确，不会因此变差或变乱。",
+  "rework_verdict": "E",
+  "rework_note": "原题为集采术语残句，重建为集采场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 29,
+  "category": "concept",
+  "question": "某矿企出示的\"采矿许可证\"已过期，黄老师应如何处理？",
+  "options": [
+   {
+    "text": "暂不合作，核实续期后再定",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "照常签约，矿权不重要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "先付定金，慢慢等证件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "改用现金规避问题",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "采矿许可过期意味着矿权存疑，签约后可能面临货源中断、权属纠纷甚至违法风险，必须等对方完成续期并核实后再合作；照常签约、先付定金或现金交易都不可取。",
+  "rework_verdict": "E",
+  "rework_note": "原题为术语应用残句，重建为矿权过期场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 30,
+  "category": "concept",
+  "question": "评估一处煤源的可达性时，黄老师应重点考察？",
+  "options": [
+   {
+    "text": "矿区到装港的运输条件",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿区办公室海拔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区土壤颜色",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区年降雨天数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤源可达性取决于矿区到装港是否有公路、河流和驳船配套，运输距离和雨季可靠性决定发运效率；海拔、土壤颜色或降雨天数虽与气候相关，但核心是可运性。",
+  "rework_verdict": "E",
+  "rework_note": "原题为交货地点残句，重建为运输可达性场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 31,
+  "category": "concept",
+  "question": "矿方说\"这矿的煤和我们一直合作的电厂用煤完全一样\"，黄老师应如何对待？",
+  "options": [
+   {
+    "text": "仍要求出具近期检测报告",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "无条件相信并直接采购",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "要求矿主立字据就行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "看矿主表情判断真假",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "口头声称不能代替数据，应要求矿方提供近期的第三方检测报告并约定装港检验；否则煤质无法核实，后续索赔也缺乏依据。",
+  "rework_verdict": "E",
+  "rework_note": "原题为术语辨析残句，重建为口头承诺识别场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 32,
+  "category": "concept",
+  "question": "黄老师准备签长期合同，合同中关于煤质指标最应明确的是？",
+  "options": [
+   {
+    "text": "各项指标的基准值和验收标准",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "只写\"优质煤\"三个字",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "口头约定后补",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "以矿方理解为准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "合同必须写明热值、水分、硫分、灰分等指标的基准值与检验方法、允差和扣罚标准，验收才有依据；模糊表述会让结算和索赔无据可依。",
+  "rework_verdict": "E",
+  "rework_note": "原题为价格公式残句，重建为合同煤质条款场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 33,
+  "category": "concept",
+  "question": "煤样检测结果与合同规格不符时，黄老师正确的做法是？",
+  "options": [
+   {
+    "text": "按合同约定索赔或拒收",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "默默接受全部损失",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "与矿方断绝一切联系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "私下威胁矿主",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "检测不符时按合同约定的品质条款、扣罚机制或拒收条款处理，才能挽回损失并维持合法商业关系；默默接受、断联或威胁都不是合规处理方式。",
+  "rework_verdict": "E",
+  "rework_note": "原题为交货地点残句，重建为品质不符处理场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 34,
+  "category": "concept",
+  "question": "为避免单一矿源断供，黄老师采用\"多矿源布局\"（diversification）的好处是？",
+  "options": [
+   {
+    "text": "分散供应中断风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "使采购流程更复杂无益",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让煤质完全不可控",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让价格必然上涨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "布局多个矿源可在某矿停产、雨季断供或价格异动时灵活切换，降低单一货源依赖；流程虽需管理，但煤质与价格通过合同和检验控制，不会因此失控。",
+  "rework_verdict": "E",
+  "rework_note": "原题为市场趋势残句，重建为多矿源布局场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 35,
+  "category": "concept",
+  "question": "黄老师想了解近期印尼煤现货行情，最有效的参考是？",
+  "options": [
+   {
+    "text": "ICI 等煤炭价格指数",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主口头报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "机场广告牌",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "社交媒体传闻",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "ICI（印尼煤炭指数）等指数按热值等级定期发布现货价格，是市场行情的权威参考；口头报价、广告或传闻缺乏连续性和可验证性，不能作为定价基准。",
+  "rework_verdict": "E",
+  "rework_note": "原题为价格指数残句，重建为行情参考场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 38,
+  "category": "concept",
+  "question": "买卖双方对煤质检验结果有争议时，通常采用的解决方式是？",
+  "options": [
+   {
+    "text": "送权威机构仲裁检验",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "谁嗓门大听谁的",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方各自改数据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "拒绝继续交易",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤质争议按合同约定送权威第三方仲裁检验，其结果作为最终判定依据；比嗓门、改数据或中断交易都不符合合同约定和贸易惯例。",
+  "rework_verdict": "E",
+  "rework_note": "原题为单证作用残句，重建为仲裁检验场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 39,
+  "category": "concept",
+  "question": "印尼煤出口需要遵守当地出口政策，黄老师签订采购合同前应确认？",
+  "options": [
+   {
+    "text": "出口许可与配额合规",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主是否爱聊天",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区是否有健身房",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿场食堂菜单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼煤炭出口受出口许可、国内市场义务（DMO）等政策约束，矿方若不符合合规要求，货物可能无法装运出口，必须提前确认；其余选项与出口合规无关。",
+  "rework_verdict": "E",
+  "rework_note": "原题为商业发票残句，重建为出口合规场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 40,
+  "category": "concept",
+  "question": "印尼煤\"现货\"（spot）采购与\"长期协议\"（term contract）相比，主要特点是？",
+  "options": [
+   {
+    "text": "灵活但价格波动大",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "货源绝对稳定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格固定不变",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无需检验煤质",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "现货采购按当前行情即时成交、数量灵活，但价格随市场波动、货源保障弱；长期协议相对稳定。两者都必须按批次检验煤质。",
+  "rework_verdict": "E",
+  "rework_note": "原题为基价残句，重建为现货与长协对比场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 41,
+  "category": "concept",
+  "question": "印尼煤出口通常需要提供\"产地证书\"（certificate of origin），其作用是？",
+  "options": [
+   {
+    "text": "证明货物原产于印尼",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "证明煤可以食用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "证明船速很快",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "证明海运费很低",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "产地证书由商会或授权机构签发，证明货物原产国为印尼，用于进口清关和关税优惠；它与煤的可食用性、船速或运费无关。",
+  "rework_verdict": "E",
+  "rework_note": "原题为商业发票残句，重建为产地证书场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 42,
+  "category": "concept",
+  "question": "黄老师同时跟踪多个在谈矿源时，\"煤源台账\"（sourcing ledger）最应记录？",
+  "options": [
+   {
+    "text": "报价、煤质、船期与谈判进展",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主生日和星座",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿场狗狗的名字",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "沿途餐厅评分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤源台账应记录每个矿源的报价、煤质指标、船期安排、谈判和履约状态，便于横向比较和决策；无关的个人或生活信息没有管理价值。",
+  "rework_verdict": "E",
+  "rework_note": "原题为价格谈判残句，重建为煤源台账场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 44,
+  "category": "concept",
+  "question": "煤矿\"探明储量\"（proved reserves）通常指什么？",
+  "options": [
+   {
+    "text": "高可信度、经济可采的储量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "低可信度的推测数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "已装船出口的数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按市场价格折算的金额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "探明储量（proved reserves）是经详细勘查确认、在当前条件下经济可采的储量，可信度最高；低可信度是推断资源量，装船量和金额折算都不是储量定义。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建为同层概念"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 46,
+  "category": "concept",
+  "question": "对长期合作矿源做\"供应商评级\"（supplier rating）时，应重点考核？",
+  "options": [
+   {
+    "text": "履约率、煤质稳定性与价格竞争力",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主口才",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "办公室面积",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "名片印刷质量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "供应商评级应看历史履约率、批次煤质稳定性和价格竞争力等可量化指标，才能决定是否加大采购；口才、办公面积和名片质量不能反映供应能力。",
+  "rework_verdict": "E",
+  "rework_note": "原题为价格谈判残句，重建为供应商评级场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 47,
+  "category": "concept",
+  "question": "黄老师比较\"矿方直采\"与\"贸易商供货\"两种方式，下列哪种说法正确？",
+  "options": [
+   {
+    "text": "直采价低但需自担履约风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "贸易商供货一定更便宜",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直采完全不用检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "贸易商供货不用签合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "直采减少中间环节、价格通常更低，但矿方违约、发运延迟等风险需自行管理；贸易商可提供组合货源和分担物流，但一般有加价。两种方式都需要检验和合同。",
+  "rework_verdict": "E",
+  "rework_note": "原题为提单残句，重建为直采与代理对比场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 48,
+  "category": "concept",
+  "question": "同一矿区不同煤层热值有差异，矿方报价按\"加权平均热值\"计算，黄老师应？",
+  "options": [
+   {
+    "text": "要求明确各批次品质与计价规则",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "直接按最高热值付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按最低热值压价到底",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不闻不问先付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "加权平均报价下各批次热值可能偏离均值，合同应约定每批按实际检验热值计价（升贴水机制），避免\"平均\"变成\"以低充高\"；直接按高低或忽略都会吃亏。",
+  "rework_verdict": "E",
+  "rework_note": "原题为升贴水残句，重建为加权热值计价场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 49,
+  "category": "concept",
+  "question": "黄老师最终选定一个矿源并建立\"源头档案\"，档案中必须包含？",
+  "options": [
+   {
+    "text": "矿权证照、煤质报告与联系人",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主家庭成员名单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区周边餐厅菜单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿场吉祥物名字",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "源头档案应包含矿权证照复印件、历史煤质报告、联系人、装港与船期等信息，后续采购和追溯才有依据；无关个人信息不具备业务价值。",
+  "rework_verdict": "E",
+  "rework_note": "原题为原产地证残句，重建为源头档案场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 50,
+  "category": "concept",
+  "question": "黄老师把各矿源报价整理成对比表，判断哪家更划算，除了矿价外还必须折算哪项成本？",
+  "options": [
+   {
+    "text": "驳船、海运和港杂费用",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主差旅住宿费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区绿化费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿场员工餐费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "不同矿源到港距离不同，驳船、海运、港杂等物流成本差异大，只有折算到岸综合成本才能公平比较；矿方自身经营费用与买方的到岸成本无关。",
+  "rework_verdict": "E",
+  "rework_note": "原题为价格调整残句，重建为到岸成本比较场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 51,
+  "category": "concept",
+  "question": "黄老师收到矿方发来的\"煤质检验报告\"，第一步应核验什么？",
+  "options": [
+   {
+    "text": "检验机构资质与取样日期",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "报告纸张颜色",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "报告封面图案",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿主签名大小",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "检验报告必须由有资质机构出具、注明取样和检验日期，数据才可追溯、可仲裁；报告外观或签名不能证明数据真实性和时效性。",
+  "rework_verdict": "E",
+  "rework_note": "原题为原产地证残句，重建为检验报告核验场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 52,
+  "category": "concept",
+  "question": "煤炭地质勘查中的\"物探\"（geophysical prospecting）主要指？",
+  "options": [
+   {
+    "text": "利用地球物理方法探测地质构造",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "用肉眼观察矿体颜色",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用卫星看矿区风景",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用秤称矿石重量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "物探利用重力、磁法、电法、地震等方法探测地下地质构造和煤层分布，是勘查的重要手段；肉眼观察、卫星风景或称重都不是物探的科学方法。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 62,
+  "category": "concept",
+  "question": "黄老师判断近期印尼煤价走势，下列哪项信息最值得参考？",
+  "options": [
+   {
+    "text": "ICI 指数与成交价数据",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "出租车司机聊天",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "路边广告牌",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "餐厅服务员猜测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "ICI 指数、主要港口成交价和平台挂牌价是连续、可验证的市场数据，适合研判走势；传闻或主观猜测不具备参考价值。",
+  "rework_verdict": "E",
+  "rework_note": "原题为价格信息残句，重建为行情数据参考场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 64,
+  "category": "concept",
+  "question": "装港检验显示硫分超出合同基准，按合同\"硫分扣罚\"条款应如何处理？",
+  "options": [
+   {
+    "text": "按超出幅度扣减货款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "让矿主口头道歉",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "把煤退回矿区",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方都不再提",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "硫分超标会增加买方脱硫成本和环保风险，合同通常约定按超出幅度实行品质扣罚（降价），以补偿损失；道歉、退货或搁置都不是合同约定处理方式。",
+  "rework_verdict": "E",
+  "rework_note": "原题为硫分扣价残句，重建为硫分扣罚场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 66,
+  "category": "concept",
+  "question": "印尼矿方要求以极低价格\"不走合同\"现金交易，黄老师应如何判断？",
+  "options": [
+   {
+    "text": "存在合规风险，应拒绝",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "价格低就立刻同意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "先付一半试试",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用个人账户转账",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "绕过合同、现金交易往往伴随矿权不清、逃税、资金诈骗等合规风险，一旦出事缺乏法律保障，应拒绝并坚持正常签约结算；低价不能成为冒险理由。",
+  "rework_verdict": "E",
+  "rework_note": "原题为价格合规残句，重建为交易合规场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 68,
+  "category": "concept",
+  "question": "黄老师与矿方签的\"长协价\"（contract price）通常如何确定？",
+  "options": [
+   {
+    "text": "按合同约定公式随行就市",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "固定不变永久锁死",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "每船由矿主随意定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "凭双方心情调整",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "长协价通常挂钩 ICI 指数或约定公式，按市场行情定期调整，兼顾稳定和公平；永久锁死、矿主随意定价或凭心情调整都不符合长期协议惯例。",
+  "rework_verdict": "E",
+  "rework_note": "原题为长协价残句，重建为长协定价场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 70,
+  "category": "concept",
+  "question": "黄老师分析某矿源报价是否合理，最直接的方法是？",
+  "options": [
+   {
+    "text": "与同期指数和成交价对比",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "凭矿主表情判断",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "看矿场装修档次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按报数字母排序",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "把报价换算到单位热值成本后，与同期 ICI 指数、主流成交价对比，即可判断是否偏离行情；表情、装修或排序都不是价格分析方法。",
+  "rework_verdict": "E",
+  "rework_note": "原题为价格分析残句，重建为报价合理性分析场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 72,
+  "category": "concept",
+  "question": "装港检验显示灰分高于合同基准，合同约定\"灰分扣价\"，其逻辑是？",
+  "options": [
+   {
+    "text": "灰分高会降低热值、增加处理成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "灰分高让煤更耐烧",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰分高让煤更环保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰分高让运费更低",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "灰分是惰性物质，灰分高意味着可燃成分少、热值低，还增加除灰和废渣处理成本，因此按超限幅度扣价；耐烧、环保或运费更低都与灰分的实际影响相反。",
+  "rework_verdict": "E",
+  "rework_note": "原题为灰分扣价残句，重建为灰分扣罚逻辑场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 76,
+  "category": "concept",
+  "question": "印尼东加里曼丹省著名的煤炭集散城市是？",
+  "options": [
+   {
+    "text": "萨马林达",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "雅加达",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "万隆",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "棉兰",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "萨马林达是东加里曼丹省首府和马哈坎河煤炭运输的集散中心，周边矿区煤炭经此集港；雅加达是首都、万隆是西爪哇城市、棉兰位于苏门答腊，均非该省煤城。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，选项重建为同层城市"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 77,
+  "category": "concept",
+  "question": "黄老师向多个矿方发出\"询盘\"（inquiry），其目的是？",
+  "options": [
+   {
+    "text": "了解货源与报价信息",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "直接锁定唯一买家",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "炫耀采购实力",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提前支付定金",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "询盘是向供应商了解可供货源、煤质、价格和交货条件的意向询问，用于收集信息、扩大选择面；它不构成签约或付款，也不是炫耀行为。",
+  "rework_verdict": "E",
+  "rework_note": "原题为询盘残句，重建为货源询价场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 78,
+  "category": "concept",
+  "question": "收到矿方发来的询盘回复后，黄老师下一步应做什么？",
+  "options": [
+   {
+    "text": "比较各矿条件再决定",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "立刻全款下单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随便选一家签约",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不再跟进任何矿",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "询盘回复只是初步信息，应综合比较价格、煤质、履约能力再筛选谈判；立刻付款、随便签约或放弃跟进都不利于找到合适货源。",
+  "rework_verdict": "E",
+  "rework_note": "原题为询盘残句，重建为询价后续处理场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 79,
+  "category": "concept",
+  "question": "黄老师与矿方约定\"每月供应 5 万吨\"，该约定属于合同的什么内容？",
+  "options": [
+   {
+    "text": "数量条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "检验条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保险条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "付款条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "明确每月供应数量和溢短装幅度属于数量条款，是合同的核心要素；检验、保险、付款分别约定品质判定、风险保障和结算方式。",
+  "rework_verdict": "E",
+  "rework_note": "原题为数量条款残句，重建为合同条款归类场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 80,
+  "category": "concept",
+  "question": "矿方给黄老师\"发盘\"（offer），写明热值、数量、价格和交货期，其法律性质是？",
+  "options": [
+   {
+    "text": "有约束力的交易条件报价",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "闲聊性质的建议",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "必须无条件接受",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自动生效的合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "发盘是向特定对象提出完整交易条件并愿受约束的意思表示，受盘人接受后即成立合同；它不是建议，也不强制接受，接受前不自动生效。",
+  "rework_verdict": "E",
+  "rework_note": "原题为发盘残句，重建为发盘性质场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 81,
+  "category": "concept",
+  "question": "黄老师收到矿方报盘后觉得价格偏高，下列哪种回应最专业？",
+  "options": [
+   {
+    "text": "还盘并附理由与依据",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "直接拉黑矿方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "沉默不回消息",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "发怒指责对方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "价格偏高应提出还盘，用市场指数和可比报价说明理由，推动良性谈判；拉黑、沉默或指责会中断合作沟通，不利于达成交易。",
+  "rework_verdict": "E",
+  "rework_note": "原题为报盘残句，重建为还盘回应场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 82,
+  "category": "concept",
+  "question": "黄老师签的\"月度长协\"（monthly contract）与年度长协相比，特点是？",
+  "options": [
+   {
+    "text": "更灵活但价格稳定性稍弱",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "完全不需要合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤质不用检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数量可以任意反悔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "月度协议周期短、数量调整灵活，但价格随月度行情浮动，锁定性弱于年度长协；仍需签合同、按批检验并遵守数量约定。",
+  "rework_verdict": "E",
+  "rework_note": "原题为月度长协残句，重建为月度协议特点场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 83,
+  "category": "concept",
+  "question": "矿方发盘后黄老师修改了价格和装期再回传，这一行为在法律上称为？",
+  "options": [
+   {
+    "text": "还盘",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "接受",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "询盘",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "撤销",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "对发盘内容做出实质性修改的回复是还盘（counter-offer），原发盘失效，新条件成为新的要约；接受须无条件同意原条件，询盘是询问，撤销是撤回原发盘。",
+  "rework_verdict": "E",
+  "rework_note": "原题为还盘残句，重建为还盘定义场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 84,
+  "category": "concept",
+  "question": "黄老师对矿方报价连续还盘，矿方最终接受了他的全部条件，此时合同状态是？",
+  "options": [
+   {
+    "text": "合同成立，双方受约束",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "还需口头再确认",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿方可随时反悔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同尚未成立",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "要约（还盘）被无条件接受后合同即告成立，双方均受约束；不需口头再确认，矿方也不能单方反悔，除非合同另有约定。",
+  "rework_verdict": "E",
+  "rework_note": "原题为还盘残句，重建为合同成立判断场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 85,
+  "category": "concept",
+  "question": "矿方要求黄老师用\"电汇\"（T/T）预付全款，最应警惕的风险是？",
+  "options": [
+   {
+    "text": "付款后矿方不发货",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "银行汇率自动上涨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤质必然变差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶必然晚到",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "电汇预付全款使买方失去控制手段，一旦矿方不发货或货不对板，追款困难，对陌生或信用不明的矿源尤其危险；汇率、煤质和船期不会因付款方式自动变化。",
+  "rework_verdict": "E",
+  "rework_note": "原题为电汇残句，重建为预付风险场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 86,
+  "category": "concept",
+  "question": "黄老师与矿方商定\"热值低于基准按比例降价\"，这属于合同中的什么条款？",
+  "options": [
+   {
+    "text": "质量与计价条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "仲裁条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保险条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保密条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "把煤质指标与价格挂钩（热值、硫分等超限升降价）属于质量与计价条款；仲裁、保险、保密分别约定争议解决、风险保障和信息保密。",
+  "rework_verdict": "E",
+  "rework_note": "原题为质量条款残句，重建为质量计价条款归类场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 87,
+  "category": "concept",
+  "question": "黄老师对矿方的发盘条件完全同意并书面确认，该行为称为？",
+  "options": [
+   {
+    "text": "接受",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "询盘",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "还盘",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "撤销",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "对发盘内容无条件同意并通知对方即为接受（acceptance），合同据此成立；询盘是询问、还盘是修改条件、撤销是撤回要约，含义不同。",
+  "rework_verdict": "E",
+  "rework_note": "原题为接受残句，重建为接受定义场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 88,
+  "category": "concept",
+  "question": "黄老师与矿方就采购条件达成一致后，正确的做法是？",
+  "options": [
+   {
+    "text": "签订书面采购合同",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "口头约定即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "微信发个表情确认",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "等矿方主动写",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "达成一致后应签订书面合同，明确数量、质量、价格、检验、付款、违约等条款，争议时有据可依；口头或随意确认在纠纷中难以举证。",
+  "rework_verdict": "E",
+  "rework_note": "原题为签约残句，重建为签约流程场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 89,
+  "category": "concept",
+  "question": "煤炭储量分级中\"控制储量\"（probable reserves）的可信度介于哪两者之间？",
+  "options": [
+   {
+    "text": "探明储量与推断储量之间",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "资源量与销售量之间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "精查量与预查量之间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "可采量与不可采量之间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "控制储量可信度中等，高于推断储量、低于探明储量，是储量分级中的中间级别；其余组合不是标准的可信度分级序列。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 90,
+  "category": "concept",
+  "question": "黄老师与矿方谈判采购条款时，最应坚守的底线是？",
+  "options": [
+   {
+    "text": "检验与结算条款必须明确",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "价格越低越不重要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "所有条款都可以模糊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让步越多越好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "检验方式、计价基准和付款条件不明确，后续结算与索赔无据可依，是谈判底线；价格虽重要，但模糊条款带来的损失可能远超价格差异。",
+  "rework_verdict": "E",
+  "rework_note": "原题为磋商策略残句，重建为谈判底线场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 91,
+  "category": "concept",
+  "question": "合同签订后，矿方逾期未装船，黄老师正确做法是？",
+  "options": [
+   {
+    "text": "按合同违约条款追责",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "自认倒霉不追究",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "找人堵矿场大门",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "在社交媒体曝光",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "矿方逾期装船构成违约，应按合同约定主张违约金、索赔差价损失或解除合同；自认倒霉、暴力或网络曝光都不是合法的合同救济方式。",
+  "rework_verdict": "E",
+  "rework_note": "原题为履约残句，重建为违约处理场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 92,
+  "category": "concept",
+  "question": "黄老师把\"热值计价公式\"写进采购合同，属于合同的哪类条款？",
+  "options": [
+   {
+    "text": "价格条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "数量条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仲裁条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保密条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "约定计价基准、公式和调价机制属于价格条款，直接决定货款计算；数量、仲裁、保密分别处理供应量、争议解决和信息保密。",
+  "rework_verdict": "E",
+  "rework_note": "原题为价格条款残句，重建为条款归类场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 93,
+  "category": "concept",
+  "question": "黄老师与矿方价格谈不拢时，下列哪种方式最能打破僵局？",
+  "options": [
+   {
+    "text": "提议调整数量或装期换价格",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "当场翻脸离场",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无限期搁置谈判",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "接受对方全部条件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "在价格僵持时，可通过调整采购量、装期、结算方式等创造增量空间，促成双方共赢；翻脸、搁置或全盘接受都会损害利益或合作关系。",
+  "rework_verdict": "E",
+  "rework_note": "原题为价格谈判残句，重建为打破谈判僵局场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 94,
+  "category": "concept",
+  "question": "合同约定\"装港交货\"，此时货物风险从何时转移给黄老师？",
+  "options": [
+   {
+    "text": "货物装上船后",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "合同签订时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿场出煤时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货款付清时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装港交货条件下，货物在装货港越过船舷（装上船）后风险转移给买方；签约、出煤或付款不是风险转移节点。",
+  "rework_verdict": "E",
+  "rework_note": "原题为交货残句，重建为风险转移场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 96,
+  "category": "concept",
+  "question": "煤炭勘查中的\"地震勘探\"（seismic survey）原理是？",
+  "options": [
+   {
+    "text": "人工激发地震波并接收反射成像",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "观察煤层的自然颜色",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "测量矿区气温变化",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "记录矿区降雨量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "地震勘探通过人工震源激发地震波，利用不同岩层反射波差异反演地下构造和煤层形态；颜色、气温或降雨观测都不是地震勘探方法。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 98,
+  "category": "concept",
+  "question": "黄老师付款前最应确认哪项条件已满足？",
+  "options": [
+   {
+    "text": "装船与检验结果符合约定",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主发来祝福短信",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区天气晴朗",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿场车辆很多",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "付款应安排在装船完成、检验结果和单据符合合同约定之后，才能降低付了款拿不到合格货物的风险；祝福、天气或车流与此无关。",
+  "rework_verdict": "E",
+  "rework_note": "原题为收款残句，重建为付款条件确认场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 100,
+  "category": "concept",
+  "question": "黄老师与矿方谈判时适当让步，最合理的前提是？",
+  "options": [
+   {
+    "text": "换取对等的关键利益",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "为了让对方开心",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让步越多合作越稳",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完全不做让步",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "让步应遵循\"对等交换\"原则，用次要条款的让步换取价格、检验或付款等关键利益；无原则让步会损害利益，完全不让步则难以达成合作。",
+  "rework_verdict": "E",
+  "rework_note": "原题为让步策略残句，重建为谈判让步场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 101,
+  "category": "concept",
+  "question": "黄老师收到货后发现煤质与合同不符，第一时间应？",
+  "options": [
+   {
+    "text": "保留样品并联系检验机构",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "把煤全部倒掉",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "删掉所有记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "等矿主主动联系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "到货煤质不符时，应保留备查样品、及时请检验机构复检，并按合同索赔；倒掉、删记录或消极等待都会导致无法举证、无法索赔。",
+  "rework_verdict": "E",
+  "rework_note": "原题为售后残句，重建为到货不符处理场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 104,
+  "category": "concept",
+  "question": "黄老师与矿方谈判后，把每轮报价、承诺和分歧点记录下来，这样做的好处是？",
+  "options": [
+   {
+    "text": "防止口头承诺被遗忘或篡改",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "让谈判显得更正式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用来炫耀工作量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "纯粹浪费时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "书面记录能固化谈判过程中的关键承诺与分歧，签约和履约时有据可查，防止口头信息失真；记录不是形式主义，而是风险管理手段。",
+  "rework_verdict": "E",
+  "rework_note": "原题为磋商记录残句，重建为谈判记录价值场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 105,
+  "category": "concept",
+  "question": "黄老师连续几次在某港口装船都遇到排队延误，应如何改进采购流程？",
+  "options": [
+   {
+    "text": "提前锁定船期或改选其他装港",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "继续等待不调整",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "放弃全部采购计划",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "怪罪天气不再管",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装港反复延误应分析原因，通过提前订舱、错峰装船或改用效率更高的装港来优化；继续等待或放弃采购都无法解决问题。",
+  "rework_verdict": "E",
+  "rework_note": "原题为流程优化残句，重建为装港流程优化场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 106,
+  "category": "concept",
+  "question": "黄老师与矿方约定\"30% 预付、70% 见提单付款\"，这属于合同中的什么条款？",
+  "options": [
+   {
+    "text": "支付条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "保密条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仲裁条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数量条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "约定预付款比例、付款节点和方式属于支付条款，决定资金安排与风险分布；保密、仲裁、数量分别处理信息保密、争议解决和供应数量。",
+  "rework_verdict": "E",
+  "rework_note": "原题为支付条款残句，重建为支付条款归类场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 107,
+  "category": "concept",
+  "question": "黄老师与矿方谈妥全部条件后，最重要的一步是？",
+  "options": [
+   {
+    "text": "把成果写进正式合同",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "拍个合影就行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "口头说好即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "发朋友圈确认",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "谈判成果只有固化为书面合同并签字盖章才具备法律效力；合影、口头约定或社交平台发布都不能作为履约和维权的依据。",
+  "rework_verdict": "E",
+  "rework_note": "原题为磋商成果残句，重建为谈判成果固化场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 108,
+  "category": "concept",
+  "question": "黄老师要求采购流程\"留痕\"（documentation），主要是为了？",
+  "options": [
+   {
+    "text": "合规审计与争议举证",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "增加纸张消耗",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让流程更复杂",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "方便老板检查打字",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "采购全程留痕（询价、合同、检验、付款记录）能支撑内部审计和外部争议举证，是合规经营的基本要求；留痕的目的不是形式化或复杂化。",
+  "rework_verdict": "E",
+  "rework_note": "原题为流程合规残句，重建为采购留痕场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 110,
+  "category": "concept",
+  "question": "印尼煤价一个月内上涨 15%，对黄老师已签未装的长协合同影响是？",
+  "options": [
+   {
+    "text": "按合同定价公式调整",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿方可单方面毁约",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "黄老师必须补差价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同自动失效",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "长协合同通常约定与指数挂钩的调价公式，价格波动按公式执行，双方都不能单方毁约或强制补差；合同不会因行情变化自动失效。",
+  "rework_verdict": "E",
+  "rework_note": "原题为价格波动风险残句，重建为长协调价场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 111,
+  "category": "concept",
+  "question": "一份完整的煤炭采购合同，除价格外还必须明确？",
+  "options": [
+   {
+    "text": "数量、质量、检验、付款与违约",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主个人爱好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区风景描述",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿场员工数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "采购合同的核心要素包括数量、质量、检验方式、价格、付款、交货、违约与争议解决等；与交易无关的信息不构成合同必备内容。",
+  "rework_verdict": "E",
+  "rework_note": "原题为合同要素残句，重建为合同必备要素场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 112,
+  "category": "concept",
+  "question": "黄老师首次接触一个新矿源，应优先识别哪些风险？",
+  "options": [
+   {
+    "text": "矿权真实性、煤质与履约能力",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿场食堂口味",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区风景优美度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿主英文口音",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "新矿源重点识别矿权是否真实、煤质是否达标、矿方能否按期履约（产量、物流、财务），这些直接决定合作可行性；外观或口音不是风险因素。",
+  "rework_verdict": "E",
+  "rework_note": "原题为风险识别残句，重建为新矿源风险识别场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 113,
+  "category": "concept",
+  "question": "黄老师在合同中约定\"以装港 SGS 检验结果为准\"，这属于？",
+  "options": [
+   {
+    "text": "检验条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "数量条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保密条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不可抗力条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "约定检验机构、取样标准、检验地点及结果效力属于检验条款，是品质结算的依据；数量、保密和不可抗力分别处理供应量、信息保密和免责事由。",
+  "rework_verdict": "E",
+  "rework_note": "原题为检验条款残句，重建为检验条款归类场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 115,
+  "category": "concept",
+  "question": "合同中的\"不可抗力条款\"主要处理什么情况？",
+  "options": [
+   {
+    "text": "台风、政策等无法预见事件的免责",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "煤价上涨的补偿",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤质波动的扣罚",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提前终止全部合作",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "不可抗力条款约定台风、洪水、政策禁令等无法预见、无法避免且无法克服的事件发生时的免责与处理；价格、煤质和正常终止由其他条款处理。",
+  "rework_verdict": "E",
+  "rework_note": "原题为不可抗力条款残句，重建为不可抗力场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 116,
+  "category": "concept",
+  "question": "煤炭\"储量\"（reserves）与\"资源量\"（resources）的根本区别是？",
+  "options": [
+   {
+    "text": "储量须在当前条件下经济可采",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "储量包括全部地质赋存",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "储量等于已开采量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "储量等于可销售合同量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "储量是资源量中经勘查确认、在当前技术与经济条件下可采出的部分；全部地质赋存是资源量，已采量和合同量是生产和商务概念。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 118,
+  "category": "concept",
+  "question": "黄老师准备与矿方签约，正式合同应由谁签署才有效？",
+  "options": [
+   {
+    "text": "双方授权代表签字并盖章",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "任意员工代签",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "口头承诺代替",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "微信转账即生效",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "合同须由双方授权代表签字并加盖公章（或按约定方式）才生效；无授权代签、口头承诺或转账都不能证明合同成立。",
+  "rework_verdict": "E",
+  "rework_note": "原题为合同签订残句，重建为签约生效条件场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 119,
+  "category": "concept",
+  "question": "矿方签约后以\"产量不足\"为由迟迟不交货，这属于什么风险？",
+  "options": [
+   {
+    "text": "履约风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "汇率风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运输风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "政策风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "签约后卖方不按期交货、交货不足或质量不符属于履约风险，应通过合同违约条款和供应商管理来控制；汇率、运输和政策风险另有来源。",
+  "rework_verdict": "E",
+  "rework_note": "原题为履约风险残句，重建为履约风险归类场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 120,
+  "category": "concept",
+  "question": "黄老师在合同中约定\"争议提交新加坡仲裁\"，这属于什么条款？",
+  "options": [
+   {
+    "text": "争议解决条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "数量条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "支付条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保密条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "约定争议的仲裁地、仲裁机构和适用法律属于争议解决条款，是纠纷处理的程序依据；数量、支付、保密各有其约定对象。",
+  "rework_verdict": "E",
+  "rework_note": "原题为争议条款残句，重建为争议解决条款场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 121,
+  "category": "concept",
+  "question": "装船煤实际热值比合同低 200 kcal/kg，黄老师面临的风险是？",
+  "options": [
+   {
+    "text": "质量风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "汇率风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "政策风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "信用风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤质指标（热值、硫分、水分）不符合同标准属于质量风险，通过检验、品质扣罚条款管理；汇率、政策和信用风险来源不同。",
+  "rework_verdict": "E",
+  "rework_note": "原题为质量风险残句，重建为质量风险归类场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 122,
+  "category": "concept",
+  "question": "合同签订后，黄老师应如何跟踪矿方履约？",
+  "options": [
+   {
+    "text": "按节点核对产量、装船与单据",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "签完就等收货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "每天催矿主一次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完全交给运气",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "履约管理要按备货、驳运、装船、出单等节点核对进度和文件，提前发现延误并处理；签完不管、频繁无效催促或靠运气都会放大风险。",
+  "rework_verdict": "E",
+  "rework_note": "原题为合同履行残句，重建为履约跟踪场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 123,
+  "category": "concept",
+  "question": "黄老师签的是现货合同，签订后煤价暴跌，他面临的主要风险是？",
+  "options": [
+   {
+    "text": "价格风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "信用风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "政策风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运输风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "签后市场价下跌导致采购成本高于市价，属于价格风险；信用、政策和运输风险来自对手违约、法规和物流环节，与行情变动不同。",
+  "rework_verdict": "E",
+  "rework_note": "原题为价格风险残句，重建为价格风险归类场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 124,
+  "category": "concept",
+  "question": "黄老师签\"年度长协\"（annual contract）锁定全年供应，与现货采购相比主要优势是？",
+  "options": [
+   {
+    "text": "货源和价格更稳定",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "完全不受市场影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "可以不检验煤质",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数量随意变更",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "年度长协提前锁定全年货源并约定调价机制，供应与价格稳定性优于现货；但仍按指数调整价格、仍需逐批检验、数量变更也须按合同协商。",
+  "rework_verdict": "E",
+  "rework_note": "原题为年度长协残句，重建为年度长协优势场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 125,
+  "category": "concept",
+  "question": "黄老师首次与新矿方合作，最需要考察对方的哪项能力？",
+  "options": [
+   {
+    "text": "真实产能与历史履约记录",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "办公室装修档次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "老板座驾品牌",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "员工穿着的款式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "考察矿方真实产能、矿权文件和历史履约记录，才能判断其能否按约供货，降低信用风险；外表、座驾或穿着不能证明履约能力。",
+  "rework_verdict": "E",
+  "rework_note": "原题为信用风险残句，重建为矿方信用考察场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 126,
+  "category": "concept",
+  "question": "矿方因矿区暴雨道路中断无法按期装船，合同中不可抗力条款的作用是？",
+  "options": [
+   {
+    "text": "双方按约定免责并协商顺延",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿方必须双倍赔偿",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同自动作废",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "黄老师自担全部损失",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "暴雨阻断运输若构成不可抗力，双方按约定免责、顺延履行或解除合同，而非自动赔偿或作废；具体以合同约定和实际影响为准。",
+  "rework_verdict": "E",
+  "rework_note": "原题为不可抗力条款残句，重建为不可抗力应用场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 127,
+  "category": "concept",
+  "question": "印尼突然提高煤炭出口关税，影响黄老师采购成本，这属于什么风险？",
+  "options": [
+   {
+    "text": "政策风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "运输风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "信用风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "汇率风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "出口关税、出口禁令、环保政策等法规变化带来的成本或合规影响属于政策风险；运输、信用和汇率风险来自物流、对手和市场环节。",
+  "rework_verdict": "E",
+  "rework_note": "原题为政策风险残句，重建为政策风险归类场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 128,
+  "category": "concept",
+  "question": "矿方发来的煤质与合同严重不符且拒不协商，黄老师应？",
+  "options": [
+   {
+    "text": "按合同索赔或提交仲裁",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "放弃所有索赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "扣下对方人员",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "在网上公开辱骂",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "协商无果时应依据合同检验和索赔条款主张权利，必要时按争议解决条款仲裁或诉讼；放弃索赔损失自负，扣人、网暴均属违法。",
+  "rework_verdict": "E",
+  "rework_note": "原题为合同违约残句，重建为违约追责场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 130,
+  "category": "concept",
+  "question": "煤炭\"推断资源量\"（inferred resources）的突出特点是？",
+  "options": [
+   {
+    "text": "地质依据有限、可信度较低",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "已经完成详细开采设计",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "可直接作为结算依据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "等同于全部地质资源",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "推断资源量是基于有限勘查资料推断的量，可信度低，不能直接用于开采设计和经济评价；详细设计和结算依据需要更高勘查级别的储量。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 131,
+  "category": "concept",
+  "question": "矿方要求用第三方个人账户收货款，黄老师应如何判断？",
+  "options": [
+   {
+    "text": "属异常操作，应核实并拒绝",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "方便就照做",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "先付小部分试试",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只要求打个白条",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "货款打入个人账户会使付款与合同主体脱节，资金安全、税务和举证都面临合规风险，应核实原因并坚持对公账户结算；图方便或试付都不可取。",
+  "rework_verdict": "E",
+  "rework_note": "原题为合规风险残句，重建为收款账户合规场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 132,
+  "category": "concept",
+  "question": "黄老师与矿方因品质扣罚产生纠纷，最优先的解决顺序是？",
+  "options": [
+   {
+    "text": "协商 → 合同约定仲裁/诉讼",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "直接法院起诉",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "找人威胁对方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "永远不解决",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "合同纠纷应首先友好协商，协商不成再按约定的仲裁或诉讼途径解决，成本低、可执行；直接起诉不一定符合约定，威胁或搁置都不合法。",
+  "rework_verdict": "E",
+  "rework_note": "原题为合同纠纷残句，重建为纠纷解决顺序场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 133,
+  "category": "concept",
+  "question": "印尼当地中介谎称持有矿权，骗取黄老师定金，这属于什么风险？",
+  "options": [
+   {
+    "text": "法律风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "价格风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运输风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "汇率风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "虚假矿权、诈骗定金、合同欺诈等属于法律风险，应在签约前核验资质、通过合规路径交易；价格、运输和汇率风险与欺诈无关。",
+  "rework_verdict": "E",
+  "rework_note": "原题为法律风险残句，重建为法律风险归类场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 134,
+  "category": "concept",
+  "question": "黄老师与矿方约定\"采购信息不得透露给第三方\"，这属于合同的什么条款？",
+  "options": [
+   {
+    "text": "保密条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "检验条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保险条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数量条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "约定价格、货源、合同内容等信息不得外泄属于保密条款，保护双方商业利益；检验、保险、数量各管品质判定、风险保障和供应量。",
+  "rework_verdict": "E",
+  "rework_note": "原题为保密条款残句，重建为保密条款归类场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 135,
+  "category": "concept",
+  "question": "黄老师担心煤价上涨，用\"期货套保\"锁定未来采购价，这种做法是？",
+  "options": [
+   {
+    "text": "价格风险对冲",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "投机赌博",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "违规操作",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "逃避检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "套期保值以期货等工具对冲现货价格波动，锁定成本、降低不确定性，是常见的风险管理；它与无实物背景的投机、违规操作或逃避检验性质不同。",
+  "rework_verdict": "E",
+  "rework_note": "原题为风险对冲残句，重建为套保对冲场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 136,
+  "category": "concept",
+  "question": "黄老师建立\"合同台账\"，把每份合同的期限、数量和履约状态记清楚，属于？",
+  "options": [
+   {
+    "text": "合同档案管理",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "煤质检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶调度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "人员招聘",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "集中登记合同信息、跟踪履约状态属于合同档案管理，便于到期提醒、对账和争议举证；它不涉及检验、航运或人事。",
+  "rework_verdict": "E",
+  "rework_note": "原题为合同管理残句，重建为合同台账场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 137,
+  "category": "concept",
+  "question": "黄老师在每个矿源签约前都做实地考察和资质核验，这属于？",
+  "options": [
+   {
+    "text": "风险事前防范",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "风险事后补救",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "风险自担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无效管理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "签约前考察和核验属于事前防范，从源头降低欺诈和履约风险；事后补救、自担风险或认为无效都不符合风险管理逻辑。",
+  "rework_verdict": "E",
+  "rework_note": "原题为风险防控残句，重建为事前防范场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 138,
+  "category": "concept",
+  "question": "黄老师把三家矿源的同热值报价折算成统一到岸成本再比较，这种做法是？",
+  "options": [
+   {
+    "text": "比价",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "压价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "定价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "套保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "把不同矿源报价按热值和物流成本折算为统一口径比较，称为比价，是选择货源的基础方法；压价是谈判动作，定价是合同约定，套保是风险工具。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集（货源比价），题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 140,
+  "category": "concept",
+  "question": "合同中对\"品质扣罚上限\"未作约定，对黄老师最大的风险是？",
+  "options": [
+   {
+    "text": "品质索赔缺乏依据",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "煤价会自动上涨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船期自动延长",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验可以省略",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "未约定品质扣罚细则，煤质不符时缺少计算和索赔依据，容易陷入争议；价格、船期和检验要求不会因条款缺失而自动变化或免除。",
+  "rework_verdict": "E",
+  "rework_note": "原题为合同风险残句，重建为条款缺失风险场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 141,
+  "category": "concept",
+  "question": "FOB 条件下装船前货物损失由谁承担？",
+  "options": [
+   {
+    "text": "卖方承担",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "买方承担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方各一半",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保险公司全赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "FOB 下货物在装运港越过船舷前风险由卖方承担，装上船后转移给买方；双方分担或默认保险赔付都不符合贸易术语约定。",
+  "rework_verdict": "E",
+  "rework_note": "原题为风险转移残句，重建为FOB风险划分场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 142,
+  "category": "concept",
+  "question": "合同执行中矿方提出变更付款节点，黄老师正确做法是？",
+  "options": [
+   {
+    "text": "书面确认变更并签字",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "微信口头答应",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "默认对方自行执行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接终止合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "合同变更须经双方协商并书面确认（补充协议或书面函件）才有效，避免日后举证困难；口头答应或默认执行都可能导致争议，也不必直接终止合同。",
+  "rework_verdict": "E",
+  "rework_note": "原题为合同变更残句，重建为合同变更程序场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 143,
+  "category": "concept",
+  "question": "黄老师与矿方约定\"海运风险由买方投保承担、装港前风险卖方承担\"，这是？",
+  "options": [
+   {
+    "text": "风险合理分担",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "单方转嫁",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "风险自担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无意义约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "按贸易术语和保险安排划分风险承担与转移节点，让最能控制风险的一方承担对应风险，属于合理分担；它不是单方转嫁或自担，也有实际意义。",
+  "rework_verdict": "E",
+  "rework_note": "原题为风险分摊残句，重建为风险分担场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 144,
+  "category": "concept",
+  "question": "黄老师审阅矿方合同草稿时，最应重点核对的是？",
+  "options": [
+   {
+    "text": "权责、风险分配与争议解决",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "封面颜色是否美观",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "页数是否够多",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "字体是否统一",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "合同审查重点在于双方权利义务、品质扣罚、风险转移、违约和争议解决条款是否清晰、公平；封面、页数和字体不影响法律效力。",
+  "rework_verdict": "E",
+  "rework_note": "原题为合同审查残句，重建为合同审查重点场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 145,
+  "category": "concept",
+  "question": "装港检验发现煤质略低于合同标准但仍可接受，黄老师应如何处置？",
+  "options": [
+   {
+    "text": "按合同品质条款协商扣价",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "直接拒收整船货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "假装没看到",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让矿主口头道歉",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤质略低但可接受时，按合同品质扣罚条款协商扣价补偿损失即可；直接拒收可能扩大损失，无视差异或口头道歉无法弥补价差。",
+  "rework_verdict": "E",
+  "rework_note": "原题为风险处置残句，重建为品质偏差处置场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 146,
+  "category": "concept",
+  "question": "东加里曼丹的\"桑加塔\"（Sangatta）露天煤矿属于哪家公司？",
+  "options": [
+   {
+    "text": "KPC（Kaltim Prima Coal）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "Adaro Energy",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "PTBA（Bukit Asam）",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "Arutmin Indonesia",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "桑加塔煤矿是 KPC（Kaltim Prima Coal）的主力露天矿，位于东加里曼丹；Adaro 主力矿在 Tabalong、PTBA 主要在苏门答腊、Arutmin 位于南加里曼丹，均不匹配。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，清理模板污染选项，重建为同层矿企"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 147,
+  "category": "concept",
+  "question": "黄老师采用\"信用证\"（L/C）支付货款，与电汇相比主要优势是？",
+  "options": [
+   {
+    "text": "银行信用担保双方履约",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "完全不需要单据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿方可以随意发货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方永远不付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "信用证以银行信用取代商业信用，卖方凭符合条款的单据收款、买方凭单据获得货权，平衡双方风险；它恰恰要求严格单据，双方仍须按约履约。",
+  "rework_verdict": "E",
+  "rework_note": "原题为信用证残句，重建为信用证优势场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 148,
+  "category": "concept",
+  "question": "黄老师选择\"预付+尾款见单\"的结算方式，相比全款预付的好处是？",
+  "options": [
+   {
+    "text": "保留对卖方履约的制约",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "完全消除所有风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让矿方更自由",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "可以跳过检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "部分预付、尾款凭装运单据支付，能保留对卖方装船和交单的制约，降低付款后不交货风险；它不能消除全部风险，也不免除检验。",
+  "rework_verdict": "E",
+  "rework_note": "原题为结算方式残句，重建为结算方式对比场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 149,
+  "category": "concept",
+  "question": "黄老师与印尼矿方谈判时，对方更注重关系和礼节，恰当的沟通方式是？",
+  "options": [
+   {
+    "text": "先建立信任再谈条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "直接拍桌逼对方降价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全程不理对方文化习惯",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只发邮件不再见面",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼商务文化重视关系和信任，先通过会面、礼节和真诚沟通建立信任，再谈合同条款更容易推进；强硬、忽视文化或纯线上沟通都会阻碍合作。",
+  "rework_verdict": "E",
+  "rework_note": "原题为沟通对象残句，重建为跨文化沟通场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 150,
+  "category": "concept",
+  "question": "黄老师与矿方约定装船日前完成备货，跟踪备货进度应关注什么？",
+  "options": [
+   {
+    "text": "煤源开采与驳运安排",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主每天发朋友圈",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区食堂菜单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿场车辆颜色",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "备货跟踪要确认煤源已按合同数量开采、堆存并安排驳运至装港，才能保证按期装船；社交动态、食堂或车辆颜色与备货无关。",
+  "rework_verdict": "E",
+  "rework_note": "原题为备货残句，重建为备货跟踪场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 151,
+  "category": "concept",
+  "question": "黄老师用\"电汇\"（T/T）支付货款，以下哪项描述正确？",
+  "options": [
+   {
+    "text": "通过银行电子汇划转移资金",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "凭银行单据先交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "由银行担保付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无需任何银行参与",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "电汇是买方委托银行以电子方式把货款划付给卖方，银行只负责资金转移，不承担付款担保；\"凭单交货\"是托收或信用证特点，无银行参与也不成立。",
+  "rework_verdict": "E",
+  "rework_note": "原题为电汇残句，重建为电汇性质场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 152,
+  "category": "concept",
+  "question": "矿方要求黄老师\"全额预付\"货款再备货，对黄老师来说主要风险是？",
+  "options": [
+   {
+    "text": "矿方收钱后拖延或拒绝发货",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "银行手续费自动翻倍",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤质会自动提高",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船期必然提前",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "全额预付使买方在货权上完全受制于卖方信用，一旦矿方收钱不发货或货不对板，追款困难；手续费、煤质或船期不会因预付方式自动改变。",
+  "rework_verdict": "E",
+  "rework_note": "原题为预付结算残句，重建为预付风险场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 153,
+  "category": "concept",
+  "question": "黄老师与印尼矿方沟通，下列哪种沟通渠道最适合确认装船细节？",
+  "options": [
+   {
+    "text": "邮件书面确认并留存记录",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "只在酒桌上口头说",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "托路人转告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完全靠猜",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船数量、日期、单据等关键事项用邮件等书面渠道确认，可留存凭证、便于追溯；口头、转告或猜测容易造成信息失真和争议。",
+  "rework_verdict": "E",
+  "rework_note": "原题为沟通方式残句，重建为沟通渠道场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 154,
+  "category": "concept",
+  "question": "黄老师在煤炭交易平台看到矿方\"挂牌\"报价，挂牌交易的特点是？",
+  "options": [
+   {
+    "text": "卖方公开挂价、买方按约成交",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "价格完全保密",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只允许私下协商",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不需要签订合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "挂牌交易由卖方在平台公开挂出煤质、数量和价格，买方接受后按规则成交，价格透明、流程规范；不是保密、私下协商，成交后仍按合同履约。",
+  "rework_verdict": "E",
+  "rework_note": "原题为挂牌交易残句，重建为挂牌交易场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 155,
+  "category": "concept",
+  "question": "黄老师选择\"托收\"（collection）方式结算，其基本流程是？",
+  "options": [
+   {
+    "text": "卖方委托银行向买方收款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "买方先付款再发货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行承担付款担保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完全不用银行参与",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "托收是卖方委托出口银行通过代理行向买方收取货款，银行只代办不担保付款；先付款后发货是预付，银行担保是信用证，都不属于托收。",
+  "rework_verdict": "E",
+  "rework_note": "原题为托收残句，重建为托收流程场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 156,
+  "category": "concept",
+  "question": "黄老师与矿方约定\"货到验收合格后付款\"，这对谁更有利？",
+  "options": [
+   {
+    "text": "对买方黄老师有利",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "对卖方矿方有利",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "对双方完全无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "对银行最有利",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "货到验收合格再付款，买方能先验证品质数量再付款，掌握主动权，对买方有利；卖方承担了先发货后收款的风险。",
+  "rework_verdict": "E",
+  "rework_note": "原题为货到付款残句，重建为货到付款利弊场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 157,
+  "category": "concept",
+  "question": "黄老师把与矿方的往来邮件、会议纪要和聊天记录存档，主要目的是？",
+  "options": [
+   {
+    "text": "日后核对承诺与争议举证",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "让手机内存变小",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "应付老板检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "没有任何作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "沟通记录存档能把双方的报价、承诺和变更固化为证据，便于对账和争议处理；存档不是形式任务，而是必要的风险管理。",
+  "rework_verdict": "E",
+  "rework_note": "原题为沟通记录残句，重建为沟通存档场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 158,
+  "category": "concept",
+  "question": "黄老师安排货船到港前向海关申报货物信息，这属于贸易执行的哪个环节？",
+  "options": [
+   {
+    "text": "报港/申报环节",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "备货环节",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船确认环节",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "开票环节",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "货船到港前向海关等主管部门申报货物、船舶信息属于报港/申报环节，是合规通关的前提；备货、装船确认和开票是不同阶段的工作。",
+  "rework_verdict": "E",
+  "rework_note": "原题为报港残句，重建为到港申报场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 159,
+  "category": "concept",
+  "question": "黄老师与矿方约定\"见提单即期付款\"，其含义是？",
+  "options": [
+   {
+    "text": "凭装运单据立即付款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "货到一年后再付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "永远不用付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按心情分次付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "见单即期付款指卖方提交符合约定的提单等单据后，买方立即（即期）付款，是常见的跟单结算方式；延期、免付或随意分次都不符合\"即期\"约定。",
+  "rework_verdict": "E",
+  "rework_note": "原题为即期付款残句，重建为见单即付场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 160,
+  "category": "concept",
+  "question": "黄老师与矿方约定用信用证结算，申请开证的一般是？",
+  "options": [
+   {
+    "text": "买方（进口方）",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "卖方（出口方）",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船公司",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "信用证由买方（进口方）向开证行申请开立，银行承诺在卖方提交相符单据时付款；卖方、船公司或检验机构都不是开证申请人。",
+  "rework_verdict": "E",
+  "rework_note": "原题为信用证残句，重建为开证主体场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 161,
+  "category": "concept",
+  "question": "矿方发来装船时间调整的通知，黄老师及时回复确认，这体现沟通中的？",
+  "options": [
+   {
+    "text": "沟通时效性",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "沟通娱乐性",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "沟通装饰性",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "沟通随意性",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "及时确认关键变更信息能避免船期、接货安排失误，体现沟通时效性；娱乐、装饰或随意都不符合商务沟通要求。",
+  "rework_verdict": "E",
+  "rework_note": "原题为沟通时效残句，重建为沟通时效场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 162,
+  "category": "concept",
+  "question": "煤炭\"资源量升级\"（upgrade）指的是？",
+  "options": [
+   {
+    "text": "加密勘查使资源级别提高",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "提高煤的燃烧温度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提升港口装卸速度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提高采购预算金额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "通过加密钻孔、提高勘查程度，把推断资源量升级为控制或探明储量，叫资源量升级；燃烧温度、装卸速度或采购预算与地质储量分级无关。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 163,
+  "category": "concept",
+  "question": "黄老师与矿方约定\"装船后 60 天付款\"，这种结算方式称为？",
+  "options": [
+   {
+    "text": "远期付款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "即期付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "预付货款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "现金结算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船后延期 60 天付款是远期付款，买方获得资金周转时间；即期是见单立即付，预付是发货前付，现金结算是即时现款。",
+  "rework_verdict": "E",
+  "rework_note": "原题为远期付款残句，重建为远期付款场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 164,
+  "category": "concept",
+  "question": "黄老师发货后担心矿方拖欠货款，这种担忧属于？",
+  "options": [
+   {
+    "text": "货款回收风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "煤质检验风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶调度风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿山安全风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "先货后款时买方拖欠、拒付货款的风险属于货款回收（结算）风险，可通过资信调查和结算方式控制；煤质、船期和矿山安全是其他环节风险。",
+  "rework_verdict": "E",
+  "rework_note": "原题为结算风险残句，重建为货款回收风险场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 165,
+  "category": "concept",
+  "question": "黄老师向矿方提出降价要求时，先说明市场行情和采购量再谈价格，这种沟通属于？",
+  "options": [
+   {
+    "text": "有依据的谈判沟通",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "无意义闲聊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "强硬施压",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "情绪发泄",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "用市场数据、采购量等客观依据支撑议价诉求，是专业谈判沟通，容易获得对方认同；闲聊、施压或情绪化都无助于达成合理价格。",
+  "rework_verdict": "E",
+  "rework_note": "原题为沟通技巧残句，重建为谈判沟通场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 166,
+  "category": "concept",
+  "question": "装船完成后，黄老师应通过什么方式确认装货数量？",
+  "options": [
+   {
+    "text": "以提单和水尺报告为准",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "凭矿主口头报数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "看船上吃水线猜测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随便写个数字",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "装船数量以船方签发提单和第三方水尺计重报告为准，具备法律效力；口头报数、目测或随意填写都不能作为结算依据。",
+  "rework_verdict": "E",
+  "rework_note": "原题为装货确认残句，重建为装船数量确认场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 167,
+  "category": "concept",
+  "question": "黄老师统计各批货从付款到回款的时间，主要用于分析？",
+  "options": [
+   {
+    "text": "资金占用与周转效率",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "煤的发热量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶航行速度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口拥堵程度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "货款回收周期反映资金占用和周转效率，周期越短资金利用越高效；发热量、航速和港堵属于煤质与物流指标。",
+  "rework_verdict": "E",
+  "rework_note": "原题为结算周期残句，重建为资金周转分析场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 168,
+  "category": "concept",
+  "question": "印尼商务伙伴习惯先寒暄再谈正事，黄老师应如何应对？",
+  "options": [
+   {
+    "text": "尊重对方节奏建立关系",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "打断寒暄直接谈价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全程沉默不说话",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只谈技术不谈感情",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼商务文化重视关系和信任，先寒暄建立融洽氛围能提升谈判效率；打断、沉默或完全公事公办可能让对方感到不被尊重。",
+  "rework_verdict": "E",
+  "rework_note": "原题为跨文化沟通残句，重建为跨文化寒暄场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 169,
+  "category": "concept",
+  "question": "煤炭勘查\"钻孔间距\"（spacing）的设计取决于什么？",
+  "options": [
+   {
+    "text": "勘查阶段与地质复杂程度",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主个人喜好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤炭市场涨跌",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口装卸速度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "钻孔间距按勘查阶段（预查、普查、详查、精查）和煤层稳定程度确定：阶段越高、地质越复杂，间距越密；喜好、行情或装卸速度不是设计依据。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 170,
+  "category": "concept",
+  "question": "黄老师在合同里写明\"预付 30%、尾款凭检验报告结算\"，这是？",
+  "options": [
+   {
+    "text": "结算条款约定",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "保密条款约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不可抗力约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数量条款约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "约定付款比例、节点和结算依据属于结算条款，是双方资金安排的依据；保密、不可抗力和数量条款处理的是其他内容。",
+  "rework_verdict": "E",
+  "rework_note": "原题为结算条款残句，重建为结算条款场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 171,
+  "category": "concept",
+  "question": "黄老师拜访印尼矿方，见面时恰当的商务礼仪是？",
+  "options": [
+   {
+    "text": "礼貌握手、尊重当地习惯",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "大声喧哗抢话",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意触碰对方头部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用左手递送文件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼商务礼仪讲究礼貌与尊重，握手得体、尊重宗教习惯、避免左手递物和触碰头部，能建立良好印象；喧哗、失礼行为会损害合作关系。",
+  "rework_verdict": "E",
+  "rework_note": "原题为沟通礼仪残句，重建为商务礼仪场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 172,
+  "category": "concept",
+  "question": "黄老师跟踪运煤船从装港到目的港的全程动态，主要为了？",
+  "options": [
+   {
+    "text": "提前安排接卸与预警延误",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "欣赏海上风景",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "记录船舶涂装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "计算船员人数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "实时跟踪船位、ETA 和异常情况，能提前安排报关、接卸和资金，及时应对延误；看风景、涂装或人数没有业务价值。",
+  "rework_verdict": "E",
+  "rework_note": "原题为运输跟踪残句，重建为船舶跟踪场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 173,
+  "category": "concept",
+  "question": "黄老师收到矿方发票后安排付款，规范的结算流程顺序是？",
+  "options": [
+   {
+    "text": "核对单据 → 确认条件 → 付款",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "先付款再核对",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不核对直接付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "凭感觉决定付不付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "规范结算应先核对发票、提单、检验报告与合同是否一致，确认付款条件满足后再付款；先付、不核对或凭感觉都容易造成错付和多付。",
+  "rework_verdict": "E",
+  "rework_note": "原题为结算流程残句，重建为结算流程顺序场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 174,
+  "category": "concept",
+  "question": "矿方发来结算单，黄老师付款前必须核对的数字是？",
+  "options": [
+   {
+    "text": "单价、数量与扣罚计算",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "结算单的打印字体",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结算单的页边距",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结算单的纸张品牌",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "结算审核重点是单价、数量、热值计价和品质扣罚的计算是否与合同、检验结果一致；字体、边距或纸张与金额正确性无关。",
+  "rework_verdict": "E",
+  "rework_note": "原题为结算审核残句，重建为结算核对场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 175,
+  "category": "concept",
+  "question": "黄老师向矿方转达检验结果时，应如何确保信息准确？",
+  "options": [
+   {
+    "text": "以检验报告原文和数据为准",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "凭记忆大概描述",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "添油加醋渲染",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "故意模糊关键数据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "转达检验、结算等关键信息必须以正式文件原文为准，保证数字和结论一致；凭记忆、渲染或模糊都会导致误判和争议。",
+  "rework_verdict": "E",
+  "rework_note": "原题为信息准确残句，重建为信息准确传递场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 176,
+  "category": "concept",
+  "question": "矿方报价比市场价高 8%，黄老师还价前应了解\"议价空间\"，其含义是？",
+  "options": [
+   {
+    "text": "价格可协商的余地",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "固定不可动的价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿场可开采面积",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口的泊位数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "议价空间指报价中可供协商调整的余地，黄老师可结合行情、采购量争取更优价格；固定价、矿场面积或泊位数都不是议价空间。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集（价格谈判），题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 177,
+  "category": "concept",
+  "question": "黄老师办理付款时，需要准备的核心单据是？",
+  "options": [
+   {
+    "text": "合同、发票、提单与检验报告",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿场的宣传册",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "老板的行程表",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区风景照片",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "付款结算以合同、商业发票、提单、检验报告等单据为依据，用于核对金额与条件；宣传册、行程或照片不是结算凭证。",
+  "rework_verdict": "E",
+  "rework_note": "原题为结算单据残句，重建为结算单据场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 178,
+  "category": "concept",
+  "question": "矿方对品质扣罚金额有异议，黄老师正确处理方式是？",
+  "options": [
+   {
+    "text": "凭检验报告与合同条款协商",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "各说各话不处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "直接拉黑对方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按对方说的全赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "结算争议应依据检验报告、合同品质条款和扣罚标准协商解决，必要时按争议条款仲裁；搁置、拉黑或单方让步都不符合规范。",
+  "rework_verdict": "E",
+  "rework_note": "原题为结算争议残句，重建为结算争议处理场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 179,
+  "category": "concept",
+  "question": "黄老师收到矿方更新的煤质报告后立即通知下游客户，这属于？",
+  "options": [
+   {
+    "text": "及时的信息反馈",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "多余的打扰",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "泄露商业机密",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无意义的闲聊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "把影响下游的煤质变化及时反馈给客户，属于必要的信息反馈，有助于对方调整生产或验收安排；在授权范围内共享不算泄露或闲聊。",
+  "rework_verdict": "E",
+  "rework_note": "原题为沟通反馈残句，重建为信息反馈场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 180,
+  "category": "concept",
+  "question": "黄老师提前把到港时间和煤种通知收货方，主要目的是？",
+  "options": [
+   {
+    "text": "便于对方安排接卸与验收",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "炫耀业务规模",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让对方干着急",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "增加沟通成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "提前发出到货通知能让收货方预留泊位、安排卸船和验收，提高接卸效率；通知的目的是协作而非炫耀或刁难。",
+  "rework_verdict": "E",
+  "rework_note": "原题为到货通知残句，重建为到货通知场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 181,
+  "category": "concept",
+  "question": "黄老师与矿方因结算币种汇率产生分歧，应当？",
+  "options": [
+   {
+    "text": "按合同约定汇率条款处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "谁声音大听谁的",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "让船公司裁决",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "抽签决定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "结算币种、汇率基准和波动处理应依据合同中的结算条款执行，条款未明确的应协商补充；声音、船公司或抽签都不是合同依据。",
+  "rework_verdict": "E",
+  "rework_note": "原题为结算纠纷残句，重建为币种分歧场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 184,
+  "category": "concept",
+  "question": "煤炭\"可采储量\"（mineable reserves）指？",
+  "options": [
+   {
+    "text": "当前技术条件下可采出的储量",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿区的全部地质总量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "已经卖出的煤量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口的堆存容量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "可采储量指在当前开采技术条件下能够采出的储量，是矿山开发规划的基础；全部地质总量、已售煤量和港口容量都不是可采储量。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 188,
+  "category": "concept",
+  "question": "判断某煤层储量\"经济可采\"，需要比较什么？",
+  "options": [
+   {
+    "text": "开采成本与预期售价",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿场员工数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口泊位长度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区降雨量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "储量是否经济可采，核心是开采、洗选、运输等成本能否被预期售价覆盖并获得合理利润；员工数、泊位长或降雨量不是经济性判据。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 189,
+  "category": "concept",
+  "question": "黄老师收到下游客户的煤款后，应如何处理与矿方的尾款？",
+  "options": [
+   {
+    "text": "按合同节点及时结清",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "有钱也故意拖欠",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用煤抵货款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "等对方来催再付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "资金到账后应按合同约定节点及时结清矿方尾款，维护信用和长期合作；故意拖欠、以物抵款或拖延都会损害信誉和合作关系。",
+  "rework_verdict": "E",
+  "rework_note": "原题为结算残句，重建为尾款结清场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 196,
+  "category": "concept",
+  "question": "露天煤矿采用\"台阶\"（bench）开采，主要目的是？",
+  "options": [
+   {
+    "text": "分层安全高效开采",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "让矿区看起来更整齐",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "增加开采成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "减少煤炭产量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "台阶式开采把采场分成若干水平分层，自上而下逐台阶剥离和采煤，保证边坡稳定和作业安全；不是为了美观、增本或减产。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集（露天开采），题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 216,
+  "category": "concept",
+  "question": "矿方报价\"含税价 68 美元/吨\"，与\"不含税价\"相比，含税价意味着？",
+  "options": [
+   {
+    "text": "价格已包含税费",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "价格可随意上浮",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "质量更有保证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运输由矿方负责",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "含税价指报价中已包含相关税费，是结算时的最终价；不含税价则需另加税费。是否含税与价格弹性、煤质或运输责任无关。",
+  "rework_verdict": "E",
+  "rework_note": "原题为含税价残句，重建为含税价比较场景"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 230,
+  "category": "concept",
+  "question": "煤炭形成的关键条件（conditions）包括？",
+  "options": [
+   {
+    "text": "植被、沼泽与长期埋藏",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "干旱沙漠与高温",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "深海高压与盐度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "火山喷发与熔岩",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤炭由古代植物在沼泽中堆积、经长期埋藏和煤化作用形成，植被、沼泽和埋藏缺一不可；沙漠、深海或火山不是成煤环境。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 235,
+  "category": "concept",
+  "question": "煤炭\"勘探报告\"（exploration report）的核心内容是？",
+  "options": [
+   {
+    "text": "资源评价与储量估算成果",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿场年度预算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口吞吐统计",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船员考勤记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "勘探报告汇总勘查成果，给出资源量/储量、煤质和开发条件评价，是矿权评估和开发决策的基础；预算、吞吐或考勤不是勘探成果。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 238,
+  "category": "concept",
+  "question": "煤炭资源\"三率\"（three rates）指的是哪三项指标？",
+  "options": [
+   {
+    "text": "回采率、回收率与共伴生利用率",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "价格、运费与保险费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰分、水分与挥发分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "产量、销量与库存量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "三率指开采回采率、选矿回收率和共伴生资源综合利用率，是资源开发利用水平的考核指标；价格运费、煤质三要素或产销存不是三率。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 242,
+  "category": "concept",
+  "question": "煤炭\"储量计算\"常用的方法之一是？",
+  "options": [
+   {
+    "text": "块段法",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "竞价拍卖法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "抽样调查法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "成本核算法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "储量计算常用块段法、等高线法、地质块段法等方法，根据煤层厚度、面积和容重估算；拍卖、抽样或成本核算不是储量计算方法。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 244,
+  "category": "concept",
+  "question": "黄老师寻找印尼煤炭资源时，首先要核实矿山的什么证件？",
+  "options": [
+   {
+    "text": "IUP 矿业经营许可证",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿主驾驶证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿区附近学校证照",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿场小卖部执照",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼合法采矿须持有 IUP（矿业经营许可证），这是确认矿权合法性的核心证件；驾驶证、学校或小卖部执照与采矿权无关。",
+  "rework_verdict": "D",
+  "rework_note": "主题匹配资源收集，题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 250,
+  "category": "concept",
+  "question": "煤炭资源\"勘查程度\"（exploration degree）反映的是？",
+  "options": [
+   {
+    "text": "对地质条件的掌握水平",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿场投资金额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤矿开采深度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口吞吐规模",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "勘查程度指预查、普查、详查、精查等阶段对煤层赋存和地质条件的掌握水平，程度越高储量级别越高；投资额、开采深度或港量不反映勘查程度。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建消除模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 256,
+  "category": "concept",
+  "question": "印尼南加里曼丹的主要煤产区位于哪个区域周边？",
+  "options": [
+   {
+    "text": "班贾尔马辛周边",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "巴厘岛",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "龙目岛",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "苏门答腊北部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "南加里曼丹煤田集中在班贾尔马辛周边，是印尼主要动力煤产区之一；巴厘岛、龙目岛不是产煤区，苏门答腊北部是另一煤区。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 266,
+  "category": "concept",
+  "question": "印尼 Adaro Energy 的主力矿区 Tabalong 位于哪个省？",
+  "options": [
+   {
+    "text": "南加里曼丹省",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "巴厘省",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "西爪哇省",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "北苏门答腊省",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "Adaro 的主力矿区 Tabalong 位于南加里曼丹省，产出中低热值动力煤；巴厘、西爪哇和北苏门答腊不是该主力矿区所在地。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 278,
+  "category": "concept",
+  "question": "露天矿\"边坡稳定\"（slope stability）的关键因素包括？",
+  "options": [
+   {
+    "text": "边坡角与岩土条件",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "煤价涨跌",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口的吞吐量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿工班次安排",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "边坡稳定取决于边坡角、岩土强度、水文条件和爆破震动等；煤价、港量或班次与边坡安全无关。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 288,
+  "category": "concept",
+  "question": "控制煤炭\"储量误差\"（reserve error）的有效手段是？",
+  "options": [
+   {
+    "text": "提高勘查精度",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "延长开会时间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "增加港口堆位",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "减少矿工数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "储量误差通过加密勘查、提高钻孔控制程度和计算精度来控制；开会、堆位或人数与储量精度无关。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 296,
+  "category": "concept",
+  "question": "露天开采（surface mining）适用于什么条件的煤层？",
+  "options": [
+   {
+    "text": "埋藏浅的煤层",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "埋藏深的煤层",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "所有煤层",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "海底煤层",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "露天开采适合剥采比经济、埋藏浅的煤层；深部煤层需井工开采，海底和所有煤层说法不成立。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 300,
+  "category": "concept",
+  "question": "煤炭\"露天开采\"（surface mining）工艺的主要环节是？",
+  "options": [
+   {
+    "text": "剥离与采煤",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "洗选与配煤",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "气化与液化",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "储运与销售",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "露天开采先剥离覆盖岩层再采出煤炭，剥离与采煤是核心工艺；洗选配煤、气化液化和储运销售是采后的其他环节。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 308,
+  "category": "concept",
+  "question": "井工开采（underground mining）适用于什么条件的煤层？",
+  "options": [
+   {
+    "text": "埋藏深的煤层",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "埋藏浅的煤层",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "所有煤层",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "露头煤层",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "井工开采用于埋藏深、露天不经济的煤层；浅层和露头煤层一般用露天开采，\"所有煤层\"说法不成立。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 310,
+  "category": "concept",
+  "question": "煤炭资源\"边界品位\"（cutoff grade）指的是？",
+  "options": [
+   {
+    "text": "可采经济性下限",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "煤的最高发热量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿场最大产能",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口最大堆存",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "边界品位是圈定可采资源的经济性下限，低于它开发不经济；最高发热量、产能或堆存不是边界品位。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 314,
+  "category": "concept",
+  "question": "印尼煤炭出口大港巴厘巴板（Balikpapan）位于哪个岛屿？",
+  "options": [
+   {
+    "text": "加里曼丹岛",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "苏拉威西岛",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "爪哇岛",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "苏门答腊岛",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "巴厘巴板位于加里曼丹岛东岸，是东加里曼丹煤炭出口的主要港口；苏拉威西、爪哇和苏门答腊是其他岛屿。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 319,
+  "category": "concept",
+  "question": "煤炭需求受\"季节因素\"（seasonal）影响，黄老师应如何应对？",
+  "options": [
+   {
+    "text": "按季节调整采购节奏",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "全年采购量固定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "忽略季节差异",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只在旺季囤货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "电力、取暖等需求随季节波动，应结合季节特点提前安排采购与库存；固定量、忽略差异或盲目囤货都容易失误。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 322,
+  "category": "concept",
+  "question": "煤炭资源评价\"变异系数\"（variation coefficient）反映？",
+  "options": [
+   {
+    "text": "品位波动程度",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿区面积大小",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿工数量多少",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤的运输距离",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "变异系数衡量煤质参数在矿体中的波动程度，变异越大越需要加密勘查；面积、人数或运输距离不是变异系数。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 325,
+  "category": "concept",
+  "question": "印尼南苏门答腊省的煤炭主要经哪个港口出口？",
+  "options": [
+   {
+    "text": "巨港港",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "巴厘巴板港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "丹戎不碌港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "泗水港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "南苏门答腊煤田主要通过巨港（Palembang）沿穆西河出海；巴厘巴板是东加里曼丹港，丹戎不碌是雅加达港，泗水是爪哇东部港。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 331,
+  "category": "concept",
+  "question": "矿源供应因洪水等不可抗力中断，黄老师在合同中应如何约定？",
+  "options": [
+   {
+    "text": "约定不可抗力条款与处理方式",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "不写任何免责条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "约定口头通知即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "要求对方无条件赔偿",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "合同应明确不可抗力范围、通知义务和后续处理（顺延或解除），避免争议；不约定、口头通知或无条件赔偿都不合理。",
+  "rework_verdict": "E",
+  "rework_note": "原题为不可抗力模板题，重建为矿源供应中断场景",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 336,
+  "category": "concept",
+  "question": "印尼\"三马林达-巴厘巴板走廊\"（Samarinda-Balikpapan corridor）是？",
+  "options": [
+   {
+    "text": "东加里曼丹煤运与工业走廊",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "爪哇岛旅游走廊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "苏门答腊农业走廊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "巴厘岛度假走廊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "三马林达-巴厘巴板走廊是东加里曼丹连接煤矿区和出海港的煤炭运输与工业走廊；旅游、农业或度假描述不符。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 338,
+  "category": "concept",
+  "question": "煤炭资源\"品位控制\"（grade control）指？",
+  "options": [
+   {
+    "text": "采选过程中控制煤质",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿权变更审批",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口泊位调度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿工技能培训",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "品位控制通过分采、配矿和过程化验保证输出煤质稳定；矿权审批、泊位调度和人员培训不属于品位控制。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 341,
+  "category": "concept",
+  "question": "露天矿\"排土场\"（waste dump）的主要功能是？",
+  "options": [
+   {
+    "text": "堆放剥离物",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "停放矿用车辆",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "存放成品精煤",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "办公生活区",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "排土场用于堆放剥离的表土和岩石；停车、存煤或办公生活不是排土场功能。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 347,
+  "category": "concept",
+  "question": "露天煤矿\"排土场\"（waste dump）管理的重点是？",
+  "options": [
+   {
+    "text": "稳定性、排水与复垦",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "堆放越多越好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "靠近矿坑随意堆",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不做边坡处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "排土场管理重点是边坡稳定、排水疏导和闭场复垦，防止滑坡和水土流失；超量堆放、随意选址或不处理边坡都危险。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 353,
+  "category": "concept",
+  "question": "露天矿\"台阶高度\"（bench height）指？",
+  "options": [
+   {
+    "text": "开采台阶的垂直高度",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "台阶的宽度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "台阶的长度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "台阶的坡度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "台阶高度是相邻台阶平面间的垂直距离，决定采掘设备选型和边坡稳定；宽度、长度或坡度是台阶的其他几何参数。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 359,
+  "category": "concept",
+  "question": "露天矿\"工作帮\"（working bench）的作用是？",
+  "options": [
+   {
+    "text": "布置采掘和运输作业",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "堆放剥离废石",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "沉淀坑内积水",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "种植绿化树木",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "工作帮是正在采掘的台阶坡面，用于布置采掘、运输等生产作业；排废、排水或绿化不是工作帮的功能。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "矿区考察与商务谈判",
+  "index_in_level": 362,
+  "category": "合规经营",
+  "question": "你想在印尼某矿区合法开展煤炭购销业务，矿权与使用权问题应如何处理？",
+  "options": [
+   {
+    "text": "核实矿方采矿许可与经营资质后通过合法渠道合作",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "直接与矿区当地村民口头约定即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "租用矿区设备就能自动获得使用权",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "向矿方缴纳押金后即可自行开采",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼煤炭资源属国家管理，合法开展业务必须核实矿方的采矿许可（IUP）与经营资质，通过合规渠道合作。口头约定、租设备、交押金均不能取得合法使用权。",
+  "r1_note": "R1 补齐 effect（正项+8/+5/-5，干扰项-5/-3/+5）",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate0",
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 375,
+  "category": "concept",
+  "question": "煤炭\"末端配送\"（delivery）指？",
+  "options": [
+   {
+    "text": "送到客户终端的运输",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿场内部的搬运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口换装作业",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "洗选加工环节",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "末端配送是把煤炭从中转节点送到终端用户指定地点的最后一程运输；矿内搬运、港内换装或洗选加工都不是末端配送。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 381,
+  "category": "concept",
+  "question": "煤炭\"库存预警\"（alert）的作用是？",
+  "options": [
+   {
+    "text": "库存临界提醒",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "自动涨价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取消采购",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "替代质检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "库存预警在库存低于安全线或高于上限时提醒，便于及时补货或去库存；涨价、取消采购或替代质检都不是预警功能。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项重建"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 394,
+  "category": "concept",
+  "question": "印尼\"PKP2B\"指的是什么？",
+  "options": [
+   {
+    "text": "第一代煤炭开采合同",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "增值税税号",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤炭出口许可证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口作业许可证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "PKP2B（Perjanjian Karya Pengusahaan Pertambangan Batubara）是印尼第一代煤炭开采工作合同；税号、出口许可或港口作业证是其他凭证。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 396,
+  "category": "concept",
+  "question": "印尼煤矿\"产能利用率\"（utilization）指？",
+  "options": [
+   {
+    "text": "实际产量与设计产能之比",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "剥离量与采煤量之比",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "复垦面积与矿区之比",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "设备数量与人数之比",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "产能利用率是实际产量占设计产能的比例，衡量产能发挥程度；剥采比、复垦比或人机比是其他指标。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 406,
+  "category": "concept",
+  "question": "南加里曼丹省煤炭主要经哪个港口出口？",
+  "options": [
+   {
+    "text": "班贾尔马辛河港",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "巴厘巴板港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "坤甸港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "雅加达港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "南加里曼丹煤炭主要经班贾尔马辛（Banjarmasin）及周边河港装船出海；巴厘巴板在东加里曼丹，坤甸在西加里曼丹，雅加达在爪哇。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 437,
+  "category": "concept",
+  "question": "印尼煤炭\"定价机制\"（pricing）的特点是？",
+  "options": [
+   {
+    "text": "市场与政府调控结合",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "完全由政府定价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完全自由市场",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "没有任何价格监管",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼以市场供求形成价格为主，同时通过HBA等基准价和出口政策调控；纯市场、纯政府或无监管都不全面。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 442,
+  "category": "concept",
+  "question": "印尼煤炭\"基准价\"（HBA）的作用是？",
+  "options": [
+   {
+    "text": "官方价格基准",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "私人报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运输费用表",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "质检标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "HBA（Harga Batubara Acuan）是印尼官方月度煤炭基准价，作为国内结算和出口参考；它不是报价、运费或质检标准。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 447,
+  "category": "concept",
+  "question": "印尼煤炭\"HBA\"（煤炭基准价）的性质是？",
+  "options": [
+   {
+    "text": "月度官方价格",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "年度固定价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "季度期货价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "口岸杂费价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "HBA由印尼能矿部按月发布，是月度官方煤炭基准价；它不是年度价、期货价或口岸杂费。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 456,
+  "category": "concept",
+  "question": "印尼现行矿业许可\"IUP\"（Izin Usaha Pertambangan）指？",
+  "options": [
+   {
+    "text": "矿业经营许可证",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "营业执照",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "环境许可证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "出口许可证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "IUP是印尼现行主要的矿业经营许可证，覆盖勘探和开采阶段；营业执照、环保证或出口证是其他许可。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 459,
+  "category": "concept",
+  "question": "煤炭\"共伴生资源\"（associated resources）应如何对待？",
+  "options": [
+   {
+    "text": "综合开发利用",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "只开采煤炭",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一律废弃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意堆放",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "煤层共伴生的瓦斯、油页岩等资源应综合开发，提高整体价值；只采煤、废弃或堆放都浪费资源。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 502,
+  "category": "concept",
+  "question": "选择印尼煤矿供应商时，最应优先核实的是？",
+  "options": [
+   {
+    "text": "矿业许可证的真实有效性和持有人",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "办公室装修档次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "老板的豪车",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "员工数量多少",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "矿业许可证决定供应商是否有合法开采权，必须先核实真伪和持有人；装修、豪车或员工数不能证明合规性。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 504,
+  "category": "concept",
+  "question": "印尼\"马哈坎河\"（Mahakam River）煤炭运输的特点是？",
+  "options": [
+   {
+    "text": "驳船顺流运至河口锚地装海船",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "全程铁路直达",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全程管道输送",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全程航空运输",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "马哈坎河连接东加里曼丹内陆煤区与河口锚地，煤炭靠驳船顺流运抵后转载海船；铁路、管道或航空不是该河运输方式。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 514,
+  "category": "concept",
+  "question": "印尼煤矿\"RKAB\"年度计划批准后，主要约束什么？",
+  "options": [
+   {
+    "text": "当年产量与销售上限",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "矿工国籍比例",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤炭销售价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿灯颜色款式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "RKAB（年度工作计划和预算）获批后，矿山须按批准的产量和销售计划执行，超产需重新报批；国籍、价格或矿灯不受其约束。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 521,
+  "category": "concept",
+  "question": "印尼政府自2020年起基本停止新发哪种煤炭许可？",
+  "options": [
+   {
+    "text": "PKP2B合同",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "普通营业执照",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "出口许可证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口作业证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼2020年矿业法改革后不再新签PKP2B（煤炭合同协议），统一纳入IUP等许可体系；营业执照、出口证或港口证不受此限。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 526,
+  "category": "concept",
+  "question": "以下哪种情况表明煤矿可能存在合规风险？",
+  "options": [
+   {
+    "text": "IUP证照过期或无法提供原件",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "证照齐全且正常年检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "有正规环保设施",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "有正规开采设备",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "证照过期或拿不出原件说明矿权存疑，存在合规和法律风险；证照齐全、有环保设施或正规设备是合规表现。",
+  "rework_verdict": "D",
+  "rework_note": "题干完整，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 532,
+  "category": "concept",
+  "question": "印尼煤炭的主要出口港口有哪些？",
+  "options": [
+   {
+    "text": "巴厘巴板港、三马林达港、班贾尔马辛港",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "新加坡港、巴生港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "曼谷港、马尼拉港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "上海港、深圳港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼煤炭出口以加里曼丹的巴厘巴板、三马林达和班贾尔马辛等港为主；新加坡、曼谷或上海等港不在印尼境内。",
+  "rework_verdict": "D",
+  "rework_note": "题干场景化，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 556,
+  "category": "concept",
+  "question": "采购印尼小煤矿（俗称\"野矿\"）的主要风险是？",
+  "options": [
+   {
+    "text": "证照不全、非法开采、断供",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "价格太低",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤质太好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "产量太高",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "野矿常无合规证照、涉嫌非法开采，随时可能被查导致断供；价格低、煤质好或产量高不是风险点。",
+  "rework_verdict": "D",
+  "rework_note": "题干完整，选项去模板污染"
+ },
+ {
+  "level": 3,
+  "level_name": "矿区考察与商务谈判",
+  "index_in_level": 584,
+  "category": "市场判断",
+  "question": "考察印尼煤矿时，为什么要了解市场供需情况？",
+  "options": [
+   {
+    "text": "判断煤价走势和竞争格局",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "评估矿区水文地质条件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "核算当地劳动力成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "对比周边矿的环保处罚记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "了解市场供需能帮助判断煤价走势、竞争格局和采购时机，是商务决策依据。水文地质、劳动力成本、环保记录分属其他考察维度。",
+  "r1_note": "R1 补齐 effect（正项+8/+5/-5，干扰项-5/-3/+5）",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate0",
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ },
+ {
+  "level": 3,
+  "level_name": "资源收集",
+  "index_in_level": 610,
+  "category": "concept",
+  "question": "印尼矿区'应急演练'（drill）应当如何组织？",
+  "options": [
+   {
+    "text": "定期开展并记录备查",
+    "correct": true,
+    "effect": {
+     "knowledge": 8,
+     "trust": 5,
+     "risk": -5
+    }
+   },
+   {
+    "text": "只在事故发生后组织",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "每年仅口头宣讲不实操",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "由矿工自愿报名参加",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   }
+  ],
+  "explanation": "印尼矿区要求定期组织应急演练并做好记录备查，以检验预案可行性和人员应急处置能力。",
+  "rework_verdict": "E",
+  "rework_note": "题干重建，干扰项重建",
+  "v2_verdict": "PASS",
+  "v2_gates": [
+   "Gate1",
+   "Gate2",
+   "Gate3",
+   "Gate4"
+  ]
+ }
+]
