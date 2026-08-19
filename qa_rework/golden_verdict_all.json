@@ -1,0 +1,2649 @@
+{
+ "meta": {
+  "rule": "V2_质量规则.md 四Gate"
+ },
+ "levels": {
+  "1": [
+   {
+    "level": 1,
+    "index_in_level": 8,
+    "question": "在启动印尼煤炭贸易前，你最应该优先了解的内容是？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 1,
+    "index_in_level": 14,
+    "question": "两家矿商给你报价，但煤的发热量不同。为了比较真实采购成本，你应该优先看哪个指标？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#128（单位热值比价）知识点重复"
+   },
+   {
+    "level": 1,
+    "index_in_level": 26,
+    "question": "某煤气化项目需要采购适合煤制气的原料煤，你应该推荐哪种煤？",
+    "verdict": "DROP",
+    "reason": "Gate2：煤气化属煤化工下游应用，偏离L1初到印尼主题"
+   },
+   {
+    "level": 1,
+    "index_in_level": 43,
+    "question": "谈判中对方给出一个明显低于市场价的报价。作为有经验的买家，你首先应该？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 65,
+    "question": "国际煤价一个月内上涨 15%。作为已按固定价签合同的买方，你应如何看待？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 103,
+    "question": "新人常常困惑：为什么同一天不同渠道报出的印尼煤价不一样？最合理的解释是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 109,
+    "question": "印尼政府调整煤炭出口政策（如出口税、配额）时，进口商最先应该关注的影响是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#450（出口政策调整应对）知识点重复"
+   },
+   {
+    "level": 1,
+    "index_in_level": 113,
+    "question": "国际煤价大涨，但矿商仍按合同价供货。为什么长期合同能维持稳定价格？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#65（固定价合同锁定价格）知识点重复"
+   },
+   {
+    "level": 1,
+    "index_in_level": 128,
+    "question": "你收到两份报价：A 矿热值 4200 千卡/千克、报价 55 美元/吨；B 矿热值 3800 千卡/千克、报价 52 美元/吨。如何比较？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 134,
+    "question": "印尼煤炭采购合同既要符合国际惯例，又要满足当地法规。两者冲突时通常如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 153,
+    "question": "学习\"动力煤\"这个概念时，你最先应该弄清楚的是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#21（动力煤定义）重复；Gate4：概念学习类"
+   },
+   {
+    "level": 1,
+    "index_in_level": 159,
+    "question": "作为新入行的采购员，日常最应关注的市场信号是？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 1,
+    "index_in_level": 168,
+    "question": "国际市场突然传出印尼雨季延长、矿区减产的消息。作为买方，你应如何应对市场变化？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 172,
+    "question": "你知道\"离岸价\"指 FOB 后，在印尼采购谈判中应如何应用？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 192,
+    "question": "双方签完购煤合同后，为什么通常还要盖章或授权代表签字？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 206,
+    "question": "到货后发现煤的发热量低于合同约定，你应该优先依据什么处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 239,
+    "question": "发现上月采购的煤灰分普遍偏高，接下来应该？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 300,
+    "question": "在印尼采购煤炭前做投资决策，最应优先评估的是？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 1,
+    "index_in_level": 450,
+    "question": "印尼政府发布煤炭出口配额调整公告，贸易商第一时间应该？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 454,
+    "question": "进入印尼市场前做客户需求调研，最应了解的是？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 1,
+    "index_in_level": 459,
+    "question": "印尼出口政策或市场规则调整后，贸易公司应如何应对？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#450（政策调整应对）知识点重复"
+   },
+   {
+    "level": 1,
+    "index_in_level": 469,
+    "question": "印尼政府调整出口配额或 DMO 义务后，已签合同如何处理？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#450（政策调整应对）知识点重复"
+   },
+   {
+    "level": 1,
+    "index_in_level": 518,
+    "question": "业务新人到印尼后，通常第一个任务应该是？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 1,
+    "index_in_level": 571,
+    "question": "在印尼商务场合交换名片，应该用哪只手递接？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 817,
+    "question": "印尼商务文化中的\"关系\"（silaturahmi）为什么重要？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 840,
+    "question": "收到印尼矿商的报价单，最应重点核对的是？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 1,
+    "index_in_level": 843,
+    "question": "前往印尼矿区或装船现场考察，着装应优先考虑？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 855,
+    "question": "印尼装港常见的过驳装船作业中，驳船与远洋船并靠时最应注意？",
+    "verdict": "DROP",
+    "reason": "REWORK后重走四Gate：主题漂移转DROP"
+   },
+   {
+    "level": 1,
+    "index_in_level": 314,
+    "question": "煤炭采购合同中最应该写清楚的是？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 1,
+    "index_in_level": 327,
+    "question": "组建印尼煤炭业务团队时，应优先配备？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 1,
+    "index_in_level": 188,
+    "question": "矿商报价\"不含税价\"比\"含税价\"低。对需要增值税发票的买方而言，应如何看待？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 423,
+    "question": "建材行业（砖瓦、陶瓷）用煤，为什么要控制硫分？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 1,
+    "index_in_level": 464,
+    "question": "客户投诉到货热值不足时，售后人员应优先？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#206（到货热值不足处理）知识点重复"
+   },
+   {
+    "level": 1,
+    "index_in_level": 605,
+    "question": "面对市场波动（volatility），贸易商应优先？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 1,
+    "question": "矿方带你参观矿区，指着一堆呈棕褐色、质地疏松、发热量偏低的煤，说这是当地常见的低阶煤。按煤化程度判断，这最可能是哪种煤？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 3,
+    "question": "你第一次飞抵雅加达，海关官员询问此行目的。作为准备开展煤炭贸易的商人，最合适的回答是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 5,
+    "question": "某月印尼煤炭出口量大增，而国际买家需求疲软，市场报价持续下跌。此时煤炭市场处于什么状态？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#15（买方市场）知识点重复"
+   },
+   {
+    "level": 1,
+    "index_in_level": 6,
+    "question": "矿方推荐你采购一批烟煤，称其'煤化程度中等、用途广泛'。与褐煤相比，烟煤最突出的特点是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 10,
+    "question": "游戏开场，黄老师第一次前往印尼开展煤炭业务。抵达后他最先需要解决的事项是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 11,
+    "question": "你拿到一份煤样检测报告：挥发分很低、固定碳很高、燃烧时几乎无烟。这份煤样最可能是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#1/#6煤种识别系列重复"
+   },
+   {
+    "level": 1,
+    "index_in_level": 13,
+    "question": "你想确认印尼煤炭出口配额与最新政策，最可靠的信息来源是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 15,
+    "question": "当前印尼煤炭供给充足、买家选择多、议价能力强，价格呈下行压力。这种市场状态被称为？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 16,
+    "question": "一家钢厂需要采购炼焦用煤作为焦炭生产原料，你应向其推荐哪种煤？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 18,
+    "question": "谈判前，你先弄清 FOB、CIF 等贸易术语的责任划分。这么做的主要价值是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#172（FOB应用）重复；Gate4：意义类"
+   },
+   {
+    "level": 1,
+    "index_in_level": 19,
+    "question": "印尼政府宣布下季度起调整煤炭出口配额申报要求。作为贸易商，正确的做法是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#450（政策调整应对）知识点重复"
+   },
+   {
+    "level": 1,
+    "index_in_level": 20,
+    "question": "游戏主线按'初到印尼→煤炭基础→资源收集→……→综合全流程'推进。这样设计教学流程的目的是？",
+    "verdict": "DROP",
+    "reason": "Gate4：元游戏设计题，无业务判断价值"
+   },
+   {
+    "level": 1,
+    "index_in_level": 21,
+    "question": "火电厂采购煤炭主要用于锅炉燃烧发电，这类以燃烧发热为主要用途的煤在贸易中通常称为？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 22,
+    "question": "印尼发电装机中燃煤电厂占比较高，这说明该国能源结构的显著特点是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 23,
+    "question": "新手常以为'印尼煤都差不多，随便买就行'。这个误区最可能导致什么后果？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 25,
+    "question": "印尼煤炭需求旺盛、供应紧张，矿商掌握定价权并不断提价。这种市场状态被称为？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 31,
+    "question": "煤矿洗选过程中分离出的、含煤量低、灰分高、热值很低的废石，称为？",
+    "verdict": "DROP",
+    "reason": "Gate4：纯定义背诵题（煤矸石是什么）"
+   },
+   {
+    "level": 1,
+    "index_in_level": 33,
+    "question": "学完煤质指标后，你在装船前验货时实际核对发热量与水分。这种做法的主要意义是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 34,
+    "question": "要成为合格的印尼煤炭贸易商，以下哪项知识最不可或缺？",
+    "verdict": "DROP",
+    "reason": "未通过四Gate"
+   },
+   {
+    "level": 1,
+    "index_in_level": 36,
+    "question": "煤矿井下采出后，未经洗选、筛分等任何加工处理的煤，称为？",
+    "verdict": "DROP",
+    "reason": "Gate4：纯定义背诵题（原煤是什么）"
+   },
+   {
+    "level": 1,
+    "index_in_level": 38,
+    "question": "想快速建立对印尼煤炭贸易的正确认知，最有效的方式组合是？",
+    "verdict": "DROP",
+    "reason": "Gate4：正确方式类抽象题"
+   },
+   {
+    "level": 1,
+    "index_in_level": 44,
+    "question": "每完成一单贸易，你都复盘合同执行、检验结果和结算情况并形成记录。这种做法属于？",
+    "verdict": "DROP",
+    "reason": "Gate4：概念归属题（复盘属于什么）"
+   },
+   {
+    "level": 1,
+    "index_in_level": 45,
+    "question": "印尼雨季时矿区道路泥泞、驳船运输受限，出货量明显下降。这段时期通常被贸易商视为？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 1,
+    "index_in_level": 48,
+    "question": "一个完整的印尼煤炭贸易认知体系，应当覆盖哪些内容？",
+    "verdict": "DROP",
+    "reason": "Gate4：抽象题（认知体系应覆盖什么）"
+   },
+   {
+    "level": 1,
+    "index_in_level": 49,
+    "question": "你在印尼做煤炭贸易已满半年，业务趋于稳定。为了进一步拓展视野，最值得做的是？",
+    "verdict": "DROP",
+    "reason": "Gate4：正确做法类抽象题"
+   },
+   {
+    "level": 1,
+    "index_in_level": 51,
+    "question": "印尼爪哇岛一座电厂每天燃烧大量煤炭发电。从煤炭用途看，这属于？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#21（动力煤用途）知识点重复"
+   },
+   {
+    "level": 1,
+    "index_in_level": 927,
+    "question": "印尼煤炭出口贸易中，装船前的质量检验通常在哪里进行？",
+    "verdict": "PASS",
+    "reason": "补题：候选池外按四Gate人工精挑入选"
+   },
+   {
+    "level": 1,
+    "index_in_level": 931,
+    "question": "东南亚动力煤贸易中常用的价格参考指数是？",
+    "verdict": "PASS",
+    "reason": "补题：候选池外按四Gate人工精挑入选"
+   },
+   {
+    "level": 1,
+    "index_in_level": 925,
+    "question": "印尼内陆煤矿将煤炭运往港口，最常用的方式是？",
+    "verdict": "PASS",
+    "reason": "补题：候选池外按四Gate人工精挑入选"
+   }
+  ],
+  "2": [
+   {
+    "level": 2,
+    "index_in_level": 157,
+    "question": "贸易结算中\"煤质与结算\"挂钩，通常如何处理？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#641（热值低于合同结算处理）知识点重复"
+   },
+   {
+    "level": 2,
+    "index_in_level": 641,
+    "question": "煤炭买卖合同中，若实际发热量低于合同约定值，通常如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 728,
+    "question": "收到印尼矿方发来的品质规格表，其中\"NAR 4800 kcal/kg, AAR 8%, TM 30%\"，在验货时最应重点核对的是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 829,
+    "question": "为什么氢含量会影响印尼煤高位热值（GAR）与低位热值（NAR）的差值？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 178,
+    "question": "泥炭沼泽的\"水位\"（water level）为什么重要？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 2,
+    "index_in_level": 522,
+    "question": "煤炭贸易中，为什么同一堆煤不同位置取样结果会不同？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 577,
+    "question": "简单的记忆法：全水每增减1%，收到基低位发热量如何变化？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 612,
+    "question": "煤炭贸易中，为什么需要专业的取样和制样？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 2,
+    "question": "煤矿技术员向新员工介绍\"煤的形成\"，核心内容是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 4,
+    "question": "做煤炭贸易时，采购方要求提供\"煤质指标\"，主要目的是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 8,
+    "question": "采购经理说这批煤的\"性质\"符合要求，指的是？",
+    "verdict": "DROP",
+    "reason": "Gate4：概念抽象（煤的性质）；Gate3：概念系列冗余"
+   },
+   {
+    "level": 2,
+    "index_in_level": 10,
+    "question": "贸易合同中约定煤炭\"收到基水分（Mar）\"，该指标主要影响？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 2,
+    "index_in_level": 16,
+    "question": "电厂验收煤炭时查看\"灰分（A）\"指标，灰分过高会导致？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 19,
+    "question": "市场上有\"蒙煤\"\"澳煤\"\"印尼煤\"等叫法，这种分类方式是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 20,
+    "question": "港口堆场按密度区分不同批次煤炭，密度指标主要用于？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 2,
+    "index_in_level": 31,
+    "question": "国内煤炭贸易合同引用\"国标分类\"（GB/T 5751），其意义是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 44,
+    "question": "买卖双方结算动力煤货款时，最看重的\"发热量\"指标是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 47,
+    "question": "煤矿对新入职员工开展\"煤田地质知识培训\"，主要目的是？",
+    "verdict": "DROP",
+    "reason": "Gate4：培训目的正能量化（提升专业水平）"
+   },
+   {
+    "level": 2,
+    "index_in_level": 52,
+    "question": "炼焦煤采购必须关注\"粘结性\"，因为它决定煤的？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 57,
+    "question": "长期供货中某矿煤质指标出现波动，采购方应当？",
+    "verdict": "DROP",
+    "reason": "Gate3：与L1#239（煤质波动应对）知识点重复"
+   },
+   {
+    "level": 2,
+    "index_in_level": 74,
+    "question": "银行评估煤矿贷款时做\"储量评价\"，主要看的是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 80,
+    "question": "电厂把采购的煤归为\"动力煤\"，核心特征是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与L1#21（动力煤定义）跨关重复"
+   },
+   {
+    "level": 2,
+    "index_in_level": 88,
+    "question": "煤炭贸易合同中引用\"分类标准\"（GB/T 5751），其作用是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#31（GB/T 5751作用）知识点重复"
+   },
+   {
+    "level": 2,
+    "index_in_level": 89,
+    "question": "港口检验员准确\"识别\"来煤煤种，通常依靠？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 99,
+    "question": "港口堆场对不同煤种分开堆存（\"分类管理\"），主要原因是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 100,
+    "question": "煤矿把探明的储量转化为\"实际开发\"，才能实现？",
+    "verdict": "DROP",
+    "reason": "Gate4：资源价值变现正能量化"
+   },
+   {
+    "level": 2,
+    "index_in_level": 103,
+    "question": "电厂采购\"发电用煤\"，对煤质最核心的要求是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 113,
+    "question": "煤化工企业采购\"化工用煤\"，主要利用煤的？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 116,
+    "question": "贸易结算常用\"收到基（ar）\"基准，需要做\"收到基换算\"是因为？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 128,
+    "question": "采购时\"煤种用途匹配\"不到位，最直接的后果是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 153,
+    "question": "港口煤堆需要\"储存条件\"控制（防雨防潮），其原因是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 161,
+    "question": "签订煤炭购销合同时\"煤质合同约定\"，应当明确？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 165,
+    "question": "到货煤质与合同不符时，\"煤质支撑索赔\"需要？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 171,
+    "question": "港口煤炭\"计量管理\"（煤量核算），主要作用是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 175,
+    "question": "港口装船\"装卸要求\"（装卸规范）主要关注？",
+    "verdict": "DROP",
+    "reason": "REWORK后重走四Gate：主题漂移转DROP"
+   },
+   {
+    "level": 2,
+    "index_in_level": 243,
+    "question": "港口装卸频繁发生的\"装卸损耗\"主要来自？",
+    "verdict": "DROP",
+    "reason": "Gate2：港口装卸损耗主题偏L5；Gate3：与#175重复"
+   },
+   {
+    "level": 2,
+    "index_in_level": 251,
+    "question": "煤质报告作为\"结算依据\"（结算凭证），其作用体现在？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 264,
+    "question": "印尼常见的\"低阶煤\"（low rank coal）主要是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 321,
+    "question": "印尼\"褐煤\"（lignite）的主要用途是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 336,
+    "question": "采制样\"船舶采样\"（船载煤取样）的特点是？",
+    "verdict": "DROP",
+    "reason": "REWORK后重走四Gate：主题漂移转DROP"
+   },
+   {
+    "level": 2,
+    "index_in_level": 437,
+    "question": "印尼\"烟煤\"（bituminous）的分布特点是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 469,
+    "question": "印尼煤炭\"资源量\"（resources）全球排名？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 483,
+    "question": "印尼煤炭\"开采成本\"（mining cost）特点是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 497,
+    "question": "印尼煤炭\"品质分布\"（quality）特点是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 504,
+    "question": "煤质\"仲裁检验\"（arbitration）是？",
+    "verdict": "DROP",
+    "reason": "REWORK后重走四Gate：主题漂移转DROP"
+   },
+   {
+    "level": 2,
+    "index_in_level": 508,
+    "question": "印尼煤炭\"硫分\"（sulfur）整体特点？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 565,
+    "question": "印尼动力煤指数ICI-1档对应的典型热值大约是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 571,
+    "question": "热值4200 kcal/kg GAR的印尼煤，折算成NAR大约是多少？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 593,
+    "question": "印尼典型动力煤（4200 GAR）的特点是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 596,
+    "question": "印尼煤在中国\"电厂\"（power plant）的应用？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 2,
+    "index_in_level": 599,
+    "question": "印尼煤按ICI指数定价时，热值每降低一个档位，价格通常？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 2,
+    "index_in_level": 600,
+    "question": "印尼\"ECP\"（East Kalimantan Coal）煤种常见热值档位是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 603,
+    "question": "印尼煤在中国\"水泥厂\"（cement）的用途？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 2,
+    "index_in_level": 610,
+    "question": "印尼煤与\"中国本地煤\"（domestic coal）掺配？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 2,
+    "index_in_level": 617,
+    "question": "印尼煤\"掺烧比例\"（blend ratio）考虑？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 2,
+    "index_in_level": 620,
+    "question": "贸易合同中约定热值通常采用\"收到基低位发热量\"的原因是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 624,
+    "question": "印尼煤用于\"循环流化床\"（CFB）锅炉？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 628,
+    "question": "印尼\"高热值煤\"（6322 GAR）主要产自？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 631,
+    "question": "印尼煤用于\"煤粉炉\"（pulverized boiler）注意？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 2,
+    "index_in_level": 638,
+    "question": "印尼煤\"自燃倾向\"（spontaneous combustion）？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   }
+  ],
+  "3": [
+   {
+    "level": 3,
+    "index_in_level": 5,
+    "question": "东加里曼丹的煤大多通过河运集港装船，黄老师考察货源时应优先关注哪个环节？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 21,
+    "question": "与印尼矿方洽谈前，黄老师应优先核实对方的哪些基础资质？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 25,
+    "question": "黄老师对某新矿源做\"尽职调查\"（due diligence）时，下列哪项最应纳入核查范围？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 29,
+    "question": "某矿企出示的\"采矿许可证\"已过期，黄老师应如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 31,
+    "question": "矿方说\"这矿的煤和我们一直合作的电厂用煤完全一样\"，黄老师应如何对待？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 32,
+    "question": "黄老师准备签长期合同，合同中关于煤质指标最应明确的是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 42,
+    "question": "黄老师同时跟踪多个在谈矿源时，\"煤源台账\"（sourcing ledger）最应记录？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 64,
+    "question": "装港检验显示硫分超出合同基准，按合同\"硫分扣罚\"条款应如何处理？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#33（品质不符处理）知识点重复"
+   },
+   {
+    "level": 3,
+    "index_in_level": 66,
+    "question": "印尼矿方要求以极低价格\"不走合同\"现金交易，黄老师应如何判断？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 68,
+    "question": "黄老师与矿方签的\"长协价\"（contract price）通常如何确定？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 71,
+    "question": "印尼煤出口要求矿方持有合法证照，下列哪种情况最应警惕？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#21/#502（矿权与出口许可核实）知识点重复"
+   },
+   {
+    "level": 3,
+    "index_in_level": 85,
+    "question": "矿方要求黄老师用\"电汇\"（T/T）预付全款，最应警惕的风险是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 90,
+    "question": "黄老师与矿方谈判采购条款时，最应坚守的底线是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 105,
+    "question": "黄老师连续几次在某港口装船都遇到排队延误，应如何改进采购流程？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 112,
+    "question": "黄老师首次接触一个新矿源，应优先识别哪些风险？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#25（尽职调查范围）知识点重复"
+   },
+   {
+    "level": 3,
+    "index_in_level": 131,
+    "question": "矿方要求用第三方个人账户收货款，黄老师应如何判断？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#66（异常付款方式风险）知识点重复"
+   },
+   {
+    "level": 3,
+    "index_in_level": 144,
+    "question": "黄老师审阅矿方合同草稿时，最应重点核对的是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 145,
+    "question": "装港检验发现煤质略低于合同标准但仍可接受，黄老师应如何处置？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#33/#64（品质不符处理）知识点重复"
+   },
+   {
+    "level": 3,
+    "index_in_level": 168,
+    "question": "印尼商务伙伴习惯先寒暄再谈正事，黄老师应如何应对？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 175,
+    "question": "黄老师向矿方转达检验结果时，应如何确保信息准确？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 189,
+    "question": "黄老师收到下游客户的煤款后，应如何处理与矿方的尾款？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 203,
+    "question": "黄老师考察矿源前，应如何确认对方提供的储量数据可靠？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#17（储量可信度）知识点重复"
+   },
+   {
+    "level": 3,
+    "index_in_level": 319,
+    "question": "煤炭需求受\"季节因素\"（seasonal）影响，黄老师应如何应对？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 331,
+    "question": "矿源供应因洪水等不可抗力中断，黄老师在合同中应如何约定？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 502,
+    "question": "选择印尼煤矿供应商时，最应优先核实的是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#21（矿业许可核实）知识点重复"
+   },
+   {
+    "level": 3,
+    "index_in_level": 512,
+    "question": "黄老师考察煤矿时，如何判断煤矿的开采条件？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#4（实地考察重点）知识点重复"
+   },
+   {
+    "level": 3,
+    "index_in_level": 584,
+    "question": "考察印尼煤矿时，为什么要了解市场供需情况？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 3,
+    "index_in_level": 610,
+    "question": "印尼矿区'应急演练'（drill）应当如何组织？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 98,
+    "question": "黄老师付款前最应确认哪项条件已满足？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 122,
+    "question": "合同签订后，黄老师应如何跟踪矿方履约？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 695,
+    "question": "在印尼矿区考察时，应优先查看？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#4/#512（矿区考察核验）知识点重复"
+   },
+   {
+    "level": 3,
+    "index_in_level": 362,
+    "question": "煤炭资源的\"使用权\"（usage right）应如何取得？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 3,
+    "index_in_level": 403,
+    "question": "煤炭资源\"权属清晰\"（clear title）为什么重要？",
+    "verdict": "DROP",
+    "reason": "Gate4：权属清晰意义类抽象题"
+   },
+   {
+    "level": 3,
+    "index_in_level": 459,
+    "question": "煤炭\"共伴生资源\"（associated resources）应如何对待？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 0,
+    "question": "黄老师第一次去印尼找煤源，向导建议先到煤炭主产区看看。印尼最大的煤炭产区是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 1,
+    "question": "初到印尼寻找煤源时，以下哪条是获取一手煤源最直接的渠道？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 2,
+    "question": "除东加里曼丹外，印尼另一个重要煤炭产区集中在哪座大岛上？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 3,
+    "question": "矿方给了黄老师一份煤质规格书（specification），为核实其真实性，最稳妥的做法是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 4,
+    "question": "黄老师到矿区实地考察，重点应确认以下哪项信息？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 6,
+    "question": "评估一个煤矿的煤炭资源量时，按地质可信度由高到低分为哪三类？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 7,
+    "question": "黄老师要判断一家印尼矿企是否合法开采，应核验哪类证照？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#21（IUP核验）知识点重复"
+   },
+   {
+    "level": 3,
+    "index_in_level": 8,
+    "question": "两家矿都报出相近热值的煤，黄老师比较货源时还应重点看哪项指标？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 9,
+    "question": "印尼多数中小矿旱季与雨季产量差异明显，黄老师评估货源稳定性时应关注？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 10,
+    "question": "收到多家矿企报价后，黄老师做\"货源比价\"（sourcing comparison），核心是比较什么？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 11,
+    "question": "为保证连续采购，黄老师与矿方签订\"长期供货协议\"，主要好处是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 12,
+    "question": "矿方提供的煤样与实际装船批次品质往往有差异，为规避\"以次充好\"风险，黄老师应？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 14,
+    "question": "黄老师想比较同一产区不同矿的煤质，最可靠的数据来源是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#3/#12（第三方检验）知识点重复"
+   },
+   {
+    "level": 3,
+    "index_in_level": 15,
+    "question": "印尼煤炭现货市场上，除矿方直采外，还有哪类常见货源渠道？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 17,
+    "question": "某矿宣称自己\"储量很大\"，黄老师判断其可信度时，下列哪种表述最可信？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 18,
+    "question": "矿区坑口交货与港口交货两种方式，对买方的主要区别是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 19,
+    "question": "收集煤源信息时，黄老师发现某中间商报价远低于市场行情，最可能的解释是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 20,
+    "question": "印尼矿区开发前的地质勘查，按阶段顺序应为？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 23,
+    "question": "以下哪种做法能帮助黄老师建立可靠的\"煤源信息库\"？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#42（煤源台账）知识点重复"
+   },
+   {
+    "level": 3,
+    "index_in_level": 24,
+    "question": "黄老师收到一份印尼煤报价，规格写\"GAR 5500 kcal/kg\"，其中\"GAR\"表示什么基准？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 26,
+    "question": "印尼雨季时东加里曼丹河运受阻，通常会导致什么后果？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#9（雨季发运影响）知识点重复"
+   },
+   {
+    "level": 3,
+    "index_in_level": 27,
+    "question": "印尼部分煤炭通过政府或交易所平台挂牌交易，此类渠道的特点是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 28,
+    "question": "几家中国电厂联合向印尼矿方集中采购同一批次煤，这种\"集采\"（pooled procurement）的主要好处是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 30,
+    "question": "评估一处煤源的可达性时，黄老师应重点考察？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 33,
+    "question": "煤样检测结果与合同规格不符时，黄老师正确的做法是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 3,
+    "index_in_level": 35,
+    "question": "黄老师想了解近期印尼煤现货行情，最有效的参考是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   }
+  ],
+  "4": [
+   {
+    "level": 4,
+    "index_in_level": 542,
+    "question": "煤炭贸易合同中，争议解决条款通常如何约定？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 665,
+    "question": "煤炭贸易谈判中，以下哪种信息不应该透露给对方？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 811,
+    "question": "考察煤矿时，为什么要了解'当地基础设施'？",
+    "verdict": "DROP",
+    "reason": "Gate2：当地基础设施属L3矿区考察主题"
+   },
+   {
+    "level": 4,
+    "index_in_level": 284,
+    "question": "谈判中如何利用'信息优势'（information advantage）？",
+    "verdict": "DROP",
+    "reason": "Gate4：谈判术语词典化（信息优势）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 612,
+    "question": "谈判'报价'（offer）的合理区间应如何确定？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 770,
+    "question": "考察煤矿时，为什么要了解'周边竞争情况'？",
+    "verdict": "DROP",
+    "reason": "Gate2：周边竞争情况属L3矿区考察主题"
+   },
+   {
+    "level": 4,
+    "index_in_level": 519,
+    "question": "煤炭贸易合同中，数量条款通常如何约定？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 525,
+    "question": "煤炭贸易中，检验条款通常如何约定？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 572,
+    "question": "煤炭贸易中，合同生效条款通常如何约定？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 584,
+    "question": "煤炭贸易中，合同修改条款通常如何约定？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 590,
+    "question": "煤炭贸易合同中，转让条款通常如何约定？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 677,
+    "question": "煤炭贸易谈判中，遇到僵局时应该怎么做？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 743,
+    "question": "煤矿的'发热量'指标为什么重要？",
+    "verdict": "DROP",
+    "reason": "Gate2：发热量指标属L2主题；Gate4：意义类"
+   },
+   {
+    "level": 4,
+    "index_in_level": 760,
+    "question": "煤矿的'全水分'指标为什么重要？",
+    "verdict": "DROP",
+    "reason": "Gate2：全水分指标属L2主题；Gate4：意义类"
+   },
+   {
+    "level": 4,
+    "index_in_level": 780,
+    "question": "煤矿的'开采年限'为什么重要？",
+    "verdict": "DROP",
+    "reason": "Gate2：开采年限属L3资源主题；Gate4：意义类"
+   },
+   {
+    "level": 4,
+    "index_in_level": 826,
+    "question": "煤矿的'技术支持能力'为什么重要？",
+    "verdict": "DROP",
+    "reason": "Gate2：技术支持属L3尽调主题；Gate4：意义类"
+   },
+   {
+    "level": 4,
+    "index_in_level": 841,
+    "question": "煤矿的'应急能力'为什么重要？",
+    "verdict": "DROP",
+    "reason": "Gate2：应急能力属L3尽调主题；Gate4：意义类"
+   },
+   {
+    "level": 4,
+    "index_in_level": 765,
+    "question": "煤矿的'环保合规'为什么重要？",
+    "verdict": "DROP",
+    "reason": "Gate2：环保合规属L3尽调主题；Gate4：意义类"
+   },
+   {
+    "level": 4,
+    "index_in_level": 790,
+    "question": "煤矿的'安全记录'为什么重要？",
+    "verdict": "DROP",
+    "reason": "Gate2：安全记录属L3尽调主题；Gate4：意义类"
+   },
+   {
+    "level": 4,
+    "index_in_level": 465,
+    "question": "Incoterms 2020 中'DAT'更名为什么？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 10,
+    "question": "谈判信息中的'政策信息'（policy）指？",
+    "verdict": "DROP",
+    "reason": "Gate4：术语词典化（政策信息指）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 15,
+    "question": "谈判信息中的'煤质信息'（quality）指？",
+    "verdict": "DROP",
+    "reason": "Gate4：术语词典化（煤质信息指）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 19,
+    "question": "谈判中'首因效应'（primacy effect）指？",
+    "verdict": "DROP",
+    "reason": "Gate4：术语词典化（首因效应）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 46,
+    "question": "谈判礼仪中的'告辞礼仪'（leave-taking）指？",
+    "verdict": "DROP",
+    "reason": "Gate4：术语词典化（告辞礼仪）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 55,
+    "question": "谈判中的'框架效应'（framing effect）指？",
+    "verdict": "DROP",
+    "reason": "Gate4：术语词典化（框架效应）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 93,
+    "question": "谈判对象'客户'（customer）指？",
+    "verdict": "DROP",
+    "reason": "Gate4：术语词典化（客户指）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 135,
+    "question": "谈判风险中的'利益风险'（interest risk）指？",
+    "verdict": "DROP",
+    "reason": "Gate4：术语词典化（利益风险）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 203,
+    "question": "谈判前的'目标设定'（goal setting）应包括？",
+    "verdict": "PASS",
+    "reason": "REWORK后重走四Gate：干扰项重做达标"
+   },
+   {
+    "level": 4,
+    "index_in_level": 216,
+    "question": "谈判文书'确认函'（confirmation）指？",
+    "verdict": "DROP",
+    "reason": "Gate4：术语词典化（确认函指）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 255,
+    "question": "谈判中的'信息优势'（information advantage）指？",
+    "verdict": "DROP",
+    "reason": "Gate4：术语词典化（信息优势指）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 311,
+    "question": "谈判中的'条件交换'（trade-off）指？",
+    "verdict": "DROP",
+    "reason": "Gate4：术语词典化（条件交换）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 316,
+    "question": "谈判中的'书面确认'（written confirmation）指？",
+    "verdict": "DROP",
+    "reason": "Gate4：术语词典化（书面确认）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 318,
+    "question": "煤炭'交期谈判'（delivery schedule）指？",
+    "verdict": "DROP",
+    "reason": "Gate4：术语词典化（交期谈判）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 329,
+    "question": "煤炭'违约条款谈判'（breach terms）指？",
+    "verdict": "DROP",
+    "reason": "Gate4：术语词典化（违约条款谈判）"
+   },
+   {
+    "level": 4,
+    "index_in_level": 513,
+    "question": "在 CIF 条款下，谁负责租船订舱和购买保险？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 515,
+    "question": "FOB 术语下，装船费用的承担方通常是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 531,
+    "question": "煤炭贸易合同中，价格调整条款通常针对哪些指标？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#598（扣罚公式）知识点重复"
+   },
+   {
+    "level": 4,
+    "index_in_level": 541,
+    "question": "煤炭谈判'品质与价格'（quality-price）关系指？",
+    "verdict": "DROP",
+    "reason": "Gate4：品质价格关系概念化"
+   },
+   {
+    "level": 4,
+    "index_in_level": 550,
+    "question": "INCOTERMS 2020 中'FAS'（船边交货）适用于？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 554,
+    "question": "煤炭贸易合同中，所有权转移条款通常在什么时候生效？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 556,
+    "question": "印尼煤贸易中'DES/DEQ'等旧术语现在？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 566,
+    "question": "煤炭贸易合同中，保密条款通常包括哪些内容？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 571,
+    "question": "煤炭谈判'价格指数'（index）参考？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 573,
+    "question": "FOB 条件下，装船费（装卸作业）一般由谁承担？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#515（FOB装船费用）知识点重复"
+   },
+   {
+    "level": 4,
+    "index_in_level": 587,
+    "question": "煤炭贸易合同'数量'（quantity）条款的常见约定是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#519（数量条款）知识点重复"
+   },
+   {
+    "level": 4,
+    "index_in_level": 596,
+    "question": "煤炭贸易中，合同终止条款通常包括哪些情况？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 597,
+    "question": "采用 FOB 出口印尼煤，装港检验通常由谁安排？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 598,
+    "question": "煤质指标超出合同范围时，'扣罚公式'（penalty）的约定是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 609,
+    "question": "煤炭购销合同中'质量条款'应明确哪些内容？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 615,
+    "question": "煤炭贸易合同中'数量条款'常见约定方式是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#519（数量条款）知识点重复"
+   },
+   {
+    "level": 4,
+    "index_in_level": 626,
+    "question": "信用证（LC）结算方式下，银行承担什么角色？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 648,
+    "question": "煤炭贸易中'凭装港检验报告结算'意味着？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 655,
+    "question": "煤炭合同'滞期费'（demurrage）适用于？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 671,
+    "question": "在合同条款谈判中，以下哪种做法是正确的？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 678,
+    "question": "煤炭贸易合同中'检验争议'的常见解决方式是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 692,
+    "question": "煤炭合同'审阅'（review）的最佳时点是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 702,
+    "question": "印尼煤合同以'美元计价'时，汇率风险通常由谁承担？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 707,
+    "question": "在国际煤炭贸易合同中，不可抗力（force majeure）通常指？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 713,
+    "question": "煤炭长期供货合同中的'照付不议'（take-or-pay）条款是指？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 4,
+    "index_in_level": 719,
+    "question": "在煤炭采购谈判中，以下哪种策略有助于获得更有利的价格？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   }
+  ],
+  "5": [
+   {
+    "level": 5,
+    "index_in_level": 494,
+    "question": "装船作业的“装船顺序”（sequence）应如何安排？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 593,
+    "question": "装船作业中，以下哪种情况应该立即撤离人员？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 609,
+    "question": "装船过程中，发现煤中有大量杂物（如木头、石头），应该怎么做？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 610,
+    "question": "装煤作业时，船上明火作业（电焊等）应该？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 615,
+    "question": "装船过程中，以下哪种天气条件应该停止作业？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 622,
+    "question": "装船过程中发现煤中有大量矸石，船方应该？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#609（煤中异物处理）知识点重复"
+   },
+   {
+    "level": 5,
+    "index_in_level": 662,
+    "question": "装船机“故障”（breakdown）时应怎么处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 700,
+    "question": "装船过程中船舶横倾超过允许值时，应当怎么办？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 704,
+    "question": "装船“货物质量问题”（quality issue）时应怎么处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 815,
+    "question": "装港吃水受限，船方建议“减载装货”，此时货量如何确定？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 259,
+    "question": "装船前，货舱舱盖的水密性检查应该怎么做？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 282,
+    "question": "装船机'皮带跑偏'（belt deviation）如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 287,
+    "question": "装船'恶劣天气'（bad weather）时如何作业？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#615/#698（恶劣天气作业）知识点重复"
+   },
+   {
+    "level": 5,
+    "index_in_level": 693,
+    "question": "装船时，发现货舱内存在有害气体（如甲烷），应该怎么办？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 698,
+    "question": "装船遇“恶劣天气”（bad weather）时应怎么处理？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#615（恶劣天气作业）知识点重复"
+   },
+   {
+    "level": 5,
+    "index_in_level": 728,
+    "question": "煤炭驳船（Barge）在运输途中发生沉没，责任如何划定？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 780,
+    "question": "装船“取样时机”（sampling time）应如何把握？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 806,
+    "question": "印尼装港“星期六/日作业”（weekend working）通常如何安排？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 807,
+    "question": "装港检验“证书”（certificate）出具后，买卖双方如何做？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 840,
+    "question": "装船前验舱发现上航次是“硫磺”，应如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 533,
+    "question": "装船时如何防止煤炭自燃？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 545,
+    "question": "装船完成后，舱盖应该如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 563,
+    "question": "装船完成后，质量样品应该如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 575,
+    "question": "装船作业中，粉尘控制应该怎么做？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 587,
+    "question": "装船作业中，发现有人落水应该怎么办？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 669,
+    "question": "装船时，如何通过水尺计重确定装船货量？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 68,
+    "question": "煤炭'装载顺序'（loading sequence）应如何安排？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#494（装船顺序）知识点重复"
+   },
+   {
+    "level": 5,
+    "index_in_level": 116,
+    "question": "煤炭'装载速率'（loading rate）应如何控制？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#493（装货速率）知识点重复"
+   },
+   {
+    "level": 5,
+    "index_in_level": 156,
+    "question": "煤炭'装载中断'（interruption）应如何处理？",
+    "verdict": "DROP",
+    "reason": "未通过四Gate"
+   },
+   {
+    "level": 5,
+    "index_in_level": 230,
+    "question": "装载机'铲斗磨损'（wear）如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 471,
+    "question": "装船'船岸通信'（ship-shore communication）指？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#499（船岸通信）知识点重复"
+   },
+   {
+    "level": 5,
+    "index_in_level": 475,
+    "question": "装船作业中，需要实时上传至港口和货方信息系统的数据是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 476,
+    "question": "煤炭装船前确认“备货就绪”（cargo readiness）时，以下哪项属于必须落实的内容？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 477,
+    "question": "装船作业现场强调“作业纪律”，其主要含义是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 478,
+    "question": "装船调度中的“目标管理”（targets）主要指对什么进行设定与跟踪？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 479,
+    "question": "装船完成后进行的“最终检验”（final inspection）主要目的是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 480,
+    "question": "印尼装港推进“绿色港口”（green port）建设，核心要求是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 481,
+    "question": "装船完毕后进行的“完工结算”主要是处理什么？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 482,
+    "question": "装船机“溜筒伸缩”（telescopic）机构的主要作用是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 483,
+    "question": "印尼装港采用装船机直接装大船时，典型装船速率大致为？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 484,
+    "question": "装船机“司机室”（cabin）在作业中的功能是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 485,
+    "question": "散货船装煤后控制“吃水”（draft）的直接依据是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 486,
+    "question": "装船机“检修平台”（platform）主要用于？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 487,
+    "question": "装船遇雨停工后，作业记录的正确处理方式是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 488,
+    "question": "装船机“自动化”（automation）升级后，最典型的变化是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 489,
+    "question": "装船时为保证船体平衡，正确的装载做法是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#494（分舱均匀装载）知识点重复"
+   },
+   {
+    "level": 5,
+    "index_in_level": 490,
+    "question": "散货装船后的“平舱”（trimming）操作主要目的是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 491,
+    "question": "装船前确认船舶“适货性”（cargo worthiness）的责任主体是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 492,
+    "question": "装船计划中的“舱位分配”（allocation）是指？",
+    "verdict": "DROP",
+    "reason": "Gate4：舱位分配概念化；Gate3：与#494重复"
+   },
+   {
+    "level": 5,
+    "index_in_level": 493,
+    "question": "装船计划中的“装货速率”（loading rate）主要由什么决定？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 495,
+    "question": "装船作业前的“舱内检查”（hold inspection）主要检查什么？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 496,
+    "question": "装船中的“局部加载”（partial load）操作是指？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#494（局部加载/分舱分步）知识点重复"
+   },
+   {
+    "level": 5,
+    "index_in_level": 497,
+    "question": "印尼装港的“潮汐”（tide）对装船作业的主要影响是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 498,
+    "question": "装船过程中需控制的“船体应力”（stress）是指？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 499,
+    "question": "装船作业中“船岸通信”（ship-shore communication）通常采用什么方式？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 500,
+    "question": "装船过程中必须控制的船舶“稳性”（stability）是指？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 501,
+    "question": "装船时发现煤流中出现大量石块，正确的处理是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#609（石块异物处理）知识点重复"
+   },
+   {
+    "level": 5,
+    "index_in_level": 504,
+    "question": "装船作业中的“完工吃水”（final draft）是指？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 5,
+    "index_in_level": 505,
+    "question": "煤炭装船时采用“分层装载”（layer loading）的主要目的是？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#494/#489（分层均匀装载）知识点重复"
+   },
+   {
+    "level": 5,
+    "index_in_level": 506,
+    "question": "装船中判定“超载”（overload）的直接依据是？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   }
+  ],
+  "6": [
+   {
+    "level": 6,
+    "index_in_level": 226,
+    "question": "散货船“满载吃水”与“淡水吃水”相比如何？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（满载/淡水吃水），与煤炭质量检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 76,
+    "question": "煤炭质量验收出现“验收异议”应如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 664,
+    "question": "煤炭检验报告的“有效期”（validity）通常如何界定？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 700,
+    "question": "装港与卸港检验结果差异超出允许范围时，应如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 761,
+    "question": "煤炭船“货物温度”（cargo temperature）超过警戒值时应怎么做？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 790,
+    "question": "卖方提供装港检验报告为“电子扫描件”且无签章，买方应怎么做？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 800,
+    "question": "卸港检验灰分略超合同、装港检验合格，买方索赔时应怎么做？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#700（装港卸港差异处理）知识点重复"
+   },
+   {
+    "level": 6,
+    "index_in_level": 804,
+    "question": "检验报告水分按收到基、合同要求干燥基，应怎么处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 810,
+    "question": "合同约定检验标准为GB、卖方坚持用ISO报告，应怎么办？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 816,
+    "question": "检验报告热值单位为“kcal/kg GAR”、合同为“MJ/kg NAR”，应怎么办？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#804（基准换算）知识点重复"
+   },
+   {
+    "level": 6,
+    "index_in_level": 18,
+    "question": "煤炭检验标准为什么要“更新”？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 20,
+    "question": "煤炭质量验收时机应如何选择？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 28,
+    "question": "煤炭质量验收地点应如何确定？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#20（验收时机/地点约定）知识点重复"
+   },
+   {
+    "level": 6,
+    "index_in_level": 768,
+    "question": "装船时如何通过“吃水计重法”（Draft Survey）确定装船量？",
+    "verdict": "DROP",
+    "reason": "Gate3：与L5#669（水尺计重）跨关重复"
+   },
+   {
+    "level": 6,
+    "index_in_level": 785,
+    "question": "装港检验5000大卡、卸港检验只有4700大卡，买方应怎么做？",
+    "verdict": "DROP",
+    "reason": "Gate3：与#700（装港卸港差异处理）知识点重复"
+   },
+   {
+    "level": 6,
+    "index_in_level": 153,
+    "question": "煤炭标准检验“检验争议”应如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 529,
+    "question": "散货船“横倾”（list）如何调整？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（横倾调整），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 427,
+    "question": "海运“装卸时间”（laytime）如何起算？",
+    "verdict": "DROP",
+    "reason": "Gate2：租船题（装卸时间起算），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 417,
+    "question": "海运“台风”（typhoon）应如何应对？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（台风应对），L6硬红线明确反例"
+   },
+   {
+    "level": 6,
+    "index_in_level": 445,
+    "question": "海运“货物变质”（deterioration）风险如何管控？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（货物变质），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 542,
+    "question": "航次收入“运费”（freight）如何计算？",
+    "verdict": "DROP",
+    "reason": "Gate2：租船题（运费计算），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 586,
+    "question": "取样过程中发现煤中有异物（铁块、木头）应如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 604,
+    "question": "采样时若煤中含水较高、易堵料，应如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 615,
+    "question": "煤炭灰分检验中以下哪种是国际通用标准方法？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 650,
+    "question": "什么是煤炭检验中的“系统取样”（systematic sampling）？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 668,
+    "question": "煤炭检验中SGS、Intertek、Bureau Veritas等机构的证书有何意义？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 805,
+    "question": "煤炭运输“货量争议”（quantity dispute）如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 0,
+    "question": "在煤堆上取样，取样点应如何布置？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 46,
+    "question": "煤炭质量“指标”如何分类？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 53,
+    "question": "煤炭检验标准中的“抽样规则”有什么作用？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 58,
+    "question": "煤炭质量“指标超标”应如何处理？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 100,
+    "question": "煤炭质量争议中“复检机构”应如何选择？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 150,
+    "question": "煤炭质量控制“控制效果”如何评估？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 206,
+    "question": "散货船“备舱”（hold preparation）应在什么时间完成？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（备舱时间），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 311,
+    "question": "散货船“入级”（classification）是指什么？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（船舶入级），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 341,
+    "question": "租船“装卸条款”（laytime）约定什么？",
+    "verdict": "DROP",
+    "reason": "Gate2：租船题（装卸条款），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 369,
+    "question": "港口“装卸机械”（crane）包括什么？",
+    "verdict": "DROP",
+    "reason": "Gate2：港口题（装卸机械），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 385,
+    "question": "港口“装卸设备”（handling equipment）包括什么？",
+    "verdict": "DROP",
+    "reason": "Gate2：港口题（装卸设备），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 406,
+    "question": "港口“通关效率”（clearance efficiency）影响什么？",
+    "verdict": "DROP",
+    "reason": "Gate2：港口题（通关效率），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 467,
+    "question": "散货船“热带载重线”（tropical）与夏季载重线的区别？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（载重线），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 501,
+    "question": "散货船“GM值”（metacentric height）过小会导致什么？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（GM值稳性），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 530,
+    "question": "航次成本“港口费”（port charges）包括什么？",
+    "verdict": "DROP",
+    "reason": "Gate2：港口题（港口费），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 534,
+    "question": "散货船装煤的“舱容系数”（stowage factor）约为多少？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（舱容系数），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 559,
+    "question": "散货船“螺旋桨浸深”（propeller immersion）不足会怎样？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（螺旋桨浸深），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 564,
+    "question": "散货船装煤的“火灾风险”（fire risk）主要来自什么？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（火灾风险），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 568,
+    "question": "装船过程中进行皮带取样，取样点应在什么位置？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 570,
+    "question": "煤炭船“救生设备”（life-saving）的检查由谁负责？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（救生设备），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 571,
+    "question": "散货船“系泊设备”（mooring）包括什么？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（系泊设备），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 582,
+    "question": "程租船合同“受载期”（laycan）包括什么？",
+    "verdict": "DROP",
+    "reason": "Gate2：租船题（laycan），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 584,
+    "question": "散货船“稳性校核”（stability check）应在何时进行？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（稳性校核），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 589,
+    "question": "印尼东加里曼丹到中国南方的“航程”（voyage）大约多久？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（航程），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 601,
+    "question": "印尼煤到“印度”（India）的航程经过哪里？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（印度航线），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 605,
+    "question": "煤炭检验报告的“不确定度”（uncertainty）表示什么？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 609,
+    "question": "煤炭水分检验中，全水分测定应在什么温度下干燥？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 614,
+    "question": "散货船“吃水限制”（draft limit）由什么决定？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（吃水限制），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 635,
+    "question": "程租船“装卸率”（loading/discharging rate）由什么确定？",
+    "verdict": "DROP",
+    "reason": "Gate2：租船题（装卸率），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 637,
+    "question": "散货船“航海日志”（logbook）记录什么？",
+    "verdict": "DROP",
+    "reason": "Gate2：海运题（航海日志），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 641,
+    "question": "程租船“运费”（freight）的支付时间通常是？",
+    "verdict": "DROP",
+    "reason": "Gate2：租船题（运费支付），与检验无关"
+   },
+   {
+    "level": 6,
+    "index_in_level": 644,
+    "question": "国际标准中煤炭检验的取样方法主要参照哪个标准？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 646,
+    "question": "煤炭检验“质量控制”（QC）的手段包括什么？",
+    "verdict": "PASS",
+    "reason": "四Gate全部通过"
+   },
+   {
+    "level": 6,
+    "index_in_level": 260,
+    "question": "船舶舱内取样时，每个舱至少应取几个点？",
+    "verdict": "PASS",
+    "reason": "补题：候选池外按四Gate人工精挑入选"
+   },
+   {
+    "level": 6,
+    "index_in_level": 459,
+    "question": "煤炭取样中“人为挑选”（cherry picking）的后果是什么？",
+    "verdict": "PASS",
+    "reason": "补题：候选池外按四Gate人工精挑入选"
+   },
+   {
+    "level": 6,
+    "index_in_level": 555,
+    "question": "化验结果超差时应该怎么做？",
+    "verdict": "PASS",
+    "reason": "补题：候选池外按四Gate人工精挑入选"
+   },
+   {
+    "level": 6,
+    "index_in_level": 638,
+    "question": "在煤炭检验中“仲裁样”的正确用途是什么？",
+    "verdict": "PASS",
+    "reason": "补题：候选池外按四Gate人工精挑入选"
+   },
+   {
+    "level": 6,
+    "index_in_level": 662,
+    "question": "煤炭检验结果出现异常偏高的热值，以下哪种原因最可能导致？",
+    "verdict": "PASS",
+    "reason": "补题：候选池外按四Gate人工精挑入选"
+   },
+   {
+    "level": 6,
+    "index_in_level": 680,
+    "question": "以下哪种元素是衡量煤炭对锅炉腐蚀风险的关键指标？",
+    "verdict": "PASS",
+    "reason": "补题：候选池外按四Gate人工精挑入选"
+   },
+   {
+    "level": 6,
+    "index_in_level": 693,
+    "question": "煤炭检验中“水分”对热值结算的影响是什么？",
+    "verdict": "PASS",
+    "reason": "补题：候选池外按四Gate人工精挑入选"
+   },
+   {
+    "level": 6,
+    "index_in_level": 716,
+    "question": "以下哪项煤炭指标对火力发电厂脱硫系统设计影响最大？",
+    "verdict": "PASS",
+    "reason": "补题：候选池外按四Gate人工精挑入选"
+   }
+  ]
+ },
+ "total": {
+  "PASS": 251,
+  "DROP": 120
+ },
+ "pass": 220,
+ "rework": 24,
+ "drop": 116,
+ "levels_stat": {
+  "1": {
+   "PASS": 41,
+   "DROP": 22
+  },
+  "2": {
+   "DROP": 11,
+   "PASS": 49
+  },
+  "3": {
+   "PASS": 46,
+   "DROP": 14
+  },
+  "4": {
+   "PASS": 32,
+   "DROP": 28
+  },
+  "5": {
+   "PASS": 48,
+   "DROP": 12
+  },
+  "6": {
+   "DROP": 33,
+   "PASS": 35
+  }
+ }
+}
