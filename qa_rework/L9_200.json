@@ -1,0 +1,9602 @@
+[
+ {
+  "question": "煤炭贸易实战中，客户开发（Customer Dev）？",
+  "options": [
+   {
+    "text": "仅发邮件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅降价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "需求调研、拜访、建立信任",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "客户开发系统性。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 1,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，供应商开发（Supplier Dev）？",
+  "options": [
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅关系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "评估矿源、产能、品质",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "供应商评估多维。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 2,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，报价（Quotation）要点？",
+  "options": [
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确基准、数量、有效期",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "报价要素完整。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 3,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，谈判（Negotiation）目标？",
+  "options": [
+   {
+    "text": "压价到底",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无目标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双赢并控制风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "谈判求共赢。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 4,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，签约（Contract）注意？",
+  "options": [
+   {
+    "text": "口头约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "条款明确无歧义",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "书面合同防争议。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 5,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，履约（Performance）跟踪？",
+  "options": [
+   {
+    "text": "仅发货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅收款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "盯装期、质量、单据、回款",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "履约全程跟踪。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 6,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，回款（Collection）管理？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅发货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅记账",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按约催收防拖欠",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "回款是资金生命线。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 7,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，客户维护（CRM）？",
+  "options": [
+   {
+    "text": "仅成交后不联系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅送礼",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "定期回访与需求跟进",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "客户维护增复购。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 8,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，市场信息（Market Info）？",
+  "options": [
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅八卦",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格、供需、政策跟踪",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "信息驱动决策。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 9,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，行情研判（Market View）？",
+  "options": [
+   {
+    "text": "仅猜",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅历史",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "供需、库存、运费综合判断",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "研判需多因素。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 10,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，锁价（Price Lock）？",
+  "options": [
+   {
+    "text": "不锁价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅现货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "通过合约锁定成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "锁价控风险。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 11,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，套保策略（Hedging）？",
+  "options": [
+   {
+    "text": "投机",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无策略",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "期货/掉期对冲",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "套保非投机。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 12,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，物流安排（Logistics）？",
+  "options": [
+   {
+    "text": "仅订船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅卸货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船期、港口、装卸协调",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "物流全程协调。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 13,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，单证管理（Documents）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅提单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅发票",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提单、发票、检验报告齐全",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "单证齐全保结算。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 14,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，报关（Customs）协调？",
+  "options": [
+   {
+    "text": "无协调",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "出口/进口申报配合",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "报关合规。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 15,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，到港验收（Acceptance）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅目测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅提单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同检验验收",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "验收依合同。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 16,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，质量异议处理？",
+  "options": [
+   {
+    "text": "仅拒收",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅索赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "复检+协商+仲裁",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "异议按程序。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 17,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，客户信用评估（Credit）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅关系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "调查资质与历史",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "信用评估防坏账。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 18,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，合同履行异常处理？",
+  "options": [
+   {
+    "text": "隐瞒",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "拖延",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "及时沟通与补救",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "异常早处理。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 19,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "煤炭贸易实战中，贸易合规（Compliance）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "遵守进出口法规与制裁",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "合规是底线。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 20,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，市场风险（Market Risk）？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅质量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格波动风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "市场风险最常见。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 21,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，信用风险（Credit Risk）？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅汇率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "对手违约风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "信用风险控坏账。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 22,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，汇率风险（FX Risk）？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅利率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结算汇率波动",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "汇率风险用套保。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 23,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，操作风险（Operational）？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅市场",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "流程失误与单据差错",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "操作风险靠内控。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 24,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，合规风险（Compliance）？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "违反法规制裁",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "合规风险重罚。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 25,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，物流风险（Logistics）？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船期延误与货损",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "物流风险影响履约。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 26,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，质量风险（Quality）？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "质量不符合同",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "质量风险用检验控。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 27,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，风险识别（Identification）？",
+  "options": [
+   {
+    "text": "不识别",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅事后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全面排查潜在风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "识别是前置。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 28,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，风险评估（Assessment）？",
+  "options": [
+   {
+    "text": "不评估",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅直觉",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "评估概率与影响",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "评估定优先级。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 29,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，风险应对（Response）？",
+  "options": [
+   {
+    "text": "不应对",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅规避",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "规避、转移、减轻、接受",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "应对策略多样。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 30,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，风险转移（Transfer）？",
+  "options": [
+   {
+    "text": "不转移",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅自担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保险、担保、对冲",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "转移降低暴露。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 31,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，风险监控（Monitoring）？",
+  "options": [
+   {
+    "text": "不监控",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "持续跟踪风险指标",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "监控及时预警。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 32,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，应急预案（Contingency）？",
+  "options": [
+   {
+    "text": "无预案",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅事后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "预案与演练",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "应急保连续性。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 33,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，合同风险（Contract）？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "条款漏洞与歧义",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "合同审慎防风险。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 34,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，对手尽调（Due Diligence）？",
+  "options": [
+   {
+    "text": "不做",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅关系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "调查资信与背景",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "尽调防欺诈。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 35,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，坏账管理（Bad Debt）？",
+  "options": [
+   {
+    "text": "不管理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅放弃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "催收、担保、法律",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "坏账管理保资金。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 36,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，保险安排（Insurance）？",
+  "options": [
+   {
+    "text": "不投保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅强险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物险与责任险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保险转移损失。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 37,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，制裁合规（Sanctions）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "避免涉制裁交易",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "制裁合规红线。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 38,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，反洗钱（AML）？",
+  "options": [
+   {
+    "text": "无需",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅金额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "交易背景审查",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "反洗钱合规。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 39,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "风险管控中，数据安全（Data）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "公开",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "商业数据保密",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数据安全护商业。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 40,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，谈判准备（Preparation）？",
+  "options": [
+   {
+    "text": "不准备",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "了解对手与底线",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "准备决定主动。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 41,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，BATNA 含义？",
+  "options": [
+   {
+    "text": "底线",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "目标价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "最佳替代方案",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "BATNA 谈判筹码。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 42,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，谈判目标（Objective）？",
+  "options": [
+   {
+    "text": "无目标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅低价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确可接受区间",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "目标区间指导让步。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 43,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，报价策略（Opening）？",
+  "options": [
+   {
+    "text": "漫天要价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一口价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合理开价留空间",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "开价留谈判空间。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 44,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，让步策略（Concession）？",
+  "options": [
+   {
+    "text": "无原则",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一次性",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "有原则的交换让步",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "让步要交换利益。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 45,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，议价（Bargaining）技巧？",
+  "options": [
+   {
+    "text": "只压价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "感情牌",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数据支撑、有理有据",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "议价靠数据。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 46,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，沟通（Communication）要点？",
+  "options": [
+   {
+    "text": "抢话",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "含糊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "清晰、倾听、确认",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "沟通避免误解。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 47,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，谈判僵局（Deadlock）处理？",
+  "options": [
+   {
+    "text": "放弃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "硬压",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "暂停、换角度、找共同点",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "僵局需破局技巧。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 48,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，价格谈判（Price）关键？",
+  "options": [
+   {
+    "text": "仅数字",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "基准、品质、市场对标",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "价格锚定基准。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 49,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，质量条款谈判？",
+  "options": [
+   {
+    "text": "模糊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确指标与验收标准",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "质量条款防后续争议。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 50,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，交货期谈判？",
+  "options": [
+   {
+    "text": "模糊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确装期与违约后果",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "交货期影响履约。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 51,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，付款条件谈判？",
+  "options": [
+   {
+    "text": "全预付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全赊销",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "平衡资金与风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "付款条件平衡。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 52,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，长期合作（Partnership）？",
+  "options": [
+   {
+    "text": "一次买卖",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "压榨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "互利共赢稳定供应",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "长期合作降成本。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 53,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，文化差异（Culture）？",
+  "options": [
+   {
+    "text": "忽视",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅语言",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "尊重对方商务习惯",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "文化差异影响谈判。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 54,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，谈判记录（Minutes）？",
+  "options": [
+   {
+    "text": "不记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "书面记录防遗忘",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "记录是凭据。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 55,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，谈判团队（Team）？",
+  "options": [
+   {
+    "text": "单人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅领导",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "分工明确互补",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "团队协作高效。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 56,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，谈判时间（Timing）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅旺季",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅淡季",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "选择有利时机",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "时机影响筹码。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 57,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，情报（Information）收集？",
+  "options": [
+   {
+    "text": "不收集",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅猜测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "了解市场与对手",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "情报支撑谈判。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 58,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，谈判底线（Bottom Line）？",
+  "options": [
+   {
+    "text": "无底线",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅目标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不可突破的边界",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "底线防过度让步。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 59,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，合同签署前确认？",
+  "options": [
+   {
+    "text": "直接签",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "条款逐条核对",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "签署前核对防风险。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 60,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，价格条款基准（Basis）？",
+  "options": [
+   {
+    "text": "模糊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅数字",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确计价基准（GAR/NAR）",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "基准不清易争议。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 61,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，罚则（Penalty）条款？",
+  "options": [
+   {
+    "text": "无罚则",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确违约赔偿",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "罚则约束履约。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 62,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，保证金（Deposit）？",
+  "options": [
+   {
+    "text": "不要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "履约保证金控风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保证金增信用。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 63,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，样品确认（Sample）？",
+  "options": [
+   {
+    "text": "不看样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅说明",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "以样品为质量参考",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "样品减少争议。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 64,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，竞争对手（Competitor）？",
+  "options": [
+   {
+    "text": "不关注",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅贬低",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "了解对方报价与条件",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "竞争情报助谈判。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 65,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，谈判礼仪（Etiquette）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "失礼",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅强势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "尊重、守时、专业",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "礼仪塑形象。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 66,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，远程谈判（Remote）？",
+  "options": [
+   {
+    "text": "不适用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅线下",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "线上会议与书面确认",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "远程谈判需确认。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 67,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，谈判后跟进（Follow-up）？",
+  "options": [
+   {
+    "text": "不跟进",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅等待",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "落实协议与时间表",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "跟进保落地。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 68,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，供应商选择（Selection）？",
+  "options": [
+   {
+    "text": "仅低价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅关系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "综合评估性价比",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "选择多维评估。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 69,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，买方谈判优势（Leverage）？",
+  "options": [
+   {
+    "text": "无优势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅压价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "需求明确、多源比价",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "买方杠杆是选择权。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 70,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，卖方谈判优势？",
+  "options": [
+   {
+    "text": "无优势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "稀缺货源与品质",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "卖方杠杆是资源。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 71,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，谈判协议备忘（MOU）？",
+  "options": [
+   {
+    "text": "无此文件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "初步意向书面化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "MOU 确立意向。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 72,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，独家供应（Exclusivity）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "约定独家供货条件",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "独家需对价。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 73,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，量价条款（Volume）？",
+  "options": [
+   {
+    "text": "无关联",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅单价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "采购量与价格挂钩",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "量价条款促规模。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 74,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，长期协议（LTA）？",
+  "options": [
+   {
+    "text": "无此模式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅现货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "长期框架供货",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "LTA 稳定供应。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 75,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，价格调整机制（Adjustment）？",
+  "options": [
+   {
+    "text": "固定不变",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅涨价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "联动指数调整",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "调价机制适应市场。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 76,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，质量争议解决前置？",
+  "options": [
+   {
+    "text": "无约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅诉讼",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "约定检验与仲裁程序",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "前置约定防纠纷。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 77,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，谈判底线泄露风险？",
+  "options": [
+   {
+    "text": "公开",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "信息保密",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "底线保密防被动。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 78,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，谈判签约地点（Place）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅本地",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅海外",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按约定与法律环境",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "地点影响法律适用。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 79,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "商务谈判中，合同语言（Language）？",
+  "options": [
+   {
+    "text": "仅中文",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅英文",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "中英文对照防歧义",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "双语防理解偏差。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 80,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，采购计划（Procurement Plan）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅库存",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按需求与库存制定",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "采购计划保供应。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 81,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，库存管理（Inventory）？",
+  "options": [
+   {
+    "text": "越多越好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "越少越好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "平衡库存与资金",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "库存管理降成本。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 82,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，订货点（Reorder Point）？",
+  "options": [
+   {
+    "text": "无概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅定期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "库存达到临界补货",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "订货点防断供。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 83,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，安全库存（Safety Stock）？",
+  "options": [
+   {
+    "text": "无库存",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅大批",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "应对需求波动",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "安全库存缓冲。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 84,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，供应商管理（Supplier Mgmt）？",
+  "options": [
+   {
+    "text": "不管",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅采购",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "评估、分级、合作",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "供应商管理保质量。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 85,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，多源采购（Multi-source）？",
+  "options": [
+   {
+    "text": "单一来源",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅低价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "分散供应商风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "多源防断供。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 86,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，运输管理（Transport）？",
+  "options": [
+   {
+    "text": "仅订船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船期、路线、成本优化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "运输管理提效率。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 87,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，仓储管理（Warehousing）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅堆放",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "堆存、周转、安全",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "仓储管理保煤质。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 88,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，配送（Distribution）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅装车",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅通知",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按时按需送达",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "配送保终端供应。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 89,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，信息流（Information Flow）？",
+  "options": [
+   {
+    "text": "无信息",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "需求、库存、船期共享",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "信息流协同。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 90,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，资金流（Cash Flow）？",
+  "options": [
+   {
+    "text": "无规划",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅货款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货款、运费、检验费安排",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "资金流保运转。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 91,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，物流外包（Outsourcing）？",
+  "options": [
+   {
+    "text": "全部自营",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅采购",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "委托专业物流商",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "外包提效率。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 92,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，供应链金融（Finance）？",
+  "options": [
+   {
+    "text": "无此业务",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅贷款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仓单/应收账款融资",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "供应链金融活资金。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 93,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，断供风险（Disruption）？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "供应中断影响生产",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "断供风险需预案。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 94,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，应急预案（Contingency）？",
+  "options": [
+   {
+    "text": "无预案",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅等待",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "替代供应商与路线",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "预案保连续性。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 95,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，协同计划（Collaboration）？",
+  "options": [
+   {
+    "text": "各自为政",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "上下游共享计划",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "协同降牛鞭效应。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 96,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，牛鞭效应（Bullwhip）？",
+  "options": [
+   {
+    "text": "无此现象",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅订单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "需求波动逐级放大",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "牛鞭效应增库存。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 97,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，JIT（Just-in-Time）？",
+  "options": [
+   {
+    "text": "无此模式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅囤货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "准时制供应",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "JIT 降库存。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 98,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，VMI（Vendor Managed Inventory）？",
+  "options": [
+   {
+    "text": "无此模式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅买方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "供应商管理库存",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "VMI 提协同。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 99,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，KPI 指标（Key Metrics）？",
+  "options": [
+   {
+    "text": "无指标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "准时率、质量、成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "KPI 评价绩效。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 100,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，物流成本构成？",
+  "options": [
+   {
+    "text": "仅运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅仓储",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运费、港口费、仓储、检验",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "成本构成多维。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 101,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，运输方式选择？",
+  "options": [
+   {
+    "text": "仅海运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅公路",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "海运、内河、铁路、公路",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "方式匹配距离货量。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 102,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，多式联运（Intermodal）？",
+  "options": [
+   {
+    "text": "仅单式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅海运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "海铁联运等组合",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "多式联运降本。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 103,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，配送中心（DC）？",
+  "options": [
+   {
+    "text": "无此设施",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅堆场",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "集中分拨与暂存",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "配送中心提效。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 104,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，逆向物流（Reverse）？",
+  "options": [
+   {
+    "text": "无此环节",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅正向",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "退货、退运处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "逆向物流控损失。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 105,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，数字化（Digitalization）？",
+  "options": [
+   {
+    "text": "无系统",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅手工",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "系统跟踪与管理",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数字化提效率。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 106,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，区块链应用？",
+  "options": [
+   {
+    "text": "无应用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单据与溯源透明",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "区块链提信任。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 107,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，风险管理（SCRM）？",
+  "options": [
+   {
+    "text": "不管理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅单一",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全链风险识别应对",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "供应链风险管理。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 108,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，采购谈判（Procurement）？",
+  "options": [
+   {
+    "text": "仅压价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅交期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格、质量、交付综合",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "综合谈判优采购。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 109,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，供应商评估（Evaluation）？",
+  "options": [
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅关系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "质量、交付、财务",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "评估多维。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 110,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，供应商审计（Audit）？",
+  "options": [
+   {
+    "text": "不审计",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅文件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "现场核查能力",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "审计验证能力。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 111,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，长期合作（Long-term）？",
+  "options": [
+   {
+    "text": "短期投机",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅低价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "稳定供应与成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "长期合作降风险。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 112,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，合同管理（Contract Mgmt）？",
+  "options": [
+   {
+    "text": "不管",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅签署",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "履约跟踪与变更",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "合同管理保履约。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 113,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，订单管理（Order Mgmt）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅下单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅发货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "下单、确认、跟踪",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "订单全程管理。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 114,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，质量追溯（Traceability）？",
+  "options": [
+   {
+    "text": "无追溯",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "批次溯源",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "追溯保责任。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 115,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，绿色供应链（Green）？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "环保合规与减排",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "绿色供应链合规。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 116,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，库存周转率（Turnover）？",
+  "options": [
+   {
+    "text": "无指标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "周转效率指标",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "周转率评效率。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 117,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，物流时效（Lead Time）？",
+  "options": [
+   {
+    "text": "无概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "下单到到货时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "时效影响履约。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 118,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，供应链韧性（Resilience）？",
+  "options": [
+   {
+    "text": "无概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "抗冲击恢复能力",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "韧性保稳定。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 119,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "供应链中，供应链优化（Optimization）？",
+  "options": [
+   {
+    "text": "一次性",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅降价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "降本增效持续改进",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "优化是持续过程。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 120,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，到岸成本（Landed Cost）？",
+  "options": [
+   {
+    "text": "仅货价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅关税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物到目的地的总成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "到岸成本=货价+运费+保险+税费+杂费。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 121,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，货价（Purchase Price）？",
+  "options": [
+   {
+    "text": "含运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "含关税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同成交价格",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "货价按合同基准。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 122,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，运费（Freight）？",
+  "options": [
+   {
+    "text": "含货价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "含保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运输费用",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "运费按市场运价。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 123,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，保险费（Insurance）？",
+  "options": [
+   {
+    "text": "含货价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "含运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物保险费用",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保险转移风险。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 124,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，关税（Duty）？",
+  "options": [
+   {
+    "text": "含货价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "含运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "进口关税",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "关税按税率计。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 125,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，增值税（VAT）？",
+  "options": [
+   {
+    "text": "含货价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "含运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "进口环节增值税",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "增值税可抵扣。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 126,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，港口费（Port Charges）？",
+  "options": [
+   {
+    "text": "含运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "含货价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装卸、堆存、港务费",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "港口费多项。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 127,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，检验费（Inspection）？",
+  "options": [
+   {
+    "text": "含货价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "含运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "第三方检验费用",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "检验费按约承担。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 128,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，资金成本（Financing）？",
+  "options": [
+   {
+    "text": "无成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅汇率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "占用资金利息",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "资金成本影响利润。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 129,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，库存成本（Inventory）？",
+  "options": [
+   {
+    "text": "无成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅采购",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仓储与占用成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "库存成本需控制。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 130,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，滞期费（Demurrage）影响？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "增加运输成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "滞期费是成本。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 131,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，速遣费（Despatch）？",
+  "options": [
+   {
+    "text": "无此费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅罚款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提前完成奖励",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "速遣费降低成本。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 132,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，汇率损失（FX Loss）？",
+  "options": [
+   {
+    "text": "无损失",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅利率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "汇率波动损失",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "汇率损失需套保。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 133,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，成本核算（Accounting）？",
+  "options": [
+   {
+    "text": "不核算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅总额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按项目归集成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "核算保准确。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 134,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，预算（Budget）控制？",
+  "options": [
+   {
+    "text": "无预算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅事后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按预算执行与偏差分析",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "预算控成本。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 135,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，成本优化（Optimization）？",
+  "options": [
+   {
+    "text": "只降价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅压供应商",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "降本不减质",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "优化是系统工作。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 136,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，吨煤成本（Per Ton）？",
+  "options": [
+   {
+    "text": "无概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅总成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单位成本核算",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "吨煤成本横向可比。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 137,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，运费比较（Freight Compare）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一条",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不同船型与航线比价",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "比价选最优。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 138,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，船型选择与成本？",
+  "options": [
+   {
+    "text": "越大越好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅便宜",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船型匹配货量与航线",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "船型影响吨运费。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 139,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，批量采购（Bulk）？",
+  "options": [
+   {
+    "text": "无优势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅小单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "量大摊薄成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "批量降单位成本。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 140,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，供应商比价（Quotation）？",
+  "options": [
+   {
+    "text": "单一报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅关系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "多供应商报价对比",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "比价保性价比。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 141,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，成本分摊（Allocation）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅总额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅单方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "费用合理分摊",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "分摊保准确。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 142,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，盈亏平衡（Break-even）？",
+  "options": [
+   {
+    "text": "无概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅利润",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "收入=成本点",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "盈亏平衡指导定价。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 143,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，利润率（Margin）？",
+  "options": [
+   {
+    "text": "无概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅金额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "利润/收入比例",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "利润率评效益。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 144,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，损耗控制（Loss）？",
+  "options": [
+   {
+    "text": "无损耗",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅忽略",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装卸与运输损耗",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "损耗影响数量。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 145,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，计量差异（Quantity Diff）？",
+  "options": [
+   {
+    "text": "无差异",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅忽略",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装港卸港数量差",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "计量差异需核对。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 146,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，质量折价（Quality Discount）？",
+  "options": [
+   {
+    "text": "无此机制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅拒收",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "质量不符降价处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "折价减少损失。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 147,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，索赔管理（Claim）？",
+  "options": [
+   {
+    "text": "不索赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅诉讼",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "及时索赔挽回损失",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "索赔保权益。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 148,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，保险理赔（Claim）？",
+  "options": [
+   {
+    "text": "不报案",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅自担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "出险及时报案",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "理赔转嫁损失。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 149,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，物流成本控制？",
+  "options": [
+   {
+    "text": "不控制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅降价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "路线优化与批量运输",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "物流成本优化空间大。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 150,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，仓储成本控制？",
+  "options": [
+   {
+    "text": "不控制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅扩库",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "周转与堆存优化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "仓储周转降成本。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 151,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，检验成本控制？",
+  "options": [
+   {
+    "text": "过度检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按需检验避免浪费",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "检验成本平衡。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 152,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，财务成本（Financial）？",
+  "options": [
+   {
+    "text": "无成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅税费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "融资与汇兑成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "财务成本控制。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 153,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，税务筹划（Tax）？",
+  "options": [
+   {
+    "text": "逃税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅补税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合法合规节税",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "税务筹划合法。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 154,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，机会成本（Opportunity）？",
+  "options": [
+   {
+    "text": "无成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅现金",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "选择放弃的收益",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "机会成本决策考量。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 155,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，固定与变动成本？",
+  "options": [
+   {
+    "text": "不区分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅总额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "区分性质便于决策",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "成本性态分析。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 156,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，成本报表（Report）？",
+  "options": [
+   {
+    "text": "不编制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅年度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "定期成本分析",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "报表支持决策。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 157,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，成本对标（Benchmark）？",
+  "options": [
+   {
+    "text": "不对标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "行业对比找差距",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "对标促改进。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 158,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，降本激励（Incentive）？",
+  "options": [
+   {
+    "text": "无激励",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅罚款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "激励全员降本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "激励促参与。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 159,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "成本管理中，成本合规（Compliance）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅控制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅核算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "费用合法合规",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "成本合规防风险。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 160,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，供需平衡（Supply-Demand）？",
+  "options": [
+   {
+    "text": "无概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "供给与需求匹配",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "供需决定价格趋势。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 161,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，需求端（Demand）因素？",
+  "options": [
+   {
+    "text": "仅电力",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅出口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "电力、钢铁、建材",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "需求多元。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 162,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，供给端（Supply）因素？",
+  "options": [
+   {
+    "text": "仅运输",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅库存",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿端产量与出口政策",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "供给看资源国。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 163,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，库存（Inventory）信号？",
+  "options": [
+   {
+    "text": "无信号",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口与电厂库存",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "库存反映供需。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 164,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，运费（Freight）影响？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运价影响到岸成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "运费传导价格。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 165,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，政策（Policy）影响？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "进出口与环保政策",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "政策改变供需。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 166,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，天气（Weather）影响？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用电与运输影响",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "天气季节性影响。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 167,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，季节性（Seasonality）？",
+  "options": [
+   {
+    "text": "无规律",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "需求淡旺季",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "季节影响需求。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 168,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，价格指数（Index）？",
+  "options": [
+   {
+    "text": "无指数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "ICI、Platts 等",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "指数是定价锚。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 169,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，期现价差（Basis）？",
+  "options": [
+   {
+    "text": "无概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "期货与现货价差",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "基差反映预期。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 170,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，套利（Arbitrage）？",
+  "options": [
+   {
+    "text": "无此机会",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅投机",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价差无风险获利",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "套利需价差。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 171,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，宏观经济（Macro）？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅微观",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "GDP、工业、汇率",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "宏观影响需求。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 172,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，地缘政治（Geo-politics）？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "产运通道风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "地缘影响供给。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 173,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，成本曲线（Cost Curve）？",
+  "options": [
+   {
+    "text": "无概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "各矿成本排序",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "成本曲线定边际。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 174,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，边际成本（Marginal）？",
+  "options": [
+   {
+    "text": "无概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅平均",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "最后单位生产成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "边际成本定价格底线。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 175,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，数据分析（Data）工具？",
+  "options": [
+   {
+    "text": "无工具",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅手工",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "统计与可视化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数据分析提判断。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 176,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，预测（Forecast）方法？",
+  "options": [
+   {
+    "text": "仅猜测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅历史",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "趋势、周期、模型",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "预测多方法。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 177,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，情景分析（Scenario）？",
+  "options": [
+   {
+    "text": "单一路径",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅乐观",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "多情景推演",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "情景分析备预案。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 178,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，敏感性分析（Sensitivity）？",
+  "options": [
+   {
+    "text": "无分析",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅单价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "关键变量影响",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "敏感性找关键因素。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 179,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，决策依据（Decision）？",
+  "options": [
+   {
+    "text": "仅直觉",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数据+判断+风控",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "决策综合依据。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 180,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，采购时机（Timing）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅急用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅旺季",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "低位采购控成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "时机影响成本。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 181,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，销售时机（Timing）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅急售",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅淡季",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "高位出货增利润",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "销售时机增收益。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 182,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，长协与现货（Term vs Spot）？",
+  "options": [
+   {
+    "text": "全现货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全长协",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "组合配置",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "组合平衡风险。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 183,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，定价机制（Pricing）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅固定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅指数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "指数挂钩、固定价",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "定价机制明确。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 184,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，价格谈判锚点（Anchor）？",
+  "options": [
+   {
+    "text": "无锚点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "指数与市场对标",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "锚点支撑议价。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 185,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，客户需求分析？",
+  "options": [
+   {
+    "text": "不分析",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "品质与数量匹配",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "需求分析保匹配。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 186,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，竞品分析（Competitor）？",
+  "options": [
+   {
+    "text": "不分析",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "同类煤源对比",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "竞品对比找差异。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 187,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，贸易机会（Opportunity）？",
+  "options": [
+   {
+    "text": "无机会",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅等待",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "发现价差与缺口",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "机会需挖掘。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 188,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，风险收益（Risk-Return）？",
+  "options": [
+   {
+    "text": "只看收益",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只看风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "评估回报与风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "风险收益平衡。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 189,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，止损（Stop-loss）？",
+  "options": [
+   {
+    "text": "无止损",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅扛单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "设限控制损失",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "止损防大亏。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 190,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，止盈（Take-profit）？",
+  "options": [
+   {
+    "text": "不锁利",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅贪多",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "锁定利润",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "止盈保收益。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 191,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，仓位管理（Position）？",
+  "options": [
+   {
+    "text": "满仓",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅杠杆",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "控制敞口规模",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "仓位管理控风险。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 192,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，信息源（Sources）？",
+  "options": [
+   {
+    "text": "仅猜测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅单源",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "机构报告、行业媒体、港口数据",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "多源交叉验证。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 193,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，数据真实性（Reliability）？",
+  "options": [
+   {
+    "text": "盲信",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅引用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "核实数据来源",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "真实性保判断。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 194,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，更新频率（Update）？",
+  "options": [
+   {
+    "text": "不更新",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅年度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "定期跟踪市场",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "高频跟踪市场。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 195,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，内外部信息（Internal/External）？",
+  "options": [
+   {
+    "text": "仅外部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结合内部经营与外部市场",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "内外结合判断。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 196,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，团队决策（Team）？",
+  "options": [
+   {
+    "text": "独断",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅领导",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "集体讨论防偏差",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "团队决策多维。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 197,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，复盘（Review）？",
+  "options": [
+   {
+    "text": "不复盘",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅庆祝",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "事后总结改进",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "复盘提升决策。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 198,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，合规经营（Compliance）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅盈利",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅规模",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "市场操作合规",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "合规是底线。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 199,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ },
+ {
+  "question": "市场分析中，长期战略（Strategy）？",
+  "options": [
+   {
+    "text": "短期投机",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅交易",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "资源、客户、渠道布局",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "战略定方向。",
+  "level": 9,
+  "level_name": "贸易实战",
+  "index_in_level": 200,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L9_batch"
+ }
+]

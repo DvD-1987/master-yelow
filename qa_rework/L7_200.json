@@ -1,0 +1,9602 @@
+[
+ {
+  "question": "煤炭检验中，检验定义（Inspection Definition）的核心？",
+  "options": [
+   {
+    "text": "仅目测外观",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅称重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按标准对煤质特性进行测定与评定",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "检验是标准化的测定与评定过程。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 1,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，检验目的（Purpose）最主要的是什么？",
+  "options": [
+   {
+    "text": "仅收费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅宣传",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "判定煤质是否符合合同要求",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "检验服务贸易结算与验收。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 2,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，检验对象（Object）包括？",
+  "options": [
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船名",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤炭样品、批量和装运过程",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "检验对象覆盖样品与批次。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 3,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，检验原则（Principle）强调？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅效率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "客观、公正、可追溯",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "客观公正是检验生命线。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 4,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，设备选型（Equipment Selection）的依据？",
+  "options": [
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅品牌",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "标准方法与检测精度要求",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "设备选型匹配方法要求。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 5,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，设备采购（Procurement）关注？",
+  "options": [
+   {
+    "text": "仅低价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅外观",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "精度、稳定性与售后服务",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "设备采购兼顾性能与服务。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 6,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，设备验收（Acceptance）的标准？",
+  "options": [
+   {
+    "text": "仅外观",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅发票",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按检定/校准证书与性能指标",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "验收以计量性能为准。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 7,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，设备维护（Maintenance）的意义？",
+  "options": [
+   {
+    "text": "无意义",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅延寿",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保证检测结果稳定可靠",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "维护保障数据质量。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 8,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，仲裁检验（Arbitration Analysis）的特点？",
+  "options": [
+   {
+    "text": "仅卖方执行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅买方执行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船方执行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "由争议双方认可机构执行，结果作为裁决依据",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "仲裁检验结果具约束力。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 9,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，方法标准（Method Standard）的作用？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅参考",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "统一操作流程与判定规则",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "方法标准保证可比性。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 10,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，型式检验（Type Test）用于？",
+  "options": [
+   {
+    "text": "仅常规检验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅外观",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "验证产品/设备符合标准型式",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "型式检验验证符合性。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 11,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，数据处理（Data Processing）的要求？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅取整",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅四舍五入",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按修约规则与有效数字处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数据处理有标准规则。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 12,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，数据复核（Review）的目的？",
+  "options": [
+   {
+    "text": "无目的",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅存档",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "发现并纠正记录错误",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "复核保障结果准确。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 13,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，数据保留（Retention）的期限？",
+  "options": [
+   {
+    "text": "不保留",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅短期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同与法规要求保存",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数据保留支撑追溯与争议。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 14,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，数据保密（Confidentiality）的要求？",
+  "options": [
+   {
+    "text": "可随意公开",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内部公开",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "未经授权不得泄露检验数据",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保密是检验机构义务。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 15,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，数据异常（Abnormal Data）的处理？",
+  "options": [
+   {
+    "text": "直接采用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "忽略",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "查明原因并复测确认",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "异常数据需追溯处理。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 16,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，数据有效性（Validity）判断？",
+  "options": [
+   {
+    "text": "仅看结果",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅看报告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "核查采样、制样与测定环节",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "有效性取决于全过程。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 17,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，单位换算（Unit Conversion）的正确做法？",
+  "options": [
+   {
+    "text": "随意换算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "忽略基准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按标准公式换算并注明基准",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "基准换算需规范。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 18,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，修约规则（Rounding）依据？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅四舍五入",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅去尾",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "GB/T 8170 数值修约规则",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "修约规则统一结果表达。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 19,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "印尼煤炭出口许可证（ET）的有效期通常是多久？",
+  "options": [
+   {
+    "text": "永久有效",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一周",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一次装船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一般按年度或批次核准",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "ET 按年度/批次管理。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 20,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "印尼煤炭出口许可（ET）由哪个机构核发？",
+  "options": [
+   {
+    "text": "海关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港务局",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船级社",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "印尼能源矿产部（ESDM）",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "ESDM 主管煤炭出口许可。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 21,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "印尼煤炭出口商须满足的国内供应义务（DMO）？",
+  "options": [
+   {
+    "text": "无义务",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅出口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按比例优先供应国内市场",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "DMO 保障印尼内需。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 22,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "印尼煤炭出口的装港申报（Customs）流程？",
+  "options": [
+   {
+    "text": "无申报",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅缴费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "出口报关与装船申报",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "出口申报合规放行。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 23,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "印尼煤炭出口质量检验通常由谁执行？",
+  "options": [
+   {
+    "text": "矿方自检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船方自检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方自检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "第三方检验机构（SGS/CCIC 等）",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "第三方检验保障公正。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 24,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，化验室资质（Accreditation）的认可依据？",
+  "options": [
+   {
+    "text": "ISO 9001",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅营业执照",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "ISO/IEC 17025",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "17025 是实验室能力认可标准。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 25,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，标准物质（CRM）的用途？",
+  "options": [
+   {
+    "text": "仅摆设",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅存档",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "校准仪器与验证方法准确度",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "标准物质保障量值溯源。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 26,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，能力验证（PT）的意义？",
+  "options": [
+   {
+    "text": "无意义",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅收费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "验证实验室检测能力",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "能力验证是认可要求。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 27,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，测量不确定度（Uncertainty）反映？",
+  "options": [
+   {
+    "text": "结果错误",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅误差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结果可信程度",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "不确定度评价结果质量。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 28,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，留样（Retained Sample）的目的？",
+  "options": [
+   {
+    "text": "无目的",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅占库",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "支持复检与仲裁",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "留样是争议依据。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 29,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，取样（Sampling）的核心要求？",
+  "options": [
+   {
+    "text": "速度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "便宜",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "方便",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "代表性",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "代表性是取样第一要求。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 30,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，制样（Preparation）的目的？",
+  "options": [
+   {
+    "text": "仅粉碎",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅混合",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "将大样缩制成分析样",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "制样保持代表性。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 31,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，缩分（Division）的方法？",
+  "options": [
+   {
+    "text": "随意抓取",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅目测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅称重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "二分器、堆锥四分法",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "标准缩分方法保代表性。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 32,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，全水分样（TM Sample）的保存？",
+  "options": [
+   {
+    "text": "敞口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "日晒",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "密封防水分变化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "密封防水分损失。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 33,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，灰分测定（Ash）温度？",
+  "options": [
+   {
+    "text": "500℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "1000℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "815±10℃",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "灰分测定按标准温度。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 34,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，挥发分测定（VM）条件？",
+  "options": [
+   {
+    "text": "800℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "1000℃敞开",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "900±10℃ 隔绝空气加热7min",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "挥发分测定条件严格。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 35,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，发热量测定（CV）仪器？",
+  "options": [
+   {
+    "text": "烘箱",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "马弗炉",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "天平",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "氧弹量热仪",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "发热量用氧弹量热仪。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 36,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，硫分测定（Sulfur）方法？",
+  "options": [
+   {
+    "text": "目测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "称重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "库仑法/艾氏卡法",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "硫分测定按标准方法。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 37,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，水分测定（Moisture）的温度？",
+  "options": [
+   {
+    "text": "室温",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "50℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按标准（如105-110℃ 或通氮）",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "水分测定按标准温度。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 38,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，结果报告（Report）的基本要素？",
+  "options": [
+   {
+    "text": "仅结果",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅签名",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅日期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验依据、结果、不确定度与签章",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "报告要素完整防歧义。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 39,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭检验中，检验报告（Report）出具时间的要求？",
+  "options": [
+   {
+    "text": "无限期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅月末",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按约定时效及时出具",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "时效影响贸易结算。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 40,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，信用证（L/C）的性质？",
+  "options": [
+   {
+    "text": "无条件的",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方承诺",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船方承诺",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行有条件的付款承诺",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "信用证是银行信用。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 41,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "信用证（L/C）结算中，开证（Issuing）由谁申请？",
+  "options": [
+   {
+    "text": "卖方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行自行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方（申请人）",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "开证申请人是买方。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 42,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "信用证（L/C）结算中，受益人是？",
+  "options": [
+   {
+    "text": "买方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方（出口商）",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "受益人是卖方。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 43,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "信用证（L/C）结算中，单证相符（Compliance）指？",
+  "options": [
+   {
+    "text": "货物一致",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格一致",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船期一致",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单据与信用证条款一致",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "单证相符是付款条件。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 44,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "信用证（L/C）结算中，议付（Negotiation）指？",
+  "options": [
+   {
+    "text": "买方付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船方担保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行审核单据后买入汇票",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "议付银行买入单据。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 45,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "信用证（L/C）结算中，转让（Transferable）指？",
+  "options": [
+   {
+    "text": "可随意转让",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅开证行转让",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅买方转让",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "受益人可将信用证转让给他人",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "可转让信用证有条件。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 46,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "信用证（L/C）结算中，不符点（Discrepancy）的后果？",
+  "options": [
+   {
+    "text": "无后果",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自动付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行拒付或扣费",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "不符点导致拒付风险。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 47,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "信用证（L/C）结算中，软条款（Soft Clause）风险？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方控制付款条件",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "软条款损害卖方利益。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 48,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，电汇（T/T）的特点？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "最安全",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅银行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "手续简单但风险依付款时点",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "T/T 风险取决于时点。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 49,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "电汇（T/T）结算中，前T/T（Prepaid）指？",
+  "options": [
+   {
+    "text": "到货后付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "见提单付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "发货前全额或部分付款",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "前T/T 对卖方有利。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 50,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "电汇（T/T）结算中，后T/T（After Shipment）风险？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅汇率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方收货后拖欠或拒付",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "后T/T 买方信用风险高。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 51,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，跟单托收（Documentary Collection）指？",
+  "options": [
+   {
+    "text": "银行担保付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无单据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行凭单据代收货款",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "托收是商业信用。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 52,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，付款交单（D/P）的特点？",
+  "options": [
+   {
+    "text": "先给单据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅记账",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "付款后才能取得单据",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "D/P 控制货权。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 53,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，承兑交单（D/A）的风险？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方承兑后取单，到期可能拒付",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "D/A 对卖方风险大。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 54,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，赊销（Open Account）的特征？",
+  "options": [
+   {
+    "text": "最安全",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅银行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "先发货后付款，风险最高",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "赊销依赖买方信用。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 55,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，预付（Prepayment）的风险？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅汇率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方收款后不发货",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "预付对买方有风险。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 56,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，部分预付+见提单付余款的优点？",
+  "options": [
+   {
+    "text": "对卖方不利",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "对买方不利",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无优点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "平衡买卖双方风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "组合付款平衡风险。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 57,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，L/C at 90 days sight 表示？",
+  "options": [
+   {
+    "text": "即期付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "90天发货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "见单后90天付款",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "远期信用证延期付款。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 58,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "信用证修改（Amendment）的正确做法？",
+  "options": [
+   {
+    "text": "口头修改",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单方修改",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "经各方同意后书面修改",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "修改需各方同意。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 59,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "信用证通知（Swift Advice）由谁发出？",
+  "options": [
+   {
+    "text": "船公司",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "通知行转递开证行信用证",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "通知行负责转递。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 60,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，保函（L/G）的作用？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行担保履约或付款",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保函提供担保。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 61,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，汇率风险（FX Risk）的来源？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅利率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结算币种汇率波动",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "汇率波动影响收支。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 62,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，结算币种的选择原则？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅本币",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅美元",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方约定主流可兑换货币",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "币种约定明确。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 63,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，单据（Documents）的作用？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅存档",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "证明交货与所有权",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "单据是结算与提货依据。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 64,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，发票（Invoice）的核心内容？",
+  "options": [
+   {
+    "text": "仅金额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅品名",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "品名、数量、单价、金额",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "发票要素完整。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 65,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，装箱单（Packing List）的作用？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "列明包装与件数",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装箱单配合发票。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 66,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，原产地证（CO）的作用？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅运输",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "证明货物原产国，享关税优惠",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "原产地证影响关税。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 67,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，受益人证明（Beneficiary Certificate）？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅存档",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卖方证明已履行某义务",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "受益人证明是单据之一。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 68,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，保单（Insurance Policy）的要求？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅投保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅签名",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "金额与条款符合信用证/合同",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保单要素需匹配。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 69,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，银行费用（Bank Charges）由谁承担？",
+  "options": [
+   {
+    "text": "全由买方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全由卖方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按信用证条款约定",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "银行费用按约定分担。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 70,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，不符点费用（Discrepancy Fee）？",
+  "options": [
+   {
+    "text": "无此费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全免",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行对不符单据收取的费用",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "不符点费用常见。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 71,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，结算单据的审核重点？",
+  "options": [
+   {
+    "text": "仅金额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅签名",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单证一致、单单一致",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "一致是审核核心。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 72,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，买方拒付后的应对？",
+  "options": [
+   {
+    "text": "放弃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅诉讼",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "协商、改单或仲裁",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "拒付后按流程处理。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 73,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，卖方收款延迟的原因？",
+  "options": [
+   {
+    "text": "无原因",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅汇率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单据不符或买方资金问题",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "收款延迟需追索。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 74,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，电子交单（eUCP）的特点？",
+  "options": [
+   {
+    "text": "纸质唯一",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无效",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "电子单据提交与审核",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "电子交单提升效率。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 75,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，福费廷（Forfaiting）业务？",
+  "options": [
+   {
+    "text": "无此业务",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅贷款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无追索权买断应收账款",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "福费廷转嫁风险。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 76,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，保理（Factoring）业务？",
+  "options": [
+   {
+    "text": "无此业务",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅贷款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "应收账款融资与催收",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保理缓解资金压力。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 77,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，跨境人民币结算的意义？",
+  "options": [
+   {
+    "text": "无意义",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅国内",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "规避汇率风险与便利",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "跨境人民币降低汇兑成本。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 78,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，制裁合规（Sanctions）要求？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅银行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "避免与受制裁方交易",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "制裁合规是底线。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 79,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际结算中，反洗钱（AML）义务？",
+  "options": [
+   {
+    "text": "无义务",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅银行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "识别客户与交易背景",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "反洗钱义务贯穿结算。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 80,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际贸易中，招标（Bidding）采购的特点？",
+  "options": [
+   {
+    "text": "仅私下交易",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无竞争",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "公开竞争、按标书条件成交",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "招标提升采购透明与竞争。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 81,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际贸易中，拍卖（Auction）适用场景？",
+  "options": [
+   {
+    "text": "长期合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅期货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "现货或特殊商品竞价",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "拍卖适合现货竞价。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 82,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际贸易中，大宗商品（Bulk）交易的特征？",
+  "options": [
+   {
+    "text": "小批量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数量大、标准化、价格指数化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "大宗商品以指数定价。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 83,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际贸易中，跨境电商（Cross-border E-commerce）？",
+  "options": [
+   {
+    "text": "仅线下",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无平台",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "通过平台在线成交与履约",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "跨境电商数字化交易。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 84,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际贸易中，信用风险（Credit Risk）指？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅汇率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "对方违约或拖欠",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "信用风险管理是核心。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 85,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际贸易中，关税壁垒（Tariff Barrier）？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅配额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "进口关税提高成本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "关税影响到岸成本。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 86,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际贸易中，非关税壁垒（Non-tariff）包括？",
+  "options": [
+   {
+    "text": "仅关税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无壁垒",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "配额、许可、检验标准等",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "非关税壁垒形式多样。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 87,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际商务中，跨时区沟通（Time Zones）要点？",
+  "options": [
+   {
+    "text": "随时打扰",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "忽略时差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "确认双方工作时间与响应时差",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "时区沟通影响效率。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 88,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际商务中，商务礼仪（Etiquette）的意义？",
+  "options": [
+   {
+    "text": "无意义",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅形式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "建立信任与专业形象",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "礼仪促进商务关系。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 89,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Demurrage（滞期费）指？",
+  "options": [
+   {
+    "text": "提前奖",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "超时装卸按天计费",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "滞期费是超时罚金。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 90,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Despatch（速遣费）通常为滞期费的？",
+  "options": [
+   {
+    "text": "一倍",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "两倍",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无比例",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一半",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "速遣费常为滞期费50%。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 91,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，ETA/ETB 中 ETB 指？",
+  "options": [
+   {
+    "text": "预计到港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "预计离港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "预计开航",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "预计靠泊时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "ETB=Expected Time of Berth。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 92,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，P&I（保赔协会）保障？",
+  "options": [
+   {
+    "text": "货物险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运费险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "汇率险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船东责任险（货损、污染等）",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "P&I 承保船东责任。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 93,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，LOI（赔偿保证函）指？",
+  "options": [
+   {
+    "text": "提单副本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "发票",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保险单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无正本提单放货时出具的担保",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "LOI 用于无单放货。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 94,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Bunker 指？",
+  "options": [
+   {
+    "text": "货物",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "压载水",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "备件",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶燃料",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "Bunker 即船用燃油。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 95,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，FFA（远期运费协议）的作用？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅结算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "对冲运费波动风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "FFA 是运费衍生品。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 96,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，BAF（燃油附加费）由谁承担？",
+  "options": [
+   {
+    "text": "仅船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅港口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同/提单约定，通常货方",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "BAF 转嫁燃油成本。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 97,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，共同海损（General Average）分摊原则？",
+  "options": [
+   {
+    "text": "船东全担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货主全担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保险全担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "受益方按价值比例分摊",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "共同海损按比例分摊。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 98,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，免赔额（Deductible）指？",
+  "options": [
+   {
+    "text": "必赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "损失低于约定额不予赔付",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "免赔额是保险条款。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 99,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，NOR（装卸准备就绪通知）的作用？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "启动装卸时间起算",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "NOR 是滞期起算依据。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 100,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Laytime（装卸时间）计算单位？",
+  "options": [
+   {
+    "text": "仅月",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅航次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "天或小时（含晴天工作日）",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "Laytime 按时间单位计。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 101,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Once on Demurrage（一旦滞期永远滞期）？",
+  "options": [
+   {
+    "text": "停止计费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅工作日",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "滞期后节假日照计",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "滞期连续计算。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 102,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Laycan（受载期/解约日）？",
+  "options": [
+   {
+    "text": "仅到港日",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅开航日",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "约定最早装货与最晚解约日",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "Laycan 保障船期。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 103,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Off-hire（停租）指？",
+  "options": [
+   {
+    "text": "照付租金",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加付租金",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶故障等期间停付租金",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "停租保护租家。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 104,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Deadfreight（亏舱费）？",
+  "options": [
+   {
+    "text": "免费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货量不足按差价赔偿",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "亏舱费补偿船东损失。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 105,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Voyage Charter（程租）计价？",
+  "options": [
+   {
+    "text": "按天租金",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按月租金",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按航次包干运费",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "程租按航次计价。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 106,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Time Charter（期租）计价？",
+  "options": [
+   {
+    "text": "按航次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按货量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按天/月租金",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "期租按时间计租。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 107,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Bareboat（光租）特点？",
+  "options": [
+   {
+    "text": "配船员",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "管经营",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "只租船不配船员",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "光租租家自配船员。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 108,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，TCT（航次期租）？",
+  "options": [
+   {
+    "text": "程租包干",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "光租",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按期租方式但按航次",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "TCT 是期租变体。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 109,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Worldscale（WS）用于？",
+  "options": [
+   {
+    "text": "散货运价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "油轮运费指数基准",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "WS 用于油轮运费。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 110,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，BDI（波罗的海干散货运价指数）反映？",
+  "options": [
+   {
+    "text": "油价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "汇率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "干散货海运市场运价",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "BDI 是干散货市场风向标。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 111,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Slipway（船台）用于？",
+  "options": [
+   {
+    "text": "装货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卸货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "加油",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶修理与建造",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "船台用于修造船。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 112,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，AIS（船舶自动识别系统）？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅导航",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅通信",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶动态识别与避碰",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "AIS 提升航行安全。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 113,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，VTS（船舶交管系统）？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅收费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口水域交通组织",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "VTS 组织船舶进出港。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 114,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Solas（海上人命安全公约）？",
+  "options": [
+   {
+    "text": "无此公约",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅环保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶安全最低标准",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "SOLAS 保障航行安全。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 115,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，Marpol（防污公约）？",
+  "options": [
+   {
+    "text": "无此公约",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅安全",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "防止船舶污染海洋",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "MARPOL 管控船舶污染。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 116,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，ISM Code（国际安全管理规则）？",
+  "options": [
+   {
+    "text": "无此规则",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船员",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "公司船舶安全管理体系",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "ISM 规范安全管理。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 117,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，PSC（港口国监督检查）？",
+  "options": [
+   {
+    "text": "船旗国检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货主检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口国对到港船舶检查",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "PSC 是港口国监管。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 118,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，FSC（船旗国检查）？",
+  "options": [
+   {
+    "text": "港口国",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货主",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船旗国对本国船舶检查",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "FSC 由船旗国实施。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 119,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "航运术语中，ETA（预计到港时间）的作用？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "协调港口与接卸准备",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "ETA 是物流协同关键。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 120,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "提单（B/L）的核心功能？",
+  "options": [
+   {
+    "text": "仅付款凭证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物收据、运输合同证明、物权凭证",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "提单三功能。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 121,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "提单（B/L）的功能不包括？",
+  "options": [
+   {
+    "text": "物权凭证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物收据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同证明",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "作为运费结算凭证",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "提单非结算凭证。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 122,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "清洁提单（Clean B/L）指？",
+  "options": [
+   {
+    "text": "有批注",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅签名",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无货损货差批注",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "清洁提单证明货况良好。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 123,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "不清洁提单（Claused B/L）指？",
+  "options": [
+   {
+    "text": "无批注",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅签名",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "有货损货差批注",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "不清洁提单影响结算。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 124,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "已装船提单（Shipped B/L）指？",
+  "options": [
+   {
+    "text": "收货待运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅订舱",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物已装船后签发",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "已装船提单证明装船。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 125,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "倒签提单（Back-dated B/L）的风险？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "掩盖实际装船日期",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "倒签提单涉嫌欺诈。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 126,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "预借提单（Advanced B/L）的风险？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "未装船即签发",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "预借提单风险大。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 127,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "提单收货人（Consignee）类型？",
+  "options": [
+   {
+    "text": "仅记名",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅不记名",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "记名、指示、不记名",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "提单收货人三类。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 128,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "指示提单（Order B/L）的转让方式？",
+  "options": [
+   {
+    "text": "仅交付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅签章",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "背书转让",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "指示提单凭背书转让。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 129,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "无单放货（Delivery without B/L）的风险？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "承运人可能承担责任",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "无单放货风险高。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 130,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "电放提单（Telex Release）的特点？",
+  "options": [
+   {
+    "text": "仍需正本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无效",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不凭正本提货，凭电放通知",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "电放简化提货流程。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 131,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运单（Sea Waybill）与提单区别？",
+  "options": [
+   {
+    "text": "是物权凭证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "可转让",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "非物权凭证",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "海运单不可转让。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 132,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "电子提单（e-B/L）的优势？",
+  "options": [
+   {
+    "text": "无优势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅省钱",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "流转快、防伪、效率高",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "电子提单数字化。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 133,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "提单背书（Endorsement）的意义？",
+  "options": [
+   {
+    "text": "无意义",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅签名",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "转让货物所有权",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "背书是转让方式。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 134,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "提单上的运费条款（Freight Prepaid/Collect）？",
+  "options": [
+   {
+    "text": "无此栏",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅预付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运费预付或到付",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "运费条款明确承担方。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 135,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "大副收据（Mate's Receipt）的作用？",
+  "options": [
+   {
+    "text": "提货凭证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保险单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "发票",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船货物收据",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "大副收据是提单依据。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 136,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "收货单（Mate's Receipt）与提单关系？",
+  "options": [
+   {
+    "text": "无关系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "替代提单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "换发清洁提单的依据",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "收货单换取提单。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 137,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "舱单（Manifest）的作用？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "列明货物明细供报关",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "舱单用于海关申报。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 138,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "装货单（Shipping Order）的作用？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅提货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "指示装船指令",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装货单是装船指令。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 139,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "提单日期（B/L Date）通常指？",
+  "options": [
+   {
+    "text": "开航日期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "订舱日期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船完毕日期",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "提单日期即装船日。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 140,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "正本提单（Original B/L）份数？",
+  "options": [
+   {
+    "text": "一份",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "十份",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "通常一式三份",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "正本提单常见三份。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 141,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "提单上的货物描述应？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "简写",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "夸大",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "与信用证/合同一致",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "单证一致原则。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 142,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，一切险（All Risks）承保？",
+  "options": [
+   {
+    "text": "全部损失",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅全损",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅偷窃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "除外责任以外的意外损失",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "一切险非全险。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 143,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，平安险（FPA）承保？",
+  "options": [
+   {
+    "text": "一切损失",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅部分损失",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全损与特定共同海损",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "平安险范围较小。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 144,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，水渍险（WPA）承保？",
+  "options": [
+   {
+    "text": "仅全损",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一切险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单独海损的部分损失",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "水渍险含部分损失。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 145,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，仓至仓条款（W/W）？",
+  "options": [
+   {
+    "text": "仅海上",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅港口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保险责任从发货人仓库到收货人仓库",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "仓至仓扩展责任区间。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 146,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，投保金额一般为？",
+  "options": [
+   {
+    "text": "FOB价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "成本价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CIF价加成10%",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "惯例投保加成10%。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 147,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，免赔率（Franchise）？",
+  "options": [
+   {
+    "text": "全赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "超过约定比例才赔",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "免赔率是理赔门槛。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 148,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，罢工险/战争险（SRCC/War）？",
+  "options": [
+   {
+    "text": "自动承保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无此险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "需单独加保",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "特殊险别需加保。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 149,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，保险利益（Insurable Interest）？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意投保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "对货物有经济利益方可投保",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保险利益原则。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 150,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，出险后应？",
+  "options": [
+   {
+    "text": "不报案",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自行处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "及时报案并保留现场证据",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "及时报案保理赔。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 151,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，理赔（Claim）需要的单证？",
+  "options": [
+   {
+    "text": "仅保单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅发票",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保单、提单、发票、检验报告",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "理赔单证齐全。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 152,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，代位追偿（Subrogation）？",
+  "options": [
+   {
+    "text": "无此权利",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保险赔付后取得追偿权",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "代位追偿转移权利。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 153,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，协会货物条款（ICC）由谁制定？",
+  "options": [
+   {
+    "text": "国际商会",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船级社",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "伦敦保险人协会",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "ICC 是国际保险条款。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 154,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，推定全损（Constructive Total Loss）？",
+  "options": [
+   {
+    "text": "仅实际沉没",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅丢弃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "修复费用超过货值",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "推定全损按全损赔付。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 155,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，施救费用（Sue & Labour）？",
+  "options": [
+   {
+    "text": "自行承担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船方承担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "为减少损失支出的合理费用由保险人承担",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "施救费用保险承担。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 156,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，共同海损牺牲（GA Sacrifice）？",
+  "options": [
+   {
+    "text": "船东独担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货主独担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "为共同安全作出的牺牲由各方分摊",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "共同海损按比例分摊。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 157,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，货物运输险投保时点？",
+  "options": [
+   {
+    "text": "到货后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "出险后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "发货前及时投保",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保险需在风险发生前投保。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 158,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，除外责任（Exclusions）包括？",
+  "options": [
+   {
+    "text": "意外碰撞",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "火灾",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "沉没",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "故意行为、自然损耗、固有缺陷",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "除外责任不予赔付。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 159,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "海运保险中，预约保险（Open Cover）？",
+  "options": [
+   {
+    "text": "一次性",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无此险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "长期预约自动承保",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "预约保险便利大宗贸易。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 160,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭出口报关时，以下哪种申报方式错误？",
+  "options": [
+   {
+    "text": "如实申报",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提供单证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "配合查验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "虚报品名或低报价格",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "虚报申报违法。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 161,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "印尼煤炭出口报关的申报主体？",
+  "options": [
+   {
+    "text": "船公司",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "出口商或其代理报关行",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "出口商负责申报。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 162,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "印尼煤炭出口报关需提交的单证？",
+  "options": [
+   {
+    "text": "仅发票",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅提单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "发票、装箱单、报关单、许可",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "报关单证齐全。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 163,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "印尼煤炭出口的关税/税费？",
+  "options": [
+   {
+    "text": "无税费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按印尼税法申报缴纳",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "出口税费合规缴纳。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 164,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "煤炭出口报关中，海关查验（Inspection）？",
+  "options": [
+   {
+    "text": "拒绝查验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "配合查验并准备货证",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "配合查验是义务。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 165,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "印尼煤炭出口的装船申报（Vessel）？",
+  "options": [
+   {
+    "text": "无申报",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "向港务与海关申报船舶信息",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装船申报合规。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 166,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，主要进口国（Major Importers）？",
+  "options": [
+   {
+    "text": "仅中国",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅欧洲",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "中国、印度、日本、韩国",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "亚洲是主要进口市场。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 167,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，国际煤价（International Price）参考？",
+  "options": [
+   {
+    "text": "仅国内价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "API2、ICI、纽卡斯尔指数",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "国际指数定价。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 168,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，印尼煤炭（Indonesia Coal）优势？",
+  "options": [
+   {
+    "text": "无优势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "低硫低灰、离亚洲近",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "印尼煤品质与区位优势。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 169,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，澳煤（Australian Coal）特点？",
+  "options": [
+   {
+    "text": "低卡",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "高硫",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "高卡优质、热值稳定",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "澳煤以高热值著称。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 170,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，俄罗斯煤（Russian Coal）？",
+  "options": [
+   {
+    "text": "无特点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "低卡",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "高卡低灰，远东出口",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "俄煤高卡低灰。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 171,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，南非煤（South African Coal）？",
+  "options": [
+   {
+    "text": "低卡",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无出口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "中高卡，主要出口欧洲亚洲",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "南非煤出口欧亚。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 172,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，哥伦比亚煤？",
+  "options": [
+   {
+    "text": "低卡",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅亚洲",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "高卡，出口欧美",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "哥伦比亚煤高卡。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 173,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，蒙古煤（Mongolian Coal）？",
+  "options": [
+   {
+    "text": "海运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无出口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "陆运焦煤/动力煤",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "蒙煤以陆运为主。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 174,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，海运煤贸易（Seaborne）占比？",
+  "options": [
+   {
+    "text": "次要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无海运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全球贸易主要方式",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "海运是煤炭贸易主通道。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 175,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，长协（Term Contract）特点？",
+  "options": [
+   {
+    "text": "一次性",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无保障",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "长期稳定量价",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "长协保障供应稳定。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 176,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，现货（Spot）特点？",
+  "options": [
+   {
+    "text": "固定价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "长期锁定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "即时成交随行就市",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "现货灵活但波动大。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 177,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，指数挂钩定价（Index-linked）？",
+  "options": [
+   {
+    "text": "固定价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按季度/月度指数均价结算",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "指数定价公允。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 178,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，套期保值（Hedging）？",
+  "options": [
+   {
+    "text": "投机",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用期货/掉期对冲价格风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "套保锁定利润。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 179,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，煤炭期货（Coal Futures）？",
+  "options": [
+   {
+    "text": "无此品种",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅现货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "标准化合约交易",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "期货工具管理风险。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 180,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，掉期（Swap）？",
+  "options": [
+   {
+    "text": "无此工具",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅期货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方交换浮动与固定价格",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "掉期定制化对冲。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 181,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，质量争议（Dispute）处理？",
+  "options": [
+   {
+    "text": "仅诉讼",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "放弃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "复检+协商+仲裁",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "争议处理有流程。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 182,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，装港滞期（Demurrage）争议？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船东说了算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅货主说了算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按装卸事实与条款核算",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "滞期核算有据。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 183,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，货损（Cargo Damage）责任？",
+  "options": [
+   {
+    "text": "船东全担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货主全担",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按运输与装卸责任划分",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "货损责任看环节。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 184,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，短量（Shortage）索赔依据？",
+  "options": [
+   {
+    "text": "仅提单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅发票",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "水尺计量与卸货记录",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "短量索赔需证据。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 185,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，拒收（Rejection）条件？",
+  "options": [
+   {
+    "text": "轻微波动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格涨跌",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "质量严重不符合同",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "拒收需合同依据。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 186,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，卸港复检（Re-inspection）？",
+  "options": [
+   {
+    "text": "不复检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅自检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "第三方复检确认质量",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "复检保障公平。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 187,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，煤炭进口关税（Import Duty）？",
+  "options": [
+   {
+    "text": "无关税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "固定税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按进口国税率征收",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "关税影响成本。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 188,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，增值税（VAT）？",
+  "options": [
+   {
+    "text": "无税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅出口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "进口环节计征",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "增值税是进口成本。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 189,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，进口许可证（License）？",
+  "options": [
+   {
+    "text": "无需",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅出口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "部分国家需许可进口",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "进口许可合规。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 190,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，检验机构（Inspector）选择？",
+  "options": [
+   {
+    "text": "仅卖方指定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅买方指定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方认可的有资质机构",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "机构选择需双方认可。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 191,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，装港检验（Loading Inspection）内容？",
+  "options": [
+   {
+    "text": "仅看单据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅拍照",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取样、水尺、装船监督",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装港检验全程监督。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 192,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，卸港检验（Discharge Inspection）？",
+  "options": [
+   {
+    "text": "仅装港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "到港质量与数量检验",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "卸港检验验收。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 193,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，基准换算（Basis Conversion）？",
+  "options": [
+   {
+    "text": "随意换算",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一个基准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "忽略",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不同基准热值/水分换算",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "基准换算规范统一。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 194,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，GAR（收到基高位）？",
+  "options": [
+   {
+    "text": "空干基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "干基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "以收到状态计高位热值",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "GAR 是贸易常用基准。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 195,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，NAR（收到基低位）？",
+  "options": [
+   {
+    "text": "高位",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "干基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "扣减氢燃烧水分的低位热值",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "NAR 更接近实际利用。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 196,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，空干基（ADB）？",
+  "options": [
+   {
+    "text": "收到基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "干基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "空气干燥状态下的指标",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "ADB 用于化验报告。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 197,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，干基（DB）？",
+  "options": [
+   {
+    "text": "收到基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "空干基",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "扣除全部水分后的指标",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "干基去除水分影响。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 198,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，水尺计重（Draft Survey）？",
+  "options": [
+   {
+    "text": "仅称重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅提单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按吃水变化计算货量",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "水尺计重是大宗货常用。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 199,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ },
+ {
+  "question": "国际煤贸中，到岸检验（Destination Inspection）意义？",
+  "options": [
+   {
+    "text": "无意义",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅装港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保障买方收到合格货物",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "到岸检验保护买方。",
+  "level": 7,
+  "level_name": "检验结算",
+  "index_in_level": 200,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L7_batch"
+ }
+]

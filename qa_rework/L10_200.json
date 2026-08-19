@@ -1,0 +1,9602 @@
+[
+ {
+  "question": "行业综合中，煤炭贸易产业链？",
+  "options": [
+   {
+    "text": "仅矿端",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅贸易",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅终端",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "矿端、贸易、物流、终端",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "产业链完整。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 1,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，全球主要出口国？",
+  "options": [
+   {
+    "text": "仅印尼",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅中国",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅美国",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "印尼、澳大利亚、俄罗斯",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "出口国多元。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 2,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，全球主要进口国？",
+  "options": [
+   {
+    "text": "仅中国",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅印尼",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅美国",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "中国、印度、日韩",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "进口国以亚洲为主。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 3,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，印尼煤炭优势？",
+  "options": [
+   {
+    "text": "高热值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "低水分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "低硫低灰热值适中",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "印尼煤环保指标好。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 4,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，澳洲煤炭优势？",
+  "options": [
+   {
+    "text": "低硫",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "低水分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "高热值低灰",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "澳煤热值高。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 5,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，中国煤炭需求？",
+  "options": [
+   {
+    "text": "仅民用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅出口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "电力与工业为主",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "电力是最大需求。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 6,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭定价体系？",
+  "options": [
+   {
+    "text": "仅现货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅指数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "指数+长协+现货",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "定价体系多元。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 7,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭贸易风险？",
+  "options": [
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅信用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格、信用、物流、合规",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "风险多维。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 8,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭贸易利润来源？",
+  "options": [
+   {
+    "text": "仅价差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅投机",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价差、物流、增值服务",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "利润来源多元。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 9,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭与电力关系？",
+  "options": [
+   {
+    "text": "无关联",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅煤炭",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅电力",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤电联动",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "煤电联动紧密。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 10,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭与钢铁关系？",
+  "options": [
+   {
+    "text": "无关联",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅动力煤",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "焦煤炼焦供钢",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "焦煤炼钢。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 11,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭清洁利用？",
+  "options": [
+   {
+    "text": "直接烧",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅出口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "洗选、脱硫、气化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "清洁利用是方向。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 12,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，碳达峰影响？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "需求暴增",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤炭需求逐步见顶",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "双碳影响长期需求。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 13,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，新能源替代？",
+  "options": [
+   {
+    "text": "完全替代",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "风光电替代部分煤电",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "替代是渐进过程。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 14,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭贸易数字化？",
+  "options": [
+   {
+    "text": "无趋势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅线下",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "平台化、数据化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数字化提效率。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 15,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭金融化？",
+  "options": [
+   {
+    "text": "无金融工具",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅现货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "期货、掉期、期权",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "金融工具套保。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 16,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，行业协会（Association）？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅收费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "信息与标准交流",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "协会促行业规范。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 17,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，行业展会（Exhibition）？",
+  "options": [
+   {
+    "text": "无价值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅旅游",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "对接资源与信息",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "展会拓人脉。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 18,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，行业媒体（Media）？",
+  "options": [
+   {
+    "text": "无价值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅八卦",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格与政策信息",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "媒体提供信息。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 19,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，行业人才需求？",
+  "options": [
+   {
+    "text": "仅单技能",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅语言",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "复合型贸易人才",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "复合人才吃香。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 20,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，印尼煤炭出口政策？",
+  "options": [
+   {
+    "text": "无政策",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅关税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "配额与限制",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "印尼政策影响供给。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 21,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，澳洲煤炭出口政策？",
+  "options": [
+   {
+    "text": "无政策",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅关税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "环保与投资审查",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "澳政策影响供给。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 22,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，蒙古煤炭进口？",
+  "options": [
+   {
+    "text": "无此来源",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅海运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "陆运口岸贸易",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "蒙煤陆运补充。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 23,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，俄罗斯煤炭进口？",
+  "options": [
+   {
+    "text": "无此来源",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅陆运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "远东与海运",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "俄煤多元补充。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 24,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭海运航线？",
+  "options": [
+   {
+    "text": "仅一条",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内河",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "印尼-中国、澳-中、俄-中",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "航线多元。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 25,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，港口煤炭吞吐？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船型",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装卸与堆存能力",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "港口能力限吞吐。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 26,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭库存周期？",
+  "options": [
+   {
+    "text": "无规律",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "恒定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "季节性波动",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "库存随季节。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 27,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭质量标杆？",
+  "options": [
+   {
+    "text": "无标杆",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅经验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "国际标准与合同",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "标准定质量。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 28,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，行业周期（Cycle）？",
+  "options": [
+   {
+    "text": "无周期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "供需周期波动",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "周期是行业规律。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 29,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，行业监管（Regulation）？",
+  "options": [
+   {
+    "text": "无监管",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅自律",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合规经营",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "监管保秩序。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 30,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭贸易术语（Jargon）？",
+  "options": [
+   {
+    "text": "无术语",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅英文",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "行业通用术语",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "术语是行话。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 31,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，贸易惯例（Practice）？",
+  "options": [
+   {
+    "text": "无惯例",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "行业通行做法",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "惯例补合同空白。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 32,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭贸易争议类型？",
+  "options": [
+   {
+    "text": "仅质量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "质量、数量、费用",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "争议集中在三块。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 33,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，争议解决渠道？",
+  "options": [
+   {
+    "text": "仅诉讼",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅协商",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "协商、调解、仲裁、诉讼",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "渠道多元。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 34,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，仲裁优势？",
+  "options": [
+   {
+    "text": "无优势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅便宜",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "专业、保密、高效",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "仲裁受行业欢迎。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 35,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，合同示范文本（Model）？",
+  "options": [
+   {
+    "text": "无范本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅自拟",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "行业标准合同",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "范本减少争议。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 36,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，煤炭贸易保险？",
+  "options": [
+   {
+    "text": "无保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅强险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物险与责任险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保险转嫁风险。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 37,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，贸易融资（Trade Finance）？",
+  "options": [
+   {
+    "text": "无融资",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅贷款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "信用证、保理、仓单",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "融资活资金。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 38,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，供应链金融？",
+  "options": [
+   {
+    "text": "无此业务",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅保理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "上下游融资支持",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "供应链金融提协同。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 39,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "行业综合中，行业未来趋势？",
+  "options": [
+   {
+    "text": "无趋势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅萎缩",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "清洁化、数字化、金融化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "趋势明确。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 40,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，贸易从业者核心技能？",
+  "options": [
+   {
+    "text": "仅外语",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅沟通",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "市场、风控、沟通、外语",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "技能复合。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 41,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，行业知识（Industry）？",
+  "options": [
+   {
+    "text": "仅销售",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅财务",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "懂煤质与流程",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "行业知识是根基。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 42,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，市场分析能力？",
+  "options": [
+   {
+    "text": "无此能力",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅跟风",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "研判供需与价格",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "分析能力定判断。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 43,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，风险意识（Risk）？",
+  "options": [
+   {
+    "text": "无意识",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅事后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全程控风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "风控是生命线。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 44,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，沟通能力（Communication）？",
+  "options": [
+   {
+    "text": "仅内部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅外部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "内外部高效沟通",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "沟通促协作。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 45,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，外语能力（Language）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅书面",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "英语商务沟通",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "外语对接国际。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 46,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，谈判能力（Negotiation）？",
+  "options": [
+   {
+    "text": "无此能力",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅压价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "争取有利条件",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "谈判增效益。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 47,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，数字化技能（Digital）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅手工",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数据分析与工具",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数字化提效率。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 48,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，持续学习（Learning）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "行业与政策更新",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "行业变化快。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 49,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，职业规划（Career）？",
+  "options": [
+   {
+    "text": "无规划",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅跳槽",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确方向与路径",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "规划促成长。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 50,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，人脉积累（Network）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅私下",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "行业资源连接",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "人脉是资源。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 51,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，诚信经营（Integrity）？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅利益",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "行业立足之本",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "诚信是底线。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 52,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，抗压能力（Stress）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅逃避",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "行情波动保持冷静",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "抗压保决策。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 53,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，团队协作（Teamwork）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅单干",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "跨部门协同",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "协作提效率。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 54,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，领导力（Leadership）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅管理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "带团队定方向",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "领导力促组织。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 55,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，考证（Certification）？",
+  "options": [
+   {
+    "text": "无价值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅形式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "专业认证提升",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "认证加持专业。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 56,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，实习/实践（Practice）？",
+  "options": [
+   {
+    "text": "无价值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅理论",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "积累实战经验",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "实践出真知。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 57,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，导师（Mentor）？",
+  "options": [
+   {
+    "text": "无价值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅自学",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "前辈指导少走弯路",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "导师促成长。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 58,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，职业素养（Professionalism）？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅能力",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "敬业、守时、负责",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "素养是基本。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 59,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，时间管理（Time）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅加班",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "高效安排工作",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "时间管理提效。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 60,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，情绪管理（Emotion）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅发泄",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "压力下保持理性",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "情绪管理保判断。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 61,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，跨文化沟通？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅语言",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "尊重文化差异",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "跨文化促合作。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 62,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，行业敏感度（Sense）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅后知",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "捕捉市场变化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "敏感度抓机会。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 63,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，创新思维（Innovation）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅守旧",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "模式与工具创新",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "创新提竞争力。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 64,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，汇报能力（Reporting）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "清晰呈现结果",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "汇报促决策。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 65,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，数据分析（Analysis）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅直觉",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数据支撑决策",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数据是依据。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 66,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，公文写作（Writing）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口语",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同与报告规范",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "写作是基本功。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 67,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，行业道德（Ethics）？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅利益",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "遵守商业道德",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "道德是底线。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 68,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，职业证书含金量？",
+  "options": [
+   {
+    "text": "无差别",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅花钱",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "国际认可优先",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "含金量看认可。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 69,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，海外经验（Overseas）？",
+  "options": [
+   {
+    "text": "无价值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅旅游",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "拓宽视野与资源",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "海外经验加分。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 70,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，轮岗（Rotation）？",
+  "options": [
+   {
+    "text": "无价值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅固定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "多岗位历练",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "轮岗促全面。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 71,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，复盘习惯（Review）？",
+  "options": [
+   {
+    "text": "无价值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅庆祝",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "总结经验教训",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "复盘促提升。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 72,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，目标管理（Goal）？",
+  "options": [
+   {
+    "text": "无目标",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口号",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "SMART 目标",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "目标管理促达成。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 73,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，自我驱动（Drive）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅被动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "主动学习与承担",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "驱动促成长。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 74,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，行业交流（Exchange）？",
+  "options": [
+   {
+    "text": "无价值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅闲聊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "论坛与社群",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "交流促信息。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 75,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，供应商关系（Relationship）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅交易",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "维护长期合作",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "关系促供应。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 76,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，客户关系（Customer）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅销售",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "需求洞察与服务",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "客户关系促复购。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 77,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，合规意识（Compliance）？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅利益",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "红线不可触碰",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "合规保职业。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 78,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，职业路径（Path）？",
+  "options": [
+   {
+    "text": "无方向",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅单一",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "贸易、物流、金融方向",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "路径多元。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 79,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "职业发展中，终身学习（Lifelong）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅阶段",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "适应行业变化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "终身学习保竞争力。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 80,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，进出口许可（License）？",
+  "options": [
+   {
+    "text": "无许可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按规申领",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "许可是前提。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 81,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，海关申报（Declaration）？",
+  "options": [
+   {
+    "text": "瞒报",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅少报",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "如实申报",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "如实申报保通关。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 82,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，税务合规（Tax）？",
+  "options": [
+   {
+    "text": "逃税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅少缴",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "依法纳税",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "税务合规是底线。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 83,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，外汇管理（FX）？",
+  "options": [
+   {
+    "text": "违规操作",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅黑市",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按规结售汇",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "外汇合规保资金。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 84,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，反洗钱（AML）？",
+  "options": [
+   {
+    "text": "不做",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅形式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "客户尽调与报告",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "反洗钱是义务。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 85,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，制裁合规（Sanctions）？",
+  "options": [
+   {
+    "text": "忽视",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅检查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "避免受制裁交易",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "制裁合规红线。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 86,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，环保合规（Environment）？",
+  "options": [
+   {
+    "text": "忽视",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅罚款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "排放与固废合规",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "环保合规保经营。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 87,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，安全生产（Safety）？",
+  "options": [
+   {
+    "text": "忽视",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅应付",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "人员与设备安全",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "安全是生命线。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 88,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，数据合规（Data）？",
+  "options": [
+   {
+    "text": "泄露",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "客户与交易数据保护",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数据合规新要求。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 89,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，反垄断（Antitrust）？",
+  "options": [
+   {
+    "text": "无此要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅大企业",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "避免垄断行为",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "反垄断防处罚。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 90,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，商业贿赂（Bribery）？",
+  "options": [
+   {
+    "text": "无禁止",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅灰色",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "禁止利益输送",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "反贿赂保清白。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 91,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，合同合规（Contract）？",
+  "options": [
+   {
+    "text": "违法条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "条款合法有效",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "合同合规保权益。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 92,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，知识产权（IP）？",
+  "options": [
+   {
+    "text": "侵犯",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅大牌",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "尊重商标与技术",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "知识产权合规。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 93,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，劳动合规（Labor）？",
+  "options": [
+   {
+    "text": "忽视",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅工资",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "员工权益保障",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "劳动合规保稳定。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 94,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，标准合规（Standard）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅经验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按国际/国家标准",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "标准合规保质量。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 95,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，检验合规（Inspection）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅自检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅目测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "第三方检验认可",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "检验合规保公信。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 96,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，报关代理（Broker）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅便宜",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅熟人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "选择合规代理",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "代理合规防风险。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 97,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，船运合规（Shipping）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅货主",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船舶证书与配员",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "船运合规保安全。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 98,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，保险合规（Insurance）？",
+  "options": [
+   {
+    "text": "少保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "足额投保",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保险合规转风险。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 99,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，财务合规（Finance）？",
+  "options": [
+   {
+    "text": "造假",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内账",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "账务真实",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "财务合规保诚信。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 100,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，审计（Audit）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅形式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "外部审计监督",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "审计促规范。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 101,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，内控（Internal Control）？",
+  "options": [
+   {
+    "text": "无内控控",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "流程与授权控制",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "内控防舞弊。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 102,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，举报机制（Whistleblowing）？",
+  "options": [
+   {
+    "text": "无渠道",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅压制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "违规举报渠道",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "举报促透明。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 103,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，合规培训（Training）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅新员工",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "员工合规意识",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "培训全覆盖。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 104,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，合规风险评估？",
+  "options": [
+   {
+    "text": "不评估",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅事后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "定期评估风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "评估前置。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 105,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，合规手册（Manual）？",
+  "options": [
+   {
+    "text": "无手册",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "制度书面化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "手册是依据。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 106,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，记录保留（Record）？",
+  "options": [
+   {
+    "text": "不保留",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅短期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "交易记录保存",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "记录保追溯。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 107,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，制裁名单筛查？",
+  "options": [
+   {
+    "text": "不筛查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅新客户",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "交易对手筛查",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "筛查全流程。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 108,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，出口管制（Export Control）？",
+  "options": [
+   {
+    "text": "无管制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅进口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "受限物项管控",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "出口管制合规。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 109,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，进口管制（Import）？",
+  "options": [
+   {
+    "text": "无管制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅出口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "配额与许可",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "进口管制合规。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 110,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，质量合规（Quality）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅合同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "产品符合标准",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "质量合规保口碑。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 111,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，安全数据表（SDS）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅煤炭无",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "危化品信息",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "SDS 合规。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 112,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，港口合规（Port）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅货主",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口规则与费用",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "港口合规保作业。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 113,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，检验机构资质？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅便宜",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅关系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "认可资质",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "资质保公信。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 114,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，争议合规（Dispute）？",
+  "options": [
+   {
+    "text": "私下解决",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅拖延",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按程序解决",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "按程序保权益。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 115,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，第三方合规（Third-party）？",
+  "options": [
+   {
+    "text": "不调查",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅新伙伴",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合作伙伴尽调",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "第三方合规防风险。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 116,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，信息披露（Disclosure）？",
+  "options": [
+   {
+    "text": "隐瞒",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按规披露",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "披露保透明。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 117,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，反欺诈（Fraud）？",
+  "options": [
+   {
+    "text": "无意识",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅事后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "识别与防范欺诈",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "反欺诈保资产。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 118,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，行业自律（Self-regulation）？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅政府",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "遵守行业规范",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "自律保秩序。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 119,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "合规经营中，合规文化（Culture）？",
+  "options": [
+   {
+    "text": "不需要",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅领导",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全员合规理念",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "文化保长效。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 120,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，数字化平台（Platform）？",
+  "options": [
+   {
+    "text": "无趋势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅线下",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "线上交易与信息",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "平台提效率。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 121,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，大数据（Big Data）？",
+  "options": [
+   {
+    "text": "无应用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅手工",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "价格与需求预测",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "大数据助决策。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 122,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，AI 应用（AI）？",
+  "options": [
+   {
+    "text": "无应用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "智能分析与风控",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "AI 提效率。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 123,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，物联网（IoT）？",
+  "options": [
+   {
+    "text": "无应用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "设备与货物监测",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "IoT 保透明。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 124,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，区块链（Blockchain）？",
+  "options": [
+   {
+    "text": "无应用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅炒作",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单据与溯源",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "区块链提信任。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 125,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，电子提单（e-B/L）？",
+  "options": [
+   {
+    "text": "无趋势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅纸质",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无纸化单据",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "e-B/L 提效率。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 126,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，智慧港口（Smart Port）？",
+  "options": [
+   {
+    "text": "无趋势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅人工",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自动化作业",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "智慧港口提效。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 127,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，绿色航运（Green Shipping）？",
+  "options": [
+   {
+    "text": "无趋势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅传统",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "低碳燃料与节能",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "绿色航运是方向。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 128,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，碳交易（Carbon）？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "碳排放权交易",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "碳交易影响成本。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 129,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，清洁煤技术（Clean Coal）？",
+  "options": [
+   {
+    "text": "无趋势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅直接烧",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "洗选与气化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "清洁煤技术降排放。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 130,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，CCUS（碳捕集）？",
+  "options": [
+   {
+    "text": "无应用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "捕集利用封存",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "CCUS 减碳。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 131,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，氢能（Hydrogen）？",
+  "options": [
+   {
+    "text": "无关联",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤制氢路径",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "煤制氢是路径。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 132,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，甲醇（Methanol）？",
+  "options": [
+   {
+    "text": "无关联",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤制甲醇",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "煤化工延伸。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 133,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，煤化工（Coal Chemical）？",
+  "options": [
+   {
+    "text": "无关联",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅燃料",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤制油、气、化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "煤化工增值。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 134,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，供应链金融创新？",
+  "options": [
+   {
+    "text": "无创新",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅传统",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "区块链+仓单",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "金融创新活资金。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 135,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，期货期权（Derivatives）？",
+  "options": [
+   {
+    "text": "无工具",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅现货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "套保工具",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "衍生品套保。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 136,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，指数基金（ETF）？",
+  "options": [
+   {
+    "text": "无关联",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅个股",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤炭板块投资",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "ETF 分散投资。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 137,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，风险管理数字化？",
+  "options": [
+   {
+    "text": "无系统",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅手工",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "实时监控系统",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数字化风控。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 138,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，在线检验（Online）？",
+  "options": [
+   {
+    "text": "无应用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅现场",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "远程检验",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "在线检验提效。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 139,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，无人船（USV）？",
+  "options": [
+   {
+    "text": "无趋势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自主航行",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "无人船未来。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 140,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，智能航运（Smart Shipping）？",
+  "options": [
+   {
+    "text": "无趋势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅传统",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数据驱动运营",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "智能航运提效。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 141,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，数字孪生（Digital Twin）？",
+  "options": [
+   {
+    "text": "无应用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口/船舶仿真",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数字孪生优化。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 142,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，5G 应用（5G）？",
+  "options": [
+   {
+    "text": "无应用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口与物流通信",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "5G 助自动化。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 143,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，无人机巡检（Drone）？",
+  "options": [
+   {
+    "text": "无应用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货场与船舶检查",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "无人机提效。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 144,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，智能质检（AIQC）？",
+  "options": [
+   {
+    "text": "无应用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅人工",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "AI 辅助检验",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "智能质检提准。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 145,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，绿色金融（Green Finance）？",
+  "options": [
+   {
+    "text": "无关联",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "绿色债券与贷款",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "绿色金融助转型。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 146,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，ESG 要求（ESG）？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "环境社会治理",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "ESG 成门槛。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 147,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，碳足迹（Carbon Footprint）？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "产品碳核算",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "碳足迹成标签。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 148,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，能源转型（Transition）？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅消失",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤炭角色调整",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "转型渐进。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 149,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，煤炭贸易新模式？",
+  "options": [
+   {
+    "text": "无新模式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅传统",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "平台+长协+金融",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "模式创新提效。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 150,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，保税贸易（Bonded）？",
+  "options": [
+   {
+    "text": "无此模式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一般",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保税区转口",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保税贸易灵活。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 151,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，转口贸易（Transit）？",
+  "options": [
+   {
+    "text": "无此模式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅直运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "第三国中转",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "转口避限制。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 152,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，跨境支付创新？",
+  "options": [
+   {
+    "text": "无创新",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅美元",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "数字人民币等",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "支付创新提效。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 153,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，汇率避险创新？",
+  "options": [
+   {
+    "text": "无工具",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅观望",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "更多套保工具",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "避险工具丰富。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 154,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，贸易融资创新？",
+  "options": [
+   {
+    "text": "无创新",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅贷款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "应收账款证券化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "融资创新活资产。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 155,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，行业数据平台？",
+  "options": [
+   {
+    "text": "无平台",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅纸媒",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "实时行情与物流",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数据平台提信息。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 156,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，智能合约（Smart Contract）？",
+  "options": [
+   {
+    "text": "无应用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自动执行条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "智能合约提效率。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 157,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，碳中和路径（Net Zero）？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "长期减排目标",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "碳中和定方向。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 158,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，行业整合（Consolidation）？",
+  "options": [
+   {
+    "text": "无趋势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅分散",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "并购与集中",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "整合提规模。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 159,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "创新趋势中，人才培养创新？",
+  "options": [
+   {
+    "text": "无创新",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅传统",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "产教融合",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "人才培养创新保供给。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 160,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，行情下跌时采购策略？",
+  "options": [
+   {
+    "text": "大批量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "满仓",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "观望或小批量",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "下跌时控风险。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 161,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，行情上涨时销售策略？",
+  "options": [
+   {
+    "text": "一次性",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "惜售",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "分批销售锁利",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "上涨时锁利润。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 162,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，供应商报价偏低？",
+  "options": [
+   {
+    "text": "直接接受",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅压价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "核实质量与履约",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "低价需核实。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 163,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，客户要求垫资？",
+  "options": [
+   {
+    "text": "直接答应",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "拒绝",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "评估信用与担保",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "垫资控风险。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 164,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，船期延误？",
+  "options": [
+   {
+    "text": "隐瞒",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "等待",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "及时沟通调整",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "延误需沟通。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 165,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，装港检验不合格？",
+  "options": [
+   {
+    "text": "直接拒收",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "忽略",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "要求复检或协商",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "不合格按程序。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 166,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，卸港发现货损？",
+  "options": [
+   {
+    "text": "忽略",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "留证并索赔",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "货损需留证。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 167,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，汇率大幅波动？",
+  "options": [
+   {
+    "text": "不处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅观望",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "套保锁定",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "汇率风险需套保。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 168,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，客户拖欠货款？",
+  "options": [
+   {
+    "text": "继续发货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅电话",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "催收并控新单",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "欠款控风险。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 169,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，供应商断供？",
+  "options": [
+   {
+    "text": "等待",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅催货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "启用备选渠道",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "断供需备选。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 170,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，合同条款模糊？",
+  "options": [
+   {
+    "text": "凭经验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "补充协议澄清",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "模糊需书面。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 171,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，发现对方欺诈？",
+  "options": [
+   {
+    "text": "继续交易",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅争吵",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保留证据并止损",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "欺诈需止损。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 172,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，政策突变？",
+  "options": [
+   {
+    "text": "不处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅抱怨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "评估影响调整",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "政策变化需应对。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 173,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，安全事故？",
+  "options": [
+   {
+    "text": "隐瞒",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅赔偿",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "救人报险调查",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "安全第一。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 174,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，客户投诉质量？",
+  "options": [
+   {
+    "text": "推诿",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅道歉",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "核实并处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "投诉需解决。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 175,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，市场信息不对称？",
+  "options": [
+   {
+    "text": "盲信",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅单源",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "多方核实",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "信息需交叉验证。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 176,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，资金紧张？",
+  "options": [
+   {
+    "text": "停业务",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅借款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "融资与回款并重",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "资金管理综合。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 177,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，库存积压？",
+  "options": [
+   {
+    "text": "继续囤",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅等待",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "降价促销或转卖",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "积压需消化。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 178,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，货源紧张？",
+  "options": [
+   {
+    "text": "等现货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅高价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提前锁量与长协",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "货源紧张需提前。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 179,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，港口拥堵？",
+  "options": [
+   {
+    "text": "等待",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅抱怨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "调整船期与路线",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "拥堵需调整。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 180,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，检验结果争议？",
+  "options": [
+   {
+    "text": "接受单方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅争吵",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "第三方仲裁",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "争议走仲裁。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 181,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，合同违约？",
+  "options": [
+   {
+    "text": "私下解决",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅忍耐",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按约追责",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "违约按合同。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 182,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，关税调整？",
+  "options": [
+   {
+    "text": "不处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅涨价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "评估成本影响",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "关税影响成本。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 183,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，客户需求变化？",
+  "options": [
+   {
+    "text": "不调整",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅拒绝",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灵活调整供应",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "需求变化需响应。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 184,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，物流成本上升？",
+  "options": [
+   {
+    "text": "不处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅转嫁",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "优化路线与船型",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "成本上升需优化。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 185,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，数据泄露？",
+  "options": [
+   {
+    "text": "隐瞒",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅删除",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "及时处置报告",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数据泄露需上报。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 186,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，员工离职？",
+  "options": [
+   {
+    "text": "不管",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅招聘",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "交接与补位",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "离职需交接。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 187,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，竞对低价抢单？",
+  "options": [
+   {
+    "text": "跟价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅放弃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "差异化竞争",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "竞争需差异化。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 188,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，客户转单？",
+  "options": [
+   {
+    "text": "放弃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅降价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "分析原因改进",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "转单需复盘。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 189,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，供应商涨价？",
+  "options": [
+   {
+    "text": "接受",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅囤货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "谈判与换源",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "涨价需应对。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 190,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，市场谣言？",
+  "options": [
+   {
+    "text": "盲信",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅转发",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "核实不传播",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "谣言需辨别。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 191,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，合同签署前？",
+  "options": [
+   {
+    "text": "草率签",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全面审查条款",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "签署前审查。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 192,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，付款方式选择？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅现金",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅赊账",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "信用证/电汇权衡",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "付款方式控风险。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 193,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，船东选择？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅低价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅熟人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "资质与船况核实",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "船东需核实。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 194,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，检验机构选择？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅低价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅关系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "资质与中立",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "检验需中立。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 195,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，保险投保？",
+  "options": [
+   {
+    "text": "少保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不保",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "足额覆盖风险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "投保需足额。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 196,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，长期客户维护？",
+  "options": [
+   {
+    "text": "不维护",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅促销",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "定期回访与增值",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "维护促忠诚。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 197,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，行业展会价值？",
+  "options": [
+   {
+    "text": "无价值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅旅游",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "拓客与信息",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "展会促业务。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 198,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，复盘会议？",
+  "options": [
+   {
+    "text": "无复盘",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅形式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "总结与改进",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "复盘促提升。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 199,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ },
+ {
+  "question": "综合实战中，职业发展核心？",
+  "options": [
+   {
+    "text": "仅专业",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅人脉",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "专业+诚信+风控",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "综合素养是核心。",
+  "level": 10,
+  "level_name": "行业大师",
+  "index_in_level": 200,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L10_batch"
+ }
+]

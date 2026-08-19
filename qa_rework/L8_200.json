@@ -1,0 +1,9602 @@
+[
+ {
+  "question": "中国煤炭进口需要办理什么许可证？",
+  "options": [
+   {
+    "text": "出口许可证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "原产地证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无许可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "自动进口许可证",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "中国煤炭进口需自动进口许可。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 1,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "中国自动进口许可证（Automatic Import License）？",
+  "options": [
+   {
+    "text": "配额限制",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "禁止进口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "登记自动许可，非配额限制",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "自动许可仅登记管理。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 2,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "中国进口煤炭的海关编码（HS Code）？",
+  "options": [
+   {
+    "text": "无编码",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一个",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "2701/2702 等煤炭类目",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "煤炭有专门 HS 编码。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 3,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "中国进口煤炭的检验检疫（CIQ）监管？",
+  "options": [
+   {
+    "text": "无监管",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅出口国",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "到港后依法检验",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "海关检验检疫监管。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 4,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "中国进口煤炭申报需要哪些单证？",
+  "options": [
+   {
+    "text": "仅发票",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅提单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同、发票、装箱单、提单、许可证",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "进口单证齐全。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 5,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "中国进口煤炭的关税政策？",
+  "options": [
+   {
+    "text": "零关税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "固定税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按最惠国税率/协定税率征收",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "关税按政策执行。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 6,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "中国进口煤炭的增值税税率？",
+  "options": [
+   {
+    "text": "无税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅出口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按国家规定计征（如13%）",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "进口环节征增值税。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 7,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "中国进口煤炭的环保要求？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "硫分、灰分等符合国标",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "环保指标合规。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 8,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "中国进口煤炭的放射性检测？",
+  "options": [
+   {
+    "text": "无检测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅卖方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "海关实施放射性监测",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "进口煤放射性监测。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 9,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "中国进口煤炭的堆存要求？",
+  "options": [
+   {
+    "text": "随意堆放",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅露天",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "分区存放并防自燃",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "堆存安全环保。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 10,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭到港后的报检流程？",
+  "options": [
+   {
+    "text": "自行处理",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无流程",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "向海关申报并接受检验",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "报检是法定义务。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 11,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的检验机构？",
+  "options": [
+   {
+    "text": "仅卖方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅买方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "海关实验室或第三方机构",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "检验机构依法认定。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 12,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的自动进口许可证有效期？",
+  "options": [
+   {
+    "text": "永久",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一天",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按商务部规定（通常年度内）",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "许可证有有效期。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 13,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的配额管理？",
+  "options": [
+   {
+    "text": "有配额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "禁止",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无配额，但需登记许可",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "煤炭进口无配额。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 14,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的税则归类错误后果？",
+  "options": [
+   {
+    "text": "无后果",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅警告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "补税罚款",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "归类错误涉税风险。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 15,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的申报价格（Customs Value）？",
+  "options": [
+   {
+    "text": "随意报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "低报",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "高报",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按成交价格如实申报",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "成交价格如实申报。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 16,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭被海关查验（Examination）？",
+  "options": [
+   {
+    "text": "拒绝",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "躲避",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "配合查验并提供资料",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "配合查验是义务。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 17,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的验放（Release）条件？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅缴税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅申报",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "申报合规、检验合格",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "验放有条件。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 18,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的退运（Return）情形？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "质量严重不符或违规",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "退运有法定情形。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 19,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的保税（Bonded）仓储？",
+  "options": [
+   {
+    "text": "无此业务",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内销",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "海关监管下暂存",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保税仓储延税。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 20,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的加工贸易（Processing）？",
+  "options": [
+   {
+    "text": "无此方式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内销",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "进口原料加工后复出口",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "加工贸易免税。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 21,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的原产地（Origin）认定？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅装港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船籍",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按实质性改变规则认定",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "原产地认定有规则。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 22,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的优惠税率（FTA）？",
+  "options": [
+   {
+    "text": "无优惠",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅全额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "凭原产地证享协定税率",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "FTA 降税。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 23,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的滞报金（Late Declaration）？",
+  "options": [
+   {
+    "text": "无此费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅罚款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "超期申报产生费用",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "滞报金约束申报时效。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 24,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的滞港费（Demurrage at Port）？",
+  "options": [
+   {
+    "text": "无此费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "超期占用码头费用",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "滞港费是码头费用。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 25,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的港口费用（Port Charges）？",
+  "options": [
+   {
+    "text": "仅装卸",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅堆存",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装卸、堆存、港务等费",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "港口费多项。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 26,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的疏港（Distribution）？",
+  "options": [
+   {
+    "text": "仅公路",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅堆存",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "海铁联运、内河、公路外运",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "疏港多方式。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 27,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的堆场周转（Turnover）？",
+  "options": [
+   {
+    "text": "无意义",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "提高堆场使用效率",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "周转率影响成本。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 28,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的接卸能力（Discharge Capacity）？",
+  "options": [
+   {
+    "text": "仅船型",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅天气",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "码头泊位与设备决定",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "接卸能力由港口设施决定。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 29,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的检验时效（Inspection Time）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无限期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅月末",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "到港后及时检验",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "时效保障通关。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 30,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的通关时间（Clearance Time）影响？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "物流成本与供应节奏",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "通关效率影响成本。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 31,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的检验费用承担？",
+  "options": [
+   {
+    "text": "全由卖方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全由政府",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同约定，通常买方",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "检验费按约承担。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 32,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的卸港检验（Discharge Inspection）？",
+  "options": [
+   {
+    "text": "仅装港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验到港质量与数量",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "卸港检验验收。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 33,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的海关抽检（Random Check）？",
+  "options": [
+   {
+    "text": "无抽检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅全检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随机取样检验合规",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "海关抽检监管。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 34,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭被海关抽检发现硫分超标，正确做法？",
+  "options": [
+   {
+    "text": "拒绝",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "私下解决",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "配合复检并处理",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "超标按程序处理。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 35,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的环保处罚？",
+  "options": [
+   {
+    "text": "无处罚",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅警告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "超标排放/堆存污染受罚",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "环保违规受罚。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 36,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的合同备案（Contract Filing）？",
+  "options": [
+   {
+    "text": "无需",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅出口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按监管要求备案",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "合同备案合规。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 37,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的电子口岸（E-port）？",
+  "options": [
+   {
+    "text": "无此平台",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅线下",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "线上申报与通关",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "电子口岸便利化。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 38,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的检验标准适用？",
+  "options": [
+   {
+    "text": "仅ISO",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅卖方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同约定或中国国标",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "标准适用按约定。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 39,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口煤炭的争议解决（Dispute）？",
+  "options": [
+   {
+    "text": "仅打架",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "放弃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "协商、复检、仲裁或诉讼",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "争议按程序解决。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 40,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船准备中，泊位确认（Berth Confirmation）？",
+  "options": [
+   {
+    "text": "仅确认船名",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "确认泊位水深与靠泊条件",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "泊位条件影响装船。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 41,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船准备中，水尺检查（Draft Check）？",
+  "options": [
+   {
+    "text": "仅目测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "核对前后吃水与排水量",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "水尺检查用于计重。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 42,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船准备中，货舱检查（Hold Check）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅外观",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "确认货舱清洁干燥",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "货舱清洁保煤质。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 43,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船准备中，设备检查（Equipment Check）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅外观",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅登记",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "确认装卸设备可用",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "设备可用保障作业。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 44,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船计划中，装船时间表（Loading Schedule）？",
+  "options": [
+   {
+    "text": "无计划",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅到港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "安排靠泊、装货与离港节点",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "时间表协调各方。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 45,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船计划中，装船顺序（Loading Sequence）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅先来先装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按舱容与稳性安排装舱顺序",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装舱顺序保障稳性。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 46,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船协调中，多方协调（Multi-party）包括？",
+  "options": [
+   {
+    "text": "仅货主",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货主、船方、码头、检验、代理",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装船多方协同。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 47,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船协调中，船岸协调（Ship-shore）？",
+  "options": [
+   {
+    "text": "无协调",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "统一装卸指令与安全联络",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "船岸协调保安全。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 48,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船协调中，货主协调（Shipper）？",
+  "options": [
+   {
+    "text": "无协调",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅码头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "确认货量与装船进度",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "货主跟踪进度。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 49,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船安全中，安全要求（Safety）？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅速度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "人员设备防护与禁令",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "安全是装船底线。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 50,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船安全中，防尘（Dust Control）？",
+  "options": [
+   {
+    "text": "无措施",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅速度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "洒水抑尘与封闭输送",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "防尘环保合规。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 51,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船安全中，火灾风险（Fire Risk）？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅电气",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "煤炭粉尘与自燃防护",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装煤防火重要。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 52,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船安全中，人员防护（PPE）？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅登记",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "安全帽、反光衣等",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "防护装备必须。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 53,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船安全中，作业警戒（Warning）？",
+  "options": [
+   {
+    "text": "无警戒",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅夜间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "设置警戒区与警示标志",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "警戒防无关人员进入。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 54,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船安全中，恶劣天气（Weather）应对？",
+  "options": [
+   {
+    "text": "继续作业",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅加人",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "风力超限停止作业",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "大风停止装卸保安全。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 55,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船安全中，夜间作业（Night）？",
+  "options": [
+   {
+    "text": "无照明",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅白天",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "充足照明与安全监护",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "夜间作业需照明。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 56,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船安全中，机械设备（Machinery）操作？",
+  "options": [
+   {
+    "text": "随意操作",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅熟手",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "持证操作、规范使用",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "设备操作要持证。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 57,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船安全中，高处作业（Height）？",
+  "options": [
+   {
+    "text": "无防护",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅慢",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "系安全带与监护",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "高处作业防坠落。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 58,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船安全中，粉尘爆炸（Dust Explosion）预防？",
+  "options": [
+   {
+    "text": "无预防",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅通风",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "控制粉尘浓度与火源",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "粉尘防爆是重点。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 59,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船安全中，应急措施（Emergency）？",
+  "options": [
+   {
+    "text": "无预案",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅事后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "应急预案与演练",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "应急准备充分。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 60,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，装船速率（Loading Rate）？",
+  "options": [
+   {
+    "text": "越快越好",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船东",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同与安全能力控制",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "速率影响滞期与安全。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 61,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，平舱（Trimming）目的？",
+  "options": [
+   {
+    "text": "无目的",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅美观",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅装多",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "均匀分布货物保稳性",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "平舱保稳性与满舱。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 62,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，装船监督（Supervision）？",
+  "options": [
+   {
+    "text": "无监督",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "第三方/买方代表现场监督",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装船监督保质量。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 63,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，取样（Sampling）时点？",
+  "options": [
+   {
+    "text": "装完取",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅堆场",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船过程按规定取样",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装船取样有代表性。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 64,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，水尺计重（Draft Survey）？",
+  "options": [
+   {
+    "text": "仅提单数",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅岸秤",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装前后吃水差计算货量",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "水尺计重大宗货常用。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 65,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，岸秤（Shore Scale）计量？",
+  "options": [
+   {
+    "text": "仅水尺",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅目测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "皮带秤/地磅计量",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "岸秤计量精度高。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 66,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，装船机（Loader）操作？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅自动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按指令控制流量与位置",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装船机作业规范。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 67,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，舱盖（Hatch Cover）管理？",
+  "options": [
+   {
+    "text": "不关舱",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅雨天",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装完关舱密封防进水",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "关舱防水保煤质。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 68,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，码头系缆（Mooring）？",
+  "options": [
+   {
+    "text": "固定不动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随潮位调整缆绳",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "系缆随潮调整。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 69,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，装船期间的吃水控制？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅多装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅少装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "防止超载与触底",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "吃水控制保安全。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 70,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，装船记录（Loading Record）？",
+  "options": [
+   {
+    "text": "不记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅拍照",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "记录时间、速率与情况",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "记录可追溯。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 71,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，货舱通风（Ventilation）？",
+  "options": [
+   {
+    "text": "无需",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅雨天",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "降低舱内温湿度与气体",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "通风防自燃与气体积聚。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 72,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，煤炭自燃预防？",
+  "options": [
+   {
+    "text": "无预防",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅洒水",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "控制堆存时间与温度监测",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "防自燃多措施。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 73,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，装港检验报告（Loading Certificate）？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船质量与数量证明",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装港报告是结算依据。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 74,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，装船前大副收据（Mate's Receipt）？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅船方",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "确认装船货物数量与状况",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "大副收据换提单。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 75,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，提单签发（B/L Issue）？",
+  "options": [
+   {
+    "text": "装船前",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅到港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船后按收货单签发",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "提单在装船后签发。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 76,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，装船效率影响因素？",
+  "options": [
+   {
+    "text": "仅船型",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅天气",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "泊位、设备、天气、货种",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "效率多因素。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 77,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，装船量核对？",
+  "options": [
+   {
+    "text": "仅提单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅水尺",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "水尺/岸秤/提单三方核对",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "多方式核对防短装。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 78,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，装船期间船舶稳性（Stability）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅目测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅经验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按装载仪校核",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "稳性校核保安全。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 79,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "装船作业中，装船完毕后离港（Departure）？",
+  "options": [
+   {
+    "text": "直接开航",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅通知",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "确认关舱、离泊、引航",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "离港程序规范。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 80,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验标准中，抽样标准（Sampling Standard）？",
+  "options": [
+   {
+    "text": "仅测定标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无标准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "规定取样方法与子样数",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "抽样标准规范取样。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 81,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验标准中，方法验证（Method Validation）？",
+  "options": [
+   {
+    "text": "无需验证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅采购",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "验证方法适用性与准确性",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "方法验证保障结果。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 82,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验标准中，标准物质（CRM）用途？",
+  "options": [
+   {
+    "text": "仅记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅采购",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "校准与质控",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "标准物质溯源。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 83,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，制样阶段（Stages）？",
+  "options": [
+   {
+    "text": "仅破碎",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅缩分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "破碎、混合、缩分",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "制样三阶段。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 84,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，堆锥四分法（Cone & Quartering）？",
+  "options": [
+   {
+    "text": "随意取",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅中间",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅表层",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "堆锥后四等分取对角",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "四分法均匀缩分。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 85,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样的采样单元（Sampling Unit）？",
+  "options": [
+   {
+    "text": "无此概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一吨",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按批量划分的取样单位",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "采样单元定义取样范围。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 86,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，缩分（Division）方法？",
+  "options": [
+   {
+    "text": "随意抓",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅目测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅称重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "二分器、四分法、旋转缩分",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "缩分方法标准化。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 87,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤质检验中，不确定度（Uncertainty）？",
+  "options": [
+   {
+    "text": "结果错误",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅误差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结果可信区间",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "不确定度评价质量。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 88,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "取样中，二分器（Divider）使用要点？",
+  "options": [
+   {
+    "text": "随意倒",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅手动",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "均匀给料、槽宽匹配",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "二分器操作规范。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 89,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，子样（Increment）？",
+  "options": [
+   {
+    "text": "总样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "分析样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "一次采取的基本样品",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "子样是基本单元。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 90,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，总样（Gross Sample）？",
+  "options": [
+   {
+    "text": "一个子样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "分析样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "全部子样合并",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "总样汇总子样。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 91,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，分析样（Analysis Sample）？",
+  "options": [
+   {
+    "text": "原样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "子样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "制样后用于化验的样品",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "分析样经制样获得。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 92,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，代表性（Representative）？",
+  "options": [
+   {
+    "text": "随意取",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅表层",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "样品反映整批煤质",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "代表性是核心。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 93,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，取样点选择？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一处",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅表面",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按标准布点覆盖全批",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "布点覆盖全批。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 94,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，皮带取样（Belt Sampling）？",
+  "options": [
+   {
+    "text": "静止处",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅堆场",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "在皮带卸料处定时取样",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "皮带取样需动态。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 95,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，煤堆取样（Stockpile）难点？",
+  "options": [
+   {
+    "text": "无难点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅均匀",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "表层与内部差异",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "煤堆取样偏差大。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 96,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，车厢取样（Wagon）？",
+  "options": [
+   {
+    "text": "仅一角",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅表层",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按梅花点/网格布点",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "车厢布点规范。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 97,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，船舶取样（Vessel）？",
+  "options": [
+   {
+    "text": "仅舱面",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装/卸过程分层取样",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "船舶取样需代表性。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 98,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，雨天取样风险？",
+  "options": [
+   {
+    "text": "无影响",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅温度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "水分变化影响结果",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "雨天影响水分指标。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 99,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，取样工具（Tools）？",
+  "options": [
+   {
+    "text": "任意工具",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅手",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "采样铲、钻头、机械采样器",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "工具规格标准。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 100,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，机械采样（Mechanical）优势？",
+  "options": [
+   {
+    "text": "无优势",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅便宜",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "减少人为偏差、效率高",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "机械采样标准化。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 101,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，人工取样（Manual）适用？",
+  "options": [
+   {
+    "text": "仅大批量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅出口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "小批量或机械不可用",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "人工取样灵活。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 102,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，取样频次（Frequency）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一次",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅定时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按批量与标准规定",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "频次保障代表性。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 103,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，煤样密封（Sealing）？",
+  "options": [
+   {
+    "text": "无需",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅编号",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "防止水分与污染变化",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "密封保样品稳定。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 104,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，样品编号（Labeling）？",
+  "options": [
+   {
+    "text": "无需",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅日期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "唯一标识防混淆",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "编号可追溯。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 105,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，样品运输（Transport）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅快递",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅自取",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "防潮、防损、及时送检",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "运输保样品完好。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 106,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭取样中，留样（Retention）期限？",
+  "options": [
+   {
+    "text": "不保留",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一天",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同与标准规定",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "留样支持复检。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 107,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，全水分样（TM）特殊性？",
+  "options": [
+   {
+    "text": "无特殊",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅混合",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "需单独密封防失水",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "全水分样防蒸发。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 108,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，灰分（Ash）测定？",
+  "options": [
+   {
+    "text": "500℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "1000℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "815±10℃灼烧至恒重",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "灰分按标准灼烧。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 109,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，挥发分（VM）测定？",
+  "options": [
+   {
+    "text": "800℃敞开",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "1000℃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "900±10℃隔绝空气7min",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "挥发分条件严格。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 110,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，发热量（CV）测定？",
+  "options": [
+   {
+    "text": "烘箱",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "马弗炉",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "天平",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "氧弹量热仪",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "发热量用氧弹仪。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 111,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，全硫（TS）测定？",
+  "options": [
+   {
+    "text": "目测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "称重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "库仑法/艾氏卡法",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "全硫按标准法。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 112,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，水分（Moisture）测定？",
+  "options": [
+   {
+    "text": "室温晾干",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅微波",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按标准干燥条件",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "水分测定标准化。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 113,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，元素分析（Ultimate）？",
+  "options": [
+   {
+    "text": "仅灰分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅水分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "C/H/N/S 等含量",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "元素分析全面。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 114,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，灰熔融性（Ash Fusion）？",
+  "options": [
+   {
+    "text": "仅熔点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅沸点",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "变形、软化、半球、流动温度",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "灰熔融四温度。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 115,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，可磨性（HGI）？",
+  "options": [
+   {
+    "text": "密度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "硬度",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "哈氏可磨性指数",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "HGI 评价磨煤。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 116,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，粒度（Size）分析？",
+  "options": [
+   {
+    "text": "目测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "称重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "筛分法",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "粒度用筛分。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 117,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，真相对密度（TRD）？",
+  "options": [
+   {
+    "text": "比重计",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅称重",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单位体积质量比",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "TRD 评价煤质。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 118,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，结渣性（Slagging）？",
+  "options": [
+   {
+    "text": "仅目测",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅水分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "灰熔点与灰成分判断",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "结渣性影响锅炉。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 119,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "煤炭检验中，灰成分（Ash Composition）？",
+  "options": [
+   {
+    "text": "仅碳",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅硫",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "SiO2/Al2O3/Fe2O3 等",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "灰成分判断结渣。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 120,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验报告中，检测项目（Parameters）？",
+  "options": [
+   {
+    "text": "仅热值",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅水分",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "水分、灰分、挥发分、热值、硫分等",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "报告含主要项目。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 121,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验报告中，基准（Basis）字段作用？",
+  "options": [
+   {
+    "text": "无作用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅格式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确结果对应基准",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "基准明确可换算。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 122,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验报告中，检测方法（Method）？",
+  "options": [
+   {
+    "text": "无方法",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅名称",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "注明标准方法与编号",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "方法可溯源。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 123,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验报告中，样品信息（Sample Info）？",
+  "options": [
+   {
+    "text": "无信息",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "样品编号、来源、日期",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "样品信息可追溯。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 124,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验报告中，结果单位（Unit）？",
+  "options": [
+   {
+    "text": "无单位",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅数字",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "如 MJ/kg、%、ppm",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "单位明确防误读。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 125,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验报告中，允许差（Tolerance）？",
+  "options": [
+   {
+    "text": "无此栏",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅误差",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "注明重复性与再现性限",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "允许差评价结果。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 126,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验报告中，判定结论（Conclusion）？",
+  "options": [
+   {
+    "text": "无结论",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅数据",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按标准判定合格与否",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "结论供验收。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 127,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验报告中，报告有效期（Validity）？",
+  "options": [
+   {
+    "text": "永久",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一天",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同约定，通常批次内",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "报告对应批次。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 128,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验报告中，签名签章（Signature）？",
+  "options": [
+   {
+    "text": "无签章",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅打印",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "授权签字人签章",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "签章保证效力。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 129,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验报告中，原始记录（Raw Data）？",
+  "options": [
+   {
+    "text": "不保存",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅结论",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保存原始数据备查",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "原始记录可追溯。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 130,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验报告中，报告修改（Amendment）？",
+  "options": [
+   {
+    "text": "随意改",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不更正",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按程序更正并注明",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "修改留痕。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 131,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验报告中，报告出具时限？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无限期",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅一年",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同与标准规定",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "时限保障贸易时效。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 132,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，资质认可（Accreditation）？",
+  "options": [
+   {
+    "text": "无资质",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅注册",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "ISO 17025 实验室认可",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "17025 是检验能力认可。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 133,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，第三方机构（Third-party）？",
+  "options": [
+   {
+    "text": "卖方机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方机构",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "独立于买卖双方",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "第三方独立公正。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 134,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，SGS 是什么？",
+  "options": [
+   {
+    "text": "船公司",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "国际知名检验机构",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "SGS 是第三方检验。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 135,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，CCIC 指？",
+  "options": [
+   {
+    "text": "船公司",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "海关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "中国检验认证集团",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "CCIC 是中国检验机构。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 136,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，Intertek 是什么？",
+  "options": [
+   {
+    "text": "船公司",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "港口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "国际检验认证机构",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "Intertek 第三方检验。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 137,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，机构选择原则？",
+  "options": [
+   {
+    "text": "仅卖方指定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅低价",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方认可、有资质、专业",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "机构选择重资质。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 138,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，见证取样（Witness）？",
+  "options": [
+   {
+    "text": "无需",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅拍照",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "双方代表现场见证",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "见证取样增公信。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 139,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，仲裁检验（Umpire）？",
+  "options": [
+   {
+    "text": "无此程序",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅复检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "争议时第三方仲裁检验",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "仲裁检验定争议。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 140,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，化验室质控（QC）？",
+  "options": [
+   {
+    "text": "无质控",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅校准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "标准样、平行样、质控图",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "质控保障结果。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 141,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，设备校准（Calibration）？",
+  "options": [
+   {
+    "text": "不校准",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅新购",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "定期校准计量器具",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "校准保证准确性。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 142,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，人员资质（Personnel）？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅经验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "检验员持证上岗",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "人员资质保障。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 143,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，能力验证（PT）？",
+  "options": [
+   {
+    "text": "无需",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅内部",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "参加实验室间比对",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "能力验证外部评价。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 144,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，质量体系（QMS）？",
+  "options": [
+   {
+    "text": "无体系",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅记录",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按 ISO 9001 建立",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "体系规范管理。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 145,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，留样保存（Retention）？",
+  "options": [
+   {
+    "text": "不保存",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅当天",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按标准规定期限保存",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "留样支持争议复检。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 146,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，检验报告错误处理？",
+  "options": [
+   {
+    "text": "不改",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "及时更正并重新出具",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "错误更正规范。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 147,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，检验费用构成？",
+  "options": [
+   {
+    "text": "仅化验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取样、化验、报告、差旅",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "费用多项。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 148,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，装港检验（Loading）内容？",
+  "options": [
+   {
+    "text": "仅化验",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报告",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "取样、水尺、装船监督",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装港全程检验。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 149,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，卸港检验（Discharge）？",
+  "options": [
+   {
+    "text": "仅装港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅报关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "到港质量数量验收",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "卸港检验验收。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 150,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，检验异议（Objection）？",
+  "options": [
+   {
+    "text": "随时",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "口头即可",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "规定时限内书面提出",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "异议有时效与形式。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 151,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，复检程序（Re-check）？",
+  "options": [
+   {
+    "text": "无复检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅重取样",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "用留样复检核对",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "复检用留样。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 152,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，报告语言（Language）？",
+  "options": [
+   {
+    "text": "仅中文",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅英文",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同约定中英文",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "报告语言按约定。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 153,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，证书真伪验证？",
+  "options": [
+   {
+    "text": "无法验证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅相信",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "官网查询/防伪码",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "验证防伪保障。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 154,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，检验结果异议升级？",
+  "options": [
+   {
+    "text": "直接放弃",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅吵架",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "协商、仲裁检验、仲裁",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "异议按程序升级。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 155,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，委托检验（Inspection Request）？",
+  "options": [
+   {
+    "text": "口头委托",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅全检",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确检验项目与标准",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "委托内容明确。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 156,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，检验报告用途？",
+  "options": [
+   {
+    "text": "仅报关",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅存档",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结算、报关、验收、争议",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "报告多用途。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 157,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，取样代表性不足后果？",
+  "options": [
+   {
+    "text": "无后果",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结果偏差引发争议",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "代表性不足风险大。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 158,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，检验时效性？",
+  "options": [
+   {
+    "text": "拖延",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅加急",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "及时出具保障贸易",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "时效影响结算。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 159,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "检验机构中，数据保密（Confidentiality）？",
+  "options": [
+   {
+    "text": "无要求",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅公开",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "保护委托方商业信息",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "保密是职业要求。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 160,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "Incoterms 中，FOB 风险转移点？",
+  "options": [
+   {
+    "text": "工厂",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "目的港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仓库",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "货物装上船",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "FOB 装运港交货。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 161,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "Incoterms 中，CIF 卖方责任？",
+  "options": [
+   {
+    "text": "仅成本",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "成本+保险+运费",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "CIF 含三要素。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 162,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "Incoterms 中，CFR 与 CIF 区别？",
+  "options": [
+   {
+    "text": "CFR 含保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无区别",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CFR 含税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CFR 不含保险",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "CFR 卖方不投保。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 163,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "Incoterms 中，FOB 与 CIF 风险转移点相同？",
+  "options": [
+   {
+    "text": "FOB 在工厂",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CIF 在目的港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "不同",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "都是装运港船上",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "两者风险均在装船时转移。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 164,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "Incoterms 中，EXW 卖方义务最小？",
+  "options": [
+   {
+    "text": "装运港交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "目的港交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完税交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "工厂交货",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "EXW 卖方责任最小。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 165,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "Incoterms 中，DAP 交货点？",
+  "options": [
+   {
+    "text": "船上",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "工厂",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "目的港卸货后",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "指定地点，未卸货",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "DAP 指定地点交货。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 166,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "Incoterms 中，DDP 卖方义务？",
+  "options": [
+   {
+    "text": "未完税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完税后交货",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "DDP 卖方义务最大。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 167,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "Incoterms 中，FCA 适用？",
+  "options": [
+   {
+    "text": "仅海运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅空运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅陆运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "任何运输方式",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "FCA 多式联运。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 168,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "Incoterms 中，CPT 与 CIF 区别？",
+  "options": [
+   {
+    "text": "CPT 海运",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CPT 含税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无区别",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "CPT 适用任何运输",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "CPT 多式联运。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 169,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "Incoterms 中，DAT/DPU？",
+  "options": [
+   {
+    "text": "船上交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "工厂交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "完税交货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "卸货地交货",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "DPU 卸货地交货。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 170,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "Incoterms 中，贸易术语选择考虑？",
+  "options": [
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅距离",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "运输方式、风险、费用、单据",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "术语选择综合考量。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 171,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "贸易术语中，CIF 投保险别？",
+  "options": [
+   {
+    "text": "一切险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅战争险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按合同约定最低险别",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "CIF 惯例投最低险。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 172,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "贸易术语中，FOB 买方责任？",
+  "options": [
+   {
+    "text": "卖方租船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅卸货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "租船订舱付运费",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "FOB 买方负责运输。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 173,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "贸易术语中，CFR 卖方责任？",
+  "options": [
+   {
+    "text": "付保险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "付关税",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅装船",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "付运费至目的港",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "CFR 卖方付运费。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 174,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "贸易术语中，装运港（Port of Loading）？",
+  "options": [
+   {
+    "text": "任意港口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "目的港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船东定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同约定的装货港",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装运港约定明确。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 175,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "贸易术语中，目的港（Port of Discharge）？",
+  "options": [
+   {
+    "text": "任意港口",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装运港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "船东定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同约定的卸货港",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "目的港约定明确。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 176,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "贸易术语中，分批装运（Partial Shipment）？",
+  "options": [
+   {
+    "text": "禁止",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅整批",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "合同允许分批发运",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "分批装运按约。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 177,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "贸易术语中，转运（Transshipment）？",
+  "options": [
+   {
+    "text": "无此方式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅直达",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "中途换船运输",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "转运按约定。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 178,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "贸易术语中，装运通知（Shipping Advice）？",
+  "options": [
+   {
+    "text": "无需",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅到港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "装船后及时通知买方",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装运通知保买方安排。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 179,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "贸易术语中，交单（Presentation）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅付款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅寄单",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "按信用证/合同交单",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "交单需单证一致。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 180,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，开证（L/C Opening）？",
+  "options": [
+   {
+    "text": "卖方开证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅现金",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "买方申请开立信用证",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "进口开证常见。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 181,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，审单（Document Check）？",
+  "options": [
+   {
+    "text": "不核对",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅盖章",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "核对单证一致",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "审单防不符点。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 182,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，不符点（Discrepancy）？",
+  "options": [
+   {
+    "text": "无此概念",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "单证与信用证不一致",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "不符点影响付款。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 183,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，付汇（Payment）方式？",
+  "options": [
+   {
+    "text": "仅现金",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅支票",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "信用证、电汇、托收",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "付汇方式多样。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 184,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，TT 付款特点？",
+  "options": [
+   {
+    "text": "仅大额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅小额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "电汇快捷",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "TT 电汇常用。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 185,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，托收（Collection）？",
+  "options": [
+   {
+    "text": "无此方式",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅信用证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "银行凭单收汇",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "托收银行代理。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 186,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，银行费用（Bank Charges）？",
+  "options": [
+   {
+    "text": "无费用",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅利息",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "开证、通知、议付等费",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "银行费多项。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 187,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，汇率风险（FX Risk）？",
+  "options": [
+   {
+    "text": "无风险",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅利率",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "结算币种汇率波动",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "汇率波动影响成本。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 188,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，套保（Hedging）工具？",
+  "options": [
+   {
+    "text": "仅期货",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无工具",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "远期、掉期、期权",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "套保工具多样。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 189,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，合同要点（Contract）？",
+  "options": [
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "质量、数量、价格、装期、支付",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "合同要素齐全。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 190,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，质量条款（Quality Clause）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅名称",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅数量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确指标与验收基准",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "质量条款是核心。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 191,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，数量条款（Quantity）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅价格",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅质量",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确吨数与溢短装",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "数量条款防争议。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 192,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，溢短装（More or Less）？",
+  "options": [
+   {
+    "text": "固定不变",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅多装",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "约定±%浮动",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "溢短装灵活。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 193,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，价格条款（Price）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅总额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅运费",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确计价基准与单位",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "价格基准明确。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 194,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，装期条款（Shipment）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅到港",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅开证",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确装船期限",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "装期约束履约。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 195,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，支付条款（Payment）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅金额",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅币种",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确付款方式与时间",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "支付条款防风险。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 196,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，索赔条款（Claim）？",
+  "options": [
+   {
+    "text": "无索赔",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅口头",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确索赔时限与方式",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "索赔条款保权益。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 197,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，不可抗力（Force Majeure）？",
+  "options": [
+   {
+    "text": "无此条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅战争",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "免责事由约定",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "不可抗力免责。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 198,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，仲裁条款（Arbitration）？",
+  "options": [
+   {
+    "text": "无此条款",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅诉讼",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "约定仲裁机构与规则",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "仲裁条款定争议。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 199,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ },
+ {
+  "question": "进口实操中，适用法律（Governing Law）？",
+  "options": [
+   {
+    "text": "随意",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "无约定",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "仅惯例",
+    "correct": false,
+    "effect": {
+     "knowledge": -5,
+     "trust": -3,
+     "risk": 5
+    }
+   },
+   {
+    "text": "明确合同适用法律",
+    "correct": true,
+    "effect": {
+     "knowledge": 5,
+     "trust": 3,
+     "risk": -5
+    }
+   }
+  ],
+  "explanation": "适用法律保履约。",
+  "level": 8,
+  "level_name": "进口检验",
+  "index_in_level": 200,
+  "category": "concept",
+  "rework_verdict": "E",
+  "source": "L8_batch"
+ }
+]
