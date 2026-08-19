@@ -2236,9 +2236,9 @@ const questionBankData = {
           "text": "单价、总价、币种与计价基础",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -2362,9 +2362,9 @@ const questionBankData = {
           "text": "证明其具备合法采矿资格",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -2446,9 +2446,9 @@ const questionBankData = {
           "text": "进口煤供应减少、价格可能上涨",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -2488,9 +2488,9 @@ const questionBankData = {
           "text": "约束卖方按期装货、买方按期接货",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -2530,9 +2530,9 @@ const questionBankData = {
           "text": "贸易商可提供货源整合与合同便利",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -2614,9 +2614,9 @@ const questionBankData = {
           "text": "资质、许可、履约记录与法律风险",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -2656,9 +2656,9 @@ const questionBankData = {
           "text": "凭单证付款，降低交易风险",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -2698,9 +2698,9 @@ const questionBankData = {
           "text": "价格还受政策、汇率、运费、突发事件等影响",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -2740,9 +2740,9 @@ const questionBankData = {
           "text": "在合同中明确适用法律与争议解决方式",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -2782,9 +2782,9 @@ const questionBankData = {
           "text": "明确违约后果与赔偿方式",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -2908,9 +2908,9 @@ const questionBankData = {
           "text": "储量、煤质、开采条件与物流",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -2950,9 +2950,9 @@ const questionBankData = {
           "text": "统一交货与风险转移的行业惯例",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -2992,9 +2992,9 @@ const questionBankData = {
           "text": "按合同约定的仲裁或诉讼条款解决",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -3034,9 +3034,9 @@ const questionBankData = {
           "text": "合同、报关、检验与资金流向是否合规",
           "correct": true,
           "effect": {
-            "knowledge": -5,
-            "trust": -3,
-            "risk": 5
+            "knowledge": 8,
+            "trust": 5,
+            "risk": -5
           }
         },
         {
@@ -12486,14 +12486,23 @@ const questionBankData = {
           "text": "装卸机械调度",
           "correct": false,
           "effect": {
+            "knowledge": -5,
+            "trust": -3,
+            "risk": 5
+          }
+        },
+        {
+          "text": "分区堆存",
+          "correct": true,
+          "effect": {
             "knowledge": 8,
             "trust": 5,
             "risk": -5
           }
         },
         {
-          "text": "分区堆存",
-          "correct": true,
+          "text": "防自燃监控",
+          "correct": false,
           "effect": {
             "knowledge": -5,
             "trust": -3,
@@ -12501,21 +12510,12 @@ const questionBankData = {
           }
         },
         {
-          "text": "防自燃监控",
-          "correct": false,
-          "effect": {
-            "knowledge": 8,
-            "trust": 5,
-            "risk": -5
-          }
-        },
-        {
           "text": "配煤作业",
           "correct": false,
           "effect": {
-            "knowledge": 8,
-            "trust": 5,
-            "risk": -5
+            "knowledge": -5,
+            "trust": -3,
+            "risk": 5
           }
         }
       ],
@@ -12948,14 +12948,23 @@ const questionBankData = {
           "text": "合同价格谈判",
           "correct": false,
           "effect": {
+            "knowledge": -5,
+            "trust": -3,
+            "risk": 5
+          }
+        },
+        {
+          "text": "防自燃防尘",
+          "correct": true,
+          "effect": {
             "knowledge": 8,
             "trust": 5,
             "risk": -5
           }
         },
         {
-          "text": "防自燃防尘",
-          "correct": true,
+          "text": "装卸作业安全",
+          "correct": false,
           "effect": {
             "knowledge": -5,
             "trust": -3,
@@ -12963,21 +12972,12 @@ const questionBankData = {
           }
         },
         {
-          "text": "装卸作业安全",
-          "correct": false,
-          "effect": {
-            "knowledge": 8,
-            "trust": 5,
-            "risk": -5
-          }
-        },
-        {
           "text": "运输过程安全",
           "correct": false,
           "effect": {
-            "knowledge": 8,
-            "trust": 5,
-            "risk": -5
+            "knowledge": -5,
+            "trust": -3,
+            "risk": 5
           }
         }
       ],
